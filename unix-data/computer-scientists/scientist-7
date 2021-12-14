@@ -1,0 +1,2246 @@
+S Thu Feb  5 10:56:55 1987
+E NIL
+
+C is graham
+D /user/profs/xxxxx
+A rwho | fgrep "graham"
+H NIL
+X NIL
+
+
+S Thu Feb  5 11:37:29 1987
+E NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C is graham
+D /user/profs/xxxxx
+A rwho | fgrep "graham"
+H NIL
+X NIL
+
+C rwo
+D /user/profs/xxxxx
+A NIL
+H NIL
+X N 10
+
+C rwho
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C is vaxc
+D /user/profs/xxxxx
+A rwho | fgrep "vaxc"
+H NIL
+X NIL
+
+C ruptime
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd mining*
+D /user/profs/xxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C smail
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C smail
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C pushd ~clarkson
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/clarkson
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat .forward
+D /user/offstaff/clarkson
+A NIL
+H NIL
+X NIL
+
+C ls .
+D /user/offstaff/clarkson
+A /bin/ls -F .
+H NIL
+X NIL
+
+C ls .*
+D /user/offstaff/clarkson
+A /bin/ls -F .*
+H NIL
+X NIL
+
+C popd
+D /user/offstaff/clarkson
+A NIL
+H NIL
+X NIL
+
+C is graham
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "graham"
+H NIL
+X NIL
+
+C is ian
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "ian"
+H NIL
+X NIL
+
+C is maulsby
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "maulsby"
+H NIL
+X NIL
+
+C is herr
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "herr"
+H NIL
+X NIL
+
+C rmail
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C is xxxxx
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "xxxxx"
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C cd courses/510
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls l4*
+D /user/profs/xxxxx/courses/510
+A /bin/ls -F l4*
+H NIL
+X NIL
+
+C e l49.t
+D /user/profs/xxxxx/courses/510
+A emacs l49.t
+H NIL
+X NIL
+
+C prep l49.t l49 ; prep l49.toh l49.oh &
+D /user/profs/xxxxx/courses/510
+A nroff l49.t > l49 ; nroff l49.toh > l49.oh &
+H NIL
+X NIL
+
+C macput -u l49
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C macput -u l49.oh
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C 0
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X N 10
+
+C bye
+D /user/profs/xxxxx/courses/510
+A logout
+H NIL
+X NIL
+
+
+S Thu Feb  5 13:57:37 1987
+E NIL
+
+C is herr
+D /user/profs/xxxxx
+A rwho | fgrep "herr"
+H NIL
+X NIL
+
+C whoami
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C touch xxxxx
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm xxxxx
+D /user/profs/xxxxx
+A /bin/mv xxxxx /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Feb  5 14:04:07 1987
+E NIL
+
+C touch xxxxx
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm xxxxx
+D /user/profs/xxxxx
+A /bin/mv xxxxx /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C ls ~greenberg/csh/Trace/xb*
+D /user/profs/xxxxx
+A /bin/ls -F ~greenberg/csh/Trace/xb*
+H NIL
+X NIL
+
+C cd courses/510
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C e for.ne*
+D /user/profs/xxxxx/courses/510
+A emacs for.ne*
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C smail
+D /user/profs/xxxxx
+A emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C vaxes
+D /user/profs/xxxxx
+A rlogin vaxa -8
+H NIL
+X NIL
+
+C vaxes
+D /user/profs/xxxxx
+A rlogin vaxa -8
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cleanup
+D /user/profs/xxxxx
+A /bin/mv *CKP *BAK .*BAK .*CKP /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C hi
+D /user/profs/xxxxx
+A source /userb/profs/xxxxx/.hi
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd courses/510/etc
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat totalmarks
+D /user/profs/xxxxx/courses/510/etc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/courses/510/etc
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxx/courses/510/etc
+A NIL
+H NIL
+X NIL
+
+C cd m
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X D 88
+
+C cd marks
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C cat totalmarks
+D /user/profs/xxxxx/courses/510/marks
+A NIL
+H NIL
+X NIL
+
+C cat totalmarks
+D /user/profs/xxxxx/courses/510/marks
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxx/courses/510/marks
+A NIL
+H NIL
+X NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C basic
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C is herr
+D /user/profs/xxxxx
+A rwho | fgrep "herr"
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X J 81
+
+C jobs
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb  6 10:51:49 1987
+E NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb  7 12:03:58 1987
+E NIL
+
+C unrem
+D /user/profs/xxxxx
+A source ~xxxxx/bin/remembering
+H NIL
+X NIL
+
+C rem
+D /user/profs/xxxxx
+A source ~xxxxx/bin/remember.this
+H NIL
+X NIL
+
+C rem
+D /user/profs/xxxxx
+A source ~xxxxx/bin/remember.this
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd minin*
+D /user/profs/xxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C e paper
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs paper
+H NIL
+X NIL
+
+C man dvitype
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man -k dvi
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man tex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C pushd /local/lib
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd mac
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/mac
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /local/lib/mac
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ls -a
+D /local/lib/mac
+A /bin/ls -F -a
+H NIL
+X NIL
+
+C cd ../tex
+D /local/lib/mac
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C page tex_start.ml
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C page tex-start.ml
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib
+A /bin/ls -F
+H NIL
+X NIL
+
+C pwd
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd /local
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd bin
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd mac
+D /local/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/bin/mac
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -a
+D /local/bin/mac
+A /bin/ls -F -a
+H NIL
+X NIL
+
+C dvitype
+D /local/bin/mac
+A NIL
+H NIL
+X NIL
+
+C popd
+D /local/bin/mac
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C dvitype paper
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C head dvitype.out
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C rm dvi*
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv dvi* /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb  7 14:19:26 1987
+E NIL
+
+C cd papers/mining*
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C Ylp?3?4o6O'w{?{gG_Z_o?;?2]/K_o&j/sx{{oV/_m\V;^rq;z~oyo%:B6>Bu q}
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 11
+
+
+S Sat Feb  7 16:15:34 1987
+E NIL
+
+C cd /local/lib/tex
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C m tex.ps
+D /local/lib/tex
+A more tex.ps
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd doc
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex/doc
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /local/lib/tex/doc
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C cd papers/min*
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C man bibtex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bibtex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bibtex refs
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C cp refs refs.aux
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bibtex refs
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C rm *.aux
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv *.aux /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat refs.bbl
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C rm *.bbl
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv *.bbl /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C is greemberg
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "greemberg"
+H NIL
+X NIL
+
+C is greenberg
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "greenberg"
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C 3Kvv[~`.(^ui}%{_wo3KL/w)G~
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 11
+
+C 6u!=fs~X{
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 46
+
+C a4=@#}Cy{si`}zq[{`
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X M  9
+
+C Null Command
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 46
+
+C =@#}Cy{si`}zq[{`{{?9Rd_?-~2o ; {Y.v[{6I{}KmK~dm ; 'z;}RMM/{{{K~:l<9,R.~kM?rqM6k}{]{_/=?7;'[Cr9{}I%{ | vBW}{{{swvo}yskiis}i{]~
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X M  9
+
+C Null Command
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 46
+
+C Null Command
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 71
+
+C Null Command
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X M  9
+
+C Null Command
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 46
+
+C kN][{[m{ | ys{Jxm?rs.%ko[o[{u${»k^+_Fw | 3ww/iJmz{7Mik_y{_R{P[77[{]Y{{}{3emq
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 13
+
+C p:y{g | {wg{_W~2o ; {Y.v[{6I{}KmK~dm ; 'z;}RMM/{{{K~X=r#w;~?;79p{{]_>?~K_oY{o&|{oWv>&7{|5|C{^u67l
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 11
+
+C gmiv ) :?7yK 7od4*W~2o ; {Y.v[{6I{}KmK~dm ; 'z;}RMM/{{{K~{g%msHQl`7u3];sv7{w{{{O zYC]@WryHhhhhn;OYxm tex.ps,wOI{9oo{}{_fs{~zoo{{{{{{Z :7Vy'S%O3 ; ~{o7i{@o{moyno{+ > QSo{~Z}n ; n{3x:~z ; z > yoj_+~{k_{?7fozle1%KOy[{{{__{_~g3y+r
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 27
+
+C lsEd~o{{?~jvE_
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 46
+
+C ykO{k_{W{}% ; > Kl7z{}{ & T_{w{9kVwr[[{{}]i ) 2Sp ; ic]l?wdk+ ) & ]h't;[?7|@RO4t_3333|HJzl$Z%{}/{o`Y{~p7f{~2[{Kw
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X S 11
+
+C rmail
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx/papers/mining.speculation
+A logout
+H NIL
+X NIL
+
+
+S Sun Feb  8 11:24:44 1987
+E NIL
+
+C cd papers/min*
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C rm refs.blg
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv refs.blg /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C rwho
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C pushd /local/lob/tex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X D 88
+
+C pushd /local/lib/tex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd macros
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex/macros
+A /bin/ls -F
+H NIL
+X NIL
+
+C page art*
+D /local/lib/tex/macros
+A NIL
+H NIL
+X NIL
+
+C m article*
+D /local/lib/tex/macros
+A more article*
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex/macros
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/lib/tex/macros
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd doc
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex/doc
+A /bin/ls -F
+H NIL
+X NIL
+
+C m article.doc
+D /local/lib/tex/doc
+A more article.doc
+H NIL
+X NIL
+
+C la
+D /local/lib/tex/doc
+A NIL
+H NIL
+X N 10
+
+C ls
+D /local/lib/tex/doc
+A /bin/ls -F
+H NIL
+X NIL
+
+C m sample*
+D /local/lib/tex/doc
+A more sample*
+H NIL
+X NIL
+
+C cd
+D /local/lib/tex/doc
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C /bin/rm core
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C mv paper paper.tex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C latex paper
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat paper.aux
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx/papers/mining.speculation
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C m paper.log
+D /user/profs/xxxxx/papers/mining.speculation
+A more paper.log
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C dvitype paper
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man dvitype
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C dvitype paper.dvi
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ps
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C head dvitype.out
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C m dvitype.out
+D /user/profs/xxxxx/papers/mining.speculation
+A more dvitype.out
+H NIL
+X NIL
+
+C tail dvitype.out
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C /bin/rm dvitype.out
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C cd /local/tex
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X D 88
+
+C cd /local
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls bin
+D /local
+A /bin/ls -F bin
+H NIL
+X NIL
+
+C man dviimp
+D /local
+A NIL
+H NIL
+X NIL
+
+C man catdvi
+D /local
+A NIL
+H NIL
+X NIL
+
+C man -k dvi
+D /local
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls pub
+D /local
+A /bin/ls -F pub
+H NIL
+X NIL
+
+C ls
+D /local
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls etc
+D /local
+A /bin/ls -F etc
+H NIL
+X NIL
+
+C ls doc
+D /local
+A /bin/ls -F doc
+H NIL
+X NIL
+
+C ls include
+D /local
+A /bin/ls -F include
+H NIL
+X NIL
+
+C ls catman
+D /local
+A /bin/ls -F catman
+H NIL
+X NIL
+
+C cd lib
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd tex
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls fonts
+D /local/lib/tex
+A /bin/ls -F fonts
+H NIL
+X NIL
+
+C ls doc
+D /local/lib/tex
+A /bin/ls -F doc
+H NIL
+X NIL
+
+C ls macros
+D /local/lib/tex
+A /bin/ls -F macros
+H NIL
+X NIL
+
+C cd macros
+D /local/lib/tex
+A NIL
+H NIL
+X NIL
+
+C e latex
+D /local/lib/tex/macros
+A emacs latex
+H NIL
+X NIL
+
+C popd
+D /local/lib/tex/macros
+A NIL
+H NIL
+X D  5
+
+C cd
+D /local/lib/tex/macros
+A NIL
+H NIL
+X NIL
+
+C cd papers/min*
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C pushd ~rokne
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/rokne
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd tex
+D /user/profs/rokne
+A NIL
+H NIL
+X D 88
+
+C m sample.tex
+D /user/profs/rokne
+A more sample.tex
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/rokne
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd
+D /user/profs/rokne
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd tex
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat doit
+D /user/profs/ian/tex
+A NIL
+H NIL
+X NIL
+
+C m jon.tex
+D /user/profs/ian/tex
+A more jon.tex
+H NIL
+X NIL
+
+C tail jon.tex
+D /user/profs/ian/tex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C m course*
+D /user/profs/ian/tex
+A more course*
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/tex
+A /bin/ls -F
+H NIL
+X NIL
+
+C m roff_to_tex
+D /user/profs/ian/tex
+A more roff_to_tex
+H NIL
+X NIL
+
+C popd
+D /user/profs/ian/tex
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx/papers/mining.speculation
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X D  5
+
+C pwd
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C df
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C is apollo
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "apollo"
+H NIL
+X NIL
+
+C i sgreenberg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X N 10
+
+C is greenberg
+D /user/profs/xxxxx/papers/mining.speculation
+A rwho | fgrep "greenberg"
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C rmail
+D /user/profs/xxxxx/papers/mining.speculation
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C jobs
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C cd courses/510
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/courses/510
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls l4?
+D /user/profs/xxxxx/courses/510
+A /bin/ls -F l4?
+H NIL
+X NIL
+
+C m l49
+D /user/profs/xxxxx/courses/510
+A more l49
+H NIL
+X NIL
+
+C e l50.t
+D /user/profs/xxxxx/courses/510
+A emacs l50.t
+H NIL
+X NIL
+
+C prep l50.t l50 &
+D /user/profs/xxxxx/courses/510
+A nroff l50.t > l50 &
+H NIL
+X NIL
+
+C cat l50
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C smail her
+D /user/profs/xxxxx/courses/510
+A emacs -lsmail -esmail-com her
+H NIL
+X NIL
+
+C is herr
+D /user/profs/xxxxx/courses/510
+A rwho | fgrep "herr"
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C which bibtex
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C cd /usr/local/bin/bibtex
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X D 88
+
+C cd /usr/local
+D /user/profs/xxxxx/courses/510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd /local
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /
+A NIL
+H NIL
+X NIL
+
+C cd local
+D /
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /local
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd /
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd usr
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd local
+D /usr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /usr
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C pwd
+D /usr
+A NIL
+H NIL
+X NIL
+
+C cd usr
+D /usr
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /usr/usr
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd local/lib
+D /usr/usr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /usr/usr/local/lib
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /usr/usr/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/usr/local/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C man dvi2ps
+D /usr/usr/local/bin
+A NIL
+H NIL
+X NIL
+
+C dvi2ps
+D /usr/usr/local/bin
+A NIL
+H NIL
+X N 10
+
+C man initex
+D /usr/usr/local/bin
+A NIL
+H NIL
+X NIL
+
+C initex
+D /usr/usr/local/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/usr/local/bin
+A NIL
+H NIL
+X NIL
+
+C cd papers/mining*
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C cleanup
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv *CKP *BAK .*BAK .*CKP /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm text*
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv text* /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C latex paper
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C dvitype paper &
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F
+H NIL
+X NIL
+
+C dvitype paper.dvi
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C head dvi*
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C m dvitype*
+D /user/profs/xxxxx/papers/mining.speculation
+A more dvitype*
+H NIL
+X NIL
+
+C which dvitype
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C help dvitype
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man dvitype
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man touch
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man utimes
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man finger
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C finger
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C rm dvitype.out
+D /user/profs/xxxxx/papers/mining.speculation
+A /bin/mv dvitype.out /userb/profs/xxxxx/.deleted
+H NIL
+X NIL
+
+C man pscat
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C man catdvi
+D /user/profs/xxxxx/papers/mining.speculation
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx/papers/mining.speculation
+A logout
+H NIL
+X NIL
+
+
+S Mon Feb  9 10:16:58 1987
+E NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C hi
+D /user/profs/xxxxx
+A source /userb/profs/xxxxx/.hi
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 10 01:10:42 1987
+E NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C is vaxb
+D /user/profs/xxxxx
+A rwho | fgrep "vaxb"
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 10 10:51:02 1987
+E NIL
+
+C smail
+D /user/profs/xxxxx
+A emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxx
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 10 15:47:04 1987
+E NIL
+
+C rmail
+D /user/profs/xxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C bye
+D /user/profs/xxxxx
+A logout
+H NIL
+X NIL

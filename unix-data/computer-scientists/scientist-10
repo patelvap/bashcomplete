@@ -1,0 +1,12658 @@
+S Thu Feb 12 21:50:34 1987
+E Thu Feb 12 22:14:08 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e interpreter
+D /user/profs/xxxxxx/E-Prolog
+A emacs interpreter
+H NIL
+X NIL
+
+C setenv TERM v550
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog
+A emacs
+H NIL
+X NIL
+
+
+S Fri Feb 13 16:16:09 1987
+E Fri Feb 13 16:19:31 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 16 10:50:19 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 10:36:20 1987
+E Tue Feb 17 10:40:47 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ean
+A \ìs -F
+H NIL
+X NIL
+
+C e p*@
+D /user/profs/xxxxxx/ean
+A emacs p*@
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/ean
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 21:50:57 1987
+E Tue Feb 17 21:52:04 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 10:42:58 1987
+E Wed Feb 18 10:54:08 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C lpr x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e refs.all
+D /user/profs/xxxxxx/admin
+A emacs refs.all
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C roff -a cv &
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 12:08:26 1987
+E Wed Feb 18 12:36:51 1987
+
+C lpq -Palw
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm -Palw 32
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C roff -d -a cv > x
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C e x
+D /user/profs/xxxxxx/admin
+A emacs x
+H NIL
+X NIL
+
+C csh x
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 14:52:31 1987
+E Thu Feb 19 14:56:31 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e tele*
+D /user/profs/xxxxxx
+A emacs tele*
+H NIL
+X NIL
+
+
+S Thu Feb 19 15:03:21 1987
+E Thu Feb 19 15:11:23 1987
+
+C e telephone
+D /user/profs/xxxxxx
+A emacs telephone
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir multiv
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C cd multiv
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C macget -u
+D /user/profs/xxxxxx/papers/multiv
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 15:15:10 1987
+E NIL
+
+C ps ux
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C macget -u text
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx
+A \ìs -F -l
+H NIL
+X NIL
+
+C ls t*
+D /user/profs/xxxxxx
+A \ìs -F t*
+H NIL
+X NIL
+
+C mv text.text papers/paper.text
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv paper.text multiv
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C cd multiv
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/papers/multiv
+A \ìs -F -l
+H NIL
+X NIL
+
+C spell paper.text
+D /user/profs/xxxxxx/papers/multiv
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 15:29:55 1987
+E NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd multiv
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/papers/multiv
+A NIL
+H NIL
+X NIL
+
+C hi
+D /user/profs/xxxxxx/papers/multiv
+A NIL
+H NIL
+X N  10
+
+C spell paper.text
+D /user/profs/xxxxxx/papers/multiv
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 10:30:14 1987
+E Fri Feb 20 10:50:13 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C cd strategic
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X D  88
+
+C cd ../strategic
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/strategic
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/strategic
+A \ìs -F -l
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/strategic
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/strategic
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ../Jade
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/Jade
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/Jade
+A NIL
+H NIL
+X NIL
+
+C cd mesh
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/mesh
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/mesh
+A NIL
+H NIL
+X NIL
+
+C cd mesh_p*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/mesh_papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/mesh_papers
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd misc
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/misc
+A \ìs -F
+H NIL
+X NIL
+
+C cd personal
+D /user/profs/xxxxxx/misc
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/profs/xxxxxx/misc
+A \ìs -F
+H NIL
+X NIL
+
+C cd ../personal
+D /user/profs/xxxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/personal
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/personal
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C more gr*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd NRL
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/NRL
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/NRL
+A NIL
+H NIL
+X NIL
+
+C cd tipc
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/tipc
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/tipc
+A NIL
+H NIL
+X NIL
+
+C more projects
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/admin
+A \ìs -F -l
+H NIL
+X NIL
+
+C cd *87
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/grants86_87
+A \ìs -F
+H NIL
+X NIL
+
+C cd equipment
+D /user/profs/xxxxxx/admin/grants86_87
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A \ìs -F
+H NIL
+X NIL
+
+C macput -u prices
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C more pr*
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C roff -a prices
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw1
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 12:50:53 1987
+E Fri Feb 20 13:57:05 1987
+
+C who | grep k
+D /user/profs/xxxxxx
+A /bin/who | sort | grep k
+H NIL
+X NIL
+
+C talk kendall
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C w | grep k
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ST*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F -R
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 13:58:51 1987
+E Sat Feb 21 11:11:48 1987
+
+C uptime
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ean
+A \ìs -F
+H NIL
+X NIL
+
+C cd /temp
+D /user/profs/xxxxxx/ean
+A NIL
+H NIL
+X D  88
+
+C cd /
+D /user/profs/xxxxxx/ean
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A \ìs -F
+H NIL
+X NIL
+
+C cd tmp
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /tmp
+A \ìs -F
+H NIL
+X NIL
+
+C cp EAN*.CKP ~
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C cd
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cp EAN* E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C mv E* lee
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e lee
+D /user/profs/xxxxxx/E-Prolog
+A emacs lee
+H NIL
+X Y 102
+
+C jobs
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C %1
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C %1
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X J  84
+
+C %2
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X Y 102
+
+C cd ean
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X D  88
+
+C cd ~/ean
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ean
+A \ìs -F
+H NIL
+X NIL
+
+C e profile@
+D /user/profs/xxxxxx/ean
+A emacs profile@
+H NIL
+X Y 102
+
+C cd /
+D /user/profs/xxxxxx/ean
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A \ìs -F
+H NIL
+X NIL
+
+C cd user
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A \ìs -F
+H NIL
+X NIL
+
+C cd jade
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/jade
+A NIL
+H NIL
+X NIL
+
+C cd srdg
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg
+A NIL
+H NIL
+X NIL
+
+C cd grads
+D /user
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user
+A \ìs -F
+H NIL
+X NIL
+
+C pwd
+D /user
+A NIL
+H NIL
+X NIL
+
+C cd /user
+D /user
+A NIL
+H NIL
+X NIL
+
+C cd grads
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads
+A \ìs -F
+H NIL
+X NIL
+
+C cd ~brinsmead
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/brinsmead
+A \ìs -F
+H NIL
+X NIL
+
+C more dead*
+D /user/grads/brinsmead
+A NIL
+H NIL
+X NIL
+
+C more AMC
+D /user/grads/brinsmead
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/brinsmead
+A \ìs -F
+H NIL
+X NIL
+
+C cd thesis
+D /user/grads/brinsmead
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/brinsmead/thesis
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/grads/brinsmead/thesis
+A NIL
+H NIL
+X NIL
+
+C cd /user/grads
+D /user/grads/brinsmead/thesis
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C cd ~/E-*
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X J  82
+
+C who
+D /user/profs/xxxxxx/E-Prolog
+A /bin/who | sort
+H NIL
+X NIL
+
+
+S Sat Feb 21 11:13:03 1987
+E Sat Feb 21 11:13:41 1987
+
+C rwho
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 20:57:42 1987
+E Sun Feb 22 22:37:29 1987
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C cd referee
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/referee
+A \ìs -F
+H NIL
+X NIL
+
+C more refal
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C setenv TERMamb
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X B  48
+
+C setenv TERM amb
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/referee
+A \ìs -F
+H NIL
+X NIL
+
+C e loops
+D /user/profs/xxxxxx/admin/referee
+A emacs loops
+H NIL
+X NIL
+
+C roff -v -q prolog.loops
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C roff -d -a prolog.loops > x
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C e x
+D /user/profs/xxxxxx/admin/referee
+A emacs x
+H NIL
+X NIL
+
+C csh x
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/admin/referee
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd fastray
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray
+A \ìs -F
+H NIL
+X NIL
+
+C more position
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C e position
+D /user/profs/xxxxxx/papers/fastray
+A emacs position
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X Y 102
+
+C cd
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C ls .*
+D /user/profs/xxxxxx
+A \ìs -F .*
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx
+A emacs
+H NIL
+X NIL
+
+C cd emacs
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/emacs
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/emacs
+A \ìs -F -l
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/emacs
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/emacs
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/emacs
+A \ìs -F -l
+H NIL
+X NIL
+
+C rm *.mo
+D /user/profs/xxxxxx/emacs
+A /bin/mv *.mo /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/emacs
+A emacs
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/emacs
+A NIL
+H NIL
+X NIL
+
+C mv .emacs_pro x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv .emacs_pro.old .emacs_pro
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv x .emacs_pro.old
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 11:51:26 1987
+E Mon Feb 23 11:59:21 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 12:04:03 1987
+E NIL
+
+C e ~/tele*
+D /user/profs/xxxxxx
+A emacs ~/tele*
+H NIL
+X NIL
+
+C cd personal
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e ohara
+D /user/profs/xxxxxx/personal
+A emacs ohara
+H NIL
+X NIL
+
+C roff -a2 ohara
+D /user/profs/xxxxxx/personal
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/personal
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/personal
+A NIL
+H T
+X NIL
+
+
+S Tue Feb 24 13:04:58 1987
+E Tue Feb 24 15:34:18 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C e projects
+D /user/profs/xxxxxx
+A emacs projects
+H NIL
+X Y 102
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd fastray
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray
+A \ìs -F
+H NIL
+X NIL
+
+C cp position position.new
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C e position.new
+D /user/profs/xxxxxx/papers/fastray
+A emacs position.new
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray
+A \ìs -F
+H NIL
+X NIL
+
+C roff -a2 position.new
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 20:00:15 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C e projects
+D /user/profs/xxxxxx
+A emacs projects
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx
+A emacs
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C mkdir dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e interpreter
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs interpreter
+H NIL
+X NIL
+
+
+S Tue Feb 24 21:48:20 1987
+E Tue Feb 24 22:31:10 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C kill -9 1030
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C olog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X N  10
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxxx/E-Prolog/dirty
+A rlogin cs-apollo-a -8
+H NIL
+X NIL
+
+
+S Wed Feb 25 14:36:07 1987
+E Wed Feb 25 22:28:29 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C EAN
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C more p* r* s* t*
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C mkdir from_melb
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C mv * from_melb
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C cd from*
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU/from_melb
+A \ìs -F
+H NIL
+X NIL
+
+C mv ass1 cryp* cur* ..
+D /user/profs/xxxxxx/MU/from_melb
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MU/from_melb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C cd PR*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/PROLOG
+A \ìs -F
+H NIL
+X NIL
+
+C cd MU*
+D /user/profs/xxxxxx/PROLOG
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/PROLOG/MULIBRARY
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/PROLOG/MULIBRARY
+A NIL
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C e sort
+D /user/profs/xxxxxx/MU
+A emacs sort
+H NIL
+X NIL
+
+C which muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+
+S Thu Feb 26 10:44:01 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C cd *87
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/grants86_87
+A \ìs -F
+H NIL
+X NIL
+
+C cd equipment
+D /user/profs/xxxxxx/admin/grants86_87
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A \ìs -F
+H NIL
+X NIL
+
+C roff -a2 -q prices
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/admin/grants86_87/equipment
+A NIL
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C e sort
+D /user/profs/xxxxxx/MU
+A emacs sort
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C clean
+D /user/profs/xxxxxx/MU
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e sort
+D /user/profs/xxxxxx/MU
+A emacs sort
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/MU
+A emacs
+H NIL
+X NIL
+
+
+S Thu Feb 26 22:00:13 1987
+E Thu Feb 26 22:38:44 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C pwd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C li
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd .deleted
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/.deleted
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm q *.CKP x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls M*
+D /user/profs/xxxxxx
+A \ìs -F M*
+H NIL
+X NIL
+
+C which muprolog
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MU.restored
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/profs/xxxxxx/MU.restored
+A NIL
+H NIL
+X NIL
+
+C rmdir *
+D /user/profs/xxxxxx/MU.restored
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -r *
+D /user/profs/xxxxxx/MU.restored
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/xxxxxx/MU.restored
+A \ìs -F -a
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MU.restored
+A NIL
+H NIL
+X NIL
+
+C rmdir MU.restored
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C cd f*
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU/from_melb
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/profs/xxxxxx/MU/from_melb
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -r *
+D /user/profs/xxxxxx/MU/from_melb
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MU/from_melb
+A NIL
+H NIL
+X NIL
+
+C rmdir fr*
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect
+A \ìs -F -l
+H NIL
+X NIL
+
+C e shar1
+D /user/profs/xxxxxx/connect
+A emacs shar1
+H NIL
+X NIL
+
+C /bin/sh shar1
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C /bin/sh shar2
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd src/lib
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/connect/src/lib
+A NIL
+H NIL
+X NIL
+
+C cd ../tools
+D /user/profs/xxxxxx/connect/src/lib
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/connect/src/tools
+A NIL
+H NIL
+X NIL
+
+C cd ../sim
+D /user/profs/xxxxxx/connect/src/tools
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C cd ../..
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/connect
+A \ìs -F -R
+H NIL
+X NIL
+
+C cd examples
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X D  88
+
+C pwd
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C cd example
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/example
+A \ìs -F
+H NIL
+X NIL
+
+C cd 4color
+D /user/profs/xxxxxx/connect/example
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C cd ../tictactoe
+D /user/profs/xxxxxx/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/connect/example/tictactoe
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/example/tictactoe
+A \ìs -F
+H NIL
+X NIL
+
+C cd ../..
+D /user/profs/xxxxxx/connect/example/tictactoe
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/doc
+A \ìs -F
+H NIL
+X NIL
+
+C e makefile
+D /user/profs/xxxxxx/connect/doc
+A emacs makefile
+H NIL
+X NIL
+
+C man lpr
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C make print
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect/doc
+A \ìs -F -l
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C more README
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd sim
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C cd example
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/example
+A \ìs -F
+H NIL
+X NIL
+
+C cd w*
+D /user/profs/xxxxxx/connect/example
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/example/walk-through
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/connect/example/walk-through
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 16:03:19 1987
+E Fri Feb 27 16:31:47 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C lpr x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C e sort
+D /user/profs/xxxxxx/MU
+A emacs sort
+H NIL
+X NIL
+
+C muprolog
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C script sort.session
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C script -o sort.session
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C e sort.session
+D /user/profs/xxxxxx/MU
+A emacs sort.session
+H NIL
+X NIL
+
+C lpr -Palw2 sort.session
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  1 20:28:52 1987
+E Sun Mar  1 22:23:43 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rn
+D /user/profs/xxxxxx
+A pwd > ~/.rn ; cd ~/articles ; readnews ; cat ~/.cd ~/.home > .tmp.sh ; source .tmp.sh
+H NIL
+X NIL
+
+C cd E_*
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X M  09
+
+C cd E- ( *
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X S  28
+
+C cd E-*
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/MU
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/dirty
+A \ìs -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H T
+X NIL
+
+
+S Mon Mar  2 11:15:12 1987
+E Mon Mar  2 11:53:30 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 14:06:00 1987
+E Mon Mar  2 16:24:09 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 20:34:11 1987
+E Mon Mar  2 21:46:51 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/dirty
+A \ìs -F
+H NIL
+X NIL
+
+C e find_loop
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs find_loop
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+
+S Mon Mar  2 21:47:26 1987
+E Mon Mar  2 23:06:05 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*/dirty
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C p
+D /user/profs/xxxxxx/E-Prolog/dirty
+A /userb/profs/xxxxxx/bin/pc.sh
+H NIL
+X NIL
+
+C p
+D /user/profs/xxxxxx/E-Prolog/dirty
+A /userb/profs/xxxxxx/bin/pc.sh
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/dirty
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/dirty
+A \ìs -F
+H NIL
+X NIL
+
+C rm *ll*
+D /user/profs/xxxxxx/E-Prolog/dirty
+A /bin/mv *ll* /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C rm *.old
+D /user/profs/xxxxxx/E-Prolog/dirty
+A /bin/mv *.old /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C rm x
+D /user/profs/xxxxxx
+A /bin/mv x /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C e shar1 shar2
+D /user/profs/xxxxxx
+A emacs shar1 shar2
+H NIL
+X NIL
+
+C ruptime | grep vax
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vaxd
+D /user/profs/xxxxxx
+A rlogin vaxd -8
+H NIL
+X NIL
+
+
+S Tue Mar  3 13:26:33 1987
+E Tue Mar  3 13:36:08 1987
+
+C e tele*
+D /user/profs/xxxxxx
+A emacs tele*
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 14:05:17 1987
+E NIL
+
+C man nial
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C which nial
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C which qnial
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k nial
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man scheme
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k scheme
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C make print
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C bg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X M  09
+
+C pwd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 15:00:03 1987
+E Tue Mar  3 15:58:56 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/dirty
+A \ìs -F
+H NIL
+X NIL
+
+C e interpreter
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs interpreter
+H NIL
+X NIL
+
+C cat interpreter
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C talk lomow@vaxb
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/dirty
+A emacs
+H NIL
+X NIL
+
+C cat interpreter
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 17:22:11 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir flow_int
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C mv interpreter flow_int
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C mv dirty/* .
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C rmdir dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/xxxxxx/E-Prolog/dirty
+A \ìs -F -a
+H NIL
+X NIL
+
+C rm .*
+D /user/profs/xxxxxx/E-Prolog/dirty
+A /bin/mv .* /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/dirty
+A NIL
+H NIL
+X NIL
+
+C rmdir dirty
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e quick
+D /user/profs/xxxxxx/E-Prolog
+A emacs quick
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C e i*
+D /user/profs/xxxxxx/E-Prolog
+A emacs i*
+H NIL
+X NIL
+
+C cd ../ST*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C e interpreter
+D /user/profs/xxxxxx/ST-Prolog
+A emacs interpreter
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+
+S Tue Mar  3 19:30:21 1987
+E Tue Mar  3 21:50:46 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C mkdir sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cp ~/ST*/sources/* sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e M*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs M*
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C rm exists
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv exists /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C more st
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C rm st
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv st /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e library
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs library
+H NIL
+X NIL
+
+C rm library
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv library /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e r* s*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs r* s*
+H NIL
+X NIL
+
+C rm routines single_tr
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv routines single_tr /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C mv interpreter sources/main
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C mv find_loop sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C mv flow_int old
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e M* ma*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs M* ma*
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X Y 102
+
+C bg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e qsort
+D /user/profs/xxxxxx/E-Prolog
+A emacs qsort
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X Y 102
+
+C bg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X Y 102
+
+C bg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C pwd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2 main
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 22:22:21 1987
+E Tue Mar  3 23:12:15 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+
+S Tue Mar  3 22:39:29 1987
+E Tue Mar  3 23:12:04 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+
+S Wed Mar  4 10:31:09 1987
+E Wed Mar  4 10:34:47 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd souces
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X D  88
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C lpr _Palw2 find_loop main
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2 find_loop main
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2 qsort
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 13:01:54 1987
+E Wed Mar  4 13:29:59 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C e 235
+D /user/profs/xxxxxx/E-Prolog
+A emacs 235
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog
+A emacs
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog
+A emacs
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:36:08 1987
+E Thu Mar  5 11:06:45 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e tele*
+D /user/profs/xxxxxx
+A emacs tele*
+H NIL
+X NIL
+
+
+S Thu Mar  5 21:35:10 1987
+E Thu Mar  5 22:02:18 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+
+S Fri Mar  6 10:24:44 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:40:27 1987
+E NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C cp main main.old
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cp find_loop find_loop.old
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e main find_loop
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main find_loop
+H NIL
+X NIL
+
+C pushd ~/connect/doc
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C make print &
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 15:41:30 1987
+E Fri Mar  6 17:07:51 1987
+
+C cd E-*/sources
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C more ../qsort
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e ../235
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs ../235
+H NIL
+X NIL
+
+
+S Fri Mar  6 15:42:12 1987
+E Fri Mar  6 17:08:21 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/profs/xxxxxx/E-Prolog
+A /userb/profs/xxxxxx/bin/pc.sh
+H NIL
+X NIL
+
+C p
+D /user/profs/xxxxxx/E-Prolog
+A /userb/profs/xxxxxx/bin/pc.sh
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  8 20:40:27 1987
+E Mon Mar  9 00:35:20 1987
+
+C cxd E_*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X Y 102
+
+C talk blob
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd ~/papers
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd fast*
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C mv main main.old
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C mv main.new main
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make &
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e 235
+D /user/profs/xxxxxx/E-Prolog
+A emacs 235
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X Y 102
+
+C cat qsort
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd s*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make &
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X Y 102
+
+C cat 235
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e 235
+D /user/profs/xxxxxx/E-Prolog
+A emacs 235
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C make &
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H T
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C e declarative
+D /user/profs/xxxxxx/E-Prolog
+A emacs declarative
+H NIL
+X NIL
+
+C mkdir des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C rmdir des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C mkdir des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cp sources/* des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C mv declarative des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C cat quick
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C rm quick
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv quick /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e des decl*
+D /user/profs/xxxxxx/E-Prolog/des
+A emacs des decl*
+H NIL
+X Y 102
+
+C cd
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X NIL
+
+C cd Prolog
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd PR*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/PROLOG
+A \ìs -F
+H NIL
+X NIL
+
+C cd GROWL
+D /user/profs/xxxxxx/PROLOG
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/PROLOG/GROWL
+A \ìs -F
+H NIL
+X NIL
+
+C cd D5
+D /user/profs/xxxxxx/PROLOG/GROWL
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A \ìs -F
+H NIL
+X NIL
+
+C more encode
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A \ìs -F
+H NIL
+X NIL
+
+C more transforms
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C cat R*
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C more interface*
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X M  09
+
+C more growl*
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C more term*
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C more growl*
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C more routines system
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C cp routines term1 ~/E-Prolog/des
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C cd ~/E-*/des
+D /user/profs/xxxxxx/PROLOG/GROWL/D5
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X NIL
+
+C pushd ~/ST-*
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cp routines ~/E-*/des
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C rm term1
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv term1 /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C rm traceing
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv traceing /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C rm main
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv main /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C rm main.old
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv main.old /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C rm ma*
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv ma* /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C rm f*
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv f* /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C e des routines
+D /user/profs/xxxxxx/E-Prolog/des
+A emacs des routines
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C rm M*
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv M* /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F
+H NIL
+X NIL
+
+C mv des* ../sources
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X NIL
+
+C rm *
+D /user/profs/xxxxxx/E-Prolog/des
+A /bin/mv * /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F -a
+H NIL
+X NIL
+
+C /bin/rm *.*
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X M  09
+
+C ls -a
+D /user/profs/xxxxxx/E-Prolog/des
+A \ìs -F -a
+H NIL
+X NIL
+
+C /bin/rm .e*
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X NIL
+
+C cd ../s*
+D /user/profs/xxxxxx/E-Prolog/des
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e M*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs M*
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C make '../des'
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C ls ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F ..
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C rmdir des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C make '../des'
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd ~/ST-*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd tests
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/tests
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir ~/E-*/des_tests
+D /user/profs/xxxxxx/ST-Prolog/tests
+A NIL
+H NIL
+X M  09
+
+C pushd
+D /user/profs/xxxxxx/ST-Prolog/tests
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C mkdir des_tests
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C mkdir tests
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C mv 235 buf* qsort tests
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -r old
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/tests
+A \ìs -F
+H NIL
+X NIL
+
+C cp * ~/E-*/des_t*
+D /user/profs/xxxxxx/ST-Prolog/tests
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/ST-Prolog/tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/tests
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/ST-Prolog/tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C e M*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs M*
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e desmakeit
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs desmakeit
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog des
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd des_
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X D  88
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C e pr_con
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs pr_con
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs main
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X Y 102
+
+C bg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ../des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ../des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd ../so*
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X M  09
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C pushd ~/.del*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/.deleted
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C e tr*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs tr*
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C e all
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs all
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e pr*
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs pr*
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make all &
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/who | sort
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 10:51:57 1987
+E Mon Mar  9 16:31:21 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C rwho
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk williams@cs-sun-fsa
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~blob/papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/blob/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd fastray
+D /user/profs/blob/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/blob/papers/fastray
+A \ìs -F
+H NIL
+X NIL
+
+C e position.new
+D /user/profs/blob/papers/fastray
+A emacs position.new
+H NIL
+X NIL
+
+C roff -a2 position.new
+D /user/profs/blob/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/blob/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/blob/papers/fastray
+A NIL
+H NIL
+X M  09
+
+C cd
+D /user/profs/blob/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dse_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C rm *.res
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A /bin/mv *.res /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C cd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C rm main.old
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv main.old /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C rm *.old
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *.old /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e des*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des*
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd courses
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir 673
+D /user/profs/xxxxxx/courses
+A NIL
+H NIL
+X NIL
+
+C cd 673
+D /user/profs/xxxxxx/courses
+A NIL
+H NIL
+X NIL
+
+C e description
+D /user/profs/xxxxxx/courses/673
+A emacs description
+H NIL
+X NIL
+
+C roff -a2 -q description
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/courses/673
+A emacs
+H NIL
+X NIL
+
+C roff -a2 -q description
+D /user/profs/xxxxxx/courses/673
+A NIL
+H T
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx/courses/673
+A /bin/who | sort
+H NIL
+X NIL
+
+C rwho
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/profs/xxxxxx/courses/673
+A NIL
+H T
+X NIL
+
+C ean
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X Y 102
+
+C e tele*
+D /user/profs/xxxxxx/courses/673
+A emacs tele*
+H NIL
+X M  09
+
+C e ~/tele*
+D /user/profs/xxxxxx/courses/673
+A emacs ~/tele*
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/courses/673
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+
+S Mon Mar  9 15:43:52 1987
+E Mon Mar  9 16:34:03 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C cd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ../des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 14:32:53 1987
+E NIL
+
+C e ~/telephone
+D /user/profs/xxxxxx
+A emacs ~/telephone
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C pushd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e des_l*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des_l*
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des_*
+H NIL
+X NIL
+
+C hd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X N  10
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C script -o server.res
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C lpr server.res
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 14:48:25 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd ../des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C s
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C lpr server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C lpr *
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 11:05:38 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 21:25:06 1987
+E Thu Mar 12 23:05:20 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C talk blob
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C pr
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C pr
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C cat server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C cd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ../des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+
+S Fri Mar 13 16:48:25 1987
+E Fri Mar 13 16:56:05 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C e ~/telephone
+D /user/profs/xxxxxx
+A emacs ~/telephone
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 20:55:25 1987
+E Fri Mar 13 22:06:40 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd s*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C cd ../des_*
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir old
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C cp server old
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C pushd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+
+S Sat Mar 14 08:27:47 1987
+E Sun Mar 15 11:38:53 1987
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk blob
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk graham
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X D  02
+
+C pushd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e main
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs main
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cp server s
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e s
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs s
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H T
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C rm des
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv des /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C mv des.new des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs
+H NIL
+X NIL
+
+C rm s
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A /bin/mv s /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C e server
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A emacs server
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H T
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C mesg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C msg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X N  10
+
+C e primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs primes
+H NIL
+X NIL
+
+C mv primes primes.p
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X N  10
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H T
+X NIL
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C p primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh primes
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 11:58:41 1987
+E Sun Mar 15 15:52:21 1987
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd des_*
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C pushd ../sources
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/E-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cat *.p
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C primes 100000
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A \ìs -F
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/E-Prolog/des_tests
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X Y 102
+
+C cat test_random
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolg ../des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X N  10
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H T
+X NIL
+
+C e *.p
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs *.p
+H NIL
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X Y 102
+
+C primes
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C prolog ../des
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H T
+X NIL
+
+C e des
+D /user/profs/xxxxxx/E-Prolog/sources
+A emacs des
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/E-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 14:49:01 1987
+E Mon Mar 16 15:57:17 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C pushd ~/connect/src/sim
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/src/sim
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X M  09
+
+C cd
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cat lee
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C rm lee
+D /user/profs/xxxxxx/E-Prolog
+A /bin/mv lee /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F -R
+H NIL
+X NIL
+
+
+S Tue Mar 17 15:12:07 1987
+E Tue Mar 17 15:39:45 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ~/connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect
+A \ìs -F -l
+H NIL
+X NIL
+
+C cd src
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect/src
+A \ìs -F -l
+H NIL
+X NIL
+
+C cd sim
+D /user/profs/xxxxxx/connect/src
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect/src/sim
+A \ìs -F -l
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect/src/sim
+A \ìs -F -l
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 21:21:46 1987
+E Tue Mar 17 21:43:25 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C rm x
+D /user/profs/xxxxxx
+A /bin/mv x /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C mv projects admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir summer87
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C mv projects summer87
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C cd summer87
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/summer87
+A \ìs -F
+H NIL
+X NIL
+
+C chmod 0644 projects
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/summer87
+A \ìs -F
+H NIL
+X NIL
+
+C e projects
+D /user/profs/xxxxxx/admin/summer87
+A emacs projects
+H NIL
+X NIL
+
+C lpr -Palw2 seed
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 12:19:36 1987
+E Wed Mar 18 12:30:28 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ~/connect/doc
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff commands.me
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/connect/doc
+A \ìs -F -l
+H NIL
+X NIL
+
+C more m*
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C make commands
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C %1
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/doc
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C cd s*
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X S  36
+
+C cd su*
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/summer87
+A \ìs -F
+H NIL
+X NIL
+
+C lpr -Palw2 seed
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 15:03:02 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R E-Prolog ST-Prolog PROLOG marking
+D /user/profs/xxxxxx
+A \ìs -F -R E-Prolog ST-Prolog PROLOG marking
+H NIL
+X NIL
+
+C ls -R E-Prolog ST-Prolog PROLOG marking > y
+D /user/profs/xxxxxx
+A \ìs -F -R E-Prolog ST-Prolog PROLOG marking > y
+H T
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Thu Mar 19 10:10:13 1987
+E Thu Mar 19 11:26:26 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 20:32:58 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:10:05 1987
+E Fri Mar 20 11:19:07 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 21:11:56 1987
+E Tue Mar 24 21:27:23 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd A-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C cd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd E-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/E-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/E-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C mv E-Prolog A-Prolog
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd A-*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw
+D /user/profs/xxxxxx/A-Prolog
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw1
+D /user/profs/xxxxxx/A-Prolog
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxxxx/A-Prolog
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/A-Prolog
+A NIL
+H NIL
+X NIL
+
+C e tele*
+D /user/profs/xxxxxx
+A emacs tele*
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:10:45 1987
+E Wed Mar 25 13:44:23 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C e ~/.calendar
+D /user/profs/xxxxxx
+A emacs ~/.calendar
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a .*
+D /user/profs/xxxxxx
+A \ìs -F -a .*
+H NIL
+X NIL
+
+C e .memos
+D /user/profs/xxxxxx
+A emacs .memos
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ~/connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C cd lib
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/lib
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/connect/lib
+A NIL
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/connect
+A \ìs -F -R
+H NIL
+X NIL
+
+C cd src/sim
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C make all &
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C %1
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more ~/tele*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 16:36:17 1987
+E Thu Mar 26 16:54:32 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 10:20:42 1987
+E Fri Mar 27 10:30:35 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect
+A \ìs -F
+H NIL
+X NIL
+
+C cd src/sim
+D /user/profs/xxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/src/sim
+A \ìs -F
+H NIL
+X NIL
+
+C ls *.o > x
+D /user/profs/xxxxxx/connect/src/sim
+A \ìs -F *.o > x
+H NIL
+X NIL
+
+C e x
+D /user/profs/xxxxxx/connect/src/sim
+A emacs x
+H NIL
+X NIL
+
+C sh x
+D /user/profs/xxxxxx/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/connect/src/sim
+A \ìs -F
+H NIL
+X NIL
+
+C rm x
+D /user/profs/xxxxxx/connect/src/sim
+A /bin/mv x /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+
+S Fri Mar 27 13:50:25 1987
+E Fri Mar 27 13:52:44 1987
+
+C ean -a
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep xxxxxx /etc/passwd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 13:52:57 1987
+E Fri Mar 27 13:54:21 1987
+
+C ean -a
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 16:09:39 1987
+E Fri Mar 27 17:09:30 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 15:33:11 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv TERM vt102
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/profs/xxxxxx
+A emacs .login
+H NIL
+X NIL
+
+
+S Sun Mar 29 13:25:20 1987
+E Sun Mar 29 21:20:47 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd inductive
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/inductive
+A \ìs -F
+H NIL
+X NIL
+
+C rm x y
+D /user/profs/xxxxxx/papers/inductive
+A /bin/mv x y /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C e paper
+D /user/profs/xxxxxx/papers/inductive
+A emacs paper
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/papers/inductive
+A NIL
+H NIL
+X NIL
+
+C cd MAIL
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MAIL
+A \ìs -F
+H NIL
+X NIL
+
+C cat myaddress
+D /user/profs/xxxxxx/MAIL
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/MAIL
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MAIL
+A NIL
+H NIL
+X NIL
+
+C man -k path
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k address
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k usenet
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k pathalias
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C which pathalias
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C which path
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C findpath
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C path
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ~/bin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/bin
+A \ìs -F
+H NIL
+X NIL
+
+C more path
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C man -k uucp
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C sh path toronto
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C chmod 0755 path
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C path utcsrgv
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C path utcsri
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C path utai
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C path flis
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C path fil
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx/bin
+A /bin/who | sort
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 10:46:48 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C dan
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Mon Mar 30 14:45:53 1987
+E Mon Mar 30 14:53:55 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:04:33 1987
+E Mon Mar 30 15:08:03 1987
+
+C e 80
+D /user/profs/xxxxxx
+A emacs 80
+H NIL
+X NIL
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:08:55 1987
+E Mon Mar 30 15:10:07 1987
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:11:03 1987
+E Mon Mar 30 15:14:07 1987
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:16:29 1987
+E Mon Mar 30 15:22:52 1987
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:28:43 1987
+E NIL
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:41:08 1987
+E Mon Mar 30 15:46:34 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:48:26 1987
+E Mon Mar 30 15:49:50 1987
+
+C cat 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 19:42:42 1987
+E Mon Mar 30 19:43:20 1987
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+
+S Tue Mar 31 10:00:44 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd f*
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/papers/fastray
+A \ìs -F -R
+H NIL
+X NIL
+
+C cd *11
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X M  09
+
+C cd cr*/*11
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X S  36
+
+C cd cr*
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C cd *11
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X S  36
+
+C cd m*11
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A \ìs -F
+H NIL
+X NIL
+
+C more *par*
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray/cricket
+A \ìs -F
+H NIL
+X NIL
+
+C more par1
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X NIL
+
+C cat par1
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 10:05:40 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd fa*
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C cd cr*
+D /user/profs/xxxxxx/papers/fastray
+A NIL
+H NIL
+X NIL
+
+C cat par1
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X NIL
+
+C cat par1
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray/cricket
+A \ìs -F
+H NIL
+X NIL
+
+C ls *11
+D /user/profs/xxxxxx/papers/fastray/cricket
+A \ìs -F *11
+H NIL
+X NIL
+
+C cd m*11
+D /user/profs/xxxxxx/papers/fastray/cricket
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A \ìs -F
+H NIL
+X NIL
+
+C e t0.p
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A emacs t0.p
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/papers/fastray/cricket/macfig11
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 22:06:47 1987
+E Tue Mar 31 22:24:06 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C talk blob
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 14:07:55 1987
+E Wed Apr  1 14:10:36 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 16:21:19 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat telephone
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cat telephone
+D /user/profs/xxxxxx
+A NIL
+H T
+X NIL
+
+C ==
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Wed Apr  1 20:14:20 1987
+E Wed Apr  1 21:25:53 1987
+
+C EAN
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 09:38:53 1987
+E Thu Apr  2 11:05:12 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 11:20:18 1987
+E NIL
+
+C cd interval
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval
+A \ìs -F
+H NIL
+X NIL
+
+C lpr R* i.p inter t2* te* y1
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C cd geo*
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/geometry
+A \ìs -F
+H NIL
+X NIL
+
+C nore *
+D /user/profs/xxxxxx/interval/geometry
+A NIL
+H NIL
+X N  10
+
+C more *
+D /user/profs/xxxxxx/interval/geometry
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/interval/geometry
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval
+A \ìs -F
+H NIL
+X NIL
+
+C cd integer
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/integer
+A \ìs -F
+H NIL
+X NIL
+
+C lpr *
+D /user/profs/xxxxxx/interval/integer
+A NIL
+H NIL
+X NIL
+
+C cd ../prob
+D /user/profs/xxxxxx/interval/integer
+A NIL
+H NIL
+X D  88
+
+C cd ../prob*
+D /user/profs/xxxxxx/interval/integer
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/probability
+A \ìs -F
+H NIL
+X NIL
+
+C lpr *
+D /user/profs/xxxxxx/interval/probability
+A NIL
+H NIL
+X NIL
+
+C cd ../trig
+D /user/profs/xxxxxx/interval/probability
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/trig
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/trig
+A \ìs -F
+H NIL
+X NIL
+
+C more sin
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C prolog ../inter
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval
+A \ìs -F
+H NIL
+X NIL
+
+C cd trig
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C prolog ../inter
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C prolog -l 1000
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval
+A \ìs -F
+H NIL
+X NIL
+
+C e inter
+D /user/profs/xxxxxx/interval
+A emacs inter
+H NIL
+X NIL
+
+C cd trig
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/trig
+A \ìs -F
+H NIL
+X NIL
+
+C prolog -l 1000
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H T
+X Y 102
+
+C more sin
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C prolog -l 1000 -g 1000
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/trig
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C pro
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval/trig
+A \ìs -F
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/interval/trig
+A NIL
+H NIL
+X NIL
+
+C e ../inter
+D /user/profs/xxxxxx/interval/trig
+A emacs ../inter
+H NIL
+X NIL
+
+
+S Thu Apr  2 21:45:43 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+
+S Fri Apr  3 16:42:00 1987
+E Fri Apr  3 16:57:58 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 10:07:14 1987
+E Sat Apr  4 10:12:52 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 12:13:23 1987
+E Wed Apr  8 12:35:14 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 12:35:56 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Thu Apr  9 09:40:18 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rn
+D /user/profs/xxxxxx
+A pwd > ~/.rn ; cd ~/articles ; readnews ; cat ~/.cd ~/.home > .tmp.sh ; source .tmp.sh
+H NIL
+X NIL
+
+
+S Thu Apr  9 15:28:20 1987
+E Thu Apr  9 15:32:08 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 10:40:25 1987
+E Fri Apr 10 10:42:08 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 22:16:03 1987
+E Sun Apr 12 22:42:15 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 09:42:57 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C cd s*7
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/summer87
+A \ìs -F
+H NIL
+X NIL
+
+C more p*
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+C dan
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 21:44:27 1987
+E Wed Apr 15 09:36:42 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rn
+D /user/profs/xxxxxx
+A pwd > ~/.rn ; cd ~/articles ; readnews ; cat ~/.cd ~/.home > .tmp.sh ; source .tmp.sh
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 22:42:57 1987
+E Wed Apr 15 22:58:00 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd s*87
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin/summer87
+A \ìs -F
+H NIL
+X NIL
+
+C more seed
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/admin/summer87
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 14:44:07 1987
+E Thu Apr 16 14:51:46 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 19 19:53:25 1987
+E Sun Apr 19 19:54:44 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 11:02:08 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C lpr x
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd admin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/admin
+A \ìs -F
+H NIL
+X NIL
+
+C roff -a cv &
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/admin
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 14:53:13 1987
+E Mon Apr 20 15:20:22 1987
+
+C cd interval
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/interval
+A \ìs -F
+H NIL
+X NIL
+
+C more i.p
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C lpr i.p
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C ls -r
+D /user/profs/xxxxxx/interval
+A \ìs -F -r
+H NIL
+X NIL
+
+C l -l
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X N  10
+
+C ls -l
+D /user/profs/xxxxxx/interval
+A \ìs -F -l
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C chmod 0644 i.p
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+C ls -l i.p
+D /user/profs/xxxxxx/interval
+A \ìs -F -l i.p
+H NIL
+X NIL
+
+C e i.p
+D /user/profs/xxxxxx/interval
+A emacs i.p
+H NIL
+X NIL
+
+C lpr i.p
+D /user/profs/xxxxxx/interval
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 20:39:03 1987
+E Mon Apr 20 23:03:55 1987
+
+C setenv TERM v550
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk pearce@vaxb
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk pearce@vaxb
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk pearce@vaxb
+D /user/profs/xxxxxx
+A NIL
+H T
+X NIL
+
+
+S Tue Apr 21 09:33:01 1987
+E Tue Apr 21 09:45:42 1987
+
+C cd ~pearce
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/pearce
+A \ìs -F
+H NIL
+X NIL
+
+C ty .mailrc
+D /user/grads/pearce
+A NIL
+H NIL
+X N  10
+
+C more .mailrc
+D /user/grads/pearce
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/grads/pearce
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 09:55:12 1987
+E NIL
+
+C cd ~ian
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd arith
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/arith
+A \ìs -F
+H NIL
+X NIL
+
+C more refs
+D /user/profs/ian/papers/arith
+A NIL
+H NIL
+X NIL
+
+C cp refs ~xxxxxx/papers/arith
+D /user/profs/ian/papers/arith
+A NIL
+H NIL
+X NIL
+
+C cd ~/papers/arith
+D /user/profs/ian/papers/arith
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/arith
+A \ìs -F
+H NIL
+X NIL
+
+C e refs
+D /user/profs/xxxxxx/papers/arith
+A emacs refs
+H NIL
+X NIL
+
+C roff -a refs
+D /user/profs/xxxxxx/papers/arith
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 10:47:06 1987
+E Thu Apr 23 11:03:05 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 11:25:12 1987
+E Thu Apr 23 11:26:41 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 22:33:49 1987
+E Thu Apr 23 23:03:10 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd arith
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/arith
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/papers/arith
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e refs
+D /user/profs/xxxxxx/papers/arith
+A emacs refs
+H NIL
+X NIL
+
+
+S Fri Apr 24 10:06:01 1987
+E Fri Apr 24 16:27:36 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/profs/xxxxxx
+A rlogin cs-apollo-a -8
+H NIL
+X Y 102
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ruptime
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vaxd
+D /user/profs/xxxxxx
+A rlogin vaxd -8
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 25 14:11:54 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login .cshrc
+D /user/profs/xxxxxx
+A emacs .login .cshrc
+H NIL
+X NIL
+
+C which setsize
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pushd ~/bin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/bin
+A \ìs -F
+H NIL
+X NIL
+
+C more setsize
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/profs/xxxxxx/bin
+A emacs .login
+H NIL
+X NIL
+
+C cd ~/bin
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/bin
+A \ìs -F
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 22:35:52 1987
+E Tue Apr 28 22:44:10 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 11:04:32 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxx
+A /bin/who | sort
+H NIL
+X NIL
+
+C talk
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk unger
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk unger
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd interval
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/interval
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/papers/interval
+A \ìs -F -R
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/papers/interval
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/interval
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/papers/interval
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/papers/interval
+A NIL
+H NIL
+X J  82
+
+C ean
+D /user/profs/xxxxxx/papers/interval
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/papers/interval
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 22:17:01 1987
+E Wed Apr 29 22:19:18 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 22:21:15 1987
+E Wed Apr 29 22:23:16 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 13:56:55 1987
+E Thu Apr 30 14:02:06 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep sklpl /usr/lib/uucp_paths.optimized
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l /usr/lib/uucp_paths.optimized
+D /user/profs/xxxxxx
+A \ìs -F -l /usr/lib/uucp_paths.optimized
+H T
+X NIL
+
+C ls -l /usr/local/lib/uucp_paths.optimized
+D /user/profs/xxxxxx
+A \ìs -F -l /usr/local/lib/uucp_paths.optimized
+H T
+X Y 102
+
+C grep sklpl /usr/local/lib/uucp_paths.optimized
+D /user/profs/xxxxxx
+A NIL
+H T
+X NIL
+
+
+S Thu Apr 30 16:24:39 1987
+E Thu Apr 30 16:34:00 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 20:09:34 1987
+E NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd abacus
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/abacus
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/papers/abacus
+A \ìs -F -l
+H NIL
+X NIL
+
+C pushd ~ian/papers
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd old
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/old
+A \ìs -F
+H NIL
+X NIL
+
+C cd c*
+D /user/profs/ian/papers/old
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/old/compression.survey
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/ian/papers/old/compression.survey
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/old/compression.survey
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/ian/papers/old/compression.survey
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/old
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/ian/papers/old
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers
+A \ìs -F
+H NIL
+X NIL
+
+C pushd
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/abacus
+A \ìs -F
+H NIL
+X NIL
+
+C e abacus
+D /user/profs/xxxxxx/papers/abacus
+A emacs abacus
+H NIL
+X Y 102
+
+C ean
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C e abacus
+D /user/profs/xxxxxx/papers/abacus
+A emacs abacus
+H NIL
+X NIL
+
+C du
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C dl x y z
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C /bin/rm x y z
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C /bin/rm mbox
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more shar1 shar2
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C /bin/rm shar1 shar2
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd .dele*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/.deleted
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd me*s
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/mesh_papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/mesh_papers
+A NIL
+H NIL
+X NIL
+
+C rmdir mesh_papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CH*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CHAOS
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/profs/xxxxxx/CHAOS
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/CHAOS
+A NIL
+H NIL
+X NIL
+
+C rmdir CHAOS
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CONF
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CONF
+A \ìs -F
+H NIL
+X NIL
+
+C cd MAIL
+D /user/profs/xxxxxx/CONF
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/profs/xxxxxx/CONF
+A NIL
+H NIL
+X NIL
+
+C cd MAIL
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MAIL
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MAIL
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C more
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C /bin/rm 80
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd MP*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MPROLOG
+A \ìs -F
+H NIL
+X NIL
+
+C cd ../MU
+D /user/profs/xxxxxx/MPROLOG
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C cd bin
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/bin
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C du
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C psuhd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C pushd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd abacus
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/abacus
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/papers/abacus
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C rm x
+D /user/profs/xxxxxx/papers/abacus
+A /bin/mv x /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C e abacus
+D /user/profs/xxxxxx/papers/abacus
+A emacs abacus
+H NIL
+X NIL
+
+C macput -u zf
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/papers/abacus
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd dat*
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/data.compr
+A \ìs -F
+H NIL
+X NIL
+
+C more final
+D /user/profs/xxxxxx/papers/data.compr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/papers/data.compr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers
+A \ìs -F
+H NIL
+X NIL
+
+C cd code
+D /user/profs/xxxxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/code
+A \ìs -F
+H NIL
+X NIL
+
+C more rev3
+D /user/profs/xxxxxx/papers/code
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/papers/code
+A \ìs -F
+H NIL
+X NIL
+
+C macput -u rev3
+D /user/profs/xxxxxx/papers/code
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/papers/code
+A NIL
+H NIL
+X NIL
+
+C mkdir zipf
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd zipf
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .p
+D /user/profs/xxxxxx/zipf
+A emacs .p
+H NIL
+X Y 102
+
+C cd
+D /user/profs/xxxxxx/zipf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd A_*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C cd A*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/A-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/A-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/A-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C e pr*.p
+D /user/profs/xxxxxx/A-Prolog/sources
+A emacs pr*.p
+H NIL
+X NIL
+
+C primes
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C e tp.p
+D /user/profs/xxxxxx/A-Prolog/sources
+A emacs tp.p
+H NIL
+X NIL
+
+C p tp
+D /user/profs/xxxxxx/A-Prolog/sources
+A /userb/profs/xxxxxx/bin/pc.sh tp
+H NIL
+X NIL
+
+C tp
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/profs/xxxxxx/A-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir ~/RANDOM
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/A-Prolog/sources
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C mv tp* primes* ~/RANDOM
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd z*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lsa
+D /user/profs/xxxxxx/zipf
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/profs/xxxxxx/zipf
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/zipf
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/zipf
+A emacs
+H NIL
+X NIL
+
+C z
+D /user/profs/xxxxxx/zipf
+A NIL
+H NIL
+X Y 102
+
+
+S Fri May  1 14:12:52 1987
+E Fri May  1 14:22:28 1987
+
+C e tele*
+D /user/profs/xxxxxx
+A emacs tele*
+H NIL
+X NIL
+
+
+S Fri May  1 14:31:40 1987
+E Fri May  1 16:46:56 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MIU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C cp * 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C ls 1986
+D /user/profs/xxxxxx/MIU
+A \ìs -F 1986
+H NIL
+X NIL
+
+C cd 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C rm 1986
+D /user/profs/xxxxxx/MIU/1986
+A /bin/mv 1986 /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C ls old
+D /user/profs/xxxxxx/MIU/1986
+A \ìs -F old
+H NIL
+X NIL
+
+C rm old
+D /user/profs/xxxxxx/MIU/1986
+A /bin/mv old /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1986
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C cd 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1986
+A \ìs -F
+H NIL
+X NIL
+
+C rm forestry
+D /user/profs/xxxxxx/MIU/1986
+A /bin/mv forestry /userb/profs/xxxxxx/.deleted
+H NIL
+X NIL
+
+C mkdir forestry
+D /user/profs/xxxxxx/MIU/1986
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1986
+A NIL
+H NIL
+X NIL
+
+C cp forestry/* 1986/forestry
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X D  70
+
+C pwd
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/MIU
+A \ìs -F -l
+H NIL
+X NIL
+
+C cd 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1986
+A \ìs -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/MIU/1986
+A \ìs -F -l
+H NIL
+X NIL
+
+C cp ../forestry/* forestry
+D /user/profs/xxxxxx/MIU/1986
+A NIL
+H NIL
+X D  70
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1986
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxx/MIU
+A \ìs -F -l
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C chmod 0755 forestry
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls -l f*
+D /user/profs/xxxxxx/MIU
+A \ìs -F -l f*
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C ls f*
+D /user/profs/xxxxxx/MIU
+A \ìs -F f*
+H NIL
+X NIL
+
+C ls forestry
+D /user/profs/xxxxxx/MIU
+A \ìs -F forestry
+H NIL
+X NIL
+
+C mv forestry 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C cd 1986
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1986
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1986
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm -i *
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C mkdir 1987
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C cd CP
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP
+A \ìs -F
+H NIL
+X NIL
+
+C cd shapiro
+D /user/profs/xxxxxx/CP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C mv airline con.b consort philo unify util ~/MIU/1987
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C pushd ~/MIU/1987
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C more simp* sin* so* t* u*
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C cp * ~/CP/shapiro
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/CP
+A \ìs -F -R
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/CP
+A NIL
+H NIL
+X NIL
+
+C cp cprolog.start ~/MIU/1987
+D /user/profs/xxxxxx/CP
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/CP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C pushd ~/CP/shapiro
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C cp sort gen23 philo ~/MIU/1987
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C more triple
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C more g2
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/CP/shapiro
+A \ìs -F
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C e gen23
+D /user/profs/xxxxxx/MIU/1987
+A emacs gen23
+H NIL
+X NIL
+
+C mv con.b interpreter
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C e interpreter
+D /user/profs/xxxxxx/MIU/1987
+A emacs interpreter
+H NIL
+X NIL
+
+C cp ~/CP/shapiro/con.a interpreter
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C e cprolog.start
+D /user/profs/xxxxxx/MIU/1987
+A emacs cprolog.start
+H NIL
+X NIL
+
+C /bin/rm cprolog.start
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls ~/CP/shapiro
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F ~/CP/shapiro
+H NIL
+X NIL
+
+C ls ~/CP
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F ~/CP
+H NIL
+X NIL
+
+C cp cprolog.create .
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C cp ~/CP/cprolog.create .
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C ecprolog.create
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X N  10
+
+C e cprolog*
+D /user/profs/xxxxxx/MIU/1987
+A emacs cprolog*
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C prolog cprolog.start
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X Y 102
+
+C more gen23
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C more airline
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd courses
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/courses
+A \ìs -F -R
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/courses
+A NIL
+H NIL
+X NIL
+
+C cd 601.52
+D /user/profs/xxxxxx/courses
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses/601.52
+A \ìs -F
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxx/courses/601.52
+A NIL
+H NIL
+X NIL
+
+C cd ../601.62
+D /user/profs/xxxxxx/courses/601.52
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses/601.62
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/courses/601.62
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/courses/601.62
+A NIL
+H NIL
+X NIL
+
+C psuhd ~/MIU/1987
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X N  10
+
+C pushd ~/MIU/1987
+D /user/profs/xxxxxx/CP/shapiro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C prolog cprolog.start
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C e interpreter
+D /user/profs/xxxxxx/MIU/1987
+A emacs interpreter
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X Y 102
+
+C e
+D /user/profs/xxxxxx/MIU/1987
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/MIU/1987
+A emacs
+H NIL
+X NIL
+
+C e cprolog_start
+D /user/profs/xxxxxx/MIU/1987
+A emacs cprolog_start
+H NIL
+X NIL
+
+C mv interpreter interpreter_source
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/MIU/1987
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/MIU/1987
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X M  09
+
+C pushd ~/.deleted
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/.deleted
+A \ìs -F
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C limits
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C e M*
+D /user/profs/xxxxxx/MIU/1987
+A emacs M*
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C more *_*
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/MIU/1987
+A emacs
+H NIL
+X NIL
+
+C make all
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C prolog interpreter
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C /bin/rm core
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C lpr airline consort gen23 philo sort
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C mv 1987 CP
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C mkdir 1987
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C mv CP 1987
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C cd 1987
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C mkdir delay
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd courses
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670
+D /user/profs/xxxxxx/courses
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses/670
+A \ìs -F
+H NIL
+X NIL
+
+C ls -R
+D /user/profs/xxxxxx/courses/670
+A \ìs -F -R
+H NIL
+X NIL
+
+C cd 84*/sem*
+D /user/profs/xxxxxx/courses/670
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses/670/84_85/seminar
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/courses/670/84_85/seminar
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/courses/670/84_85/seminar
+A \ìs -F
+H NIL
+X NIL
+
+C cp interpreter2 sched.inter simple.inter ~/MIU/1987
+D /user/profs/xxxxxx/courses/670/84_85/seminar
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/courses/670/84_85/seminar
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd ST*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls *
+D /user/profs/xxxxxx/ST-Prolog/sources
+A \ìs -F *
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C more si*
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cp single_tr ~/MIU/1987
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/xxxxxx/.deleted
+A NIL
+H NIL
+X NIL
+
+C pushd ~/MIU
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C cd 1987
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C e interpreter2
+D /user/profs/xxxxxx/MIU/1987
+A emacs interpreter2
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C clean
+D /user/profs/xxxxxx/MIU/1987
+A /bin/mv *BAK *CKP .*BAK .*CKP temp* .temp* /userb/profs/xxxxxx/.deleted ; /bin/rm core
+H NIL
+X NIL
+
+C mv sched.inter delay
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C cd delay
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C e *
+D /user/profs/xxxxxx/MIU/1987/delay
+A emacs *
+H NIL
+X Y 102
+
+C pushd ~/A*
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/A-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd sources
+D /user/profs/xxxxxx/A-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/A-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ../ST*
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X M  09
+
+C cd
+D /user/profs/xxxxxx/A-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cd ST*
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog
+A \ìs -F
+H NIL
+X NIL
+
+C cd s*
+D /user/profs/xxxxxx/ST-Prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ST-Prolog/sources
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C cp exists ~/MIU/1987/delay
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/profs/xxxxxx/ST-Prolog/sources
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/MIU/1987/delay
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/xxxxxx/MIU/1987/delay
+A emacs
+H NIL
+X NIL
+
+C prolog
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H T
+X J  81
+
+C fg
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 11:58:03 1987
+E Mon May  4 11:59:35 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 22:23:51 1987
+E NIL
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MU
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxx/MU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx
+A \ìs -F
+H NIL
+X NIL
+
+
+S Wed May  6 01:01:44 1987
+E Wed May  6 01:28:34 1987
+
+C rn
+D /user/profs/xxxxxx
+A pwd > ~/.rn ; cd ~/articles ; readnews ; cat ~/.cd ~/.home > .tmp.sh ; source .tmp.sh
+H NIL
+X NIL
+
+
+S Wed May  6 15:03:30 1987
+E Wed May  6 15:08:59 1987
+
+C cd MIU
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C ean
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU
+A \ìs -F
+H NIL
+X NIL
+
+C lpr hynes
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C lpr haynes
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C cd 1987
+D /user/profs/xxxxxx/MIU
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C ls delay
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F delay
+H NIL
+X NIL
+
+C cd delay
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987/delay
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C lpr *
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1987/delay
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C cd CP
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987/CP
+A \ìs -F
+H NIL
+X NIL
+
+C more *
+D /user/profs/xxxxxx/MIU/1987/CP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987/CP
+A \ìs -F
+H NIL
+X NIL
+
+C lpr M* a* cprolog{.create,_start} g* i* p* s* u*
+D /user/profs/xxxxxx/MIU/1987/CP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/xxxxxx/MIU/1987/CP
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/xxxxxx/MIU/1987/CP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/MIU/1987
+A \ìs -F
+H NIL
+X NIL
+
+C lpr i* s*
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/xxxxxx/MIU/1987
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:44:02 1987
+E Wed May  6 17:50:12 1987
+
+C ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ean
+D /user/profs/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxx/ean
+A \ìs -F
+H NIL
+X NIL
+
+C e p*@
+D /user/profs/xxxxxx/ean
+A emacs p*@
+H NIL
+X NIL
+
+C fg
+D /user/profs/xxxxxx/ean
+A NIL
+H NIL
+X Y 102
+
+C e
+D /user/profs/xxxxxx/ean
+A emacs
+H NIL
+X NIL
+
+C whoami
+D /user/profs/xxxxxx/ean
+A NIL
+H NIL
+X J  81

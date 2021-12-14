@@ -1,0 +1,3046 @@
+S Fri Mar  6 09:34:40 1987
+E Fri Mar  6 09:39:13 1987
+
+C fred editing1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 09:39:50 1987
+E Fri Mar  6 09:51:00 1987
+
+C fred editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 10:55:10 1987
+E Fri Mar  6 12:46:36 1987
+
+C fred editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ; s
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C la
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:37:25 1987
+E Fri Mar  6 12:44:35 1987
+
+C pix -l editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 13:45:15 1987
+E Fri Mar  6 14:23:09 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -O
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred ed
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C !
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file2
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 13:46:48 1987
+E Fri Mar  6 13:49:41 1987
+
+C pix -l editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:28:48 1987
+E Fri Mar  6 14:32:02 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ned.saves
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:31:31 1987
+E Fri Mar  6 15:00:30 1987
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:35:58 1987
+E Fri Mar  6 14:41:33 1987
+
+C pix -l editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:47:41 1987
+E Fri Mar  6 14:51:48 1987
+
+C pix -l editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:45:27 1987
+E Tue Mar 10 10:47:13 1987
+
+C cp /user/cpsc211/m05 m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp/vaxa.user.cpsc211/m03 m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cp / user/cpsc211/m03 m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:47:46 1987
+E Tue Mar 10 10:51:56 1987
+
+C cp /usera/cpsc211/m03 m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm editing.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm editing1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C editing1.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X Y 102
+
+C rm editing1.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file2.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /usera/cpsc211/m03 m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /usera/cpsc211/m05 m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /usera/cpsc211/m05 m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 09:34:18 1987
+E Thu Mar 12 09:35:32 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m03
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file2
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m05
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /usera.vaxa/cpsc211/m10 m10
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m10 m10
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 14:17:19 1987
+E Sun Mar 15 18:00:33 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred draw1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred .login
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred .login
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C dir
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred draw1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 15:34:40 1987
+E Sun Mar 15 18:00:13 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred test.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm test.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred test.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 18:01:41 1987
+E Sun Mar 15 18:01:49 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 12:48:45 1987
+E Mon Mar 16 12:52:21 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred test.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred test.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm test.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm test.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 13:24:31 1987
+E Tue Mar 17 16:09:25 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vip7400
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more malk
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p.BAK battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm draw1.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm malk
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p.BAK battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mlak
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred draw1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm draw1.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred change.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm change.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o newfile
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr newfile
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 16:07:46 1987
+E Tue Mar 17 16:08:50 1987
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 11:00:57 1987
+E Wed Mar 18 12:48:19 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm newfile
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ned.saves
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 15:23:06 1987
+E Wed Mar 18 19:43:37 1987
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp junk.p.BAK junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp junk.p.BAK junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm draw.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm change.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm draw1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm editing.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p.BAK junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ned.saves
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp junk.p junk1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 08:47:58 1987
+E Thu Mar 19 09:18:13 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 10:52:30 1987
+E Thu Mar 19 11:17:03 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p battle.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm jun1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk1.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp junk.p battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 11:17:44 1987
+E Thu Mar 19 12:19:56 1987
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred typescript3
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript3
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp typescript typescript3
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp typescript typescript3
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp typescript typescript3
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 13:50:28 1987
+E Thu Mar 19 20:08:53 1987
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred ned.saves battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ned.saves
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p.BAK.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battlehsip.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p.BAK battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm file1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript1
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript2
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript3
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battlehsip.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp junk.p battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who am i
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 19:23:44 1987
+E Thu Mar 19 20:10:26 1987
+
+C fred batt ; e
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 19:26:31 1987
+E Thu Mar 19 20:10:54 1987
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls]
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves batt
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleship.p.BAK battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C gt
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C fred battlehsip.
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp battleshi
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battle
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves battleship1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 06:36:49 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm batt
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battle.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm jay.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship1.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 07:46:13 1987
+E Fri Mar 20 09:49:04 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls]
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ned.saves
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ned.saves battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 10:55:20 1987
+E Fri Mar 20 12:45:11 1987
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C fred battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ned.saves
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 12:11:16 1987
+E Fri Mar 20 12:20:41 1987
+
+C pix -l battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C n
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C quit
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 20 12:21:46 1987
+E Fri Mar 20 12:34:43 1987
+
+C pix -l battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 12:51:51 1987
+E Fri Mar 20 12:52:59 1987
+
+C lquota
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limit
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:34:58 1987
+E Wed Mar 25 09:40:15 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p.BAK
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limit
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/f26 f26
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m10 m10
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m12 m12
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m17 m17
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m19 m19
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m24 m24
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m10 m10
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m12 m12
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr f26
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m17
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m19
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:41:06 1987
+E Wed Mar 25 09:47:40 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battlehsip.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 10:36:37 1987
+E Thu Mar 26 10:37:30 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm f26
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m17
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm m19
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m24 m24
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m26 m26
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 09:33:35 1987
+E Mon Apr  6 09:38:59 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m24 m24
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m26 m26
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m31 m31
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/a02 a02
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/m24 m24
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/lab01 lab01
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m26
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr m31
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr a02
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/l01 l01
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/l01.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 09:39:46 1987
+E Mon Apr  6 09:48:12 1987
+
+C more battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 09:48:05 1987
+E Fri Apr 10 09:48:43 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 13:16:35 1987
+E Fri Apr 10 13:27:49 1987
+
+C man
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C list
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv vip7400
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X B  48
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix battleship.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limit
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C m
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C man.p
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C whom
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X N  10
+
+C mail Puntil
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 17 14:00:00 1987
+E Fri Apr 17 14:05:48 1987
+
+C mail
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cspc211
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X D  88
+
+C cd /vaxa.i
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X D  88
+
+C cd .
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr Deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab5.1.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab5.2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab5.5.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab6.5.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab7.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab8.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 17 14:06:05 1987
+E Fri Apr 17 14:06:54 1987
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b33/xxxxx
+A NIL
+H NIL
+X NIL

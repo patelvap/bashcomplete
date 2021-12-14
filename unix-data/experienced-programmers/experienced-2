@@ -1,0 +1,1414 @@
+
+
+S Fri Feb 20 15:26:23 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc510/l01b91
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510
+A NIL
+H NIL
+X NIL
+
+C cd cpsc510
+D /user/cpsc510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/cpsc510
+A NIL
+H NIL
+X NIL
+
+C cd lectures
+D /user/cpsc510/cpsc510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l31
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l41
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C !
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l33
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X D  70
+
+
+S Fri Feb 20 15:34:43 1987
+E NIL
+
+C cd ~cpsc510
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd lectures
+D /user/cpsc510/cpsc510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C lines *
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l34
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l35
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l36
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l40
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l39
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l37
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C more l38
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C lpr l38
+D /user/cpsc510/cpsc510/lectures
+A €lpr -i15 l38
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C lprm 983
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C lpr l38 l39 l40 l41 l42 l43 l44 l45 l46 l47 l48 l49 l50 l51 l6
+D /user/cpsc510/cpsc510/lectures
+A €lpr -i15 l38 l39 l40 l41 l42 l43 l44 l45 l46 l47 l48 l49 l50 l51 l6
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/cpsc510/lectures
+A NIL
+H NIL
+X D  70
+
+
+S Fri Feb 20 16:03:29 1987
+E NIL
+
+C lpq
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 22:52:42 1987
+E NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C talk wu@vaxc
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 22:59:30 1987
+E NIL
+
+C talk wu
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail wu
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 22:35:27 1987
+E NIL
+
+C su group08
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X D  70
+
+
+S Wed Mar  4 23:33:07 1987
+E NIL
+
+C mail
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 07:59:24 1987
+E NIL
+
+C mail
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X D  70
+
+
+S Thu Mar 12 09:11:16 1987
+E NIL
+
+C ftp wirun@vaxa
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr a2i.p
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 a2i.p
+H NIL
+X NIL
+
+C lpr dict_mait.p
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 dict_mait.p
+H NIL
+X NIL
+
+C lpr dict.t
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 dict.t
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lines a2i.p
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lines dict_mait.p
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lines dict.t
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr a2i.p
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 a2i.p
+H NIL
+X NIL
+
+C lpr dict_mait.p
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 dict_mait.p
+H NIL
+X NIL
+
+C lpr dict.t
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 dict.t
+H NIL
+X NIL
+
+C lpr a2i.p
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 a2i.p
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rwho jarvis
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail jarvis
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C f jarvis
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C f xxxx
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C f wu
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C f adachi
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X D  70
+
+
+S Thu Mar 12 20:33:46 1987
+E NIL
+
+C mail
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C more tobruce
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm tobruce*
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv tobruce* /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C rm tobruce
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv tobruce /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C rm tobruce.*
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv tobruce.* /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv *.BAK /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C mkdir .deleted
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm temp.BAK
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv temp.BAK /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C rm title.BAK
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv title.BAK /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C rm title2.BAK
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv title2.BAK /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm main.CKP
+D /user/cpsc510/l01b91/xxxx
+A /bin/mv main.CKP /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C more chuck
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X D  70
+
+
+S Mon Mar 16 12:18:44 1987
+E NIL
+
+C mail
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd rohl
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C lpr rohl_compiler.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 rohl_compiler.p
+H NIL
+X NIL
+
+C lpr rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 rohl_machine.p
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 17:34:38 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X D  70
+
+
+S Fri Mar 27 02:27:19 1987
+E Fri Mar 27 02:27:53 1987
+
+C mail
+D /
+A NIL
+H NIL
+X NIL
+
+C logout
+D /
+A NIL
+H NIL
+X J  68
+
+
+S Tue Mar 31 16:19:34 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx/doc
+A NIL
+H NIL
+X NIL
+
+C lines header
+D /user/cpsc510/l01b91/xxxx/doc
+A NIL
+H NIL
+X NIL
+
+C lpr header
+D /user/cpsc510/l01b91/xxxx/doc
+A €lpr -i15 header
+H NIL
+X NIL
+
+C cd
+D /user/cpsc510/l01b91/xxxx/doc
+A NIL
+H NIL
+X NIL
+
+C cd rohl
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc510/l01b91/xxxx/rohl
+A /bin/mv typescript /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C script
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 typescript
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 16:22:53 1987
+E Tue Mar 31 16:44:34 1987
+
+C pc rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_compiler.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 20:50:04 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lines title
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lines title2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C pr itle
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C pr title
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C pr title2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr title2
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 title2
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 20:18:28 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd rohl
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pr test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pr test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H T
+X NIL
+
+C lpr test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 test.p
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 01:01:26 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C pr title2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs title2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 01:07:02 1987
+E NIL
+
+C emacs title2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd rohl
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p'
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X S  11
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H T
+X NIL
+
+C fred rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H T
+X NIL
+
+C fred
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H T
+X NIL
+
+C emacs test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H T
+X NIL
+
+C fred test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H T
+X NIL
+
+C rm typescript
+D /user/cpsc510/l01b91/xxxx/rohl
+A /bin/mv typescript /vaxc.usera/cpsc510/l01b91/xxxx/.deleted
+H NIL
+X NIL
+
+C script
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 02:55:04 1987
+E Fri Apr  3 03:07:11 1987
+
+C ls -al
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pr -f test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pr -f rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C pi rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 08:01:24 1987
+E NIL
+
+C lpr title2
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 title2
+H NIL
+X NIL
+
+C cd rohl
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 typescript
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 13:23:20 1987
+E NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 13:29:17 1987
+E Sat Apr  4 13:47:01 1987
+
+C stty TERM vip7400
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C stty TERM vip
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C stty vip7400
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C pr .alias
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs doc2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C pr .termcap
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X N  10
+
+C vip
+D /user/cpsc510/l01b91/xxxx
+A set term = vip7400
+H NIL
+X NIL
+
+C emacs doc2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 13:49:24 1987
+E NIL
+
+C vip
+D /user/cpsc510/l01b91/xxxx
+A set term = vip7400
+H NIL
+X NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C cp doc2.CKP doc2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs doc2
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr  5 21:20:17 1987
+E NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr assign5
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 assign5
+H NIL
+X NIL
+
+C lpr assign5
+D /user/cpsc510/l01b91/xxxx
+A €lpr -i15 assign5
+H NIL
+X NIL
+
+C cd rohl
+D /user/cpsc510/l01b91/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr test.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 test.p
+H NIL
+X NIL
+
+C limits
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C lines rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL
+
+C lpr rohl_machine.p
+D /user/cpsc510/l01b91/xxxx/rohl
+A €lpr -i15 rohl_machine.p
+H NIL
+X NIL
+
+C logout
+D /user/cpsc510/l01b91/xxxx/rohl
+A NIL
+H NIL
+X NIL

@@ -1,0 +1,1758 @@
+S Mon Feb 23 08:52:00 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 15:41:12 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 09:59:12 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 09:41:20 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more nbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 08:25:11 1987
+E NIL
+
+C logut
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 16:35:52 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 16:38:12 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 08:17:32 1987
+E NIL
+
+C readnews -n cpsc.grads
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail keefe
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 13:51:30 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 16:39:20 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 08:06:48 1987
+E NIL
+
+C more mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxxxxx
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 08:43:36 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -F
+D /user/profs/xxxxxxx
+A ls -F -F
+H NIL
+X NIL
+
+C cd Mess*
+D /user/profs/xxxxxxx
+A cd Mess* ; ls -F
+H NIL
+X NIL
+
+C ls -F
+D /user/profs/xxxxxxx/Messages
+A ls -F -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxxx/Messages
+A ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxxxxx/Messages
+A ls -F -l
+H NIL
+X NIL
+
+C finger campbell
+D /user/profs/xxxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C mail alanc
+D /user/profs/xxxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C mail xxxxxxx
+D /user/profs/xxxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C finger alanc
+D /user/profs/xxxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxxx/Messages
+A ls -F
+H NIL
+X NIL
+
+C cd && ls
+D /user/profs/xxxxxxx/Messages
+A cd ; ls -F && ls -F
+H NIL
+X NIL
+
+C lo
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 09:24:32 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lo
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 11:12:01 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/xxxxxxx
+A ls -F -a
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 12:11:28 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 15:29:00 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lo
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 08:24:15 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 11:15:19 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:44:00 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 13:00:41 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 14:47:12 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 08:08:45 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 07:59:05 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C Kilroy Was Here
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 08:30:30 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm bmox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 08:31:06 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail obyrne
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 08:48:31 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 13:13:44 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 17:20:40 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 01:40:52 1987
+E NIL
+
+C who
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C {w
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X S  46
+
+C w
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C {
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C rwho | grep vaxa
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C :yS~t
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C /A{rwho | grep vaxa
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X S  46
+
+C /A{rwho | grep vaxa
+D /user/profs/xxxxxxx
+A NIL
+H T
+X S  46
+
+C rwho | grep vaxa
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep vax
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C {
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mesg
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~danny
+D /user/profs/xxxxxxx
+A cd ~danny ; ls -F
+H NIL
+X NIL
+
+C cd
+D /user/willowglen/danny
+A cd ; ls -F
+H NIL
+X NIL
+
+C unalias *
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~danny
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd emacs
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  88
+
+C cd maclib
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  88
+
+C cd bin
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  88
+
+C list
+D /user/willowglen/danny
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C cd ~boob
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  69
+
+C Null Command
+D /user/willowglen/danny
+A NIL
+H NIL
+X S  13
+
+C {
+D /user/willowglen/danny
+A NIL
+H NIL
+X N  10
+
+C w
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 09:40:21 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 08:24:02 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 08:35:18 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 15:53:37 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:44:24 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 13:58:36 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 13:31:15 1987
+E NIL
+
+C loout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 13:55:05 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 08:34:22 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:12:21 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 10:09:52 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 16:10:33 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 08:35:55 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail fraham
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail graham
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 14:03:05 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 19:40:46 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 10:08:58 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 07:57:06 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 13:26:53 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 10:24:12 1987
+E NIL
+
+C mail mason
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail dave
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mobx
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 16:26:27 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 09:29:34 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 11:02:08 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 15:44:41 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 09:27:17 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 08:48:25 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail kwok
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 13:41:38 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 09:29:32 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cllear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 08:24:35 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 08:52:54 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 10:45:15 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su brinsmead
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C psroff -me -Palw2 /user/grads/brinsmead/CCVLSI/abst4.nr
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f brinsmead
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls /usera/grads/brinsmead
+D /user/profs/xxxxxxx
+A ls -F /usera/grads/brinsmead
+H NIL
+X NIL
+
+C su brinsmead
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C psroff -me -Palw2 /user/grads/brinsmead/CCVLSI/abst4.nr
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C psroff -me -Palw2 /usera/grads/brinsmead/CCVLSI/abst4.nr
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C su brinsmead
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C su brinsmead
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C psroff -me -Palw2 /usera/grads/brinsmead/CCVLSI/abst4.nr
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C su brinsmead
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+C psroff -me -Palw2 /usera/grads/brinsmead/CCVLSI/abst4.nr
+D /user/profs/xxxxxxx
+A NIL
+H T
+X NIL
+
+
+S Thu Apr 30 15:57:35 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 10:07:20 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 11:20:28 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 09:46:27 1987
+E NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 09:34:34 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm bmox
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 13:56:58 1987
+E NIL
+
+C mail
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/xxxxxxx
+A NIL
+H NIL
+X NIL

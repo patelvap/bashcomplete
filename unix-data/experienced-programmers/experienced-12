@@ -1,0 +1,10840 @@
+S Sun Feb 22 11:31:42 1987
+E Sun Feb 22 11:34:26 1987
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C wh
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C set term=vt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .login
+H NIL
+X NIL
+
+C source .loin
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .lon
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Sun Feb 22 11:36:33 1987
+E Sun Feb 22 11:39:26 1987
+
+C set term=vt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt1 | 0
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv TERM vt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp || axc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 11:40:45 1987
+E Sun Feb 22 11:48:10 1987
+
+C set term=vt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp .cshrc myc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C set termvt100
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C |
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X S  35
+
+C logot
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Mon Feb 23 12:12:28 1987
+E Mon Feb 23 12:33:05 1987
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ; alias ls /bin/ls -las
+H NIL
+X NIL
+
+C mklib
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C mklib adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C set
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ; alias ls /bin/ls -las
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .cshrc
+H NIL
+X NIL
+
+C fred .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X S  11
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx
+A alias
+H NIL
+X NIL
+
+C set
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C e ada.mail
+D /user/cpsc500/l01b91/xxxxxx/500
+A /usr/local/bin/emacs ada.mail
+H NIL
+X NIL
+
+C md adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C mkdir adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C mklib adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C set
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C man -k mkl
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C man -k mk
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+
+S Mon Feb 23 12:40:35 1987
+E Mon Feb 23 12:53:46 1987
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx
+A cd
+H NIL
+X NIL
+
+C more .logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm .grave
+D /user/cpsc500/l01b91/xxxxxx
+A mv .grave ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .login
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .grave
+D /user/cpsc500/l01b91/xxxxxx
+A mv .grave ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X M  09
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm .*BAK
+D /user/cpsc500/l01b91/xxxxxx
+A mv .*BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm myc
+D /user/cpsc500/l01b91/xxxxxx
+A mv myc ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm temp
+D /user/cpsc500/l01b91/xxxxxx
+A mv temp ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd ~vaysblat
+D /user/cpsc500/l01b91/xxxxxx
+A cd ~vaysblat
+H NIL
+X D  88
+
+C whois bashir
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/grep bashir /etc/passwd
+H NIL
+X NIL
+
+C cd ~lakhani
+D /user/cpsc500/l01b91/xxxxxx
+A cd ~lakhani
+H NIL
+X D  88
+
+C cd ~uhl
+D /user/cpsc500/l01b91/xxxxxx
+A cd ~uhl
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/uhl
+A /bin/ls -las
+H NIL
+X NIL
+
+C cat .login
+D /user/cpsc500/l01b91/uhl
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc500/l01b91/uhl
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/uhl
+A /bin/ls -las
+H NIL
+X NIL
+
+C more .newsrc
+D /user/cpsc500/l01b91/uhl
+A NIL
+H NIL
+X NIL
+
+C more .profile
+D /user/cpsc500/l01b91/uhl
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/uhl
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/uhl
+A cd 500
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/uhl/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd ada
+D /user/cpsc500/l01b91/uhl/500
+A cd ada
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/uhl/500/ada
+A /bin/ls -las
+H NIL
+X NIL
+
+C type ada.lib
+D /user/cpsc500/l01b91/uhl/500/ada
+A NIL
+H NIL
+X N  10
+
+C more ada.lib
+D /user/cpsc500/l01b91/uhl/500/ada
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/uhl/500/ada
+A cd ..
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/uhl/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/uhl/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/uhl/500
+A cd
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/500
+A alias
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd ..
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .cshrc
+H NIL
+X NIL
+
+C mv .cshrc myc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ; alias ls /bin/ls -las
+H NIL
+X NIL
+
+
+S Wed Feb 25 14:48:27 1987
+E Wed Feb 25 14:56:38 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx
+A alias
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C whois al-karim
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/grep al-karim /etc/passwd
+H NIL
+X NIL
+
+C whois malaik
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/grep malaik /etc/passwd
+H NIL
+X NIL
+
+C whois lakhani
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/grep lakhani /etc/passwd
+H NIL
+X NIL
+
+C whois dunn
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/grep dunn /etc/passwd
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx
+A alias
+H NIL
+X NIL
+
+C /etc/passwd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C /bin/grep dunn /etc/passwd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd olthof
+D /user/cpsc500/l01b91/xxxxxx
+A cd olthof ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ; alias ls /bin/ls -las
+H NIL
+X D  88
+
+C cd ~olthof
+D /user/cpsc500/l01b91/xxxxxx
+A cd ~olthof ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ; alias ls /bin/ls -las
+H NIL
+X NIL
+
+C ls
+D /user/cpsc502/l01b01/olthof
+A /bin/ls -las
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc502/l01b01/olthof
+A NIL
+H NIL
+X NIL
+
+C user dunn
+D /user/cpsc502/l01b01/olthof
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc502/l01b01/olthof
+A cd ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ; alias ls /bin/ls -las
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .cshrc
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm .*BAK
+D /user/cpsc500/l01b91/xxxxxx
+A mv .*BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+
+S Thu Feb 26 21:05:14 1987
+E Thu Feb 26 22:13:18 1987
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .cshrc
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C a.mklib -f
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs part.a
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X Y 102
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.help
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.help
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm part.a.BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv part.a.BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500/ada'
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X S  11
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd .objects
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .objects ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir/.objects
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir/.objects
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ada -M part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C more .objects
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls .objects
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las .objects
+H NIL
+X NIL
+
+C a.help
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.ld part
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.ld -v part
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.ld part01
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C more ada.lib
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man a.path
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man a.ld
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv part.a partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 21:35:52 1987
+E Thu Feb 26 21:57:52 1987
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C more ada.mail
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C more assign8.spit
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+C more assign8.spit
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H T
+X NIL
+
+C more assign8.spit
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H T
+X NIL
+
+C more assign8.spit
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H T
+X NIL
+
+
+S Thu Feb 26 21:38:00 1987
+E Thu Feb 26 21:41:42 1987
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C st
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C set
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx/500
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .cshrc
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ada part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+
+S Thu Feb 26 21:42:10 1987
+E Thu Feb 26 21:43:12 1987
+
+C snobol
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Feb 26 22:11:07 1987
+E Fri Feb 27 01:04:12 1987
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ada
+D /user/cpsc500/l01b91/xxxxxx
+A cd ada ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/ada
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/ada ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H T
+X NIL
+
+C e partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs partition.a
+H NIL
+X NIL
+
+C ada -M partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp ../.done/assign4.mod
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp ../.done/assign4.mod temp
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C fred partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs partition.a
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C mv partition.a assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls ../.done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las ../.done
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C mv type* assign11.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A alias
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp/adadir/assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X D  70
+
+C cp adadir/assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las adadir
+H NIL
+X NIL
+
+C cp adadir/assign11.* *.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp adadir/assign11.* assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp adadir/assign11.a assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp adadir/assign11.a assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H T
+X NIL
+
+C cp adadir/assign11.script assign11.script
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C store assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv assign11.* .done/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm part.*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv part.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv assign11.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv a.out ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm partition.*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv partition.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm temp
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv temp ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cp ../.done/assign3.mod
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp ../.done/assign3components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C cp ../.done/assign3.mod components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e comp[onents.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs comp[onents.a
+H NIL
+X S  71
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C e test.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs test.a
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M test.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M test.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M test.a &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C ls ../.done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las ../.done
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C more graphs.test
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+C more asssign7.test1
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C more assign7.test1
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C copy .done/graphs.test
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C cp .done/graphs.test graphs.test
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp ../.done/graphs.test graphs.test
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C more graphs.test
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv graphs.test
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv graphs.test infile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" components.a
+H NIL
+X NIL
+
+
+S Fri Feb 27 01:58:48 1987
+E Fri Feb 27 01:59:24 1987
+
+C cd 500/.done
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/.done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cat assign8.spit
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 02:23:38 1987
+E Fri Feb 27 03:30:45 1987
+
+C more 500/.done/assign8.spit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 17:53:59 1987
+E Fri Feb 27 18:04:18 1987
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C cat infile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+
+S Mon Mar  2 13:11:59 1987
+E Mon Mar  2 18:52:18 1987
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C learn
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat infile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more outfile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e infile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs infile
+H NIL
+X NIL
+
+C more outfile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C more outfile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more outfile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C a.out &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M components.a &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C ls ../.done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las ../.done
+H NIL
+X NIL
+
+C cp infile infile2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv infile infile1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e infile2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs infile2
+H NIL
+X NIL
+
+C mv infile1 infile7
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv infile2 infile6
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C echo > infile5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more infile5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp infile6 infile4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e infile4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs infile4
+H NIL
+X NIL
+
+C ada -M components.a &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C kill 8713
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C kill 8837
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C kill 8839
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M -o components components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -o components -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X Y 102
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e infile4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs infile4
+H NIL
+X NIL
+
+C cp infile6 infile3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e infile3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs infile3
+H NIL
+X NIL
+
+C cp infile6 infile2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e infile2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs infile2
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C echo 1 > infile1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat infile1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C compnents
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -o components -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -o components -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -o components -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -o components -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -o components -M components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv a.out ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cat infile*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C more components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv components.a assign12.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv type* assign12.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm infile*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv infile* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm outfile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv outfile ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv components ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp adadir/assin12.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X M  09
+
+C cp adadir/assign12.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp adadir/assign12.* *.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C cp adadir/assign12.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/500
+A alias
+H NIL
+X NIL
+
+C cp /adadir/assign12.* assign12.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X D  70
+
+C cp adadir/assign12.* assign12.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las adadir
+H NIL
+X NIL
+
+C cp adadir/assign12.a assign12.a
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp adadir/assign12.script assign12.script
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C store assign12.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv assign12.* .done/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/500
+A alias
+H NIL
+X NIL
+
+C restore assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv .done/assign11.* assign11.*
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C restore assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv .done/assign11.a assign11.a
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm .*.BAK
+D /user/cpsc500/l01b91/xxxxxx
+A mv .*.BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C restore assign11.script
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv .done/assign11.script assign11.script
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C mv assign11.script adadir/assign11.script
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm assign12.*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv assign12.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C mv assign11.script partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs partition.a
+H NIL
+X NIL
+
+C ada -M partitions.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M partition
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C partition
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C more partition.o
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+
+S Wed Mar  4 12:50:33 1987
+E Wed Mar  4 12:51:26 1987
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 13:37:44 1987
+E Wed Mar  4 13:51:27 1987
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp rohl_compiler.c assign3.comp
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp rohl_compiler.p assign3.comp
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp rohl_machine.p assign3.mach
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C store assign3.*
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv assign3.* .done/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C fuck off and die
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx
+A alias
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 23:30:04 1987
+E Thu Mar  5 23:33:50 1987
+
+C 0
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C more assign12.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:55:46 1987
+E Fri Mar  6 15:00:34 1987
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C ls c
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las c
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C more a*12.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 16:16:26 1987
+E Fri Mar  6 16:19:52 1987
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more comp.p
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat comp.p
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 20:00:13 1987
+E Fri Mar  6 20:10:10 1987
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C fred Components.o
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx
+A alias
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C fred Components.p
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e Components.p
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs Components.p
+H NIL
+X NIL
+
+C pc Components.p
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx
+A history -r
+H NIL
+X NIL
+
+C pc Components.p
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H T
+X NIL
+
+
+S Fri Mar  6 20:55:43 1987
+E Fri Mar  6 23:26:59 1987
+
+C md 410
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mkdir 410
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp Components.p 410/Components.p
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.*
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las *.*
+H NIL
+X NIL
+
+C rm *.*
+D /user/cpsc500/l01b91/xxxxxx
+A mv *.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd 410
+D /user/cpsc500/l01b91/xxxxxx
+A cd 410 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/410
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp 500/.done/assign3.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A NIL
+H NIL
+X NIL
+
+C cp 500/.done/assign3.mod comp.p
+D /user/cpsc500/l01b91/xxxxxx/410
+A NIL
+H T
+X NIL
+
+C cp ~xxxxxx/500/.done/assign3.mod comp.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A NIL
+H NIL
+X NIL
+
+C e comp.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A /usr/local/bin/emacs comp.mod
+H NIL
+X NIL
+
+C fred comp.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/410
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C mod2 comp.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/410
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C mod2 comp.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/410
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *.mod
+D /user/cpsc500/l01b91/xxxxxx/410
+A mv *.mod ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc500/l01b91/xxxxxx/410
+A mv *.BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd .
+D /user/cpsc500/l01b91/xxxxxx/410
+A cd . ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx/410
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp ~xxxxxx/410/Components.p Components.p
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rm 410/*.*
+D /user/cpsc500/l01b91/xxxxxx
+A mv 410/*.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rmdir 410
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 410
+D /user/cpsc500/l01b91/xxxxxx
+A cd 410 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/410
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm .*
+D /user/cpsc500/l01b91/xxxxxx/410
+A mv .* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/410
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/410
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rmdir 410
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp ../.done/assign12.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp ../.done/assign12.a Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C fred Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C more ../.done/assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more Part.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C more partition.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls ../.done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las ../.done
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C mv partition.a assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv typescript assign11.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm test.*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv test.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm partition
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv partition ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv a.out ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C mv adadir/assign11.a assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C mv adadir/assign11.script assign11.script
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C \ìs
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C store assign11.*
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv assign11.* .done/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm part*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv part* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C more ../.done/assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp ../.done/graphs.test infile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more infile
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr Component.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" Component.a
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C lpr Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" Components.a
+H NIL
+X NIL
+
+C lpr ../.done/assign12.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" ../.done/assign12.a
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man xmodem
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man kermit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man -k kermit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C man -k modem
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C kermit -h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C xmodem
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 23:14:55 1987
+E Fri Mar  6 23:27:06 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C spell
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C spell
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C spell
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 12:52:39 1987
+E Tue Mar 10 12:53:04 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 14:09:26 1987
+E Tue Mar 10 14:11:11 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/mail
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C more moses
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 20:34:22 1987
+E Tue Mar 10 20:38:50 1987
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C set
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs components.a
+H NIL
+X NIL
+
+C \åmacs components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C fred components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A alias
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C fred Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 10 20:41:15 1987
+E Tue Mar 10 21:36:45 1987
+
+C cd 500\ádadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500\ádadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500\ádadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500\ádadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C mv infile G3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G1
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e G1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G1
+H NIL
+X NIL
+
+C more G1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G2
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp Components.a backup
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C e spit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs spit
+H NIL
+X NIL
+
+C e spit2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs spit2
+H NIL
+X NIL
+
+C source spit2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm spit2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv spit2 ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C source spit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 22:23:54 1987
+E Tue Mar 10 22:29:43 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cs ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C mv Components.a Components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components
+H NIL
+X NIL
+
+C set
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat Components
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv Components Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm Components.p
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv Components.p ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm spit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv spit ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+
+S Tue Mar 10 22:53:15 1987
+E Tue Mar 10 23:07:40 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C mv Components.a backup
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C fred Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C fred Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 14:25:34 1987
+E Wed Mar 11 14:49:48 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C ada -M Components.a &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C echo > T1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C echo 1 > T2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat T2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat T1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp G1 T3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e T3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs T3
+H NIL
+X NIL
+
+C cp G1 T4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e T4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs T4
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e T5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs T5
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+
+S Wed Mar 11 15:07:04 1987
+E Wed Mar 11 15:08:29 1987
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A alias
+H NIL
+X NIL
+
+
+S Wed Mar 11 16:11:26 1987
+E Wed Mar 11 16:13:51 1987
+
+C cd 500/adaditr
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adaditr ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C more type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H T
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+
+S Thu Mar 12 16:16:11 1987
+E Thu Mar 12 16:55:59 1987
+
+C cp Components.a Backup
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp Components.a Backup
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C mv a.out old
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C c
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/clear
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm Backup
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv Backup ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm backup
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv backup ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm old
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv old ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv a.out ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H T
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C mv type* 410as2.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls]
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+
+S Thu Mar 12 17:17:17 1987
+E Thu Mar 12 17:17:38 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+
+S Sat Mar 21 21:01:51 1987
+E Sat Mar 21 21:04:19 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C cat Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 09:23:27 1987
+E NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C ftp cs_sun_fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C mv 410as2.script assign2.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp G3 G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G4
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C lpr Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" Components.a
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H T
+X NIL
+
+C \ìpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm assign2.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv assign2.script ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more G1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp G4 G5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G5
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C cd cpsc500
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd cpsc500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd ~cpsc500
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd ~cpsc500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  69
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd handouts
+D /user/cpsc500
+A cd handouts ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -las
+H NIL
+X NIL
+
+C more no20
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -las
+H NIL
+X NIL
+
+C more no25
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 11:09:00 1987
+E Tue Mar 24 11:11:25 1987
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 27126
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 18:08:06 1987
+E Tue Mar 24 18:29:13 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 08:32:53 1987
+E Wed Mar 25 08:41:15 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C cat Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" Components.a
+H NIL
+X NIL
+
+
+S Wed Mar 25 11:09:19 1987
+E Wed Mar 25 11:13:33 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C cat Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+
+S Wed Mar 25 14:24:50 1987
+E Wed Mar 25 16:04:29 1987
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Components.a
+H NIL
+X NIL
+
+C cat G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Components.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C asas
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C I'm waiting for a *?@#$%$#@## compilation you stupid systemasasasas
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X S  11
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C cat T?
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat T1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat T2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat T3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls t?
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las t?
+H NIL
+X M  09
+
+C ls T?
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las T?
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat T5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e T5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs T5
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat G1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G1
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G2
+H NIL
+X NIL
+
+C mv a.out run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M Components.a &
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G2
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G2
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat G3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C mv G4 G3
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cp G3 G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs G4
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C cat G4
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm run
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv run ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+C cat G5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm G5
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv G5 ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C mv Components.a BiComponents.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e BiComponents.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs BiComponents.a
+H NIL
+X NIL
+
+C mv type* assign3.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+
+S Thu Mar 26 19:56:29 1987
+E Thu Mar 26 19:57:52 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:17:09 1987
+E Wed Apr  1 13:29:49 1987
+
+C T
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/mail
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C type moses
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C more moses
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm moses
+D /user/cpsc500/l01b91/xxxxxx
+A mv moses ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C lpr rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/lpr -C "ASH 1087" rohl_compiler.p
+H NIL
+X NIL
+
+C lpr rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/lpr -C "ASH 1087" rohl_machine.p
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C more 510mail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~herr
+D /user/cpsc500/l01b91/xxxxxx
+A cd ~herr ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/grads/herr
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd testass4
+D /user/grads/herr
+A cd testass4 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/grads/herr/testass4
+A /bin/ls -las
+H NIL
+X NIL
+
+C lpr README
+D /user/grads/herr/testass4
+A /usr/ucb/lpr -C "ASH 1087" README
+H NIL
+X NIL
+
+C lpr *.rohl
+D /user/grads/herr/testass4
+A /usr/ucb/lpr -C "ASH 1087" *.rohl
+H NIL
+X NIL
+
+C cd
+D /user/grads/herr/testass4
+A cd ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+
+S Wed Apr  1 20:16:00 1987
+E Wed Apr  1 20:40:48 1987
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep hirji
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C smail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rm ../510mail
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv ../510mail ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X H  25
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+
+S Wed Apr  1 20:41:54 1987
+E Wed Apr  1 20:43:45 1987
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep baezner
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/clear
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep xxxxxx
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 20:43:37 1987
+E Wed Apr  1 22:26:03 1987
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e test.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test.p
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rm test.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv test.p ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C gyhujjyihhjkk
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs^pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs^pro
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C e .emacs_pro.mo
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro.mo
+H NIL
+X NIL
+
+
+S Wed Apr  1 22:28:09 1987
+E Thu Apr  2 04:12:40 1987
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohlci.make > errors &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C more obj
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rm test*
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv test* ~xxxxxx/.toilet/
+H NIL
+X M  09
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C cp .done/Design3.t des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C more errors
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more errors
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlci.make > errors &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C more errors
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlci.make > errors &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C more errors
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlci.make > errors &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp ~herr/testass4/*.rohl *.*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp ~herr/testass4/*.rohl *.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/510
+A alias
+H NIL
+X NIL
+
+C cd ~herr/testass4
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd ~herr/testass4 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cp500 *.rohl
+D /user/grads/herr/testass4
+A cp *.rohl ~xxxxxx/500/
+H NIL
+X NIL
+
+C cp510 *.rohl
+D /user/grads/herr/testass4
+A cp *.rohl ~xxxxxx/510/
+H NIL
+X NIL
+
+C cd500
+D /user/grads/herr/testass4
+A cd ~xxxxxx/500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rm *.rohl
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv *.rohl ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd510
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd ~xxxxxx/510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C e test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test1.rohl
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C more .done/Swap.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more .done/sillysort.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more errors
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test1.rohl
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C more test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test1.rohl
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C more test1.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test2.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test2.rohl
+H NIL
+X NIL
+
+
+S Thu Apr  2 04:13:21 1987
+E Thu Apr  2 04:14:33 1987
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C makeallfiles &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X Y 102
+
+C more makeallfiles
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C source makeallfiles &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 20:03:06 1987
+E Thu Apr  2 22:32:18 1987
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test1.rohl
+H NIL
+X NIL
+
+C e test2.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test2.rohl
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test2.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test2.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test2.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test2.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test2.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test2.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test3.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test3.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test3.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohlc.make &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rolci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test4.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test4.rohl
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test4.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test4.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test4.rohl
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test5.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test5.rohl
+H NIL
+X NIL
+
+C e test5.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test5.rohl
+H NIL
+X NIL
+
+C e test6.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test6.rohl
+H NIL
+X NIL
+
+C e test7.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test7.rohl
+H NIL
+X NIL
+
+C e test8.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test8.rohl
+H NIL
+X NIL
+
+C more .done/BubbleSort.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C more .done/Bubble1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls *.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las *.rohl
+H NIL
+X NIL
+
+C e test9.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test9.rohl
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohlci.make &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test8.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test8.rohl
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlci.make > errors &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test9.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test9.rohl
+H NIL
+X NIL
+
+C e test10.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test10.rohl
+H NIL
+X NIL
+
+C e test11.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test11.rohl
+H NIL
+X NIL
+
+C ls *.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las *.rohl
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C cp510 attach.rohl
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A cp attach.rohl ~xxxxxx/510/
+H NIL
+X NIL
+
+C cp510 detach.rohl
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A cp detach.rohl ~xxxxxx/510/
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls *.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las *.rohl
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test11.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A /bin/ls -las
+H NIL
+X NIL
+
+C more part.rohl
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e test11.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test11.rohl
+H NIL
+X NIL
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C more part.rohl
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A NIL
+H NIL
+X NIL
+
+C more part2.rohl
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A NIL
+H NIL
+X NIL
+
+C more part2.rohl
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A NIL
+H T
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510/.done
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test11.
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test11.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test11.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test11.rohl
+H NIL
+X NIL
+
+C more detach,rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more detach.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs fg
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C man ps
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C cd 520
+D /user/cpsc500/l01b91/xxxxxx
+A cd 520 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C more test11.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls rohl*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las rohl*
+H NIL
+X NIL
+
+C e test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test1.rohl
+H NIL
+X NIL
+
+C cp test1.rohl test12.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test12.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test12.rohl
+H NIL
+X NIL
+
+C more .done/Bubble1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C more test12.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C lpr rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/lpr -C "ASH 1087" rohl_compiler.p
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C smail
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+
+S Thu Apr  2 20:18:48 1987
+E Thu Apr  2 21:16:27 1987
+
+C make -f rohlc.make
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C make -f rohlc.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlc.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 22:32:09 1987
+E Fri Apr  3 05:23:03 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/mail
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e des.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des.t
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C a
+D /user/cpsc500/l01b91/xxxxxx/510
+A alias
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/mail
+H NIL
+X NIL
+
+C smail
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C more ../.emacs_pro
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cd .
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd . ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .emacs_proi
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_proi
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .emacs_pro
+H NIL
+X NIL
+
+C fred .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test12.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test12.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlv
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp test12.rohl test13.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test13.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test13.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C e test13.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test13.rohl
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C wc des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C wc .done/Design3.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C wc .done/Design2.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C wc .done/Design1.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C more rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C echo > test1.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C test1
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ]more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_compiler.p
+H NIL
+X NIL
+
+C make -f rohl_compiler.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlci.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlc.make &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp test1.data test2.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp test1.data test3.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test4.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test5.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test6.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test7.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test8.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test9.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test10.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test11.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test12.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C cp test1.data test13.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C riohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 05:19:07 1987
+E Fri Apr  3 05:22:54 1987
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C make -f rohlm.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 05:26:51 1987
+E Fri Apr  3 07:20:23 1987
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls test1.*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las test1.*
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls rohlm*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las rohlm*
+H NIL
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test2.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test4.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test3.results
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlci
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv core ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test2.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv core ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C more test1.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv core ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test13.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test2.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test3.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test11.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test4.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test5.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C more test6.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C more test7.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C more test8.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C more test9.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C more test11.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test11.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -k rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test3.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlm.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs rohl_machine.p
+H NIL
+X NIL
+
+C lpr rohl_machine.p
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/lpr -C "ASH 1087" rohl_machine.p
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test9.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test9.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/510
+A history -r
+H NIL
+X NIL
+
+C make -f rohlmi.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test9.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test9.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C e test12.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test12.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test12.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test12.rohl
+H NIL
+X NIL
+
+C ls test12*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las test12*
+H NIL
+X NIL
+
+C more test12.rohl.bak
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test12.rohl.BAK
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C mv test12.rohl.BAK test12.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp test1.rohl test14.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e test14.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs test14.rohl
+H NIL
+X NIL
+
+C rohlc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cp test1.data test14.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlmi
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test14.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C make -f rohlm.make &
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ls rohlm*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las rohlm*
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls rohlm*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las rohlm*
+H NIL
+X NIL
+
+C e des4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/local/bin/emacs des4.t
+H NIL
+X NIL
+
+C mv des4.t Design4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C lpr Design4.t
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/lpr -C "ASH 1087" Design4.t
+H NIL
+X NIL
+
+C rm test14.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv test14.list ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls test14*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las test14*
+H NIL
+X NIL
+
+C source ../.login
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rm test14.list
+D /user/cpsc500/l01b91/xxxxxx
+A mv test14.list ~xxxxxx/.toilet/
+H T
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd510
+D /user/cpsc500/l01b91
+A cd ~xxxxxx/510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rm test14.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv test14.list ~xxxxxx/.toilet/
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C \òm .toilet
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C \òmdir .toilet
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls .t*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .t*
+H NIL
+X M  09
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rm test14.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv test14.list ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls rohlm*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las rohlm*
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test1.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C more test9.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs .cshrc
+H NIL
+X NIL
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C source ../.cshrc
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx
+A cp test14.object test11.object ; cp test14.master test11.master ; cp test14.look test11.look ; cp test14.attr test11.attr ; \òohlm
+H NIL
+X N  10
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rohlm
+D /user/cpsc500/l01b91/xxxxxx/510
+A cp test14.object test11.object ; cp test14.master test11.master ; cp test14.look test11.look ; cp test14.attr test11.attr ; \òohlm
+H NIL
+X NIL
+
+C more test11.resd*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X M  09
+
+C more test11.res*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H T
+X NIL
+
+C ls *.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las *.list
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/510
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+
+S Fri Apr  3 06:50:46 1987
+E Fri Apr  3 06:51:57 1987
+
+C 510
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C make -f rohlm.make
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 09:56:32 1987
+E Mon Apr  6 10:48:04 1987
+
+C cd 510
+D /user/cpsc500/l01b91/xxxxxx
+A cd 510 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv core ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.attr
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.attr ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.list
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.list ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm*.master
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X M  09
+
+C rm*.object
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X M  09
+
+C rm *.results
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.results ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *.data
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.data ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.look
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.look ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.results
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.results ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.object
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.object ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *.master
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *.master ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C mv typescript assign4.script
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C more spitr
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X NIL
+
+C rm spitr
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv spitr ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm *BAK
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv *BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls .done/*.rohl
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las .done/*.rohl
+H NIL
+X NIL
+
+C del attach.*
+D /user/cpsc500/l01b91/xxxxxx/510
+A NIL
+H NIL
+X N  10
+
+C rm attach.*
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv attach.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm detach.*
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv detach.* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/510
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm errors
+D /user/cpsc500/l01b91/xxxxxx/510
+A mv errors ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/510
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm .*BAK
+D /user/cpsc500/l01b91/xxxxxx
+A mv .*BAK ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C more BlindBox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C del BlindBox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C rm BlindBox
+D /user/cpsc500/l01b91/xxxxxx
+A mv BlindBox ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C more 500mail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm 500mail
+D /user/cpsc500/l01b91/xxxxxx
+A mv 500mail ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C del ada.mail
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C rm ada.mail
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv ada.mail ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm 500assigns
+D /user/cpsc500/l01b91/xxxxxx/500
+A mv 500assigns ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C e account
+D /user/cpsc500/l01b91/xxxxxx/500
+A /usr/local/bin/emacs account
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C del G?
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C rm G?
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv G? ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C rm T?
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv T? ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv a.out ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm *.script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv *.script ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cp BiComponents.a Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Queens.a
+H NIL
+X NIL
+
+C ls ../.done
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las ../.done
+H NIL
+X NIL
+
+C more ../.done/spit1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C more BiComponents.1
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more BiComponents.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+
+S Mon Apr  6 20:11:29 1987
+E Mon Apr  6 23:57:42 1987
+
+C cd 500/adadoir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadoir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X D  88
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las
+H NIL
+X NIL
+
+C e Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Queens.a
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .. ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C dir 500/.done/*.a
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls 500/.done/*.a
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las 500/.done/*.a
+H T
+X NIL
+
+C moree .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C more .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H T
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C more ada.lib
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A history -r
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ls *.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las *.a
+H NIL
+X NIL
+
+C e BiComponents.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs BiComponents.a
+H NIL
+X NIL
+
+C e Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs Queens.a
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C lpr Queens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" Queens.a
+H NIL
+X NIL
+
+
+S Mon Apr  6 23:48:38 1987
+E Mon Apr  6 23:57:13 1987
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C e as8.a
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs as8.a
+H NIL
+X NIL
+
+C lpr as8.a
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpr -C "ASH 1087" as8.a
+H NIL
+X NIL
+
+C rm as8.a
+D /user/cpsc500/l01b91/xxxxxx
+A mv as8.a ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+
+S Tue Apr  7 09:02:59 1987
+E Tue Apr  7 10:43:07 1987
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C cd adadir
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C mv Queens.a NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs NQueens.a
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out > spit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more spit
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 500/adadir
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+C ada -M NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C more NQueens.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C rm type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A mv type* ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A NIL
+H NIL
+X NIL
+
+C lpr type*
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" type*
+H NIL
+X NIL
+
+
+S Tue Apr  7 09:58:32 1987
+E Tue Apr  7 09:59:58 1987
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+
+S Tue Apr  7 10:41:38 1987
+E Tue Apr  7 10:42:48 1987
+
+C cd 500/.done
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500/.done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls *.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /bin/ls -las *.a
+H NIL
+X NIL
+
+C more assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A NIL
+H NIL
+X NIL
+
+C lpr assign1.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /usr/ucb/lpr -C "ASH 1087" assign1.a
+H NIL
+X NIL
+
+C lpr assign11.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /usr/ucb/lpr -C "ASH 1087" assign11.a
+H NIL
+X NIL
+
+
+S Wed Apr  8 12:37:04 1987
+E Wed Apr  8 12:38:49 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/mail
+H NIL
+X NIL
+
+
+S Thu Apr  9 12:23:21 1987
+E Thu Apr  9 12:53:30 1987
+
+C fred temp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C fred temp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed temp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm temp
+D /user/cpsc500/l01b91/xxxxxx
+A mv temp ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C more ~xxxxxx/.toilet/temp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed mp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C rm mp
+D /user/cpsc500/l01b91/xxxxxx
+A mv mp ~xxxxxx/.toilet/
+H NIL
+X NIL
+
+C ed temp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e temp
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs temp
+H NIL
+X NIL
+
+C wc temp
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr temp
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpr -C "ASH 1087" temp
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C \ìpq
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+
+S Sat Apr 11 14:43:57 1987
+E Sat Apr 11 14:44:33 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 14:24:52 1987
+E Mon Apr 13 14:25:06 1987
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 14:52:13 1987
+E Mon Apr 13 14:56:44 1987
+
+C 00
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C cd 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500 ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A /bin/ls -las .done
+H NIL
+X NIL
+
+C CCROSSTALK - XVI
+D /user/cpsc500/l01b91/xxxxxx/500
+A NIL
+H NIL
+X N  10
+
+C cd .done
+D /user/cpsc500/l01b91/xxxxxx/500
+A cd .done ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls *.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /bin/ls -las *.a
+H NIL
+X NIL
+
+C lpr *.a
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A /usr/ucb/lpr -C "ASH 1087" *.a
+H NIL
+X NIL
+
+C cd ../adadir
+D /user/cpsc500/l01b91/xxxxxx/500/.done
+A cd ../adadir ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C ls *.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /bin/ls -las *.a
+H NIL
+X NIL
+
+C lpr *.a
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A /usr/ucb/lpr -C "ASH 1087" *.a
+H NIL
+X NIL
+
+C cd ~xxxxxx
+D /user/cpsc500/l01b91/xxxxxx/500/adadir
+A cd ~xxxxxx ; set WD = `/bin/pwd` ; set prompt = "#! [$WD:t] --> " ;
+H NIL
+X NIL
+
+C smail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs -lsmail -esmail-com
+H NIL
+X NIL
+
+C vt00
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/local/bin/emacs
+H NIL
+X NIL
+
+
+S Wed Apr 15 01:34:23 1987
+E Wed Apr 15 01:37:37 1987
+
+C vt100
+D /user/cpsc500/l01b91/xxxxxx
+A set term = vt100 ; setenv TERM vt100
+H NIL
+X NIL
+
+C prmail
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/mail
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -las
+H NIL
+X NIL
+
+C lpr .login
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpr -C "ASH 1087" .login
+H NIL
+X NIL
+
+C lpr .logout
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpr -C "ASH 1087" .logout
+H NIL
+X NIL
+
+C lpr .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpr -C "ASH 1087" .emacs_pro
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A /usr/ucb/lpq $user
+H NIL
+X NIL
+
+C more Blind*
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more Blind*
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H T
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL

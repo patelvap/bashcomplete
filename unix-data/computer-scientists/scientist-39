@@ -1,0 +1,10992 @@
+S Mon Feb 16 14:00:19 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/grads/xxxxxxx
+A cd 533 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/533
+A ls -F
+H NIL
+X NIL
+
+C emacs a2.grading
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C lpr a2.grading
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 10:22:58 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 19:41:16 1987
+E NIL
+
+C mail rokne
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd PROLOG
+D /user/grads/xxxxxxx
+A cd PROLOG ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cd 670
+D /user/grads/xxxxxxx/PROLOG
+A cd 670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670
+A ls -F
+H NIL
+X NIL
+
+C mkdir cx
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C cd cx
+D /user/grads/xxxxxxx/PROLOG/670
+A cd cx ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C mkdir assocmem
+D /user/grads/xxxxxxx/PROLOG/670/cx
+A NIL
+H NIL
+X NIL
+
+C cd assocmem
+D /user/grads/xxxxxxx/PROLOG/670/cx
+A cd assocmem ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C emacs naive
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C Yfg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A who | sort | more
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C cd ../../forestry
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A cd ../../forestry ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l utils
+D /user/grads/xxxxxxx/PROLOG/670/forestry
+A ls -F -l utils
+H NIL
+X NIL
+
+C cd ../cx/assocmem
+D /user/grads/xxxxxxx/PROLOG/670/forestry
+A cd ../cx/assocmem ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C mkdir ~/PROLOG/lib
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C cp ~/PROLOG/670/forestry/utils ~/PROLOG/lib
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C ls -l ~/PROLOG/lib/utils
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A ls -F -l ~/PROLOG/lib/utils
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A who | sort | more
+H NIL
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C emacs naive
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/cx/assocmem
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 18 10:34:33 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail allan
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C no one knows
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C yes you are a fool
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C yes "THIS TERMINAL IS NO LONGER FUNCTIONAL DUE TO MEMORY FAILURE OR DAC XBFTZ"
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 14:12:19 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Feb 23 11:18:26 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 25 10:55:48 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs valerio/mbox
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/grads/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx
+A ls -F -l
+H NIL
+X NIL
+
+C emacs mbox.out
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail goldring
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd PROLOG
+D /user/grads/xxxxxxx
+A cd PROLOG ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG
+A ls -F
+H NIL
+X NIL
+
+C rm *.pl
+D /user/grads/xxxxxxx/PROLOG
+A mv *.pl ~/deleted
+H NIL
+X NIL
+
+C cd ~/deleted
+D /user/grads/xxxxxxx/PROLOG
+A cd ~/deleted ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/deleted
+A ls -F
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C rm *
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/deleted
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 25 14:29:27 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox.out
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tail mbox
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews cpsc.grads
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 25 19:17:52 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Feb 26 10:52:58 1987
+E NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail greenberg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C cd ~ian
+D /user/grads/xxxxxxx
+A cd ~ian ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C ls prolog
+D /user/profs/ian
+A ls -F prolog
+H NIL
+X NIL
+
+C find . -name explain -print
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd courses/533/prolog/rules/explain
+D /user/profs/ian
+A cd courses/533/prolog/rules/explain ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  88
+
+C cd courses/533/prolog/rules/
+D /user/profs/ian
+A cd courses/533/prolog/rules/ ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C ls
+D /user/profs/ian/courses/533/prolog/rules
+A ls -F
+H NIL
+X NIL
+
+C more utilities
+D /user/profs/ian/courses/533/prolog/rules
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/profs/ian/courses/533/prolog/rules
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/ian/courses/533/prolog/rules
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/ian/courses/533/prolog/rules
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/profs/ian/courses/533/prolog/rules
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 27 15:49:59 1987
+E NIL
+
+C readnews cpsc.grads
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670
+D /user/grads/xxxxxxx
+A cd 670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  88
+
+C mkdir 670
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670
+D /user/grads/xxxxxxx
+A cd 670 ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C emacs id3.proposal
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C mail cleary
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/670
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 27 16:36:24 1987
+E NIL
+
+C cd ~cleary/connect
+D /user/grads/xxxxxxx
+A cd ~cleary/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C cd doc
+D /user/profs/cleary/connect
+A cd doc ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C more README
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C more makefile
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C make print
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/profs/cleary/connect/doc
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 28 10:41:59 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C cd 670
+D /user/grads/xxxxxxx
+A cd 670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670
+A ls -F
+H NIL
+X NIL
+
+C cd ~/PROLOG/670
+D /user/grads/xxxxxxx/670
+A cd ~/PROLOG/670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C mkdir id3
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C cd id3
+D /user/grads/xxxxxxx/PROLOG/670
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C lpr ~/mbox
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd /usr
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd /usr ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /usr
+A ls -F
+H NIL
+X NIL
+
+C cd local
+D /usr
+A cd local ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /usr/local
+A ls -F
+H NIL
+X NIL
+
+C ls doc
+D /usr/local
+A ls -F doc
+H NIL
+X NIL
+
+C fg
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C cd ~/PROLOG/lib
+D /usr/local
+A cd ~/PROLOG/lib ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/lib
+A ls -F
+H NIL
+X NIL
+
+C more utils
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C pushd /usr/lib/local/doc
+D /user/grads/xxxxxxx/PROLOG/lib
+A pushd /usr/lib/local/doc ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  88
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/lib
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 28 14:24:53 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C cd PROLOG/670/id3
+D /user/grads/xxxxxxx
+A cd PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/670
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670
+A ls -F
+H NIL
+X NIL
+
+C emacs proj.progress
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C 'who
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X S  11
+
+C who
+D /user/grads/xxxxxxx/670
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  2 11:24:13 1987
+E Mon Mar  2 13:30:28 1987
+
+C readnews cpsc.graphicsland
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd PROLOG/670/id3
+D /user/grads/xxxxxxx
+A cd PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 11:04:37 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f keith
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail andrews
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd PROLOG/670/id3
+D /user/grads/xxxxxxx
+A cd PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 14:27:38 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C cd PROLOG/670/id3
+D /user/grads/xxxxxxx
+A cd PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C cp id3_proto.CKP saved.CKP
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto.CK
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ls *
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F *
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C chmod 755 printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar  4 11:46:47 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews cpsc.graphicsland
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd PROLOG/670/id3
+D /user/grads/xxxxxxx
+A cd PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+
+S Wed Mar  4 14:49:24 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C mail ian
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C q
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK *.CKP
+D /user/grads/xxxxxxx
+A mv *.BAK *.CKP ~/deleted
+H NIL
+X NIL
+
+C cd PROLOG/670/id3
+D /user/grads/xxxxxxx
+A cd PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C rm *.BAK *.CKP
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A mv *.BAK *.CKP ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C more printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/.deleted
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/.deleted ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  88
+
+C cd ~/deleted
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/deleted ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/deleted
+A ls -F
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C unalias
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X B  48
+
+C unalias rm
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C rm *
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/deleted
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs mbox.out
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK *.CKP
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:57:08 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C clear
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 14:04:14 1987
+E NIL
+
+C mail ian
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .alias
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .alias
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs ~/670/progress.report
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/670
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670
+A ls -F
+H NIL
+X NIL
+
+C emacs proj.progress
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar  6 11:06:08 1987
+E Fri Mar  6 14:02:15 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar  7 13:39:24 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H T
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 11:10:27 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  8 15:04:10 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mkdir itcompiles
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mkdir itworks
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto itcompiles
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 18:38:09 1987
+E NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C OPe
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X N  10
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H T
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  9 10:52:04 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail herr
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mv id3_proto id3_proto.old
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H T
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg [
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~cleary/connect
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~cleary/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/cleary/connect
+A ls -F bin
+H NIL
+X NIL
+
+C more README
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C cd src
+D /user/profs/cleary/connect
+A cd src ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/src
+A ls -F
+H NIL
+X NIL
+
+C more README
+D /user/profs/cleary/connect/src
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/src
+A cd .. ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls doc
+D /user/profs/cleary/connect
+A ls -F doc
+H NIL
+X NIL
+
+C more doc/makefiel
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C more doc/makefile
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /user/profs/cleary/connect
+A cd lib ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/lib
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/lib
+A cd .. ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls examples
+D /user/profs/cleary/connect
+A ls -F examples
+H NIL
+X NIL
+
+C ls example
+D /user/profs/cleary/connect
+A ls -F example
+H NIL
+X NIL
+
+C ls example/4color
+D /user/profs/cleary/connect
+A ls -F example/4color
+H NIL
+X NIL
+
+C more example/4color/makefile
+D /user/profs/cleary/connect
+A NIL
+H T
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C ls src
+D /user/profs/cleary/connect
+A ls -F src
+H NIL
+X NIL
+
+C ls src/sim
+D /user/profs/cleary/connect
+A ls -F src/sim
+H NIL
+X NIL
+
+C more src/sim/Makefile
+D /user/profs/cleary/connect
+A NIL
+H T
+X NIL
+
+C popd
+D /user/profs/cleary/connect
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  05
+
+C cd
+D /user/profs/cleary/connect
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mkdir itbombs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto itbombs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H T
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X J  81
+
+C logout
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 18:25:32 1987
+E NIL
+
+C cd /usr/local/doc
+D /user/grads/xxxxxxx
+A cd /usr/local/doc ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /usr/local/doc
+A ls -F
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /usr/local/doc
+A NIL
+H NIL
+X NIL
+
+C emacs cprolog.doc
+D /usr/local/doc
+A NIL
+H NIL
+X NIL
+
+C ls ~/PROLOG
+D /usr/local/doc
+A ls -F ~/PROLOG
+H NIL
+X NIL
+
+C fg
+D /usr/local/doc
+A NIL
+H NIL
+X NIL
+
+C alias 'man prolog' 'more /usr/local/doc/cprolog.doc'
+D /usr/local/doc
+A NIL
+H NIL
+X NIL
+
+C man prolog
+D /usr/local/doc
+A NIL
+H NIL
+X NIL
+
+C 'man prolog'
+D /usr/local/doc
+A NIL
+H NIL
+X N  10
+
+C cd
+D /usr/local/doc
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto itworks/id3_proto.1a
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C emacs ~/670/proj.progress
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:22:03 1987
+E NIL
+
+C readnews cpsc.graphicsland
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C manprolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C manprolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C emacs id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C cp id3 id3_proto id3_proto_data utils itworks
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C rm junk* *.CKP *.BAK
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A mv junk* *.CKP *.BAK ~/deleted
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F -l
+H NIL
+X NIL
+
+C rm *.CK
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A mv *.CK ~/deleted
+H NIL
+X NIL
+
+C emacs printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C lookbib Rubin
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C lookbib -u
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C lookbib Brown University
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 15:31:43 1987
+E NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mail ian bruce
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C basic
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mkdir ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C emacs id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mv tasty_data culinary_data
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto_data weather_data
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C cp id3 id3_proto utils weather_data culinary_data ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C rm domains
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A mv domains ~/deleted
+H NIL
+X NIL
+
+C pushd ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A pushd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/id3
+A ls -F -l
+H NIL
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [3
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mail ian bruce
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/id3
+D /user/grads/xxxxxxx/id3
+A cd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/grads/xxxxxxx/id3
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx/id3
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C rm *.BAK *.CKP *.CK
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A mv *.BAK *.CKP *.CK ~/deleted
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F -l
+H NIL
+X NIL
+
+C cp *_data id3_proto id3 utils itworks
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/deleted
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/deleted ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/deleted
+A ls -F -l
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/deleted
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/deleted
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/deleted
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 20:36:22 1987
+E NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 10:51:54 1987
+E NIL
+
+C lookbib flatland
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib -u
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep $HOME ~rokne/.login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib edelsbrunner
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib overmars
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib haloes
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib Wood
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib dynamization
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail rokne
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs instructions
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X J  82
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/id3
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C lookbib -u
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir refs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd refs
+D /user/grads/xxxxxxx
+A cd refs ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C emacs new
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+C lookbib cowles
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+C more ~/.login
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 13:27:34 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 16:07:27 1987
+E NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 12 10:57:41 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C mail cleary
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs instructions
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C f cleary
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/id3
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar 13 10:51:09 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/grads/xxxxxxx
+A cd 533 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/533
+A ls -F
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/533
+A who | sort | more
+H NIL
+X NIL
+
+C mail ian
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C pr interim.grading | lpr ; lpq
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/533
+A who | sort | more
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 08:57:14 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C cd ~cleary/connect
+D /user/grads/xxxxxxx
+A cd ~cleary/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C cd example
+D /user/profs/cleary/connect
+A cd example ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/example
+A ls -F
+H NIL
+X NIL
+
+C cd walk-through
+D /user/profs/cleary/connect/example
+A cd walk-through ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/example/walk-through
+A ls -F
+H NIL
+X NIL
+
+C more instructions
+D /user/profs/cleary/connect/example/walk-through
+A NIL
+H NIL
+X NIL
+
+C more instructions.me
+D /user/profs/cleary/connect/example/walk-through
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/cleary/connect/example/walk-through
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C mkdir connect
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd connect
+D /user/grads/xxxxxxx
+A cd connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l ~cleary/connect/example/walk-through
+D /user/grads/xxxxxxx/connect
+A ls -F -l ~cleary/connect/example/walk-through
+H NIL
+X NIL
+
+C cp ~cleary/connect/example/walk-through/* .
+D /user/grads/xxxxxxx/connect
+A NIL
+H T
+X NIL
+
+C emacs instructions
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C man nroff
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C nroff -Ttn300 instructions.me > instructions.emacs
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C rm instructions instructions.emacs
+D /user/grads/xxxxxxx/connect
+A mv instructions instructions.emacs ~/deleted
+H NIL
+X NIL
+
+C nroff instructions.me > instructions
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C emacs instructions
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C du ~/deleted
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C rm ~/deleted/*
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C du ~cleary/connect/sim/src
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C du ~cleary/connect/src/sim
+D /user/grads/xxxxxxx/connect
+A NIL
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/connect
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 16 18:31:49 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pushd ~cleary/connect/src/sim
+D /user/grads/xxxxxxx
+A pushd ~cleary/connect/src/sim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/cleary/connect/src/sim
+A ls -F -l
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/profs/cleary/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/profs/cleary/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/cleary/connect/src/sim
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C mkdir thesis
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd thesis
+D /user/grads/xxxxxxx
+A cd thesis ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C mkdir thoughts
+D /user/grads/xxxxxxx/thesis
+A NIL
+H NIL
+X NIL
+
+C cd thoughts
+D /user/grads/xxxxxxx/thesis
+A cd thoughts ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C emacs mar16
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C more mar16
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C [?6c
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X S  71
+
+C tail
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C tail mar16
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/thesis/thoughts
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 16 20:36:12 1987
+E NIL
+
+C echo "I'd rather be a 4010"
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X H  25
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010""
+D /user/grads/xxxxxxx
+A NIL
+H T
+X S  11
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010echo "I'd rather be a 4010"""
+D /user/grads/xxxxxxx
+A NIL
+H T
+X S  11
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010echo "I'd rather be a 4010echo "I'd rather be a 4010""""
+D /user/grads/xxxxxxx
+A NIL
+H T
+X S  11
+
+
+S Mon Mar 16 20:38:52 1987
+E NIL
+
+C cd thesis/thoughts
+D /user/grads/xxxxxxx
+A cd thesis/thoughts ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C emacs mar16
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/thesis/thoughts
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/thesis/thoughts
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 17 09:30:16 1987
+E NIL
+
+C f keith
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail keith
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail andrews
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -lR ~/thesis
+D /user/grads/xxxxxxx
+A ls -F -lR ~/thesis
+H NIL
+X NIL
+
+C more thesis/thoughts/mar16
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs thesis/thoughts/mar16
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs thesis/thoughts/mar16
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C mail ian bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 17 13:53:36 1987
+E NIL
+
+C limits
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l ~cleary/connect/src/sim
+D /user/grads/xxxxxxx
+A ls -F -l ~cleary/connect/src/sim
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C pr thesis/thoughts/mar16 | lpr
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pr thesis/thoughts/mar16 | lpr
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits mo
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C du mitch
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 18 09:22:39 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l ~cleary/connect/src/sim
+D /user/grads/xxxxxxx
+A ls -F -l ~cleary/connect/src/sim
+H NIL
+X NIL
+
+C cd connect
+D /user/grads/xxxxxxx
+A cd connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/connect
+A ls -F
+H NIL
+X NIL
+
+C emacs instructions
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/connect
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 18 11:00:32 1987
+E NIL
+
+C lookbib computational geometry
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib -u
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .path
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C /usr/local/bin/emacs .path
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C source .path
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lookbib computational geometry
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/grads/xxxxxxx
+A cd connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C pushd ~cleary/connect/doc
+D /user/grads/xxxxxxx/connect
+A pushd ~cleary/connect/doc ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C more commands.me
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C more commands.inc
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/cleary/connect/doc
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C man ftp
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd ~/mitch
+D /user/grads/xxxxxxx/connect
+A cd ~/mitch ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/grads/xxxxxxx/mitch
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/mitch
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/mitch
+A NIL
+H NIL
+X Y 102
+
+C cd ~/PROLOG/670
+D /user/grads/xxxxxxx/mitch
+A cd ~/PROLOG/670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670
+A ls -F
+H NIL
+X NIL
+
+C ls -l lessons
+D /user/grads/xxxxxxx/PROLOG/670
+A ls -F -l lessons
+H NIL
+X NIL
+
+C rm */*.BAK */*/*.BAK
+D /user/grads/xxxxxxx/PROLOG/670
+A mv */*.BAK */*/*.BAK ~/deleted
+H NIL
+X NIL
+
+C ls -l X_is...
+D /user/grads/xxxxxxx/PROLOG/670
+A ls -F -l X_is...
+H NIL
+X NIL
+
+C du ~/deleted
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670
+A ls -F
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C rm -r X_is...
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C rm -r lessons
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C rm ~/deleted/*
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C mail michaeli
+D /user/grads/xxxxxxx/PROLOG/670
+A NIL
+H NIL
+X NIL
+
+C cd ~/mitch
+D /user/grads/xxxxxxx/PROLOG/670
+A cd ~/mitch ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx/mitch
+A NIL
+H NIL
+X NIL
+
+C ls -lm itworks
+D /user/grads/xxxxxxx/mitch
+A ls -F -lm itworks
+H NIL
+X NIL
+
+C ls -lm .
+D /user/grads/xxxxxxx/mitch
+A ls -F -lm .
+H NIL
+X NIL
+
+C rm *.BAK *.CKP
+D /user/grads/xxxxxxx/mitch
+A NIL
+H NIL
+X NIL
+
+C ls -lt
+D /user/grads/xxxxxxx/mitch
+A ls -F -lt
+H NIL
+X NIL
+
+C ls -lt itworks
+D /user/grads/xxxxxxx/mitch
+A ls -F -lt itworks
+H NIL
+X NIL
+
+C cd ~/connect
+D /user/grads/xxxxxxx/mitch
+A cd ~/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs instructions
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C pushd ~cleary/connect/doc
+D /user/grads/xxxxxxx/connect
+A pushd ~cleary/connect/doc ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C grep build *
+D /user/profs/cleary/connect/doc
+A NIL
+H NIL
+X NIL
+
+C cd ../example
+D /user/profs/cleary/connect/doc
+A cd ../example ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/example
+A ls -F
+H NIL
+X NIL
+
+C cd 4color
+D /user/profs/cleary/connect/example
+A cd 4color ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/example/4color
+A ls -F
+H NIL
+X NIL
+
+C more README
+D /user/profs/cleary/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C more setup
+D /user/profs/cleary/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C more map
+D /user/profs/cleary/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C more showmap
+D /user/profs/cleary/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/profs/cleary/connect/example/4color
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/cleary/connect/example/4color
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C mail'
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X S  11
+
+C mail
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/connect
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 18 11:51:45 1987
+E NIL
+
+C readnews cpsc.graphicsland
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/grads/xxxxxxx
+A cd 533 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/533
+A ls -F
+H NIL
+X NIL
+
+C emacs interim.grading
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C wc interim.grading
+D /user/grads/xxxxxxx/533
+A NIL
+H NIL
+X NIL
+
+C pr interim.grading | lpr ; lpq
+D /user/grads/xxxxxxx/533
+A NIL
+H T
+X NIL
+
+C cd ~/thesis/thoughts
+D /user/grads/xxxxxxx/533
+A cd ~/thesis/thoughts ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs mar23
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 14:30:17 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 11:01:40 1987
+E NIL
+
+C printenv
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/grads/xxxxxxx
+A cd connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/connect
+A ls -F
+H NIL
+X NIL
+
+C mancprolog
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X N  10
+
+C manprolog
+D /user/grads/xxxxxxx/connect
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C manprolog
+D /user/grads/xxxxxxx/connect
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/connect
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar 20 16:47:55 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail rokne
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 23 08:12:33 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 23 08:57:08 1987
+E NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l 2000 -g 20000 -h 20000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l 1500 -g 1500
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/id3
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 23 10:36:06 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs borrowers
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~/connect
+D /user/grads/xxxxxxx
+A cd ~/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/connect
+A ls -F
+H NIL
+X NIL
+
+C more network.load
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C emacs toy.net.load
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/connect
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C mv toy.net.load toy.net.load.doc
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/connect
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 23 14:24:06 1987
+E NIL
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~/id3
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs weather_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 14:31:07 1987
+E NIL
+
+C por
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X N  10
+
+C prolog -l1000 -g1000 -h1000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l1000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 15:56:51 1987
+E NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C emacs histo_data.CKP
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C cp histo_data.CKP histo_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X J  82
+
+C mv histo_data.CKP histo_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C emacs histo_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l3000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mancprolog
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X N  10
+
+C manprolog
+D /user/grads/xxxxxxx/id3
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X J  84
+
+C jobs
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [4
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C emacs histo_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X J  84
+
+C jobs
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [3
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/thesis/thoughts
+D /user/grads/xxxxxxx/id3
+A cd ~/thesis/thoughts ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/thesis/thoughts
+A ls -F
+H NIL
+X NIL
+
+C emacs mar23
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/thesis/thoughts
+A who | sort | more
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/thesis/thoughts
+A ls -F -l
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/grads/xxxxxxx/thesis/thoughts
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/thesis/thoughts
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/thesis/thoughts
+A NIL
+H NIL
+X J  82
+
+C bye
+D /user/grads/xxxxxxx/thesis/thoughts
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 24 07:43:34 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail bruce ian
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 24 09:10:51 1987
+E NIL
+
+C cd 670/project
+D /user/grads/xxxxxxx
+A cd 670/project ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  88
+
+C cd 670
+D /user/grads/xxxxxxx
+A cd 670 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670
+A ls -F
+H NIL
+X NIL
+
+C mkdir boltzmann
+D /user/grads/xxxxxxx/670
+A NIL
+H NIL
+X NIL
+
+C cd boltzmann
+D /user/grads/xxxxxxx/670
+A cd boltzmann ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C cp ~/PROLOG/id3/header.doc
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C cp ~/PROLOG/id3/header.doc .
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H T
+X NIL
+
+C ls ~/PROLOG/id3
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F ~/PROLOG/id3
+H NIL
+X NIL
+
+C ls ~/PROLOG/
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F ~/PROLOG/
+H T
+X NIL
+
+C cp ~/PROLOG//670/id3/header.doc .
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H T
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/boltzmann
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 24 14:04:42 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who | sort
+D /user/grads/xxxxxxx
+A who | sort | more | sort
+H NIL
+X NIL
+
+C cd 670/boltzmann
+D /user/grads/xxxxxxx
+A cd 670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C pushd ~cleary/connect
+D /user/grads/xxxxxxx/670/boltzmann
+A pushd ~cleary/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C ls example
+D /user/profs/cleary/connect
+A ls -F example
+H NIL
+X NIL
+
+C ls example/walk-through
+D /user/profs/cleary/connect
+A ls -F example/walk-through
+H T
+X NIL
+
+C more example/walk-through/README
+D /user/profs/cleary/connect
+A NIL
+H T
+X NIL
+
+C popd
+D /user/profs/cleary/connect
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C pushd ~cleary/connect
+D /user/grads/xxxxxxx/670/boltzmann
+A pushd ~cleary/connect ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C ls include
+D /user/profs/cleary/connect
+A ls -F include
+H NIL
+X NIL
+
+C popd ; fg
+D /user/profs/cleary/connect
+A popd ; set prompt = "($cwd:t) $oldp" ; fg
+H NIL
+X H  25
+
+C pushd ~cleary/connect
+D /user/grads/xxxxxxx/670/boltzmann
+A pushd ~cleary/connect ; set prompt = "($cwd:t) $oldp"
+H T
+X NIL
+
+C ls -l src/sim
+D /user/profs/cleary/connect
+A ls -F -l src/sim
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C more README
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C more makefile
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/cleary/connect
+A who | sort | more
+H NIL
+X NIL
+
+C limits
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C ls doc
+D /user/profs/cleary/connect
+A ls -F doc
+H NIL
+X NIL
+
+C du
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C mail cleary
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C ls ~mo
+D /user/profs/cleary/connect
+A ls -F ~mo
+H NIL
+X NIL
+
+C cd ~mo/CONNECT
+D /user/profs/cleary/connect
+A cd ~mo/CONNECT ; set prompt = "($cwd:t) $oldp"
+H T
+X D  88
+
+C fg
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C popd
+D /user/profs/cleary/connect
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C more types.h
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F
+H NIL
+X NIL
+
+C more types.h.CKP
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs types.h
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F -l
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/boltzmann
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 24 18:50:01 1987
+E NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/boltzmann
+D /user/grads/xxxxxxx
+A cd 670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C pushd ~cleary/connect/include
+D /user/grads/xxxxxxx/670/boltzmann
+A pushd ~cleary/connect/include ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/include
+A ls -F
+H NIL
+X NIL
+
+C grep UNIT *.h
+D /user/profs/cleary/connect/include
+A NIL
+H NIL
+X NIL
+
+C more sim.h
+D /user/profs/cleary/connect/include
+A NIL
+H NIL
+X NIL
+
+C cd ../src/sim
+D /user/profs/cleary/connect/include
+A cd ../src/sim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C grep UNIT *.h
+D /user/profs/cleary/connect/src/sim
+A NIL
+H T
+X NIL
+
+C grep UNIT_REC *
+D /user/profs/cleary/connect/src/sim
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/profs/cleary/connect/src/sim
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C dbx
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/grads/xxxxxxx/670/boltzmann
+A mv core ~/deleted
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C dbx
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/670/boltzmann
+A who | sort | more
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/boltzmann
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 25 11:18:10 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~/670/boltzmann
+D /user/grads/xxxxxxx
+A cd ~/670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/grads/xxxxxxx/670/boltzmann
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C du ~/deleted
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx/670/boltzmann
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C su
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 18:47:50 1987
+E NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail cleary
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/boltzmann ; limits
+D /user/grads/xxxxxxx
+A cd 670/boltzmann ; set prompt = "($cwd:t) $oldp" ; limits
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F -l
+H NIL
+X NIL
+
+C unalias rm ; rm core ; rm ~/deleted/* ; source ~/.alias
+D /user/grads/xxxxxxx/670/boltzmann
+A unalias rm ; mv core ~/deleted ; mv ~/deleted/* ~/deleted ; source ~/.alias
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C rm core ; rm ~/deleted/*
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C source ~/.alias
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C *.h
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X S  36
+
+C ls *.h
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F *.h
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C ls *.h
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F *.h
+H NIL
+X NIL
+
+C more boltzmann.h
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H T
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/boltzmann
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 25 19:48:05 1987
+E NIL
+
+C cd 670/boltzmann
+D /user/grads/xxxxxxx
+A cd 670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C .o
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X N  10
+
+C rm *.o
+D /user/grads/xxxxxxx/670/boltzmann
+A mv *.o ~/deleted
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C man calloc
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C man -k calloc
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C man malloc
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X Y 102
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/boltzmann
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 14:13:43 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/670/boltzmann
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs printall
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C chmod 755 printall
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/boltzmann
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 16:15:25 1987
+E NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C rm *.BAK *.CKP
+D /user/grads/xxxxxxx/id3
+A mv *.BAK *.CKP ~/deleted
+H NIL
+X NIL
+
+C emacs encoder_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg [2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/id3
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 20:40:26 1987
+E NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs shapes-data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C emacs shapes-data
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+
+S Fri Mar 27 10:20:26 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C pr shapes-data | lpr ; lpq
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 12:40:49 1987
+E NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C more encoder_data.BAK
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C rm encoder_data
+D /user/grads/xxxxxxx/id3
+A mv encoder_data ~/deleted
+H NIL
+X NIL
+
+C mv encoder_data.BAK encoder_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C emacs encoder_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C rm encoder_data
+D /user/grads/xxxxxxx/id3
+A mv encoder_data ~/deleted
+H T
+X NIL
+
+C mv encoder_data.BAK encoder_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/id3
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 28 13:13:00 1987
+E NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd id3
+D /user/grads/xxxxxxx
+A cd id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs xor_data
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/connect
+D /user/grads/xxxxxxx/id3
+A cd ~/connect ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/connect
+A ls -F
+H NIL
+X NIL
+
+C mkdir bin example
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C rm sim network* instructions*
+D /user/grads/xxxxxxx/connect
+A mv sim network* instructions* ~/deleted
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/grads/xxxxxxx/connect
+A cd bin ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cp ~cleary/connect/bin/makesim .
+D /user/grads/xxxxxxx/connect/bin
+A NIL
+H NIL
+X NIL
+
+C emacs makesim
+D /user/grads/xxxxxxx/connect/bin
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/connect/bin
+A cd .. ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls ~cleary/connect/example/walk-through
+D /user/grads/xxxxxxx/connect
+A ls -F ~cleary/connect/example/walk-through
+H NIL
+X NIL
+
+C cc -c ~cleary/connect/example/walk-through/network.c
+D /user/grads/xxxxxxx/connect
+A NIL
+H T
+X NIL
+
+C bin/makesim network.o sim
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd ~/670/boltzmann
+D /user/grads/xxxxxxx/connect
+A cd ~/670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/boltzmann
+A ls -F
+H NIL
+X NIL
+
+C cp boltzmann.c mysim.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C mkdir ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C mv mysim.c ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H T
+X NIL
+
+C cp *.h utils.c ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H T
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/670/boltzmann
+A mv *.o ~/deleted
+H NIL
+X NIL
+
+C rm sim
+D /user/grads/xxxxxxx/670/boltzmann
+A mv sim ~/deleted
+H NIL
+X NIL
+
+C more fn.doc
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C cp Makefile ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C cp printall ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/boltzmann
+A NIL
+H NIL
+X NIL
+
+C cd ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A cd ../mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C more printall
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C mv mysim.c boltzmann.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:33:02 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C du ~/deleted
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm ~/deleted/*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C source ~/.alias
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ~li
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X D  69
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp ../boltzmann.dod .
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp ../boltzmann/*.doc .
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man randint
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man -k randint
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man -k rand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man random
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man irand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man rand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man random
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X Y 102
+
+C cc -o testrand testrand.c utils.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C man -k normalize
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C man random
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X Y 102
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c utils.o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C !
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X N  10
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C rm core
+D /user/grads/xxxxxxx/670/mysim
+A mv core ~/deleted
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testrand testrand.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testrand
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls *.c
+D /user/grads/xxxxxxx/670/mysim
+A ls -F *.c
+H NIL
+X NIL
+
+C more activation.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man -k exp
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man 3M
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man pow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man sqrt
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man exp
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man exp
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C man exp
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C man exp
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C man exp | grep pow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X Y 102
+
+C printenv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C pushd /usr/man/man3
+D /user/grads/xxxxxxx/670/mysim
+A pushd /usr/man/man3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /usr/man/man3
+A ls -F
+H NIL
+X NIL
+
+C more exp.3m
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C nroff exp.3m
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C popd
+D /usr/man/man3
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C nroff /usr/man/man3/exp.3m > exp.man
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more exp.man
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C rm exp.man
+D /user/grads/xxxxxxx/670/mysim
+A mv exp.man ~/deleted
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 29 10:03:07 1987
+E NIL
+
+C cd 670/boltzmann
+D /user/grads/xxxxxxx
+A cd 670/boltzmann ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cd ../mysim
+D /user/grads/xxxxxxx/670/boltzmann
+A cd ../mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C du ~/deleted
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C dbx sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010sim"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mysim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X N  10
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010sim"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010sim""
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X S  11
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010sim"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010sim"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man exp
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X Y 102
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C CC -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C man -k math
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C man intro ( 3M )
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X S  34
+
+C man intro 3M
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C pushd /usr/man/man3
+D /user/grads/xxxxxxx/670/mysim
+A pushd /usr/man/man3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /usr/man/man3
+A ls -F
+H NIL
+X Y 102
+
+C ls intro
+D /usr/man/man3
+A ls -F intro
+H NIL
+X NIL
+
+C intro
+D /usr/man/man3
+A NIL
+H T
+X N  10
+
+C ls intro*
+D /usr/man/man3
+A ls -F intro*
+H NIL
+X NIL
+
+C man intro.3
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C more intro.3
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C cd /usr/include
+D /usr/man/man3
+A cd /usr/include ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A ls -F
+H NIL
+X NIL
+
+C popd
+D /usr/include
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X Y 102
+
+C cc
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cc -o testpow testpow.c -lm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C testpow
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010sim"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010sim"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l
+H NIL
+X NIL
+
+C rm core testpow testrand
+D /user/grads/xxxxxxx/670/mysim
+A mv core testpow testrand ~/deleted
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm ~/deleted/*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:31:39 1987
+E NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 31 10:56:27 1987
+E NIL
+
+C df
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls learn*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F learn*
+H NIL
+X NIL
+
+C more learn.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:27:20 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C dbx sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  1 11:02:56 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/670/mysim
+A who | sort | more
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/670/mysim
+A cd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm PROLOG/670/forestry/itworks/*
+D /user/grads/xxxxxxx
+A mv PROLOG/670/forestry/itworks/* ~/deleted
+H NIL
+X NIL
+
+C rm PROLOG/670/forestry/itcompiles/*
+D /user/grads/xxxxxxx
+A mv PROLOG/670/forestry/itcompiles/* ~/deleted
+H T
+X NIL
+
+C rm PROLOG/670/forestry/itbombs/*
+D /user/grads/xxxxxxx
+A mv PROLOG/670/forestry/itbombs/* ~/deleted
+H T
+X NIL
+
+C rm PROLOG/670/id3/itcompiles/*
+D /user/grads/xxxxxxx
+A mv PROLOG/670/id3/itcompiles/* ~/deleted
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ~/deleted/*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C df
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 09:47:30 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X J  81
+
+C logout
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 13:35:06 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp main.c xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp boltzmann.c.BAK boltzmann.c.safe
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more boltzmann.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp boltzmann.c boltzmann.c.suts
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/670/mysim
+A who | sort | more
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C pushd ~
+D /user/grads/xxxxxxx/670/mysim
+A pushd ~ ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C pr culinary_data histo_data shapes-data xor_data | lpr ; lpq
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/grads/xxxxxxx/id3
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A mv xor.trace ~/deleted
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mysim > xor.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X N  10
+
+C sim > xor.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A mv xor.trace ~/deleted
+H NIL
+X NIL
+
+C sim > xor.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C emacs xor.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C pr xor.trace | lpr ; lpq
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 16:06:45 1987
+E NIL
+
+C ps
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Pip
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 20:49:43 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm boltzmann.o
+D /user/grads/xxxxxxx/670/mysim
+A mv boltzmann.o ~/deleted
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim > xor2.output &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Sun Apr  5 11:36:10 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mkdir testing
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp main.c xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C rm core
+D /user/grads/xxxxxxx/670/mysim
+A mv core ~/deleted
+H NIL
+X NIL
+
+C mv *.output *.trace testing
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim > testing/xor_sej1.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/670/mysim
+A who | sort | more
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cat testing/xor_sej.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F testing
+H NIL
+X NIL
+
+C cat testing/xor_sej1.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C echo "I'd rather be a 4010cat testing/xor_sej1.trace"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010cat testing/xor_sej1.trace""
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X S  11
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010echo "I'd rather be a 4010cat testing/xor_sej1.trace"""
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X S  11
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm testing/xor_sej1.trace
+D /user/grads/xxxxxxx/670/mysim
+A mv testing/xor_sej1.trace ~/deleted
+H NIL
+X NIL
+
+C cp main.c xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X H  25
+
+C sim > testing/xor_sej1.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cat testing/xor_sej1.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "I'd rather be a 4010cat testing/xor_sej1.trace"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm main.c
+D /user/grads/xxxxxxx/670/mysim
+A mv main.c ~/deleted
+H NIL
+X NIL
+
+C cp shapes.c main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim shapes_sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C shapes_sim > testing/shapes1.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp xor.c main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim xor_sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C xor_sim > testing/xor_recog.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C mkdir itworks itcompiles
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp *.c *.h printall Makefile itworks
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls itworks
+D /user/grads/xxxxxxx/670/mysim
+A ls -F itworks
+H T
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim xor_sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F testing
+H NIL
+X NIL
+
+C xor_sim > testing/xor_recog2.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg [1
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls trace
+D /user/grads/xxxxxxx/670/mysim
+A ls -F trace
+H NIL
+X NIL
+
+C ls testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F testing
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim xor_sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C xor_sim > testing/xor_wtdecay.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls *.c
+D /user/grads/xxxxxxx/670/mysim
+A ls -F *.c
+H NIL
+X NIL
+
+C cp shapes.c main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim shapes_sim_wtdecay
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C shapes_sim_wtdecay > testing/shapes_wtdecay.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C w3echo "I'd rather be a 4010fg"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X N  10
+
+C jkjkjkjkj
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X N  10
+
+C opopopopopo
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X N  10
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim sim_xor_cnx
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim_xor_cnx > testing/xor_cnx.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C who
+D /user/grads/xxxxxxx/670/mysim
+A who | sort | more
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C cp main.c xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp shapes.c main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C kill -9 [5
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X S  71
+
+C kill -9 [5]
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X M  09
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C kill -9 6150
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm testing/xor_cnx.trace
+D /user/grads/xxxxxxx/670/mysim
+A mv testing/xor_cnx.trace ~/deleted
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim sim_shapes_cnx
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim_shapes_cnx > testing/shapes_cnx.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C cp main.c shapes.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp xor.c main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more shapes.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.c.BAK
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim sim_xor_cns
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim_xor_cns sim_xor_cnx
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C sim_xor_cnx > testing/xor_cnx.trace &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more shapes.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Sun Apr  5 20:28:23 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cat testing/xor_cnx.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C sim
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 12:16:55 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F testing
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs testing/shapes_wtdecay.trace
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 15:20:44 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs weights.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/grads/xxxxxxx/670/mysim
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "y y y y y y y y y y n" | sim > testing/xor_final.tr &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C kill -9 4855
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing
+H NIL
+X NIL
+
+C ls -l testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing
+H T
+X NIL
+
+C rm testing/shapes*
+D /user/grads/xxxxxxx/670/mysim
+A mv testing/shapes* ~/deleted
+H NIL
+X NIL
+
+C rm testing/*recog*
+D /user/grads/xxxxxxx/670/mysim
+A mv testing/*recog* ~/deleted
+H NIL
+X NIL
+
+C ls -l testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 20:28:09 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l
+H NIL
+X NIL
+
+C rm core
+D /user/grads/xxxxxxx/670/mysim
+A mv core ~/deleted
+H NIL
+X NIL
+
+C rm sim_shapes_cnx sim_xor*
+D /user/grads/xxxxxxx/670/mysim
+A mv sim_shapes_cnx sim_xor* ~/deleted
+H NIL
+X NIL
+
+C rm *.trace
+D /user/grads/xxxxxxx/670/mysim
+A mv *.trace ~/deleted
+H NIL
+X NIL
+
+C rm xor_sim
+D /user/grads/xxxxxxx/670/mysim
+A mv xor_sim ~/deleted
+H NIL
+X NIL
+
+C more printall
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l xor.c main.c
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l xor.c main.c
+H NIL
+X NIL
+
+C more main.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv xor.c xor.sun.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv xor.sun.c xor.pre.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cp main.c xor.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing
+H NIL
+X NIL
+
+C more testing/xor_final.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more testing/xor_final.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C more testing/xor_final.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C emacs weights.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C more testing/xor_final.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 21:33:31 1987
+E NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs boltzmann.c
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C mv sim sim_xor
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C echo "y y y y y y y y y y n" | sim_xor > testing/xor_final2.tr &
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F testing
+H NIL
+X NIL
+
+C ls -l testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing/xor_final2*
+H NIL
+X NIL
+
+C ls -l testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing/xor_final2*
+H T
+X NIL
+
+C ls -l testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing/xor_final2*
+H T
+X NIL
+
+C cat testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C cat testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C cat testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C rlogin vaxb
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cat testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C cat testing/xor_final2*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr  7 08:46:01 1987
+E NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C tail 100 testing/xor_final2.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C tail testing/xor_final2.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l testing
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing
+H NIL
+X NIL
+
+C man tail
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C tail -100 testing/xor_final2.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ps -gv
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C ls -l testing/xor_tues.tr
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing/xor_tues.tr
+H NIL
+X NIL
+
+C ls -l testing/xor_tue.tr
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing/xor_tue.tr
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr  7 11:45:03 1987
+E NIL
+
+C ps -gv
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls -l testing/xor_tue.tr
+D /user/grads/xxxxxxx/670/mysim
+A ls -F -l testing/xor_tue.tr
+H NIL
+X NIL
+
+C cat testing/xor_tue.tr
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C echo "I'd rather be a 4010cat testing/xor_tue.tr"
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X NIL
+
+C echo "I'd rather be a 4010echo "I'd rather be a 4010cat testing/xor_tue.tr""
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H T
+X S  11
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr  7 14:03:58 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cd testing
+D /user/grads/xxxxxxx/670/mysim
+A cd testing ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim/testing
+A ls -F
+H NIL
+X NIL
+
+C pr xor_tue.tr | lpr ; lpq
+D /user/grads/xxxxxxx/670/mysim/testing
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim/testing
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr  7 15:34:35 1987
+E NIL
+
+C pr 670/mysim/testing/xor_tue.tr | lpr
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 15:51:00 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr 10 16:20:34 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Apr 11 12:17:40 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C rlogin vaxc
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Apr 12 08:35:07 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 13 12:20:12 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 14 12:10:21 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 18:10:49 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 10:39:11 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+
+S Wed Apr 22 11:07:38 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 13:55:20 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 27 12:56:57 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 15:00:16 1987
+E NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 29 12:12:56 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail scowcroft
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 14:10:28 1987
+E NIL
+
+C wh
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr 30 15:55:25 1987
+E NIL
+
+C cd 670/mysim
+D /user/grads/xxxxxxx
+A cd 670/mysim ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/670/mysim
+A ls -F
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/grads/xxxxxxx/670/mysim
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C ls sim_*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F sim_*
+H NIL
+X NIL
+
+C ls sim*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F sim*
+H NIL
+X NIL
+
+C rm sim*
+D /user/grads/xxxxxxx/670/mysim
+A mv sim* ~/deleted
+H T
+X NIL
+
+C ls *sim*
+D /user/grads/xxxxxxx/670/mysim
+A ls -F *sim*
+H NIL
+X NIL
+
+C rm *sim*
+D /user/grads/xxxxxxx/670/mysim
+A mv *sim* ~/deleted
+H T
+X NIL
+
+C du ~/deleted
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C rm ~/deleted/*
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C source ~/.alias
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C emacs externs.h
+D /user/grads/xxxxxxx/670/mysim
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/670/mysim
+A logout
+H NIL
+X NIL
+
+
+S Mon May  4 12:21:09 1987
+E Mon May  4 12:21:35 1987
+
+C mail
+D /user/grads/mo
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 09:19:37 1987
+E NIL
+
+C mail bruce
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f storeyl
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail storeyl
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail kendall
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 17:19:50 1987
+E NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X J  82
+
+C ps
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Tue May  5 18:03:22 1987
+E NIL
+
+C f camille
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail camille
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews cpsc.grads
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed May  6 12:18:54 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mancprolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X N  10
+
+C manprolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X N  10
+
+C rlogin vaxb
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto itbombs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:56:22 1987
+E NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C pushd ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A pushd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C prolog
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l5000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/grads/xxxxxxx/id3
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C pushd ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A pushd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C emacs id3
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/grads/xxxxxxx/id3
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Thu May  7 11:17:54 1987
+E NIL
+
+C lpq
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C printall
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cd ~mo
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A cd ~mo ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/mo
+A ls -F
+H NIL
+X NIL
+
+C mail
+D /user/grads/mo
+A NIL
+H NIL
+X NIL
+
+C su mo
+D /user/grads/mo
+A NIL
+H NIL
+X NIL
+
+C cd ~id
+D /user/grads/mo
+A cd ~id ; set prompt = "($cwd:t) $oldp"
+H NIL
+X D  69
+
+C cd ~xxxxxxx
+D /user/grads/mo
+A cd ~xxxxxxx ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+
+S Thu May  7 15:12:42 1987
+E NIL
+
+C cdid3 ; emacs
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp" ; emacs
+H NIL
+X NIL
+
+C manprolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A more /usr/local/doc/cprolog.doc
+H NIL
+X NIL
+
+C manprolog
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A more /usr/local/doc/cprolog.doc
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C pushd ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A pushd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C prolog -l2000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C which prolog
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C prolog -l5000 -h5000
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C kill %2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C mkdir blowstack2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto blowstack2
+D /user/grads/xxxxxxx/id3
+A NIL
+H T
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/id3
+A logout
+H NIL
+X NIL
+
+
+S Thu May  7 16:35:15 1987
+E NIL
+
+C cdid3
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/670/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A ls -F
+H NIL
+X NIL
+
+C pushd ~/id3
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A pushd ~/id3 ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/id3
+A ls -F
+H NIL
+X NIL
+
+C rm -r blowstack2
+D /user/grads/xxxxxxx/id3
+A mv -r blowstack2 ~/deleted
+H NIL
+X NIL
+
+C unalias rm
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C rm blowstack2/*
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C rmdir blowstack2
+D /user/grads/xxxxxxx/id3
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/grads/xxxxxxx/id3
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C mkdir blowstack2
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C cp id3_proto.BAK blowstack2/id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mv id3_proto.BAK id3proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C mv id3proto id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C emacs id3_proto
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/670/id3
+A logout
+H NIL
+X NIL
+
+
+S Fri May  8 13:38:26 1987
+E NIL
+
+C mail ian
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+
+S Fri May  8 17:23:56 1987
+E NIL
+
+C mail graham
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail jansonius
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon May 11 16:38:27 1987
+E Mon May 11 16:44:19 1987
+
+C mail
+D /user/grads/mo
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 13:42:01 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C motd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cp .emacs_pro .emacs_pro.old
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~terry/.emacs_pro .
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 13:45:26 1987
+E NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue May 12 14:30:56 1987
+E NIL
+
+C printenv
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~/PROLOG/lib
+D /user/grads/xxxxxxx
+A cd ~/PROLOG/lib ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C emacs lists
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C pushd ~cleary/PROLOG/lib
+D /user/grads/xxxxxxx/PROLOG/lib
+A pushd ~cleary/PROLOG/lib ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/PROLOG/lib
+A ls -F
+H NIL
+X NIL
+
+C popd
+D /user/profs/cleary/PROLOG/lib
+A popd ; set prompt = "($cwd:t) $oldp"
+H NIL
+X NIL
+
+C cat ~cleary/PROLOG/lib/lists >> lists
+D /user/grads/xxxxxxx/PROLOG/lib
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx/PROLOG/lib
+A logout
+H NIL
+X NIL
+
+
+S Tue May 12 20:43:36 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A who | sort | more
+H NIL
+X NIL
+
+C 
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed May 13 13:15:34 1987
+E NIL
+
+C bye
+D /user/grads/xxxxxxx
+A logout
+H NIL
+X NIL

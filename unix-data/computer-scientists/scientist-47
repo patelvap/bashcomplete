@@ -1,0 +1,7672 @@
+S Thu Feb 12 18:29:05 1987
+E NIL
+
+C readnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Feb 19 06:40:58 1987
+E NIL
+
+C mail
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 21 17:57:31 1987
+E NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C talk kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C set term vt100
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C talk kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C export term
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C set TERM vt100
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C talk kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C talk kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C msg
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C mssg
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C mesg
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C talk kratz
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 01:07:09 1987
+E NIL
+
+C f pearce
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail pearce
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 11:10:48 1987
+E NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail allan
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 28 14:48:19 1987
+E NIL
+
+C pdpas
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C readnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  2 22:18:49 1987
+E NIL
+
+C f hill
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail hill
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep vax | m
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C rwho | grep vax | more
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 17:04:45 1987
+E NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar  3 19:28:27 1987
+E NIL
+
+C ruptime | grep vax | m
+D /user/research/xxxxx
+A ruptime | grep vax | more
+H NIL
+X NIL
+
+C rlogin vaxc
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | m
+D /user/research/xxxxx
+A rwho | more
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar  3 19:53:31 1987
+E NIL
+
+C rwho | grep hilklll
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C rwho | grep hill
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 20:00:17 1987
+E NIL
+
+C mail freedman
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 21:23:16 1987
+E NIL
+
+C ls
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr mac_postscript_stuff
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr mac_postscript_source
+D /user/research/xxxxx
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 23:33:53 1987
+E NIL
+
+C cd ~cleary
+D /user/research/xxxxx
+A cd ~cleary ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd CONNECTION
+D /user/profs/cleary
+A cd CONNECTION ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/CONNECTION
+A ls -F
+H NIL
+X NIL
+
+C ls -alt
+D /user/profs/cleary/CONNECTION
+A ls -F -alt
+H NIL
+X NIL
+
+C m max.p
+D /user/profs/cleary/CONNECTION
+A more max.p
+H NIL
+X NIL
+
+C ld
+D /user/profs/cleary/CONNECTION
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/CONNECTION
+A ls -F
+H NIL
+X NIL
+
+C m q8.p
+D /user/profs/cleary/CONNECTION
+A more q8.p
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CONNECTION
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd CPmail
+D /user/profs/cleary
+A cd CPmail ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/CPmail
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CPmail
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd MAIL
+D /user/profs/cleary
+A cd MAIL ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ll
+D /user/profs/cleary/MAIL
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/MAIL
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd CHAOS
+D /user/profs/cleary
+A cd CHAOS ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m chaos.p
+D /user/profs/cleary/CHAOS
+A more chaos.p
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CHAOS
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd CONSULT
+D /user/profs/cleary
+A cd CONSULT ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls TEK
+D /user/profs/cleary/CONSULT
+A ls -F TEK
+H NIL
+X NIL
+
+C ls vertigo
+D /user/profs/cleary/CONSULT
+A ls -F vertigo
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CONSULT
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd CP
+D /user/profs/cleary
+A cd CP ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd japan
+D /user/profs/cleary/CP
+A cd japan ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m *
+D /user/profs/cleary/CP/japan
+A more *
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/CP/japan
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CP/japan
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd simul
+D /user/profs/cleary/CP
+A cd simul ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m *
+D /user/profs/cleary/CP/simul
+A more *
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CP/simul
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X D  88
+
+C cd ..
+D /user/profs/cleary/CP/simul
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/CP
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd DMC
+D /user/profs/cleary
+A cd DMC ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/DMC
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C who
+D /user/profs/cleary
+A NIL
+H NIL
+X NIL
+
+C cd MIU
+D /user/profs/cleary
+A cd MIU ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/MIU
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd MU
+D /user/profs/cleary
+A cd MU ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/MU
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls Messages
+D /user/profs/cleary
+A ls -F Messages
+H NIL
+X NIL
+
+C ls NRL
+D /user/profs/cleary
+A ls -F NRL
+H NIL
+X NIL
+
+C ls POSTED
+D /user/profs/cleary
+A ls -F POSTED
+H NIL
+X NIL
+
+C cd net.nlang
+D /user/profs/cleary
+A cd net.nlang ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X D  88
+
+C cd POSTED
+D /user/profs/cleary
+A cd POSTED ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m *
+D /user/profs/cleary/POSTED
+A more *
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/POSTED
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls Una
+D /user/profs/cleary
+A ls -F Una
+H NIL
+X NIL
+
+C ls articles
+D /user/profs/cleary
+A ls -F articles
+H NIL
+X NIL
+
+C cd articles/mac
+D /user/profs/cleary
+A cd articles/mac ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../..
+D /user/profs/cleary/articles/mac
+A cd ../.. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls connect
+D /user/profs/cleary
+A ls -F connect
+H NIL
+X NIL
+
+C cd connect
+D /user/profs/cleary
+A cd connect ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/profs/cleary/connect
+A more R*
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C cd doc
+D /user/profs/cleary/connect
+A cd doc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/profs/cleary/connect/doc
+A more R*
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C ll
+D /user/profs/cleary/connect/doc
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C m commands.inc
+D /user/profs/cleary/connect/doc
+A more commands.inc
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C m makefile
+D /user/profs/cleary/connect/doc
+A more makefile
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C m sim.me
+D /user/profs/cleary/connect/doc
+A more sim.me
+H NIL
+X NIL
+
+C m makefile
+D /user/profs/cleary/connect/doc
+A more makefile
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/doc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd bin
+D /user/profs/cleary/connect
+A cd bin ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/bin
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m shar1
+D /user/profs/cleary/connect
+A more shar1
+H NIL
+X NIL
+
+C m shar2
+D /user/profs/cleary/connect
+A more shar2
+H NIL
+X NIL
+
+C ld
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect
+A ls -F
+H NIL
+X NIL
+
+C ls src
+D /user/profs/cleary/connect
+A ls -F src
+H NIL
+X NIL
+
+C cd src
+D /user/profs/cleary/connect
+A cd src ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/profs/cleary/connect/src
+A more R*
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/src
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lib
+D /user/profs/cleary/connect
+A cd lib ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ll
+D /user/profs/cleary/connect/lib
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C m libsim.a
+D /user/profs/cleary/connect/lib
+A more libsim.a
+H NIL
+X NIL
+
+C ls
+D /user/profs/cleary/connect/lib
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/lib
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd example
+D /user/profs/cleary/connect
+A cd example ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd tictactoe
+D /user/profs/cleary/connect/example
+A cd tictactoe ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/profs/cleary/connect/example/tictactoe
+A more R*
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/example/tictactoe
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/cleary/connect/example
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/cleary/connect
+A cd ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls misc
+D /user/research/xxxxx
+A ls -F misc
+H NIL
+X NIL
+
+C cd ~cleary/connect
+D /user/research/xxxxx
+A cd ~cleary/connect ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cp shar* $home/misc/.
+D /user/profs/cleary/connect
+A NIL
+H NIL
+X NIL
+
+C cd $home/misc
+D /user/profs/cleary/connect
+A cd $home/misc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs shar1
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/misc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C mkdir connect
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mv misc/shar* connect/.
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/research/xxxxx
+A cd connect ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C /bin/sh shar1
+D /user/research/xxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C /bin/sh shar2
+D /user/research/xxxxx/connect
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/connect
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C rm APOLLO_OK
+D /user/research/xxxxx
+A /bin/mv APOLLO_OK $home/.Deleted
+H NIL
+X NIL
+
+C rm BlindBox
+D /user/research/xxxxx
+A /bin/mv BlindBox $home/.Deleted
+H NIL
+X NIL
+
+C rm Blob*
+D /user/research/xxxxx
+A /bin/mv Blob* $home/.Deleted
+H NIL
+X NIL
+
+C rm mac_pos*
+D /user/research/xxxxx
+A /bin/mv mac_pos* $home/.Deleted
+H NIL
+X NIL
+
+C rm mbox
+D /user/research/xxxxx
+A /bin/mv mbox $home/.Deleted
+H NIL
+X NIL
+
+C m where
+D /user/research/xxxxx
+A more where
+H NIL
+X NIL
+
+C rm where
+D /user/research/xxxxx
+A /bin/mv where $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C rm trace*
+D /user/research/xxxxx
+A /bin/mv trace* $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C m AI*
+D /user/research/xxxxx
+A more AI*
+H NIL
+X NIL
+
+C rm AI*
+D /user/research/xxxxx
+A /bin/mv AI* $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd FRP
+D /user/research/xxxxx
+A cd FRP ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../KSI
+D /user/research/xxxxx/FRP
+A cd ../KSI ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m meetings
+D /user/research/xxxxx/KSI
+A more meetings
+H NIL
+X NIL
+
+C rm meetings
+D /user/research/xxxxx/KSI
+A /bin/mv meetings $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI
+A ls -F
+H NIL
+X NIL
+
+C m Mac*
+D /user/research/xxxxx/KSI
+A more Mac*
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI
+A ls -F
+H NIL
+X NIL
+
+C m TML*
+D /user/research/xxxxx/KSI
+A more TML*
+H NIL
+X NIL
+
+C rm TML*
+D /user/research/xxxxx/KSI
+A /bin/mv TML* $home/.Deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/KSI
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd Messages
+D /user/research/xxxxx
+A cd Messages ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m D*
+D /user/research/xxxxx/Messages
+A more D*
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/Messages
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd bin
+D /user/research/xxxxx
+A cd bin ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C shit
+D /user/research/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C rm shit
+D /user/research/xxxxx/bin
+A /bin/mv shit $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C rm core
+D /user/research/xxxxx/bin
+A /bin/mv core $home/.Deleted
+H NIL
+X NIL
+
+C nuke
+D /user/research/xxxxx/bin
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C dl
+D /user/research/xxxxx/bin
+A /bin/echo "Deleted files are : " ; ls -F -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/bin
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang
+D /user/research/xxxxx
+A cd lang ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd c
+D /user/research/xxxxx/lang
+A cd c ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C rm *.doc
+D /user/research/xxxxx/lang/c
+A /bin/mv *.doc $home/.Deleted
+H NIL
+X NIL
+
+C cd ../lisp
+D /user/research/xxxxx/lang/c
+A cd ../lisp ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C rm x
+D /user/research/xxxxx/lang/lisp
+A /bin/mv x $home/.Deleted
+H NIL
+X NIL
+
+C rm example.l
+D /user/research/xxxxx/lang/lisp
+A /bin/mv example.l $home/.Deleted
+H NIL
+X NIL
+
+C cd two
+D /user/research/xxxxx/lang/lisp
+A cd two ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m inter*
+D /user/research/xxxxx/lang/lisp/two
+A more inter*
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/lisp/two
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C dl
+D /user/research/xxxxx/lang/lisp
+A /bin/echo "Deleted files are : " ; ls -F -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C mvd *.l
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X N  10
+
+C alias | grep Deleted
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C mv $home/.Deleted/*.l .
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C mv $home/.Deleted/x .
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/lisp
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd pascal
+D /user/research/xxxxx/lang
+A cd pascal ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m fred
+D /user/research/xxxxx/lang/pascal
+A more fred
+H NIL
+X NIL
+
+C rm fred
+D /user/research/xxxxx/lang/pascal
+A /bin/mv fred $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/pascal
+A ls -F
+H NIL
+X NIL
+
+C kb
+D /user/research/xxxxx/lang/pascal
+A NIL
+H NIL
+X N  10
+
+C clb
+D /user/research/xxxxx/lang/pascal
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C m test.p
+D /user/research/xxxxx/lang/pascal
+A more test.p
+H NIL
+X NIL
+
+C m test.p
+D /user/research/xxxxx/lang/pascal
+A more test.p
+H NIL
+X NIL
+
+C rm test.p
+D /user/research/xxxxx/lang/pascal
+A /bin/mv test.p $home/.Deleted
+H NIL
+X NIL
+
+C nuke
+D /user/research/xxxxx/lang/pascal
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/pascal
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd prolog
+D /user/research/xxxxx/lang
+A cd prolog ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/prolog
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd misc
+D /user/research/xxxxx
+A cd misc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/misc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C limits
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd connect
+D /user/research/xxxxx
+A cd connect ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C rm shar*
+D /user/research/xxxxx/connect
+A /bin/mv shar* $home/.Deleted
+H NIL
+X NIL
+
+C nuke
+D /user/research/xxxxx/connect
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C cd bin
+D /user/research/xxxxx/connect
+A cd bin ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../doc
+D /user/research/xxxxx/connect/bin
+A cd ../doc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/research/xxxxx/connect/doc
+A more R*
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C makefile
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X Y 102
+
+C ll
+D /user/research/xxxxx/connect/doc
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C chmod 700 makefile
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/connect/doc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd doc
+D /user/research/xxxxx/connect
+A cd doc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m makefile
+D /user/research/xxxxx/connect/doc
+A more makefile
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/connect/doc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd bin
+D /user/research/xxxxx/connect
+A cd bin ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../example
+D /user/research/xxxxx/connect/bin
+A cd ../example ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls *
+D /user/research/xxxxx/connect/example
+A ls -F *
+H NIL
+X NIL
+
+C cd 4color
+D /user/research/xxxxx/connect/example
+A cd 4color ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/research/xxxxx/connect/example/4color
+A more R*
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/example/4color
+A ls -F
+H NIL
+X NIL
+
+C m makefile
+D /user/research/xxxxx/connect/example/4color
+A more makefile
+H NIL
+X NIL
+
+C cd ../../doc
+D /user/research/xxxxx/connect/example/4color
+A cd ../../doc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C m makefile
+D /user/research/xxxxx/connect/doc
+A more makefile
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/connect/doc
+A lpq $user
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C m manual
+D /user/research/xxxxx/connect/doc
+A more manual
+H NIL
+X NIL
+
+C ftp
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C m R*
+D /user/research/xxxxx/connect/doc
+A more R*
+H NIL
+X NIL
+
+C make commands
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/connect/doc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lib
+D /user/research/xxxxx/connect
+A cd lib ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../src
+D /user/research/xxxxx/connect/lib
+A cd ../src ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/research/xxxxx/connect/src
+A more R*
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/src
+A ls -F
+H NIL
+X NIL
+
+C ls lib
+D /user/research/xxxxx/connect/src
+A ls -F lib
+H NIL
+X NIL
+
+C ls sim
+D /user/research/xxxxx/connect/src
+A ls -F sim
+H NIL
+X NIL
+
+C ls tools
+D /user/research/xxxxx/connect/src
+A ls -F tools
+H NIL
+X NIL
+
+C cd ../..
+D /user/research/xxxxx/connect/src
+A cd ../.. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd connect
+D /user/research/xxxxx
+A cd connect ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls bin
+D /user/research/xxxxx/connect
+A ls -F bin
+H NIL
+X NIL
+
+C ls doc
+D /user/research/xxxxx/connect
+A ls -F doc
+H NIL
+X NIL
+
+C ls example
+D /user/research/xxxxx/connect
+A ls -F example
+H NIL
+X NIL
+
+C ls include
+D /user/research/xxxxx/connect
+A ls -F include
+H NIL
+X NIL
+
+C ls lib
+D /user/research/xxxxx/connect
+A ls -F lib
+H NIL
+X NIL
+
+C ls src
+D /user/research/xxxxx/connect
+A ls -F src
+H NIL
+X NIL
+
+C cd bin
+D /user/research/xxxxx/connect
+A cd bin ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ftp apollo
+D /user/research/xxxxx/connect/bin
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx/connect/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/bin
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/bin
+A ls -F
+H NIL
+X NIL
+
+C cd ../doc
+D /user/research/xxxxx/connect/bin
+A cd ../doc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C m R*
+D /user/research/xxxxx/connect/doc
+A more R*
+H NIL
+X NIL
+
+C make ptroff
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/connect/doc
+A ls -F
+H NIL
+X NIL
+
+C rm *.me
+D /user/research/xxxxx/connect/doc
+A /bin/mv *.me $home/.Deleted
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/connect/doc
+A NIL
+H NIL
+X NIL
+
+C m input.format
+D /user/research/xxxxx/connect/doc
+A more input.format
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/connect/doc
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd example/4color
+D /user/research/xxxxx/connect
+A cd example/4color ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../backprop
+D /user/research/xxxxx/connect/example/4color
+A cd ../backprop ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../tictactoe
+D /user/research/xxxxx/connect/example/backprop
+A cd ../tictactoe ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../walk-through
+D /user/research/xxxxx/connect/example/tictactoe
+A cd ../walk-through ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C rm *.me
+D /user/research/xxxxx/connect/example/walk-through
+A /bin/mv *.me $home/.Deleted
+H NIL
+X NIL
+
+C cd ../..
+D /user/research/xxxxx/connect/example/walk-through
+A cd ../.. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd src
+D /user/research/xxxxx/connect
+A cd src ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls lib
+D /user/research/xxxxx/connect/src
+A ls -F lib
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/connect/src
+A cd ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd connect/lib
+D /user/research/xxxxx
+A cd connect/lib ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ftp apollo
+D /user/research/xxxxx/connect/lib
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/connect/lib
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd src/lib
+D /user/research/xxxxx/connect
+A cd src/lib ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cat makefile
+D /user/research/xxxxx/connect/src/lib
+A NIL
+H NIL
+X NIL
+
+C man ranlib
+D /user/research/xxxxx/connect/src/lib
+A NIL
+H NIL
+X NIL
+
+C cat makefile
+D /user/research/xxxxx/connect/src/lib
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 20:00:38 1987
+E NIL
+
+C rlogin apopllo
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogn
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C stty erase 
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin apollo
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logut
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:35:33 1987
+E NIL
+
+C rlogin apollo
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar  7 03:02:26 1987
+E NIL
+
+C cd misc
+D /user/research/xxxxx
+A cd misc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C rlogin cs-sun-fsa
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/misc
+A ls -F
+H NIL
+X NIL
+
+C lpr *
+D /user/research/xxxxx/misc
+A lpr * ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/misc
+A lpq $user
+H NIL
+X NIL
+
+C lprm 46
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C alias | grep lpr
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C alias | grep vbp
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C alias vbp '/usr/ucb/lpr -Pjp ¡*'
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C alias | grep vpb
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C vbp demo*.c
+D /user/research/xxxxx/misc
+A /usr/ucb/lpr -Pjp demo*.c
+H NIL
+X NIL
+
+C lpr demo*.c
+D /user/research/xxxxx/misc
+A lpr demo*.c ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/misc
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/misc
+A ls -F
+H NIL
+X NIL
+
+C ]
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X N  10
+
+C lpr lib*.c
+D /user/research/xxxxx/misc
+A lpr lib*.c ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr man*.doc
+D /user/research/xxxxx/misc
+A lpr man*.doc ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr unix*.doc
+D /user/research/xxxxx/misc
+A lpr unix*.doc ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr socket.doc
+D /user/research/xxxxx/misc
+A lpr socket.doc ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr receive.c send.c socketincls.h
+D /user/research/xxxxx/misc
+A lpr receive.c send.c socketincls.h ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/misc
+A lpq $user
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/misc
+A lpq $user
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/misc
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 16:27:40 1987
+E NIL
+
+C ruptime
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxd
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rhwo
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | m
+D /user/research/xxxxx
+A rwho | more
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  9 01:21:57 1987
+E NIL
+
+C limtis
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C limits
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm -i connect
+D /user/research/xxxxx
+A /bin/mv -i connect $home/.Deleted
+H NIL
+X NIL
+
+C dl
+D /user/research/xxxxx
+A /bin/echo "Deleted files are : " ; ls -F -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C nuke
+D /user/research/xxxxx
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C limits
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fin pearce
+D /user/research/xxxxx
+A /usr/ucb/f pearce | more
+H NIL
+X NIL
+
+C mail pearce
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  9 01:30:36 1987
+E NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd misc
+D /user/research/xxxxx
+A cd misc ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/misc
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 19:02:16 1987
+E NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx
+A lpq $user
+H NIL
+X NIL
+
+C lpr rbak_listing_a
+D /user/research/xxxxx
+A lpr rbak_listing_a ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr rbak_listing_a
+D /user/research/xxxxx
+A lpr rbak_listing_a ; sleep 1 ; lpq $user ; lquota
+H T
+X NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx
+A lpq $user
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 20:05:06 1987
+E NIL
+
+C rm rbak*
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 01:57:40 1987
+E NIL
+
+C ls misc
+D /user/research/xxxxx
+A ls -F misc
+H NIL
+X NIL
+
+C cd misc
+D /user/research/xxxxx
+A cd misc ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C rm *.c
+D /user/research/xxxxx/misc
+A /bin/mv *.c $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/misc
+A ls -F
+H NIL
+X NIL
+
+C rm *.doc
+D /user/research/xxxxx/misc
+A /bin/mv *.doc $home/.Deleted
+H NIL
+X NIL
+
+C rm *.h
+D /user/research/xxxxx/misc
+A /bin/mv *.h $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/misc
+A ls -F
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/misc
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/misc
+A cd .. ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang
+D /user/research/xxxxx
+A cd lang ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd c
+D /user/research/xxxxx/lang
+A cd c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C source .complete
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/lang/c
+A cd ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C source .complete
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd c
+D /user/research/xxxxx
+A cd c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X D  88
+
+C cd c
+D /user/research/xxxxx
+A cd c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X D  88
+
+C cd lang/c
+D /user/research/xxxxx
+A cd lang/c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs control.c
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/lang/c
+A cd ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs .emacs_pro
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd lang/c
+D /user/research/xxxxx
+A cd lang/c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/c
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/c
+A emacs
+H NIL
+X NIL
+
+C makefile
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X Y 102
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 4 4 4
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C man make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C e makefile
+D /user/research/xxxxx/lang/c
+A emacs makefile
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/lang/c
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C kb
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C clb
+D /user/research/xxxxx/lang/c
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C rm Data_file
+D /user/research/xxxxx/lang/c
+A /bin/mv Data_file $home/.Deleted
+H NIL
+X NIL
+
+C m Reader_count
+D /user/research/xxxxx/lang/c
+A more Reader_count
+H NIL
+X NIL
+
+C rm Reader_count
+D /user/research/xxxxx/lang/c
+A /bin/mv Reader_count $home/.Deleted
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/lang/c
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C rm reader
+D /user/research/xxxxx/lang/c
+A /bin/mv reader $home/.Deleted
+H NIL
+X NIL
+
+C rm writer
+D /user/research/xxxxx/lang/c
+A /bin/mv writer $home/.Deleted
+H NIL
+X NIL
+
+C rm control
+D /user/research/xxxxx/lang/c
+A /bin/mv control $home/.Deleted
+H NIL
+X NIL
+
+C nuke
+D /user/research/xxxxx/lang/c
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C cc -o reader reader.c
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/research/xxxxx/lang/c
+A emacs
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C rwho | m
+D /user/research/xxxxx/lang/c
+A rwho | more
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-fsa
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 5 5 5 5
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 5 98 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 2 2 3
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 13625
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 13626
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 13627
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 14973
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 14794
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X Y  92
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 14974
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 14975
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 14976
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C cc -o reader reader.c
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C alias | grep cc
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C alias | grep c
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m Data_file
+D /user/research/xxxxx/lang/c
+A more Data_file
+H NIL
+X NIL
+
+C m Reader_count
+D /user/research/xxxxx/lang/c
+A more Reader_count
+H NIL
+X NIL
+
+C m Writer_count
+D /user/research/xxxxx/lang/c
+A more Writer_count
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15105
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15106
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C pd -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15468
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15469
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C cat *_*
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/research/xxxxx/lang/c
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C alias ck 'cc -o ¡* ¡*.c'
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C alias | grep ck
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps =g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15508
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15509
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C ck writer
+D /user/research/xxxxx/lang/c
+A cc -o writer writer.c
+H NIL
+X NIL
+
+C ck control
+D /user/research/xxxxx/lang/c
+A cc -o control control.c
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15587
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15588
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C cd ../..
+D /user/research/xxxxx/lang/c
+A cd ../.. ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx
+A cd .. ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research
+A cd .. ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd $home
+D /user
+A cd $home ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang/c
+D /user/research/xxxxx
+A cd lang/c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C rlogin cs-sun-fsa
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15623
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15624
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15627
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15628
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/c
+A cd .. ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C c d..
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang
+A cd .. ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang/c
+D /user/research/xxxxx
+A cd lang/c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X Y 102
+
+C cd /tmp
+D /user/research/xxxxx/lang/c
+A cd /tmp ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C rm *xxxxx*
+D /tmp
+A /bin/mv *xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C nuke
+D /tmp
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C ls
+D /tmp
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /tmp
+A cd ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang/c
+D /user/research/xxxxx
+A cd lang/c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/c
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C control 2 2 2
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15676
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15678
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15677
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15679
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/lang/c
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C cd /temp
+D /user/research/xxxxx/lang/c
+A cd /temp ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X D  88
+
+C cd /tmp
+D /user/research/xxxxx/lang/c
+A cd /tmp ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C ll
+D /tmp
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C rm *xxxxx*
+D /tmp
+A /bin/mv *xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C cd
+D /tmp
+A cd ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang/c
+D /user/research/xxxxx
+A cd lang/c ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C j
+D /user/research/xxxxx/lang/c
+A jobs -l
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 2 1 2
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 1 1 3
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 2 2 2
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15790
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15791
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15792
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15793
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ke
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 2 1 3
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C j
+D /user/research/xxxxx/lang/c
+A jobs -l
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15900
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15901
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 15902
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck writer
+D /user/research/xxxxx/lang/c
+A cc -o writer writer.c
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C ck writer
+D /user/research/xxxxx/lang/c
+A cc -o writer writer.c
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ascii
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C man ascii
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/c
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C rm Data_file
+D /user/research/xxxxx/lang/c
+A /bin/mv Data_file $home/.Deleted
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C s
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck writer
+D /user/research/xxxxx/lang/c
+A cc -o writer writer.c
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X M  09
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck writer
+D /user/research/xxxxx/lang/c
+A cc -o writer writer.c
+H NIL
+X NIL
+
+C UL
+D /user/research/xxxxx/lang/c
+A /bin/echo -n "g" ; /bin/echo "|81SL "
+H NIL
+X NIL
+
+C SL
+D /user/research/xxxxx/lang/c
+A /bin/echo -n "h" ; /bin/echo "|81UL "
+H NIL
+X NIL
+
+C UL
+D /user/research/xxxxx/lang/c
+A /bin/echo -n "g" ; /bin/echo "|81SL "
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C control 3 1 3
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C cat Reader_count
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C cat Writer_count
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C cat > Reader_count
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16154
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16155
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16156
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ck reader
+D /user/research/xxxxx/lang/c
+A cc -o reader reader.c
+H NIL
+X NIL
+
+C control 1 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H NIL
+X NIL
+
+C control 2 1 1
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H T
+X NIL
+
+C control 1 1 3
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H T
+X NIL
+
+C control 2 1 2
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H T
+X NIL
+
+C control 3 1 3
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H T
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16225
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16226
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16227
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C kill -9 16228
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C m *_*
+D /user/research/xxxxx/lang/c
+A more *_*
+H T
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C SL
+D /user/research/xxxxx/lang/c
+A /bin/echo -n "h" ; /bin/echo "|81UL "
+H NIL
+X NIL
+
+C rm /tmp/*xxxxx*
+D /user/research/xxxxx/lang/c
+A /bin/mv /tmp/*xxxxx* $home/.Deleted
+H NIL
+X NIL
+
+C ftafasf
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X N  10
+
+C rlogin cs-sun-fsa
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/c
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 17 02:02:36 1987
+E NIL
+
+C pwd
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 02:07:55 1987
+E NIL
+
+C make
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+
+S Tue Mar 17 14:14:24 1987
+E NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 21:59:27 1987
+E NIL
+
+C ruptime
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd lang
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C alias ls ls -F
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd misc
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/misc
+A ls -F
+H NIL
+X NIL
+
+C cd ../KSI
+D /user/research/xxxxx/misc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI
+A ls -F
+H NIL
+X NIL
+
+C cd ../lang
+D /user/research/xxxxx/KSI
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang
+A ls -F
+H NIL
+X NIL
+
+C cd c
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C rm -i *
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/c
+A ls -F
+H NIL
+X NIL
+
+C cd ../lisp
+D /user/research/xxxxx/lang/c
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp
+A ls -F
+H NIL
+X NIL
+
+C cd two
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/two
+A ls -F
+H NIL
+X NIL
+
+C cd ../../pascal
+D /user/research/xxxxx/lang/lisp/two
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/pascal
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/pascal
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang
+A ls -F
+H NIL
+X NIL
+
+C cd prolog
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/prolog
+A ls -F
+H NIL
+X NIL
+
+C ls -F
+D /user/research/xxxxx/lang/prolog
+A ls -F -F
+H NIL
+X NIL
+
+C cd ../..
+D /user/research/xxxxx/lang/prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls -al
+D /user/research/xxxxx
+A ls -F -al
+H NIL
+X NIL
+
+C ls -a
+D /user/research/xxxxx
+A ls -F -a
+H NIL
+X NIL
+
+C cd bin
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C rm outcal
+D /user/research/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd .Deleted
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/.Deleted
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/.Deleted
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C grep
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C grep xxxxx /etc/passwd
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr  5 01:30:22 1987
+E NIL
+
+C cd lang/lisp
+D /user/research/xxxxx
+A cd lang/lisp ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C crd proj
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X N  10
+
+C mkdir proj
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C cd proj
+D /user/research/xxxxx/lang/lisp
+A cd proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs test.l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C man vnews
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Sun Apr  5 01:37:21 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr  5 02:00:06 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 17:56:36 1987
+E NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C kb
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 18:00:16 1987
+E Mon Apr  6 18:00:39 1987
+
+C cp test.l test.l.vaxb
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C rm test.l
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/mv test.l $home/.Deleted
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X J  68
+
+
+S Mon Apr  6 23:02:52 1987
+E NIL
+
+C UL
+D /user/research/xxxxx
+A /bin/echo -n "g" ; /bin/echo "|81SL "
+H NIL
+X NIL
+
+C SL
+D /user/research/xxxxx
+A /bin/echo -n "h" ; /bin/echo "|81UL "
+H NIL
+X NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} )[$cwd:t]( --> " ; ls -F -F
+H NIL
+X NIL
+
+C UL
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/echo -n "g" ; /bin/echo "|81SL "
+H NIL
+X NIL
+
+C emacs test.l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C e test.l
+D /user/research/xxxxx/lang/lisp/proj
+A emacs test.l
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C SL
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/echo -n "h" ; /bin/echo "|81UL "
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C rwho | m
+D /user/research/xxxxx/lang/lisp/proj
+A rwho | more
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 23:05:26 1987
+E NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C ls ..
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F ..
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C mv test.l.BAK test.l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C mv test.l.vaxb test2.l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+
+S Mon Apr  6 23:10:26 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ( lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X S  28
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 00:27:46 1987
+E NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C kb
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C lpr data-base.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr data-base.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr main.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr main.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr prims.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr prims.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C m t* ( .l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X S  28
+
+C m t*.l
+D /user/research/xxxxx/lang/lisp/proj
+A more t*.l
+H NIL
+X NIL
+
+C m t*.l
+D /user/research/xxxxx/lang/lisp/proj
+A more t*.l
+H T
+X NIL
+
+C ld
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C m shit.l
+D /user/research/xxxxx/lang/lisp/proj
+A more shit.l
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C m test2.l
+D /user/research/xxxxx/lang/lisp/proj
+A more test2.l
+H NIL
+X NIL
+
+C lpr test2.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr test2.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C emacs
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/lang/lisp/proj
+A cd ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs .complete
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/lang/lisp/proj
+A cd ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs .emacs_pro
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd .emacs_dir
+D /user/research/xxxxx
+A cd .emacs_dir ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ls -al
+D /user/research/xxxxx/.emacs_dir
+A ls -F -al
+H NIL
+X NIL
+
+C emacs new-pascal.ml
+D /user/research/xxxxx/.emacs_dir
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/.emacs_dir
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang/pascal
+D /user/research/xxxxx
+A cd lang/pascal ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs shit.p
+D /user/research/xxxxx/lang/pascal
+A NIL
+H NIL
+X NIL
+
+C cd $home/.emacs_dir
+D /user/research/xxxxx/lang/pascal
+A cd $home/.emacs_dir ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C emacs
+D /user/research/xxxxx/.emacs_dir
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/research/xxxxx/.emacs_dir
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/.emacs_dir
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd lang/lisp
+D /user/research/xxxxx
+A cd lang/lisp ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd two
+D /user/research/xxxxx/lang/lisp
+A cd two ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd ../proj
+D /user/research/xxxxx/lang/lisp/two
+A cd ../proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 01:01:35 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 03:54:49 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/research/xxxxx/lang/lisp/proj
+A fred
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 05:35:07 1987
+E NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 18809
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 06:05:25 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ]
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 06:08:15 1987
+E NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 19165
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 06:08:49 1987
+E NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 19159
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 19182
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 19213
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 19238
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 19277
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 06:30:44 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C six times nine
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C dfas ; 'lkjtey BWjhoi l;k xcvf ,.locvgdfr  m,.lkcvgdfr,.ljk frt xcdvr
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X S  11
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 15:41:55 1987
+E NIL
+
+C crd kitten
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C wd KSI
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls KSI
+D /user/research/xxxxx
+A ls -F KSI
+H NIL
+X NIL
+
+C wd KSI
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cd KSI
+D /user/research/xxxxx
+A cd KSI ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C mkdir kitten
+D /user/research/xxxxx/KSI
+A NIL
+H NIL
+X NIL
+
+C cd kitten
+D /user/research/xxxxx/KSI
+A cd kitten ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C ftp
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI/kitten
+A ls -F
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/KSI/kitten
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 16:56:34 1987
+E NIL
+
+C cd KSI/kitten
+D /user/research/xxxxx
+A cd KSI/kitten ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C lpr *.pas
+D /user/research/xxxxx/KSI/kitten
+A lpr *.pas ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr *.dps
+D /user/research/xxxxx/KSI/kitten
+A lpr *.dps ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C cd ../../lang/lisp/proj
+D /user/research/xxxxx/KSI/kitten
+A cd ../../lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 17:20:03 1987
+E NIL
+
+C lpq
+D /user/research/xxxxx
+A lpq $user
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 19:26:12 1987
+E NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/lang/lisp/proj
+A lpq $user
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/lang/lisp/proj
+A lpq $user
+H NIL
+X NIL
+
+C lpr data-base.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr data-base.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr main.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr main.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr prims.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr prims.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C m temp.l
+D /user/research/xxxxx/lang/lisp/proj
+A more temp.l
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 19:27:43 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C man lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp temp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 20:05:08 1987
+E NIL
+
+C ps -g
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 18107
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C hi there
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 22:51:27 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 08:38:47 1987
+E NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 08:56:20 1987
+E NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 09:00:14 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 21:03:44 1987
+E NIL
+
+C rlogin -8 vaxa
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa -8
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A cd lang/lisp/proj ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C m test2.l
+D /user/research/xxxxx/lang/lisp/proj
+A more test2.l
+H NIL
+X NIL
+
+C rm test2.l
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/mv test2.l $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C m shit.l
+D /user/research/xxxxx/lang/lisp/proj
+A more shit.l
+H NIL
+X NIL
+
+C rm shit.l
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/mv shit.l $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C rm test.l
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/mv test.l $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C lpr data-base.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr data-base.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr main.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr main.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr prims.l
+D /user/research/xxxxx/lang/lisp/proj
+A lpr prims.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C emacs data-base.l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C man lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C man lxref
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/research/xxxxx/lang/lisp/proj
+A ps -g
+H NIL
+X NIL
+
+C ps -g
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C emacs do-lpr
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C do-lpr
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X Y 102
+
+C source do-lpr
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/lang/lisp/proj
+A lpq $user
+H NIL
+X NIL
+
+C /usr/ucb/lpq
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X J  82
+
+C e main.l
+D /user/research/xxxxx/lang/lisp/proj
+A emacs main.l
+H NIL
+X NIL
+
+C fg
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C p
+D /user/research/xxxxx/lang/lisp/proj
+A ps -g
+H NIL
+X NIL
+
+C kill -9 25360
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/research/xxxxx/lang/lisp/proj
+A ps -g
+H NIL
+X NIL
+
+C lisp < temp.l
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/research/xxxxx/lang/lisp/proj
+A emacs
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa -8
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 21:09:25 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 22:26:44 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 23:21:09 1987
+E NIL
+
+C ps -g
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 00:12:16 1987
+E NIL
+
+C ( load 'temp)
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X S  11
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 00:47:18 1987
+E NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A ls -F
+H NIL
+X NIL
+
+
+S Fri Apr 10 01:00:02 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 01:31:04 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 01:56:13 1987
+E NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 03:50:16 1987
+E NIL
+
+C mail
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:41:34 1987
+E NIL
+
+C lpq
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd lang/lisp/proj
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C clb
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C rm
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C source do-lpr
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx/lang/lisp/proj
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 23:57:01 1987
+E NIL
+
+C ls
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C alias ls 'ls -F ¡*'
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C alias cd 'cd ¡* ; ls'
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C cd lisp
+D /user/profs/ian
+A cd lisp ; ls -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/lisp
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/lisp
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/lisp
+A ls -F
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/ian/lisp
+A ls -F -a
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/ian/lisp
+A cd .. ; ls -F
+H NIL
+X D  88
+
+C cd ..
+D /user/profs/ian/lisp
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C ls -alt
+D /user/profs/ian
+A ls -F -alt
+H NIL
+X NIL
+
+C ls -al | more
+D /user/profs/ian
+A ls -F -al | more
+H NIL
+X NIL
+
+C cd courses
+D /user/profs/ian
+A cd courses ; ls -F
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/ian/courses
+A ls -F -a
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/ian/courses
+A ls -F -l
+H NIL
+X NIL
+
+C cd 533
+D /user/profs/ian/courses
+A cd 533 ; ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/ian/courses/533
+A ls -F -l
+H NIL
+X NIL
+
+C ls handouts
+D /user/profs/ian/courses/533
+A ls -F handouts
+H NIL
+X NIL
+
+C cd handouts
+D /user/profs/ian/courses/533
+A cd handouts ; ls -F
+H NIL
+X D  88
+
+C more handouts
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/courses/533
+A ls -F
+H NIL
+X NIL
+
+C cd lisp
+D /user/profs/ian/courses/533
+A cd lisp ; ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/ian/courses/533/lisp
+A ls -F -l
+H NIL
+X NIL
+
+C m differentiate.l
+D /user/profs/ian/courses/533/lisp
+A NIL
+H NIL
+X N  10
+
+C more differentiate.l
+D /user/profs/ian/courses/533/lisp
+A NIL
+H T
+X NIL
+
+C ls
+D /user/profs/ian/courses/533/lisp
+A ls -F
+H NIL
+X NIL
+
+C pwd
+D /user/profs/ian/courses/533/lisp
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian/courses/533/lisp
+A cd ; ls -F
+H NIL
+X NIL
+
+C cd ~ian
+D /user/research/xxxxx
+A cd ~ian ; ls -F
+H NIL
+X NIL
+
+C ls etc
+D /user/profs/ian
+A ls -F etc
+H NIL
+X NIL
+
+C ls lisp
+D /user/profs/ian
+A ls -F lisp
+H NIL
+X NIL
+
+C ls misc
+D /user/profs/ian
+A ls -F misc
+H NIL
+X NIL
+
+C ls temporaru
+D /user/profs/ian
+A ls -F temporaru
+H NIL
+X NIL
+
+C ls temporary
+D /user/profs/ian
+A ls -F temporary
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/ian
+A ls -F -a
+H NIL
+X NIL
+
+C ls .deleted
+D /user/profs/ian
+A ls -F .deleted
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian
+A cd ; ls -F
+H NIL
+X NIL
+
+C rlogin vaxa -8
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/research/xxxxx
+A cd ~ian ; ls -F
+H NIL
+X NIL
+
+C cd tex
+D /user/profs/ian
+A cd tex ; ls -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/tex
+A ls -F
+H NIL
+X NIL
+
+C more *.tex
+D /user/profs/ian/tex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/tex
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/ian/tex
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C cd tmac
+D /user/profs/ian
+A cd tmac ; ls -F
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/ian/tmac
+A cd ~ian ; ls -F
+H NIL
+X NIL
+
+C cd apollo
+D /user/profs/ian
+A cd apollo ; ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/ian/apollo
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C ls admin
+D /user/profs/ian
+A ls -F admin
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/ian
+A ls -F bin
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C ls compression
+D /user/profs/ian
+A ls -F compression
+H NIL
+X NIL
+
+C ls courses
+D /user/profs/ian
+A ls -F courses
+H NIL
+X NIL
+
+C ls ean
+D /user/profs/ian
+A ls -F ean
+H NIL
+X NIL
+
+C ls etc
+D /user/profs/ian
+A ls -F etc
+H NIL
+X NIL
+
+C ls me
+D /user/profs/ian
+A ls -F me
+H NIL
+X NIL
+
+C ls projects
+D /user/profs/ian
+A ls -F projects
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C more temp
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C more temp1
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian
+A cd ; ls -F
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 18 02:04:53 1987
+E NIL
+
+C cd ~ian
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd lisp
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/lisp
+A NIL
+H NIL
+X NIL
+
+C cd ../courses
+D /user/profs/ian/lisp
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/courses
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/profs/ian/courses
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ls -F
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C set term = vt100
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C export term
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X N  10
+
+C setenv TERM vt100
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C cat mycin
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ftp apollo
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 21:39:09 1987
+E NIL
+
+C .ab
+D /user/research/xxxxx
+A source $home/.abv
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx
+A ls -F
+H NIL
+X NIL
+
+C du
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd KSI
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd kitten
+D /user/research/xxxxx/KSI
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI/kitten
+A ls -F
+H NIL
+X NIL
+
+C rm *
+D /user/research/xxxxx/KSI/kitten
+A /bin/mv * $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI/kitten
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI
+A ls -F
+H NIL
+X NIL
+
+C dl
+D /user/research/xxxxx/KSI
+A /bin/echo "Deleted files are : " ; ls -F -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/KSI
+A NIL
+H NIL
+X NIL
+
+C cd .deleted
+D /user/research/xxxxx
+A NIL
+H NIL
+X D  88
+
+C ll
+D /user/research/xxxxx
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd .Deleted
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/.Deleted
+A ls -F
+H NIL
+X NIL
+
+C more get_instruct
+D /user/research/xxxxx/.Deleted
+A NIL
+H NIL
+X NIL
+
+C more get_instruct.pas
+D /user/research/xxxxx/.Deleted
+A NIL
+H NIL
+X NIL
+
+C more strings.pas
+D /user/research/xxxxx/.Deleted
+A NIL
+H NIL
+X NIL
+
+C more strings.ins.pas
+D /user/research/xxxxx/.Deleted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/.Deleted
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/.Deleted
+A NIL
+H NIL
+X NIL
+
+C cd KSI/kitten
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mvd *
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X M  09
+
+C mvd * .
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X M  09
+
+C alias | grep mvd
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C alias | grep Deleted
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C mvd
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X N  10
+
+C alias mvd 'mv $home/.Deleted/¡* .'
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C mvd *
+D /user/research/xxxxx/KSI/kitten
+A mv $home/.Deleted/* .
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/KSI/kitten
+A ls -F
+H NIL
+X NIL
+
+C mail brucet
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/KSI/kitten
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/KSI/kitten
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C chmod 744 strings.pas
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C ll strings.pas
+D /user/research/xxxxx/KSI/kitten
+A ls -F -lsa | more strings.pas
+H NIL
+X NIL
+
+C chmod 744 *
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/research/xxxxx/KSI
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/KSI
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 lang
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd lang
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang
+A ls -F
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/lang
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C chmod 744 */*
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C ls c
+D /user/research/xxxxx/lang
+A ls -F c
+H NIL
+X NIL
+
+C ls -alt c
+D /user/research/xxxxx/lang
+A ls -F -alt c
+H NIL
+X NIL
+
+C ls -al lisp
+D /user/research/xxxxx/lang
+A ls -F -al lisp
+H NIL
+X NIL
+
+C cd lisp
+D /user/research/xxxxx/lang
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/lisp
+A ls -F
+H NIL
+X NIL
+
+C chmod 744 proj/*
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C chmod 744 two/*
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C chmod 755 proj two
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C cd ../pascal
+D /user/research/xxxxx/lang/lisp
+A NIL
+H NIL
+X NIL
+
+C alias cd 'cd ¡* ; ls '
+D /user/research/xxxxx/lang/pascal
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/xxxxx/lang/pascal
+A ls -F
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/lang/pascal
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/pascal
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C cd prolog
+D /user/research/xxxxx/lang
+A cd prolog ; ls -F
+H NIL
+X NIL
+
+C ll
+D /user/research/xxxxx/lang/prolog
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang/prolog
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C ls pdp11.assem
+D /user/research/xxxxx/lang
+A ls -F pdp11.assem
+H NIL
+X NIL
+
+C cd ..
+D /user/research/xxxxx/lang
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C cd ~hill
+D /user/research/xxxxx
+A cd ~hill ; ls -F
+H NIL
+X NIL
+
+C cd cpsc213
+D /user/profs/hill
+A cd cpsc213 ; ls -F
+H NIL
+X D  88
+
+C cd cpsc213-02
+D /user/profs/hill
+A cd cpsc213-02 ; ls -F
+H NIL
+X D  88
+
+C rlogin vaxd
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/hill
+A ls -F
+H NIL
+X NIL
+
+C getvterm
+D /user/profs/hill
+A NIL
+H NIL
+X N  10
+
+C setvterm
+D /user/profs/hill
+A NIL
+H NIL
+X N  10
+
+C cd bin
+D /user/profs/hill
+A cd bin ; ls -F
+H NIL
+X NIL
+
+C ls
+D /user/profs/hill/bin
+A ls -F
+H NIL
+X NIL
+
+C pwd
+D /user/profs/hill/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/hill/bin
+A cd ; ls -F
+H NIL
+X NIL
+
+C cd bin
+D /user/research/xxxxx
+A cd bin ; ls -F
+H NIL
+X NIL
+
+C getvterm
+D /user/research/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C setvterm
+D /user/research/xxxxx/bin
+A NIL
+H NIL
+X N  10
+
+C printenv
+D /user/research/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/research/xxxxx/bin
+A cd ; ls -F
+H NIL
+X NIL
+
+C emacs .complete
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 20 21:59:10 1987
+E NIL
+
+C printenv
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Apr 21 03:42:21 1987
+E NIL
+
+C mail hill
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 21 15:09:52 1987
+E NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 15:09:57 1987
+E NIL
+
+C cd KSI/kitten
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.pas
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C ls ~/.Deleted
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx/KSI/kitten
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 19:35:00 1987
+E NIL
+
+C f hill
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~hill
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/profs/hill
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 02:14:58 1987
+E NIL
+
+C mai
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 15:37:55 1987
+E NIL
+
+C cd ~hiil
+D /user/research/xxxxx
+A cd ~hiil ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X D  69
+
+C m fli*
+D /user/research/xxxxx
+A more fli*
+H NIL
+X NIL
+
+C cd ~hill
+D /user/research/xxxxx
+A cd ~hill ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X NIL
+
+C cd cpsc213
+D /user/profs/hill
+A cd cpsc213 ; set prompt = "{!} [$cwd:t] -[VAXB]-> " ; ls -F -F
+H NIL
+X D  88
+
+C rlogin vaxa
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/profs/hill
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr 23 00:10:39 1987
+E NIL
+
+C mail deraadt@vaxa
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon May 11 22:05:23 1987
+E NIL
+
+C mail
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more .forward
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/research/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/research/xxxxx
+A NIL
+H NIL
+X NIL

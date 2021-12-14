@@ -1,0 +1,12210 @@
+S Thu Feb 19 11:45:53 1987
+E Fri Feb 20 07:42:39 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C spk spk1 spk2 spk3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X Y 102
+
+C cp spk spk1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp spk spk2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd spk spk3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X B  49
+
+C cp spk spk3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed m.sandy3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 12:48:36 1987
+E NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 13:37:34 1987
+E Thu Feb 19 16:50:30 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt m.sandy3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 16:16:24 1987
+E Thu Feb 19 20:54:32 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc4 dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc4 dumm
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 16:30:27 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv lttr.plnc l.plnc
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv lttr.plnc2 l.plnc2
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv lttr.plnc3 l.plnc3
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp l.plnc3 l.plnc4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 07:42:57 1987
+E Fri Feb 20 09:11:57 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | lpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 08:13:15 1987
+E Fri Feb 20 08:21:23 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C dddddddddddddd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+C dddddddddddddd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+
+S Fri Feb 20 10:40:18 1987
+E Fri Feb 20 18:17:23 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp spk spk4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 11:52:02 1987
+E Fri Feb 20 11:53:30 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spk1 spk2 spk3 spk4 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 14:23:08 1987
+E Fri Feb 20 17:45:05 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs combo
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl URPc | more
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs URPc
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl URPc | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm MEMO.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm URPc.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm combo.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs eval2
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 17:14:08 1987
+E NIL
+
+C nroff hdl eval2 | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb3+ | lpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 17:19:27 1987
+E Fri Feb 20 17:40:37 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl eval2 | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb3+ | lpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs Q2and3
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 17:25:17 1987
+E NIL
+
+C nroff hdl l.plnc4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 22:30:56 1987
+E Sat Feb 21 00:45:09 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb3+ zdeb3l
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o18-34 hdp zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o19-36 hdp zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 23:00:28 1987
+E NIL
+
+C mv zdeb3+ zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm zdeb3l
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 11:20:47 1987
+E NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp LTTR BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 13:28:39 1987
+E NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs eval2
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 13:32:36 1987
+E NIL
+
+C nroff hdl eval2 | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ../deb
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X Y 102
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o19-40 hdp zdeb4e | lpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 14:49:09 1987
+E Mon Feb 23 14:49:59 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl eval2 | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 23:01:25 1987
+E Tue Feb 24 01:07:58 1987
+
+C %
+D /user/xxxxxxx
+A NIL
+H NIL
+X J  82
+
+C emacs URPc dum
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl leg.adm
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl leg.adm
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs leg.adm
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 23:02:22 1987
+E NIL
+
+C s
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/rsch
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/669
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rmeval2.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C rm eval2.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv ../669/URPc urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv 669/URPc urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C mv URPc leg.adm
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ln ../MEMO .
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ln ../hdl .
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 08:03:47 1987
+E Tue Feb 24 16:26:43 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm spk1 spk2 spk3 spk4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed schd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spkb
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spkb | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spkb
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spkb | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:21:43 1987
+E Tue Feb 24 14:59:25 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ../rsch/headnew .
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd rsch
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C ln ../rsch/headnew .
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp rsch/headnew hdn
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ln ../hdn hdn
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv Q2and3 Q2n3
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4e Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdn Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdn Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:56:57 1987
+E Tue Feb 24 13:59:40 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed raext
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed vita
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:15:13 1987
+E Wed Feb 25 14:13:32 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 22:01:33 1987
+E Wed Feb 25 00:37:39 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdn Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 14:08:30 1987
+E Wed Feb 25 19:09:42 1987
+
+C cd 604
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C nroff hdl x85 | hpr &
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl leg.adm | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cp user/mcgowan/tlh/tlhcore .
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cp usr/mecgowan/tlh/tlhcore .
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cp /user/mcgowan/tlh/tlhcore .
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd hudw
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C emacs gc2.fronthudgc.tab
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C emacs gc2.front hudgc.tab
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 15:16:08 1987
+E Wed Feb 25 16:35:29 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed prog
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C k
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+
+S Wed Feb 25 15:26:53 1987
+E NIL
+
+C nroff hdl gc2.front | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff hdl hudgc.tab | setuphp -l | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff hdl hudgc.tab | setuphp -a | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/697
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/697
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/hudw
+D /user/xxxxxxx/697
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C mv hudgc.tab gc2.tab
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o1,2 hdl gc2.front gc2 | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff hdl gc2.front | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 16:23:16 1987
+E Wed Feb 25 16:53:28 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs leg.adm
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 16:28:27 1987
+E NIL
+
+C nroff hdl leg.admin | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl leg.adm | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl leg.adm leg.adm | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/hudw
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff o-1 hdl gc2.tab | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl gc2.tab | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff hdl leg.adm | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/hudw
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl gc2.tab | setuphp -a | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl leg.adm | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/hudw
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl gc2.tab | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl gc2.tab | setuphp -a | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 17:12:50 1987
+E Wed Feb 25 19:09:23 1987
+
+C cd hudw
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o1,2 hdp gc.front gc2 | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff hdl gc2.front | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdp gc2 | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 hdp gc2 | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C emacs hdp
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C emacs Q2n3e
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs t Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4e Q2n3e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 17:24:49 1987
+E NIL
+
+C nroff -o1,2 hdp gc2 | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o3 hdp gc2 | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o3 hdp gc2 | setuphp -a | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o3 hdp gc2 | setuphp -a | hpr &
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C nroff -o6,7,13,14 hdp Q2n3e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o6,7,13,14 hdn Q2n3e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv Q2n3e t
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o6,7,13,14 hdn t | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o13,14 hdn Q2n3e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 18:02:51 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 18:06:05 1987
+E NIL
+
+C nroff -o6,7,13,14 hdn Q2n3e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -013,14 hdn Q2n3e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o14-30 hdn Q2n3e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm t
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv zdeb4e temp
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/doc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/doc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/doc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 18:35:15 1987
+E NIL
+
+C nroff -o18-45 hdn zdeb4e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C @
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp front fronte
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl front fronte | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl fronte | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 13:39:16 1987
+E NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs bib bibout
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 15:19:25 1987
+E Thu Feb 26 15:25:26 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 15:23:34 1987
+E Thu Feb 26 17:47:20 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4 temp
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 15:25:10 1987
+E NIL
+
+C hpq
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o15-43 hdn zdeb4e | setuphp -a | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl fronte | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 15:27:11 1987
+E Thu Feb 26 15:36:13 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 15:39:18 1987
+E Thu Feb 26 15:42:25 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 15:54:47 1987
+E Thu Feb 26 17:12:57 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm temp
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv zdeb4 temp
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4e zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm outbib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mkbib bib > outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs outbib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 16:17:27 1987
+E NIL
+
+C nroff -o1-14,19-45 hdn zdeb4 | setuphp -a | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm bibout
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv outbib t.bib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mkbib bib > outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl fronte | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl fronte | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 16:38:43 1987
+E NIL
+
+C nroff -o11-14, 19-45 hdn zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl outbib | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o11-14,19-45 hdn zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o27,28 hdn zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl outbib | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1-11 hdn zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 18:03:02 1987
+E Thu Feb 26 18:12:19 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spkb
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spkb
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 18:17:26 1987
+E Thu Feb 26 18:35:11 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4 zdeb4e
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 12:45:30 1987
+E Fri Feb 27 13:59:46 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 13:04:10 1987
+E NIL
+
+C spell zdeb4 > sp.z &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm sp.z
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1,5,7,13-18 hdn zdeb | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1,5,7,13-18 hdn zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 14:12:48 1987
+E NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 16:09:19 1987
+E Fri Feb 27 18:15:34 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o19,20 hdn zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -02,3 hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs plnc5
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv plnc5 l.plnc5
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc5
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 16:15:16 1987
+E Fri Feb 27 16:39:33 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 16:27:12 1987
+E NIL
+
+C cp l.plnc4 tl
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl tl | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -01 hdl l.plnc4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -02 hdl l.plnc4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  1 14:52:16 1987
+E Sun Mar  1 15:47:15 1987
+
+C 
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C set term = c64w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty -lcase
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cp fina86 final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cp final86 final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs final cases86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs hdl final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 00:15:35 1987
+E Mon Mar  2 01:03:54 1987
+
+C set term = c64w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty -lcase
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs final final86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 10:37:47 1987
+E Mon Mar  2 11:24:49 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed ed spk12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm ed spk12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed sok
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp LTTR MDRS
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MDRS
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MDRS | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MDRS
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MDRS md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MDRS md2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MDRS md3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MDRS md4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MDRS md5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 12:46:27 1987
+E Mon Mar  2 17:50:30 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 12:52:13 1987
+E Mon Mar  2 17:44:25 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 13:24:43 1987
+E NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 14:04:24 1987
+E Mon Mar  2 14:12:39 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 14:09:41 1987
+E NIL
+
+C nroff hdl final | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 14:49:26 1987
+E NIL
+
+C cp final f
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl f f f | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C mv tlhcore 607
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 18:02:44 1987
+E Mon Mar  2 18:26:44 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs leg.adm
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 14:50:17 1987
+E Tue Mar  3 15:46:48 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 607
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 15:40:05 1987
+E Tue Mar  3 15:46:45 1987
+
+C nroff hdl 607 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607tbl | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 15:41:40 1987
+E Tue Mar  3 16:14:48 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rm MEMO.CKP
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs 607
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs 607
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 10:31:47 1987
+E NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp LTTR MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 12:01:46 1987
+E NIL
+
+C cd604
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd 604
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff x86 hdl | hpr &
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 14:18:24 1987
+E Wed Mar  4 18:34:47 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp spka play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 14:54:31 1987
+E NIL
+
+C lpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl t t | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl play | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 15:02:58 1987
+E Wed Mar  4 15:19:32 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl t t | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd ../607
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd ../urpc
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs 607tbl
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 15:13:04 1987
+E NIL
+
+C l | setuphpr -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X N  10
+
+C nroff hdl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 16:24:37 1987
+E Wed Mar  4 16:34:23 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 16:31:06 1987
+E NIL
+
+C nroff -o2 nroff hdl play | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 hdl play | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 16:41:29 1987
+E Wed Mar  4 16:59:51 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed hdlt
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spk | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk1,pa
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed hdlt
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed hdlt
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed UBC
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff headw MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff headw MR more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spk More
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 17:01:07 1987
+E NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 17:03:15 1987
+E Wed Mar  4 17:04:14 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt MR | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 17:53:11 1987
+E Wed Mar  4 18:07:13 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 607tbl
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 17:53:44 1987
+E NIL
+
+C hpq
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607tbl | setuphp -l | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 607 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 23:18:02 1987
+E NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm CWF UBC
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm play.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs bgt2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt.0304
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs bgt.0304 dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C mv bgt2 bgt.09
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt.0304
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 11:17:03 1987
+E Thu Mar  5 11:19:05 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 11:20:11 1987
+E Thu Mar  5 11:21:06 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt BM | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 13:08:55 1987
+E Fri Mar  6 13:55:13 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C dc bgt.0304
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed bgt.0304
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt bgt.0304 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 16:01:31 1987
+E Thu Mar  5 18:07:44 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bgt.0304
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.wj | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl play | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 16:03:18 1987
+E NIL
+
+C cp MEMO m.wj
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.wj | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.wj | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.wj
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 13:55:31 1987
+E Fri Mar  6 14:47:42 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs tran.con2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:03:12 1987
+E NIL
+
+C mv tran.prop l.tran
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:47:24 1987
+E Fri Mar  6 15:39:35 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.wj
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.D43
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.D43 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 15:08:39 1987
+E Fri Mar  6 15:31:34 1987
+
+C nroff hdl m.wj | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/604
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C nroff hdl x86 | hpr &
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/conf
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 23:19:25 1987
+E NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs play dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  8 19:46:15 1987
+E Mon Mar  9 00:31:43 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs play dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff -o1,2 hdl m.wj
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd pub
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mcd dum
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl mcd
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C emacs mcd dum
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff -o3 hdl mcd
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs play m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff -o2,3 hdl play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff -o1,2 hdl m.wj
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs m.wj m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 07:06:40 1987
+E Mon Mar  9 07:24:46 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 07:28:55 1987
+E Mon Mar  9 07:36:34 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.wj dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 08:14:04 1987
+E Mon Mar  9 18:17:34 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed m.sandy4.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt m.sandy4.CKP | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X D  88
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt m.wj | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt m.sandy4 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed play
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 08:24:39 1987
+E Mon Mar  9 08:26:00 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C m.sandy4.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X Y 102
+
+C nroff hdlt m.sandy4.CKP | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 08:26:42 1987
+E Mon Mar  9 08:31:18 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt conf/play | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt play | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt m.wj | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed m.sandy.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X D  88
+
+C cd conf
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 08:31:40 1987
+E Mon Mar  9 08:35:17 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 16:33:44 1987
+E Mon Mar  9 18:45:05 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs leg.adm
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 16:34:36 1987
+E NIL
+
+C nroff hdl leg.adm | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/raext
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C mv raext.mod
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C mv raext.mod mod
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C mv raext.bib bib
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C mv raext.outbib outbib
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C mv raext.hm orig
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C rm discards
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C rm dummy
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C rm temp
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C nroff hdp mod | lpr &
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/pasv
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C mv pasv.mod mod
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C mv pasv.bib bib
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C rm pasv.bibback
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C mv pasv.tbib tbib
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C mv pasv.front front
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C mv pasv.let lttr
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C mv pasv.dr orig
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C nroff hdp mod2.2 | lpr &
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 17:05:43 1987
+E Mon Mar  9 17:18:50 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt spka | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 18:18:10 1987
+E Mon Mar  9 18:18:19 1987
+
+C ed spka
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 18:21:52 1987
+E Mon Mar  9 18:34:31 1987
+
+C cd pasv
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C nroff hdp mod2.2 | lpr -Pci &
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C cd ../rts+
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C nroff hdp orig | lpr -Pci &
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd ../pasv
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+C nroff hdp mod | lpr -Pci &
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 23:39:56 1987
+E Tue Mar 10 00:08:48 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.sandy5 m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 00:10:44 1987
+E Tue Mar 10 01:08:25 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.sandy5 dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs m.sandy5 dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:44:49 1987
+E Mon Mar 16 07:35:46 1987
+
+C d conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt m.sandy5 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed m.sandy5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ;
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C dd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 16:08:06 1987
+E Tue Mar 10 17:11:35 1987
+
+C cd hudw
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 22:59:30 1987
+E Tue Mar 10 23:55:38 1987
+
+C emacs m.sandy6
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 12:48:43 1987
+E Wed Mar 11 15:49:57 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.pres
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 13:33:28 1987
+E NIL
+
+C nroff hdl m.mod m.pres | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.mod m.pres | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C spell m.mod > sp.m &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C spell m.pres > sp.p &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.pres | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 18:17:53 1987
+E Wed Mar 11 18:31:03 1987
+
+C cd pasv
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mod2.2
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 18:20:19 1987
+E NIL
+
+C nroff -o3-5 hdp mod | hpr &
+D /user/xxxxxxx/pasv
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 18:25:17 1987
+E Wed Mar 11 18:29:38 1987
+
+C cd rts+
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C nroff -o1-5 hdp orig | hpr &
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd raext
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs nppw mod
+D /user/xxxxxxx/raext
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 18:27:22 1987
+E Fri Mar 13 19:15:19 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.wj
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 18:28:28 1987
+E NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 18:32:46 1987
+E Fri Mar 13 18:34:08 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 19:01:52 1987
+E Fri Mar 13 19:13:17 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bgt3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 19:05:43 1987
+E NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bgt3 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 23:27:21 1987
+E NIL
+
+C cd cponf
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs sshrc.spk sat
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 23:36:22 1987
+E Fri Mar 13 23:47:45 1987
+
+C set term = c64w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty -lcase
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs imr sat
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl sat
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 15:37:38 1987
+E Mon Mar 16 17:52:31 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp LTTR thx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thnx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm BM
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MDRS
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm MDRS
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm MR
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm ed spk12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm md1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm md2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm md3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm md4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm md5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm spk
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm t
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C xp thx 6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+C cp thx 6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 7
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 8
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 9
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 10
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 13
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 14
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 15
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 16
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 17
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 18
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 19
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 20
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 21
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 22
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 23
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 24
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 25
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 26
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 27
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 28
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 29
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp thx 30
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 7
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 8
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 9
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 10
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 16:59:26 1987
+E Mon Mar 16 17:30:46 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 21:00:51 1987
+E NIL
+
+C cd eeui
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/eeui
+A NIL
+H NIL
+X NIL
+
+C ln ../hdp .
+D /user/xxxxxxx/eeui
+A NIL
+H NIL
+X NIL
+
+C nroff hdp eeui2
+D /user/xxxxxxx/eeui
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/xxxxxxx/eeui
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar 16 23:31:01 1987
+E Mon Mar 16 23:46:14 1987
+
+C set term = c64w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty -lcase
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd eeui
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/eeui
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb1 dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 14:23:22 1987
+E Tue Mar 17 15:53:28 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp outbib | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd ../conf
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs 1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs thanx 6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 15:05:21 1987
+E NIL
+
+C nroff hdl 1 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 15:14:58 1987
+E Tue Mar 17 15:36:01 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o24-36 hdn zdeb4e | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 15:21:13 1987
+E NIL
+
+C nroff -o1 hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/conf
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 18:25:36 1987
+E Tue Mar 17 20:28:29 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs thanx 6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs thanx 10
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm 1 2 3 4 5 6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm 7 8 9 10
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm 1.CKP 3.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm l.kim.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm dummy dummy.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C mv bgt3 bgt.0312
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more ed spk12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs ed spk12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 20:01:53 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 20:26:53 1987
+E NIL
+
+C rm m.sandy
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.sandy2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.sandy3
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.sandy4
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.sandy5
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.sandy6
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 22:53:58 1987
+E Tue Mar 17 22:57:53 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs thanx dum
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 22:55:38 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 23:47:40 1987
+E Wed Mar 18 00:02:03 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell thanx > sp.th &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs thanx sp.th
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm sp.th
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 08:52:32 1987
+E Wed Mar 18 09:53:06 1987
+
+C conf/thanx
+D /user/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed headw
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff headw thanx | hpr
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 15:59:31 1987
+E Wed Mar 18 17:22:52 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 14:16:25 1987
+E Thu Mar 19 16:25:10 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs m.sandy7
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 15:47:34 1987
+E NIL
+
+C nroff hdl m.sandy7 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.imr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:33:51 1987
+E Fri Mar 20 13:01:17 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term = c64w
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4s dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 20:11:46 1987
+E NIL
+
+C cd pub
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C rm sp.r sp.w t
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C emacs r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C emacs r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C emacs r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C protect r.fs
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C cd ../lab
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C mv memoDW m.DW
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C mv memo NWT1 m.NWT
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C mv memoNWT m.NWT
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C mv memoNWT1 m.NWT
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.GAS
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.GAS
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.GAS
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd ../urpc
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.imr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 09:18:29 1987
+E Mon Mar 23 09:34:04 1987
+
+C urpc/m.imr
+D /user/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ed m.imr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr | hpr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 10:52:14 1987
+E Mon Mar 23 12:16:37 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 13
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 14
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 14
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 15
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 16
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 15
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 16
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 16
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 17
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 17
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 18
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 19
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 19
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 18
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 20
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 21
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 22
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 22
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 23
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 24
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 24
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 25
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 26
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 12:32:22 1987
+E Mon Mar 23 16:25:25 1987
+
+C ed 26
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 26
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 27
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 28
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 28 29
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 29 30
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 30 31
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 31 32
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 32 33
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 33 34
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 28
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 29
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 30
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 31
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 32
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 33
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 32
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 33
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 34
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 16
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 34
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 16 35
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 35 36
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 36 37
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 37 38
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 38 39
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 39 40
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 40 41
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp 41 42
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 35
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 36
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 37
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 32
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 36
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 37
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 38
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 38
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 39
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 40
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 41
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 19
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm 31 32 33 34 35 36 37 38 39 40 41 42
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 14:20:21 1987
+E Mon Mar 23 14:28:52 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl thanx | lpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl thanx | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 31 32 33 34 35 36 37 38 39 40 41 42 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 14:22:40 1987
+E Mon Mar 23 14:25:14 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C ed m.GAS
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.GAS | hpr
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 14:29:23 1987
+E Mon Mar 23 14:38:05 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.GAS | lpr
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 16:26:42 1987
+E Mon Mar 23 16:28:48 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 11 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 20:20:37 1987
+E Tue Mar 24 21:53:37 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4s | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd ../conf
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp bgt.0312 expnd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs expnd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 20:48:35 1987
+E Tue Mar 24 21:53:21 1987
+
+C nroff hdl expnd | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.sandy7
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 20:52:42 1987
+E Tue Mar 24 21:39:45 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs expnd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd ../conf
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl expnd | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs expnd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 21:01:40 1987
+E NIL
+
+C nroff hdl expnd | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl expnd | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy7 &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy7 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.sandy7 | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 21:31:50 1987
+E NIL
+
+C nroff hdl expnd | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl expnd | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 15:59:32 1987
+E Wed Mar 25 18:36:54 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 15:30:52 1987
+E Sun Mar 29 01:43:31 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs final dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl final
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 22:15:05 1987
+E Mon Mar 30 00:18:10 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cp evalex86 evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:06:38 1987
+E Mon Mar 30 15:04:55 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 16:03:04 1987
+E Mon Mar 30 18:11:46 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 16:37:50 1987
+E Mon Mar 30 17:20:03 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C f`f`f`f`f`
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X S  11
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C { || MM{ || {{M
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X S  46
+
+C Null Command
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X S  46
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 17:20:55 1987
+E Mon Mar 30 17:57:38 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 17:30:29 1987
+E Mon Mar 30 17:31:39 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 17:40:51 1987
+E Mon Mar 30 18:12:43 1987
+
+C set term=vt52
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C als
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C cls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C als
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cemacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C semacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C asetterm=vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C set term+vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C set term=vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 18:15:08 1987
+E NIL
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalex | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 18:28:10 1987
+E Mon Mar 30 18:30:57 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalex | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:43:19 1987
+E Tue Mar 31 15:13:01 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:24:43 1987
+E Tue Mar 31 15:33:51 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C set term=vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 17:41:55 1987
+E Tue Mar 31 20:39:44 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs owed
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 18:14:54 1987
+E NIL
+
+C nroff hdl owed | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 18:19:36 1987
+E Tue Mar 31 18:23:42 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs owed
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 18:20:55 1987
+E NIL
+
+C nroff -o2 hdl owed | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 18:24:29 1987
+E Tue Mar 31 18:27:40 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl owed | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl owed | hpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:15:13 1987
+E Wed Apr  1 17:58:11 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.lee
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.lee
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd ../669
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../rsch
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs acsp87
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:42:43 1987
+E NIL
+
+C hpq
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.lee | hpr &
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 14:04:05 1987
+E Wed Apr  1 14:19:13 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 14:22:47 1987
+E Wed Apr  1 14:38:57 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C set term=vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 14:33:38 1987
+E Wed Apr  1 14:38:21 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs ad1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs mod
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 16:58:29 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/rts+
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C nroff hdl acsp87 | hpr &
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/669
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C nroff -o1-3 hdl evalex | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/rsch
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl acsp87 | hpr &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C nroff hdl acsp87 | hpr &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C nroff -o1-3 hdl ../669/evalex | hpr &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 18:07:56 1987
+E Wed Apr  1 18:57:28 1987
+
+C cd a
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C set term=vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../rsch
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs acsp87
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 23:16:00 1987
+E Thu Apr  2 01:32:43 1987
+
+C set term = c64w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr2 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr2 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr2 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 12:03:25 1987
+E Thu Apr  2 12:41:36 1987
+
+C cd urpc/m.imr2
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2 | hpr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 13:01:51 1987
+E Thu Apr  2 13:49:16 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 17:30:37 1987
+E Thu Apr  2 18:22:11 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 17:55:29 1987
+E NIL
+
+C nroff hdl m.imr2 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 18:03:43 1987
+E Thu Apr  2 18:18:59 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr2
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 18:11:01 1987
+E NIL
+
+C nroff hdl m.imr2 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 hdl m.imr2 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2 m.imr2 m.imr2 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:17:10 1987
+E Fri Apr  3 17:59:10 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../urpc
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cp m.imr2 m.imr3
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr3
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 17:50:30 1987
+E NIL
+
+C spell m.imr3 > sp3 &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 17:59:42 1987
+E Fri Apr  3 19:18:14 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr3
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rm sp3
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X N  10
+
+C cd rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X D  88
+
+C cd ../rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs acsp
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 18:21:58 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C ln ../LTTR .
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C nroff hdl acsp87 | hpr &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C spell acsp87 > sp8 &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 18:36:18 1987
+E Fri Apr  3 19:08:12 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X D  88
+
+C nroff hdl acsp87
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rm sp3.CKP
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X D  88
+
+C cd ../rsch
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl acsp87 | hpr &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C emacs acsp87
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 18:45:17 1987
+E NIL
+
+C nroff hdl acsp87 | hpr &
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/urpc
+D /user/xxxxxxx/rsch
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl m.imr3 &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 hdl m.imr3 &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C n
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X N  10
+
+C nroff -o1 hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl acsp87 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nro
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X N  10
+
+C nroff -01 hdl ../rsch/acsp87 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o2-4 hdl m.imr3 &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o2-4 hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -02-5 hdl m.imr3 &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 14:32:52 1987
+E Sat Apr  4 17:28:40 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalex dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1-12 hdl zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 16:47:49 1987
+E NIL
+
+C rm dum=
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 13:07:29 1987
+E Mon Apr  6 16:00:26 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr3
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 13:18:57 1987
+E NIL
+
+C hpq
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr2 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o4 hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 hdl m.imr3 &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr3 | hpr &
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/669
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalex | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 23:01:06 1987
+E Tue Apr  7 00:26:52 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs eval2
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../pub
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 87g
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 23:02:35 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm f
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm t
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/pub
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C protect 87g
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C protect 87g
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 15:07:38 1987
+E Tue Apr  7 17:54:18 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp EVAL eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 18:41:54 1987
+E Tue Apr  7 18:43:41 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm spka
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm spkb
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed hdlt
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 20:43:26 1987
+E NIL
+
+C f
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs eval3 dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C set term = c64w
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs eval3 dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs eval3 dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 09:31:52 1987
+E Wed Apr  8 12:50:25 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.uw | hpr
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 13:34:43 1987
+E Wed Apr  8 18:45:45 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../pub
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs 87g
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C cd ../669
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C more m.uw
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs m.uw
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 13:42:03 1987
+E NIL
+
+C nroff hdl eval3 | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl eval3 | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cp /user/doroshen/621.02 .
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv 621.02
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv 621.02 vald
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl vald | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm m.uw.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm dum.CKP eval3.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm MEMO.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 16:03:33 1987
+E NIL
+
+C nroff hdl 87g | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 17:51:06 1987
+E Wed Apr  8 18:30:12 1987
+
+C cd pub
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 87g | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd corres
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.trpl
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C emacs m.trpl
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 17:57:57 1987
+E NIL
+
+C cd /user/xxxxxxx/pub
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 87g | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl ../corres/m.trpl | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 87g | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl ../corres/m.trpl | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 87r | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl 87g | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:39:12 1987
+E NIL
+
+C cd pub
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 87g
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff -01 hdl | 87g &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 hdl 87g | hpr &
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C rm 87g.CKP
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C mv 87g g87
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 20:28:47 1987
+E Thu Apr  9 20:38:30 1987
+
+C w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 20:40:10 1987
+E Thu Apr  9 20:44:41 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 20:48:14 1987
+E Thu Apr  9 20:49:12 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 20:50:34 1987
+E Thu Apr  9 21:44:10 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs strong
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs strong
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 20:50:56 1987
+E NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs aniko
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs burgess
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs burgess
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs burgess.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 20:52:48 1987
+E Thu Apr  9 21:44:05 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs power
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs power
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 21:42:08 1987
+E NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs burgess
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs burgess
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X D  88
+
+C list
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs burgess
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C tset ( 1 )
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X S  34
+
+C cd xxxxxxx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X D  88
+
+C cf burgess
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X N  10
+
+C emacs burgess.
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:40:34 1987
+E Fri Apr 10 15:45:10 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalex
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 16:11:11 1987
+E NIL
+
+C man archiver
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd hudw
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C cd ../urpc
+D /user/xxxxxxx/hudw
+A NIL
+H NIL
+X NIL
+
+C emacs 607
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 16:30:30 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 15:03:10 1987
+E Sun Apr 12 16:05:28 1987
+
+C cd rts+
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C nroff hdp orig
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 00:11:05 1987
+E Mon Apr 13 01:00:25 1987
+
+C cd pub
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C cp jan llpar
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C emacs llpar dum
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C rm llpar
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C mv new llpar
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C nroff hdl llpar
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+C protect llpar
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 00:44:46 1987
+E NIL
+
+C cp jim llpar
+D /user/xxxxxxx/pub
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 18:36:11 1987
+E Tue Apr 21 18:43:11 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm t1 temp zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm tl
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 21:31:09 1987
+E Wed Apr 22 00:16:28 1987
+
+C set term = c64w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty -lcase
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4s dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C f hdp
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 13:57:20 1987
+E Wed Apr 22 14:11:46 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 16:25:02 1987
+E Wed Apr 22 17:23:21 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 14:20:11 1987
+E Thu Apr 23 16:44:14 1987
+
+C cd 604
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C emacs x86ans
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm outbib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mkbib bib > outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 16:15:38 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 17:09:11 1987
+E Thu Apr 23 18:16:24 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 17:11:44 1987
+E NIL
+
+C rm outbib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mkbib bib > outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4s | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl outbib | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 17:21:34 1987
+E Thu Apr 23 18:00:05 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 17:30:38 1987
+E NIL
+
+C cd /user/xxxxxxx
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o20,21 hdp zdeb4s | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 26 21:26:09 1987
+E Sun Apr 26 21:33:30 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs esumm dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 26 21:41:47 1987
+E Mon Apr 27 01:06:19 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm eval1.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv esumm.CKP esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs esumm eval1
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4 dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp outbib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdp front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4 dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 26 21:59:51 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 26 23:19:08 1987
+E NIL
+
+C cd /user/xxxxxxx/rts+
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/rts+
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/deb
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C rm outbib
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mkdir bib > outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mkbib bib > outbib &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C spelle zdeb4 > sp.z4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X N  10
+
+C spell zdeb4 > sp.z4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 13:46:14 1987
+E Mon Apr 27 14:56:31 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o2,3 hdl front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 16:47:50 1987
+E NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4 front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 17:08:13 1987
+E Tue Apr 28 00:35:01 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o2,3 hdl front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs front dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o2,3 hdl front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o1-5,19,20 hdp zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o5,19,20 hdp zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o5,19,20 hdp zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs front zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o19-22 hdp zdeb4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cp zdeb4 zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs zdeb4s front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o19-23 hdp zdeb4s
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd ../urpc
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cp m.imr3 m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr3
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr5
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr4 m.imr5
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rm m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C mv m.imr5 m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rm m.imr3.CKP
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C rm m.imr5.CKP
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr5 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr4 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr5
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C cd ../lab
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C more m.plcy
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cp m.plcy m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2 dum
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd ../urpc
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr4 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs m.imr4 dum
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 17:18:47 1987
+E NIL
+
+C spell front > sp.f &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C rm sp.f sp.z4
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 22:35:11 1987
+E NIL
+
+C rm m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C mv m.imr5 m.imr4
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 11:16:01 1987
+E Tue Apr 28 11:19:19 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr | hpr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 11:19:52 1987
+E Tue Apr 28 11:38:52 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 11:40:25 1987
+E Tue Apr 28 13:25:38 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2 dum
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C rm m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C mv m.plcy2.CKP m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2 dum
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2 dum
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2 dum
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc5 dum
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 14:19:49 1987
+E Tue Apr 28 17:18:50 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdp zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd ../lab
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.plcy2 | hpr &
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 14:35:12 1987
+E Tue Apr 28 14:47:15 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs front
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd ../lab
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs m.plcy2
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C nroff -o2,3 hdl m.plcy2 | hpr &
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 14:38:40 1987
+E NIL
+
+C nroff -o1 hdl front | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 14:45:44 1987
+E NIL
+
+C nroff -02,3 hdl m.plcy2 &
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 15:17:36 1987
+E NIL
+
+C nroff hdl m.plcy2 | hpr &
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 15:32:52 1987
+E Fri May  1 14:06:27 1987
+
+C cd urpc
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.imr4 | hpr
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+C emacs MEMO
+D /user/xxxxxxx/urpc
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 17:50:42 1987
+E Tue Apr 28 19:35:32 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc6
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 18:16:40 1987
+E NIL
+
+C nroff hdl l.plnc6 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl outbib | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 18:48:16 1987
+E Tue Apr 28 19:15:51 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc6
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl l.plnc6 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd ../rts+
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C more abstrct
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cd ../deb
+D /user/xxxxxxx/rts+
+A NIL
+H NIL
+X NIL
+
+C cp ../rts+/abstrct .
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs abstrct
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C mv abstrct bio
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bio | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc6
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 19:06:55 1987
+E NIL
+
+C nroff hdl l.plnc6 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff hdl bio | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 12:59:35 1987
+E Wed Apr 29 13:25:25 1987
+
+C de term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.plnc6
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 13:14:00 1987
+E NIL
+
+C nroff hdl l.plnc6 bio | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C nroff -o36 hdp zdeb4 | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C cd /user/xxxxxxx/669
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 13:21:01 1987
+E Wed Apr 29 13:23:12 1987
+
+C cd deb
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bio
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 13:21:38 1987
+E NIL
+
+C nroff hdl bio | hpr &
+D /user/xxxxxxx/deb
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 17:08:39 1987
+E Wed Apr 29 17:37:23 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Ceval
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 17:35:53 1987
+E NIL
+
+C nroff hdl Ceval | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | lpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 13:07:58 1987
+E NIL
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl eval1 eval2 eval3 evalex | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 16:58:00 1987
+E Thu Apr 30 18:39:37 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C set term=vt100
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm send-mail.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm tkb.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C more type
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C more vald
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv type ptype
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv vald val.paper
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv ptype p.type
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 17:05:05 1987
+E NIL
+
+C nroff hdl Ceval | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | lpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | lpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | lpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl Ceval | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cp evalex tkb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 21:27:32 1987
+E Thu Apr 30 22:24:36 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalf dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o5 hdl evalf
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroffnroff hdln | hksec6
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C 4w
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X N  10
+
+C nroff -o6 hdl evalf
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  1 15:14:37 1987
+E Fri May  1 15:47:06 1987
+
+C set term=vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalf | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  1 15:39:10 1987
+E Fri May  1 15:45:01 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalf | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hprm 481
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 11:02:42 1987
+E Mon May  4 14:14:51 1987
+
+C set term = vt100
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalf
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 16:00:01 1987
+E Mon May  4 17:56:04 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv m.sandy6 conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd corres
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp MEMO dm.mdp
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C emacs dm.mdp
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff hdl dm.mdp | hpr &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C cd ../669
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff -o5,10,15,20,25,30 hdl evalf | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o22-24 26-29 hdl evalf | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o22-24,26-29 hdl evalf | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl ../corres/dm.mdp &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl ../corres/dm.mdp | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o4,5,10,15,21-30 hdl evalf | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C cd ../corres
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs dm.mdp
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff hdl dm.mdp | hpr &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C cd ../669
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C emacs evalf
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalc | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 17:45:28 1987
+E Mon May  4 17:52:02 1987
+
+C cd corres
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs dm.mdp
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 17:47:46 1987
+E NIL
+
+C nroff hdl dm.mdp | hpr &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C spell dm.mdp > sp.m &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff hdl dm.mdp | hpr &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C mv dm.mdp m.dm.mdp
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 15:29:35 1987
+E Tue May  5 15:48:27 1987
+
+C cd 604
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+C emacs x86ans
+D /user/xxxxxxx/604
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 21:40:54 1987
+E Tue May  5 23:54:52 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalc dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:13:25 1987
+E Wed May  6 15:19:38 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalc | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalf | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm tkb
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C more esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs evalc esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:19:24 1987
+E NIL
+
+C rm esumm
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:20:29 1987
+E Wed May  6 17:21:15 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm evalc.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm temp
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C emacs cases86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:24:08 1987
+E Wed May  6 16:26:23 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs evalf
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:33:16 1987
+E NIL
+
+C nroff -o4,6 hdl evalc | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o5,7 hdl evalc | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o5-7 hdl evalc | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff -o4,6 hdl evalc | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalc | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl evalc | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl temp | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl temp | setuphp -a | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 16:38:34 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv cases86.eval eval.cases86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv final86 exam86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv evalex86 eval.exam86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C evalfinal86 eval.course86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X Y 102
+
+C mv evalfinal86 eval.course86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv evals86 eval.all86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm case2 case3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv evalf eval.cases87
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv final exam87
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv evalc eval.course87
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv eval.cases86 eval.cases.exam87
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv eval.cases.exam87 eval.cases86
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv eval.cases87 eval.all87
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv evalex eval.exam87
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm eval1 eval2 eval3
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm cases87.CKP
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C mv Ceval EVAL.CRS
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl temp | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C rm temp dum
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 17:14:00 1987
+E Wed May  6 17:15:17 1987
+
+C cd 669
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+C nroff hdl temp | hpr &
+D /user/xxxxxxx/669
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 14:46:47 1987
+E Wed May 13 17:48:57 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.jf
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C emacs m.jf
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cd ../corres
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+C cp MEMO m.wj
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C emacs m.wj
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.wj | more
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C emacs m.wj
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C cd ../conf
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm sp.m sp.p temp
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more thx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C mv thx thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more prog2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C mv prog2 sshrc.prog
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more schd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more sched
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more schd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm aufdm
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more strong
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more Bell
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more ed spk12
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C mv Bell sshrc.l
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more subm
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more schd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more sched
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more prog2
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more prog
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl subm | lpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdl prog | lpr &
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more sat
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C mv sat sshrc.bios
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C more BP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm BP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C emacs thanx
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 15:48:04 1987
+E NIL
+
+C nroff hdl m.wj | hpr &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+C nroff hdl ../corres m.jf | hpr &
+D /user/xxxxxxx/corres
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 15:53:49 1987
+E Wed May 13 15:55:21 1987
+
+C cd lab
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdl m.jf | hpr &
+D /user/xxxxxxx/lab
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 16:37:07 1987
+E Wed May 13 16:40:10 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed prog
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ed schd
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C nroff hdlt prog | more
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 17:08:32 1987
+E NIL
+
+C rm 11
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm imr strong
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm l.accpt l.acsp l.alta
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm l.elton l.form l.inv
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm l.kim l.spec l.spks
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm lttrs.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.sandy6 m.sandy7
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C % rm m.D41
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X B  49
+
+C rm m.D41 m.D42 m.D43
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.DART m.GA-S m.VG
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.WTP m.hanen m.mod m.pc1
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm m.pcx m.pres
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+C rm l.acsp.CKP memos.CKP
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 17:38:22 1987
+E Wed May 13 17:40:44 1987
+
+C cd conf
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/conf
+A NIL
+H NIL
+X NIL

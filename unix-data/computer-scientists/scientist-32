@@ -1,0 +1,3916 @@
+S Wed Feb 18 13:15:30 1987
+E Wed Feb 18 17:28:09 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man readnews
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l .newsrc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat .newsrc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 13:18:31 1987
+E Thu Feb 19 17:07:01 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C readnews comp.graphics
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 10:34:10 1987
+E Fri Feb 20 13:41:37 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C readnews com.graphics
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 11:37:18 1987
+E Fri Feb 20 11:54:47 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file3
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file4
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mv hdata sidata
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file5
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file6
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs hdata
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs file2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 11:09:35 1987
+E Mon Feb 23 18:04:55 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls ~hermann
+D /user/profs/xxxx
+A NIL
+H NIL
+X D  69
+
+C mail hermann@vaxc.LOCAL thompsonp wongce williamssi chmilar
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 11:59:30 1987
+E Mon Feb 23 12:01:43 1987
+
+C cat getim*
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat file7
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 10:58:08 1987
+E Tue Feb 24 17:45:57 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-d
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 10:22:30 1987
+E Wed Feb 25 17:22:57 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat summer
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hermann@vaxc.LOCAL thompsonp williamssi chmilar wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 09:51:45 1987
+E Thu Feb 26 17:27:39 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 09:52:44 1987
+E Fri Feb 27 16:52:23 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C readnews comp.graphics
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C readnews com.graphics
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C w xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C latex
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /usr/spool/mail/xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l /usr/spool/mail/xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat summer
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 11:48:01 1987
+E Mon Mar  2 18:12:07 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l -a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l text]
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ks -l tex
+D /user/profs/xxxx
+A NIL
+H NIL
+X N  10
+
+C ls -l text
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat file7
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs temp.tex
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 17:11:42 1987
+E Tue Mar  3 17:12:30 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 10:36:22 1987
+E Wed Mar  4 17:18:32 1987
+
+C mail hermann@vaxc.LOCAL thompsonp williamssi chmilar wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 12:09:29 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -s
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm file*
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm getim*
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm b.out
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 10:44:15 1987
+E Fri Mar  6 13:54:57 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd colleagues
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/colleagues
+A NIL
+H NIL
+X NIL
+
+C ls paul.xxxx
+D /user/profs/ian/colleagues
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/ian/colleagues
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls full
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls paul
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C emacs paul
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C emacs full
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls ~
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls projects
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls graphics
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd graphics
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls halftone
+D /user/profs/ian/graphics
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/ian/graphics
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C cat paul
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/xxxx/papers
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 15:13:04 1987
+E Fri Mar  6 15:31:09 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man troff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man nroff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man itroff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 16:10:53 1987
+E Fri Mar  6 16:30:10 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man lpr
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C troff -ms resume1 | lpr -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C troff -ms resume1 > resume1.lpr
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C troff -ms -t resume1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C troff -ms -t resume1 > resume1.dvi
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l resume*
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2 resume1.dvi
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mv resume1.dvi abstract.dvi
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man dviprint
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man dvilpr
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man lpr
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man lpr
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 16:34:33 1987
+E Fri Mar  6 16:51:47 1987
+
+C cat resume1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -v resume1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 resume1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 resume2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat resume1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 10:49:34 1987
+E Mon Mar  9 17:04:05 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -v french
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 french
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C cd picture.scaling
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/picture.scaling
+A NIL
+H NIL
+X NIL
+
+C cat paper
+D /user/profs/ian/papers/picture.scaling
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian/papers/picture.scaling
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd papers
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd picture.scaling
+D /user/profs/ian/papers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/papers/picture.scaling
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian/papers/picture.scaling
+A NIL
+H NIL
+X NIL
+
+C emacs ~ian/papers/picture.scaling/paper
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 15:47:37 1987
+E Mon Mar  9 16:38:15 1987
+
+C ls pictures
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ccx drawpe.c -ljipc -lstdio
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cvgetscr cv08 | psimage -r | lpr -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 16:38:48 1987
+E Mon Mar  9 17:16:03 1987
+
+C ls *.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs drawcv.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs draw256.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ccx draw256.c -ljipc -lstdio
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C nearest
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C nearest b original/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C nearest b pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mod.sample c pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs draw256.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ccx draw256.c -ljipc -lstdio
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mod.nearest b pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 11:40:31 1987
+E Tue Mar 10 18:42:03 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C cd grants
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C ls telidon
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C cat telidon
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C cat NSERC.op.85
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C mod.sample b pictures/girl
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C ls -l b
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian/grants
+A NIL
+H NIL
+X NIL
+
+C mod.sample b pictures/girl
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C w xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mod.sample c pictures/stripes.contin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C peano b
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C w xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l b
+D /user/profs/xxxx
+A NIL
+H NIL
+X J  81
+
+C w xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C w xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat ~ian/grants/NSERC.op.85
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X J  81
+
+
+S Tue Mar 10 12:36:32 1987
+E Tue Mar 10 15:13:33 1987
+
+C emacs nearest.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out a pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc -g nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C dbx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C '
+D /user/profs/xxxx
+A NIL
+H NIL
+X S  11
+
+C man dbx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C dbx a.out
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat hdata
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C header
+D /user/profs/xxxx
+A NIL
+H NIL
+X Y 102
+
+C ls -l header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C chmod o+x header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C chmod a+x header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm nearest.o
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm header
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm b.out
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ccx draw256.c -ljipc -lstdio
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ccf -g nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X N  10
+
+C cc -g nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C dbx a.out
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc -g nearest.o l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C dbx a.out
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs nearest.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b pictures/girl
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm cores
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc nearest.c l.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b pictures/circles
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cvgetscr cv43 | psimage -r | lpr -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cvgetscr cv43 | psimage -r | lpr -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cvgetscr cv43 | psimage -r | lpr -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C peano b
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cc drawpe.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C a.out b
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cvgetscr cv43 | psimage -r | lpr -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls text
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C F\±,6"emacs text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X S  11
+
+C emacs text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 17:00:30 1987
+E Tue Mar 10 18:40:39 1987
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -v text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C w xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 from 4 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 11:10:21 1987
+E Wed Mar 11 17:38:30 1987
+
+C emacs text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man troff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 -o4,5 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 -o5 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C man troff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat ~ian/tmac/1point.bigger
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~ian/tmac
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C cat tmac.imagen
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 text/cips
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C cat text/cips > text/alter
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C cat text/cips > text/alter
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C ls text
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/profs/ian/tmac
+A NIL
+H NIL
+X NIL
+
+C cat text/cips > text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls text
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l text
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls paper
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls papers
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l papers
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs papers/full
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lastcomm
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lastcomm xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X J  81
+
+
+S Wed Mar 11 12:55:37 1987
+E Wed Mar 11 16:57:25 1987
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -v text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 -o4,5 text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 -o4-7 text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm b
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm b.out
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ~ian/bin/roff -a2 -o8-12 text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 14:04:42 1987
+E NIL
+
+C ~ian/bin/roff -a2 text/cips
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs text/alter
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 09:55:13 1987
+E Thu Mar 12 16:59:17 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxx@vaxb
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail zahary@vaxc vaysblat@vaxc kanwischer@vaxc dhaliwal@vaxc friesen@vaxc deimert@vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 10:37:25 1987
+E Fri Mar 13 17:25:25 1987
+
+C mail ming@flash.bellcore.com
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail pauli@vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail pauli@vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 13:44:16 1987
+E Fri Mar 13 13:54:22 1987
+
+C cat .login
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 13:54:52 1987
+E Fri Mar 13 14:12:46 1987
+
+C emacs nearest.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l -a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l -a .*
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls .emacs*
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat -v .emacs_pro.mo
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat -v .emacs_pro
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 11:05:07 1987
+E Mon Mar 16 17:56:47 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 10:54:02 1987
+E Tue Mar 17 16:48:58 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/profs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/tmp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/research
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/scs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l /user/scs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls ~walpole
+D /user/profs/xxxx
+A NIL
+H NIL
+X D  69
+
+C ls ~walpolec
+D /user/profs/xxxx
+A NIL
+H NIL
+X D  69
+
+C cat mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 12:32:52 1987
+E Tue Mar 17 16:48:13 1987
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C '
+D /user/profs/xxxx
+A NIL
+H NIL
+X S  11
+
+C low3rd
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C low3rd a pictures/girl
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l bin
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C peano
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C nearest
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C bilevel
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat bilevel
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat bilevel.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C bilevel a pictures/girl
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lowpass3rd
+D /user/profs/xxxx
+A NIL
+H NIL
+X N  10
+
+C low3rd b a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l b
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat getim.c
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 11:57:04 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 12:52:11 1987
+E Wed Mar 18 12:55:25 1987
+
+C ls -l
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -s
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 10:10:16 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 10:35:38 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 10:23:41 1987
+E NIL
+
+C msil
+D /user/profs/xxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 10:56:12 1987
+E Tue Mar 24 11:00:19 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:27:17 1987
+E Wed Mar 25 10:31:55 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 08:48:03 1987
+E Thu Mar 26 15:37:17 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm abstract.dvi
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm b
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 10:41:57 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 16:22:06 1987
+E Fri Mar 27 16:25:48 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls basic
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:11:46 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 10:55:48 1987
+E Wed Apr  1 10:59:55 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls pictures
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 11:36:26 1987
+E Thu Apr  2 12:51:27 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 09:59:04 1987
+E Fri Apr  3 10:12:19 1987
+
+C lpq -Pim
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:30:18 1987
+E Fri Apr  3 15:37:44 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat french
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C troff -ms french > temp.tex
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C troff -ms french > temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat temp.tex
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C itroff -ms french > temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C itroff -ms french > temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat -v temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C itroff -ms french | cat > temp1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm temp
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat temp1
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 16:41:07 1987
+E Fri Apr  3 17:12:09 1987
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls final
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C tbl final | ptroff -ms -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 11:43:12 1987
+E Mon Apr  6 12:12:46 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail deimert@vaxc dhaliwal@vaxc friesen@vaxc kanwischer@vaxc vaysblat@vaxc zahary@vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/office
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/offstaff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hermann@vaxc thompsonp williamssi chmilar wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hermann@vaxc thompsonp williamssi chmilar wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 14:22:55 1987
+E Mon Apr  6 14:34:24 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 10:36:12 1987
+E Tue Apr  7 12:04:56 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail zahary@vaxc vaysblat@vaxc kanwischer@vaxc friesen@vaxc dhaliwal@vaxc deimert@vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 10:41:18 1987
+E Wed Apr  8 12:57:54 1987
+
+C mail hermann@vaxc thompsonp williamssi chmilar wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 11:19:24 1987
+E Thu Apr  9 17:45:59 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail beaulieu@vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 09:48:38 1987
+E Fri Apr 10 16:27:03 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail kendall
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 08:55:21 1987
+E NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 15:20:09 1987
+E Mon Apr 13 17:15:00 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat postscript
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail jameson
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 08:47:40 1987
+E Tue Apr 14 17:50:13 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail williamssi wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail kanwischer@vaxc vaysblat@vaxc
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C basic
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls basic
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat basic/average
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat basic/final
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C basic basic/final
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 08:48:49 1987
+E Wed Apr 15 17:23:35 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/srdg
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail camille
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail wongce
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail shannon@vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 08:52:18 1987
+E Thu Apr 16 12:12:07 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail camille
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail shannon@vaxa
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail dan@cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /users
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/offstaff
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail storeyl
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 14:17:16 1987
+E Mon May  4 15:48:56 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail kendall
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail kendall
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail kendall
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 12:13:38 1987
+E Tue May  5 12:25:35 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hkucs
+D /user/profs/xxxx
+A NIL
+H NIL
+X H  25
+
+C email
+D /user/profs/xxxx
+A NIL
+H NIL
+X N  10
+
+C mail cheung@hkucs.hkueee.hku.hk
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 16:15:59 1987
+E Tue May  5 16:57:00 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail cheung@hkueee.hku.hk
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 10:28:10 1987
+E Wed May  6 11:43:38 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail cheung@hkueee.hkucs.hku.hk
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user/profs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail blob parker
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:34:30 1987
+E Wed May  6 17:30:22 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hkucs
+D /user/profs/xxxx
+A NIL
+H NIL
+X H  25
+
+
+S Thu May  7 10:27:22 1987
+E Thu May  7 12:28:09 1987
+
+C ls /user/profs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May  7 14:54:06 1987
+E Thu May  7 16:42:17 1987
+
+C ls /user/profs
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hkucs
+D /user/profs/xxxx
+A NIL
+H NIL
+X H  25
+
+C mail cheung.hkucs@hkueee.hku.hk
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail cheung@hkueee.hkucs.hku.hk
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail cheung.hkueee@hkucs.hku.hk
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 11:52:10 1987
+E Fri May  8 11:54:40 1987
+
+C rlogin cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 11:58:52 1987
+E Fri May  8 11:59:27 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C q
+D /user/profs/xxxx
+A NIL
+H NIL
+X N  10
+
+
+S Fri May  8 12:23:00 1987
+E Fri May  8 12:30:57 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail dave
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 15:04:42 1987
+E Fri May  8 17:45:27 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 09:08:25 1987
+E Mon May 11 10:01:51 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 11:20:27 1987
+E Mon May 11 12:08:06 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 14:34:17 1987
+E Mon May 11 16:59:02 1987
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail dave
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail andrews
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail scot@cs-apollo-a
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 10:15:37 1987
+E Tue May 12 11:38:23 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail hkucs
+D /user/profs/xxxx
+A NIL
+H NIL
+X H  25
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 14:37:53 1987
+E Tue May 12 17:15:28 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 09:15:18 1987
+E Wed May 13 10:36:42 1987
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxx
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/profs/xxxx
+A NIL
+H NIL
+X NIL

@@ -1,0 +1,7704 @@
+S Fri Mar  6 08:49:10 1987
+E NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm mbox.CKP
+D /user/offstaff/xxxxxxx
+A mv mbox.CKP ~/deleted
+H NIL
+X NIL
+
+C rm mbox.BAK
+D /user/offstaff/xxxxxxx
+A mv mbox.BAK ~/deleted
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm *.CKP .
+D /user/offstaff/xxxxxxx
+A mv *.CKP . ~/deleted
+H NIL
+X NIL
+
+C e howe
+D /user/offstaff/xxxxxxx
+A emacs howe
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff howe
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me howe"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff howe
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me howe"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm crud1 crud2
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv crud1 crud2 ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 410as5
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 410as5
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm 410as5
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv 410as5 ~/deleted
+H NIL
+X NIL
+
+C rm 410as5.BAK
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv 410as5.BAK ~/deleted
+H NIL
+X NIL
+
+C rm 410as5.CKP
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv 410as5.CKP ~/deleted
+H NIL
+X NIL
+
+C rm letter.proofs. &
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv letter.proofs. ~/deleted &
+H NIL
+X NIL
+
+C rm letter.proofs.*
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv letter.proofs.* ~/deleted
+H NIL
+X NIL
+
+C rm letter.proofs
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv letter.proofs ~/deleted
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 403ex
+H NIL
+X NIL
+
+C ptroff 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403ex"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs
+H NIL
+X NIL
+
+C ptroff 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403ex"
+H NIL
+X NIL
+
+
+S Fri Mar  6 11:48:07 1987
+E Fri Mar  6 12:00:22 1987
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 403ex
+H NIL
+X NIL
+
+C ptroff 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403ex"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C lprm 537 alw2
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C lprm 537 -Palw2
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:44:35 1987
+E NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff ~xxxxxxx/ASSIGN/403ex
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me ~xxxxxxx/ASSIGN/403ex"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+
+S Tue Mar 10 09:06:04 1987
+E Tue Mar 10 16:34:52 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 531dec
+D /user/offstaff/xxxxxxx
+A emacs 531dec
+H NIL
+X NIL
+
+C cp 531dec 255l01
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C tbl 255L01 | eqn | ptroff
+D /user/offstaff/xxxxxxx
+A tbl 255L01 | eqn | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C kill -9 29618 29619
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C kill -9 29620
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl 255l01 | eqn | ptroff
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | eqn | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e e 410AS1
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs e 410AS1
+H NIL
+X NIL
+
+C e 410as1
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 410as1
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C tbl 255l01 | eqn | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | eqn | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl 255l01 | eqn | ptroff
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | eqn | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl 255l01 | eqn | ptroff -o2
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | eqn | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C hist.cp
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C e hist.cp
+D /user/offstaff/xxxxxxx
+A emacs hist.cp
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl 255l01 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl 255l01 | ptroff -o2-
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2-"
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 10974 10990 10992
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl 255l01 | ptroff -o2-
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2-"
+H NIL
+X NIL
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e histo
+D /user/offstaff/xxxxxxx
+A emacs histo
+H NIL
+X NIL
+
+C e histo
+D /user/offstaff/xxxxxxx
+A emacs histo
+H NIL
+X NIL
+
+C e histo.cp
+D /user/offstaff/xxxxxxx
+A emacs histo.cp
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e hist.cp.CKP
+D /user/offstaff/xxxxxxx
+A emacs hist.cp.CKP
+H NIL
+X J  81
+
+
+S Wed Mar 11 09:03:58 1987
+E Wed Mar 11 13:51:53 1987
+
+C e stodd
+D /user/offstaff/xxxxxxx
+A emacs stodd
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv ~xxxxxxx/stodd .
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C \ìs
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e ant
+D /user/offstaff/xxxxxxx/publishers
+A emacs ant
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff ant
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me ant"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/publishers
+A emacs
+H NIL
+X NIL
+
+C e exam
+D /user/offstaff/xxxxxxx/publishers
+A emacs exam
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff ant
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me ant"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C vaxb
+D /user/offstaff/xxxxxxx/publishers
+A rlogin vaxb -8
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIOGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e histo
+D /user/offstaff/xxxxxxx
+A emacs histo
+H NIL
+X NIL
+
+C grap histo | pic | ptroff -me -Palw2
+D /user/offstaff/xxxxxxx
+A grap histo | pic | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -me -Palw2"
+H NIL
+X N  10
+
+C Null Command
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C kill -9 28541 28544
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C e .cshrc
+D /user/offstaff/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+C dgrap histo | dpic | psroff -me -Palw2
+D /user/offstaff/xxxxxxx
+A dgrap histo | dpic | /userc/offstaff/group.bin/lwpp /usr/local/bin/psroff "-h -me -me -Palw2"
+H NIL
+X NIL
+
+C tbl 255l01 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl 255l01 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C ptroff -o10- 255l01
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o10- 255l01"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e ~cpsc/rooms
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/rooms
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 403
+D /user/offstaff/xxxxxxx
+A emacs 403
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 403ex
+H NIL
+X NIL
+
+C ptroff 403ex
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403ex"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 15:37:42 1987
+E Wed Mar 11 16:45:10 1987
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 403as
+D /user/offstaff/xxxxxxx
+A emacs 403as
+H NIL
+X NIL
+
+C cp 403as 403as4
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 403as4
+D /user/offstaff/xxxxxxx
+A emacs 403as4
+H NIL
+X NIL
+
+C ptroff 403as4
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403as4"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff 403as4
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403as4"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff 403as4
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 403as4"
+H NIL
+X NIL
+
+
+S Thu Mar 12 09:37:37 1987
+E NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e wiley
+D /user/offstaff/xxxxxxx/publishers
+A emacs wiley
+H NIL
+X NIL
+
+C e desk
+D /user/offstaff/xxxxxxx/publishers
+A emacs desk
+H NIL
+X NIL
+
+C e harry
+D /user/offstaff/xxxxxxx/publishers
+A emacs harry
+H NIL
+X NIL
+
+C e desk
+D /user/offstaff/xxxxxxx/publishers
+A emacs desk
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff harry
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me harry"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 15:22:44 1987
+E Fri Mar 13 16:13:36 1987
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e nelson
+D /user/offstaff/xxxxxxx/publishers
+A emacs nelson
+H NIL
+X NIL
+
+C cp desk 201l20
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e 201l20
+D /user/offstaff/xxxxxxx/publishers
+A emacs 201l20
+H NIL
+X NIL
+
+
+S Mon Mar 16 09:17:46 1987
+E Mon Mar 16 11:16:20 1987
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 201l20
+D /user/offstaff/xxxxxxx/publishers
+A emacs 201l20
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/publishers
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 201l20
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 201l20"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/publishers
+A emacs
+H NIL
+X NIL
+
+C ptroff 201l20
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 201l20"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 13:51:27 1987
+E Mon Mar 16 16:44:50 1987
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm 201l20.*
+D /user/offstaff/xxxxxxx/publishers
+A mv 201l20.* ~/deleted
+H NIL
+X NIL
+
+C rm ant.*
+D /user/offstaff/xxxxxxx/publishers
+A mv ant.* ~/deleted
+H NIL
+X NIL
+
+C rm desk.*
+D /user/offstaff/xxxxxxx/publishers
+A mv desk.* ~/deleted
+H NIL
+X NIL
+
+C rm exam.*
+D /user/offstaff/xxxxxxx/publishers
+A mv exam.* ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e addison
+D /user/offstaff/xxxxxxx/publishers
+A emacs addison
+H NIL
+X NIL
+
+C cp desk 433
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e 433]
+D /user/offstaff/xxxxxxx/publishers
+A emacs 433]
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C mail blob@vaxb < letform
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letform
+D /user/offstaff/xxxxxxx
+A emacs letform
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 433
+D /user/offstaff/xxxxxxx/publishers
+A emacs 433
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/publishers
+A emacs
+H NIL
+X NIL
+
+C e ~cpsc/rooms
+D /user/offstaff/xxxxxxx/publishers
+A emacs ~cpsc/rooms
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mobibli
+D /user/offstaff/xxxxxxx
+A emacs mobibli
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C sortbib -sT mobibli > checc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more checc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm checc
+D /user/offstaff/xxxxxxx
+A mv checc ~/deleted
+H NIL
+X NIL
+
+C roffbib -I mobibli
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 08:55:45 1987
+E Tue Mar 17 11:26:14 1987
+
+C ruptime
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vaxb
+D /user/offstaff/xxxxxxx
+A rlogin vaxb -8
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e payta
+D /user/offstaff/xxxxxxx
+A emacs payta
+H NIL
+X NIL
+
+C tbl payta | ptroff
+D /user/offstaff/xxxxxxx
+A tbl payta | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C l
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C pq
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C unalias ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl payta | ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vaxb
+D /user/offstaff/xxxxxxx
+A rlogin vaxb -8
+H NIL
+X NIL
+
+C ls -l
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -lt exam.87
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -lt exam.87
+H NIL
+X NIL
+
+C emacs exam.87
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C alias ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 11:26:36 1987
+E NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C e exam.87
+D /user/offstaff/xxxxxxx
+A emacs exam.87
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 26377
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 23679
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 595 -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff -o1 exam.87
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1 exam.87"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff -o1 exam.87
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1 exam.87"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff -o1 exam.87
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1 exam.87"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff -o2
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn exam.87 | ptroff -o2
+D /user/offstaff/xxxxxxx
+A eqn exam.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+
+S Wed Mar 18 11:16:24 1987
+E Wed Mar 18 12:58:39 1987
+
+C lpq -Pip
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxb -8
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 09:19:03 1987
+E Thu Mar 19 09:56:11 1987
+
+C e payta
+D /user/offstaff/xxxxxxx
+A emacs payta
+H NIL
+X NIL
+
+C unalias ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl payta | ptroff -h -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 10:37:10 1987
+E Thu Mar 19 11:30:35 1987
+
+C bc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e payta
+D /user/offstaff/xxxxxxx
+A emacs payta
+H NIL
+X NIL
+
+C unalias ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl payta | ptroff -h -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 13:14:28 1987
+E Thu Mar 19 14:15:59 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e winter
+D /user/offstaff/xxxxxxx
+A emacs winter
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+
+S Fri Mar 20 15:00:38 1987
+E Fri Mar 20 17:02:35 1987
+
+C more /usr/ucb/roffbib
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more /usr/bin/roffbib
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs /usr/lib/tmac/tmac.bib
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X H  25
+
+C Null Command
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X H  25
+
+C more /usr/bin/roffbib
+D /user/offstaff/xxxxxxx
+A NIL
+H T
+X NIL
+
+C rlogin vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 08:58:47 1987
+E NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C exam.87
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C e exam.87
+D /user/offstaff/xxxxxxx
+A emacs exam.87
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e ant
+D /user/offstaff/xxxxxxx/publishers
+A emacs ant
+H NIL
+X NIL
+
+C lpq -Palw2]
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff ant
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me ant"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e norton
+D /user/offstaff/xxxxxxx/publishers
+A emacs norton
+H NIL
+X NIL
+
+
+S Tue Mar 24 15:30:35 1987
+E Tue Mar 24 16:57:11 1987
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e man
+D /user/offstaff/xxxxxxx
+A emacs man
+H NIL
+X NIL
+
+C mail bonnie < man
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm man
+D /user/offstaff/xxxxxxx
+A mv man ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:43:54 1987
+E Wed Mar 25 16:55:43 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e nfb.CKP
+D /user/offstaff/xxxxxxx
+A emacs nfb.CKP
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff nfb
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me nfb"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e halliday
+D /user/offstaff/xxxxxxx
+A emacs halliday
+H NIL
+X NIL
+
+C ptroff halliday
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me halliday"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff halliday
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me halliday"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e env
+D /user/offstaff/xxxxxxx
+A emacs env
+H NIL
+X NIL
+
+C ptroff env
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me env"
+H NIL
+X NIL
+
+C e little
+D /user/offstaff/xxxxxxx
+A emacs little
+H NIL
+X NIL
+
+C ptroff little
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me little"
+H NIL
+X NIL
+
+C bgf
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C bg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e bradley
+D /user/offstaff/xxxxxxx
+A emacs bradley
+H NIL
+X NIL
+
+C ptroff bradley
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bradley"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff bradley
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bradley"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff bradley
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bradley"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptrodd bradley
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ptroff bradley
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bradley"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff bradley
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bradley"
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 24255 24270 24272
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff bradley
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bradley"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e little
+D /user/offstaff/xxxxxxx
+A emacs little
+H NIL
+X NIL
+
+
+S Thu Mar 26 08:48:43 1987
+E NIL
+
+C e little
+D /user/offstaff/xxxxxxx
+A emacs little
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff little
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me little"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff little
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me little"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e halliday
+D /user/offstaff/xxxxxxx
+A emacs halliday
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff halliday
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me halliday"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -a
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/offstaff/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C e little
+D /user/offstaff/xxxxxxx
+A emacs little
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/offstaff/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F
+H NIL
+X NIL
+
+C e little
+D /user/offstaff/xxxxxxx/EMACS
+A emacs little
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C e little
+D /user/offstaff/xxxxxxx
+A emacs little
+H NIL
+X NIL
+
+
+S Fri Mar 27 11:38:58 1987
+E Fri Mar 27 11:52:48 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C mv *.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C unalias rm
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm howe.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.*P
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C m .cshrc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C pwd
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C unalias rm
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l -.CKP
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -l -.CKP
+H NIL
+X NIL
+
+C unlink - -.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C man rm
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm - -.CKP
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+
+S Fri Mar 27 13:50:58 1987
+E NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e anja
+D /user/offstaff/xxxxxxx
+A emacs anja
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+
+S Mon Mar 30 09:33:14 1987
+E Mon Mar 30 10:32:05 1987
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff anja
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me anja"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff anja
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me anja"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 14:03:05 1987
+E Mon Mar 30 16:44:40 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 491dec
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 491dec
+H NIL
+X NIL
+
+C cp 491dec
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C cp 491dec 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+
+S Tue Mar 31 09:00:19 1987
+E Tue Mar 31 11:57:59 1987
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e brum
+D /user/offstaff/xxxxxxx
+A emacs brum
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C eqn 493 | ptroff
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs
+H NIL
+X NIL
+
+C eqn 493 | ptroff
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+
+S Tue Mar 31 13:03:48 1987
+E Tue Mar 31 16:51:14 1987
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff gary
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me gary"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff gary
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me gary"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C eqn 493 | ptroff
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs
+H NIL
+X NIL
+
+
+S Wed Apr  1 08:59:05 1987
+E Wed Apr  1 11:57:04 1987
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C eqn 493 | ptroff
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs
+H NIL
+X NIL
+
+C eqn 493 | ptroff -o2
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C tip dn
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e ~/.login
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs ~/.login
+H NIL
+X NIL
+
+C clear
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C CSH
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X N  10
+
+C csh
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:35:02 1987
+E Wed Apr  1 13:49:49 1987
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e anja
+D /user/offstaff/xxxxxxx
+A emacs anja
+H NIL
+X NIL
+
+C ls -a
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -a
+H NIL
+X NIL
+
+C e .login
+D /user/offstaff/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C e .cshrc
+D /user/offstaff/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+
+S Thu Apr  2 10:36:50 1987
+E NIL
+
+C cd EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F
+H NIL
+X NIL
+
+C e emacs_pro.save
+D /user/offstaff/xxxxxxx/EMACS
+A emacs emacs_pro.save
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -a
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/offstaff/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C cd EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e spell.ml
+D /user/offstaff/xxxxxxx/EMACS
+A emacs spell.ml
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e anja
+D /user/offstaff/xxxxxxx
+A emacs anja
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C eqn 493 | ptroff
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+
+S Fri Apr  3 09:53:11 1987
+E Fri Apr  3 10:01:28 1987
+
+C tip dn
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 13:32:07 1987
+E Fri Apr  3 13:34:25 1987
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+
+S Fri Apr  3 14:02:23 1987
+E Fri Apr  3 14:04:47 1987
+
+C e cpsc/keys
+D /user/offstaff/xxxxxxx
+A emacs cpsc/keys
+H NIL
+X NIL
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -la | page
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -la | page
+H NIL
+X NIL
+
+
+S Fri Apr  3 14:15:42 1987
+E Fri Apr  3 14:29:02 1987
+
+C rlogin vaxb -8
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:21:35 1987
+E Fri Apr  3 16:18:34 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e env
+D /user/offstaff/xxxxxxx
+A emacs env
+H NIL
+X NIL
+
+C ptroff env
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me env"
+H NIL
+X NIL
+
+C q
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e env
+D /user/offstaff/xxxxxxx
+A emacs env
+H NIL
+X NIL
+
+C ptroff env
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me env"
+H NIL
+X NIL
+
+C er
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff env
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me env"
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs thalman
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff thalman
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me thalman"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff thalman
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me thalman"
+H NIL
+X NIL
+
+
+S Mon Apr  6 09:01:04 1987
+E NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e bru
+D /user/offstaff/xxxxxxx
+A emacs bru
+H NIL
+X NIL
+
+C e bruc
+D /user/offstaff/xxxxxxx
+A emacs bruc
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff bruc
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bruc"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn bruc | ptroff
+D /user/offstaff/xxxxxxx
+A eqn bruc | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C ptroff bru
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me bru"
+H NIL
+X NIL
+
+
+S Tue Apr  7 08:53:48 1987
+E Tue Apr  7 16:30:46 1987
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C rm dhing
+D /user/offstaff/xxxxxxx
+A mv dhing ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e bruc
+D /user/offstaff/xxxxxxx
+A emacs bruc
+H NIL
+X NIL
+
+C eqn bruc | ptroff
+D /user/offstaff/xxxxxxx
+A eqn bruc | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e jon
+D /user/offstaff/xxxxxxx
+A emacs jon
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 255l01
+D /user/offstaff/xxxxxxx
+A emacs 255l01
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs cand
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C e carc
+D /user/offstaff/xxxxxxx
+A emacs carc
+H NIL
+X NIL
+
+C col carc > carc1
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man col
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat carc | col > carc1
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e carc1
+D /user/offstaff/xxxxxxx
+A emacs carc1
+H NIL
+X NIL
+
+C man col
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k underline
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man ul
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e carc1
+D /user/offstaff/xxxxxxx
+A emacs carc1
+H NIL
+X NIL
+
+C rm carc1
+D /user/offstaff/xxxxxxx
+A mv carc1 ~/deleted
+H NIL
+X NIL
+
+C mail loose@vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C eqn cand | ptroff
+D /user/offstaff/xxxxxxx
+A eqn cand | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C eqn cand | ptroff
+D /user/offstaff/xxxxxxx
+A eqn cand | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C rm carc
+D /user/offstaff/xxxxxxx
+A mv carc ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 9216
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e brum
+D /user/offstaff/xxxxxxx
+A emacs brum
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e jon
+D /user/offstaff/xxxxxxx/publishers
+A emacs jon
+H NIL
+X NIL
+
+C mail rokne@vaxb < jon
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e brum
+D /user/offstaff/xxxxxxx/publishers
+A emacs brum
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e little,
+D /user/offstaff/xxxxxxx/publishers
+A emacs little,
+H NIL
+X NIL
+
+C e tre
+D /user/offstaff/xxxxxxx/publishers
+A emacs tre
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff tre
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me tre"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 11:13:36 1987
+E Tue Apr  7 11:28:58 1987
+
+C ca
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C set ter,=vt102
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt102
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat > carc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C log
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Apr  7 14:44:37 1987
+E Tue Apr  7 14:48:10 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e gary
+D /user/offstaff/xxxxxxx
+A emacs gary
+H NIL
+X NIL
+
+C sett
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C e
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C set term=vt102
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e bb
+D /user/offstaff/xxxxxxx
+A emacs bb
+H NIL
+X NIL
+
+
+S Wed Apr  8 12:39:56 1987
+E NIL
+
+C email
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C ptroff antc
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me antc"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff antc
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me antc"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff antc1
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me antc1"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 09:38:56 1987
+E Thu Apr  9 11:39:30 1987
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C eqn 493 | ptroff
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+
+S Thu Apr  9 15:31:03 1987
+E Thu Apr  9 15:35:01 1987
+
+C e brum
+D /user/offstaff/xxxxxxx
+A emacs brum
+H NIL
+X NIL
+
+
+S Fri Apr 10 10:54:37 1987
+E Fri Apr 10 10:55:54 1987
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+
+S Fri Apr 10 13:55:08 1987
+E Fri Apr 10 16:06:30 1987
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs curry
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e gland
+D /user/offstaff/xxxxxxx
+A emacs gland
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff curry
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me curry"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e curry
+D /user/offstaff/xxxxxxx
+A emacs curry
+H NIL
+X NIL
+
+C ptroff gland
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me gland"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff curry
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me curry"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff curry
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me curry"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff curry
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me curry"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C ptroff curry
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me curry"
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff csuri
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me csuri"
+H NIL
+X NIL
+
+C lpq -
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff csuri
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me csuri"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff csuri
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me csuri"
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff akbar
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me akbar"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff akbar
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me akbar"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff akbar
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me akbar"
+H NIL
+X NIL
+
+C ptroff akbar
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me akbar"
+H NIL
+X J  81
+
+
+S Mon Apr 13 09:03:19 1987
+E Mon Apr 13 12:01:10 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx
+A emacs cand
+H NIL
+X NIL
+
+C mkdir GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv ~xxxxxxx/cand .
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/GRAD
+A /bin/ls -F
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx/GRAD
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx/GRAD
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+C e ~cpsc/rooms
+D /user/offstaff/xxxxxxx/GRAD
+A emacs ~cpsc/rooms
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+
+S Mon Apr 13 13:05:49 1987
+E NIL
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C eqn cand1 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+
+S Tue Apr 14 08:55:44 1987
+E Tue Apr 14 11:32:26 1987
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx/ASSIGN
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C cd GRAD
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/GRAD
+A /bin/ls -F
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C eqn cand1 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C eqn cand1 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C eqn cand1 | ptroff -o3
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o3"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C eqn cand1 | ptroff 0o3
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 0o3"
+H NIL
+X NIL
+
+C eqn cand1 | ptroff -o3
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o3"
+H NIL
+X NIL
+
+
+S Wed Apr 15 13:45:30 1987
+E Wed Apr 15 16:38:38 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C date
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/ASSIGN
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp 493 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C e 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 511
+H NIL
+X NIL
+
+C ptroff 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 511"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs
+H NIL
+X NIL
+
+C ptroff 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 511"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs
+H NIL
+X NIL
+
+C ptroff 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 511"
+H NIL
+X NIL
+
+
+S Thu Apr 16 10:49:48 1987
+E Thu Apr 16 10:57:27 1987
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 511
+H NIL
+X NIL
+
+C ptroff 511
+D /user/offstaff/xxxxxxx/ASSIGN
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 511"
+H NIL
+X NIL
+
+
+S Thu Apr 16 13:11:48 1987
+E Thu Apr 16 15:00:01 1987
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+
+S Tue Apr 21 09:34:07 1987
+E NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C \ìs
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C who
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e 491
+D /user/offstaff/xxxxxxx/publishers
+A emacs 491
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 491
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 491"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e4912
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X N  10
+
+C e 4912
+D /user/offstaff/xxxxxxx/publishers
+A emacs 4912
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 4912
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 4912"
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 4913
+D /user/offstaff/xxxxxxx/publishers
+A emacs 4913
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 4913
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 4913"
+H NIL
+X NIL
+
+C e 491
+D /user/offstaff/xxxxxxx/publishers
+A emacs 491
+H NIL
+X NIL
+
+C ptroff 491
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 491"
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C e jack
+D /user/offstaff/xxxxxxx
+A emacs jack
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff jack
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me jack"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff jack
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me jack"
+H NIL
+X NIL
+
+C lpq2 -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 09:35:27 1987
+E Wed Apr 22 16:41:59 1987
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mtt87.88.BAK
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88.BAK
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C e mtt87.88.BAK
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88.BAK
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C cd  
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X B  49
+
+C cd ASSIGN
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 493
+D /user/offstaff/xxxxxxx/ASSIGN
+A emacs 493
+H NIL
+X NIL
+
+C eqn 493 | ptroff -o2
+D /user/offstaff/xxxxxxx/ASSIGN
+A eqn 493 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/ASSIGN
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mtt.new
+D /user/offstaff/xxxxxxx
+A emacs mtt.new
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e winter
+D /user/offstaff/xxxxxxx
+A emacs winter
+H NIL
+X NIL
+
+
+S Thu Apr 23 09:24:01 1987
+E Thu Apr 23 16:58:35 1987
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C bc
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 16370
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 15952 16371
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/GRAD
+A /bin/ls -F
+H NIL
+X NIL
+
+C e cand
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C eqn cand | ptroff -o2-
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2-"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88 | ptroff -o2
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mtt87.88 | ptroff -o2
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o2
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X J  81
+
+
+S Fri Apr 24 08:50:02 1987
+E Fri Apr 24 11:14:23 1987
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88 | ptroff -o3-
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o3-"
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o3
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o3"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o4-
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o4-"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+
+S Fri Apr 24 15:00:23 1987
+E Fri Apr 24 16:24:24 1987
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C e cand3
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand3
+H NIL
+X NIL
+
+C e cand3
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand3
+H NIL
+X NIL
+
+C ptroff cand3
+D /user/offstaff/xxxxxxx/GRAD
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cand3"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C ptroff cand3
+D /user/offstaff/xxxxxxx/GRAD
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cand3"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+
+S Mon Apr 27 09:08:34 1987
+E Mon Apr 27 16:22:40 1987
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand3
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand3
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C ptroff cand3
+D /user/offstaff/xxxxxxx/GRAD
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cand3"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C ptrodd cand3
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X N  10
+
+C ptroff cand3
+D /user/offstaff/xxxxxxx/GRAD
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cand3"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C ptroff cand3
+D /user/offstaff/xxxxxxx/GRAD
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cand3"
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C eqn cand1 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C eqn cand1 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mobibli
+D /user/offstaff/xxxxxxx
+A emacs mobibli
+H NIL
+X NIL
+
+C sortbib -sI mobibli > pub
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e pub
+D /user/offstaff/xxxxxxx
+A emacs pub
+H NIL
+X NIL
+
+C rm pub
+D /user/offstaff/xxxxxxx
+A mv pub ~/deleted
+H NIL
+X NIL
+
+C sortbib -sD mobibli > pub
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e pub
+D /user/offstaff/xxxxxxx
+A emacs pub
+H NIL
+X NIL
+
+C e ~cpsc/rooms
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/rooms
+H NIL
+X J  81
+
+
+S Mon Apr 27 16:44:21 1987
+E Mon Apr 27 16:53:22 1987
+
+C rlogin vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 08:55:06 1987
+E Tue Apr 28 11:38:57 1987
+
+C roffbib -Palw2 test.1
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more /usr/ucb/roffbib
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more /usr/bin/roffbib
+D /user/offstaff/xxxxxxx
+A NIL
+H T
+X NIL
+
+C roffbib -P ls
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e test
+D /user/offstaff/xxxxxxx
+A emacs test
+H NIL
+X NIL
+
+C re test
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C rm test
+D /user/offstaff/xxxxxxx
+A mv test ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mobibli
+D /user/offstaff/xxxxxxx
+A emacs mobibli
+H NIL
+X NIL
+
+C ptroff -P mobibli
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -P mobibli"
+H NIL
+X NIL
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C mtt87.88F
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 7904 7905
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o5-
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o5-"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e ~cpsc/keys
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/keys
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C cd GRAD
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cand3
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand3
+H NIL
+X NIL
+
+C eqn cand3 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand3 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e cand1
+D /user/offstaff/xxxxxxx/GRAD
+A emacs cand1
+H NIL
+X NIL
+
+C eqn cand1 | ptroff
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C ee
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X N  10
+
+C e
+D /user/offstaff/xxxxxxx/GRAD
+A emacs
+H NIL
+X NIL
+
+C eqn cand1 | ptroff -o2
+D /user/offstaff/xxxxxxx/GRAD
+A eqn cand1 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/GRAD
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 13:14:51 1987
+E Tue Apr 28 16:35:00 1987
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 814
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 814
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C tip dn
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C ptroff strate
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me strate"
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff strate
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me strate"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff -o2 strate
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2 strate"
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1"
+H NIL
+X NIL
+
+C e strate
+D /user/offstaff/xxxxxxx
+A emacs strate
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e strate
+D /user/offstaff/xxxxxxx
+A emacs strate
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff -o1 strate
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1 strate"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff -o1 strate
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1 strate"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X J  81
+
+
+S Tue Apr 28 16:36:14 1987
+E Tue Apr 28 16:36:41 1987
+
+C sfn
+D /user/offstaff/xxxxxxx
+A /user/profs/loose/sfn
+H NIL
+X N  10
+
+C sfn
+D /user/offstaff/xxxxxxx
+A /user/profs/loose/sfn
+H NIL
+X N  10
+
+
+S Wed Apr 29 08:55:56 1987
+E NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+
+S Wed Apr 29 10:09:26 1987
+E Wed Apr 29 15:25:39 1987
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C e mttps.87
+D /user/offstaff/xxxxxxx
+A emacs mttps.87
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e mtt87.88F
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88F
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o1,2
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mtt87.88F | ptroff -o6
+D /user/offstaff/xxxxxxx
+A tbl mtt87.88F | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o6"
+H NIL
+X NIL
+
+C e plot
+D /user/offstaff/xxxxxxx
+A emacs plot
+H NIL
+X NIL
+
+C ptroff plot
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me plot"
+H NIL
+X NIL
+
+C ptroff plot
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me plot"
+H NIL
+X NIL
+
+C e mtt87.88W
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88W
+H NIL
+X J  81
+
+
+S Thu Apr 30 10:23:37 1987
+E Thu Apr 30 11:27:52 1987
+
+C e mtt87.88W
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88W
+H NIL
+X NIL
+
+
+S Thu Apr 30 11:38:47 1987
+E Thu Apr 30 14:13:36 1987
+
+C e mtt87.88
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88
+H NIL
+X NIL
+
+C e mtt87.88W
+D /user/offstaff/xxxxxxx
+A emacs mtt87.88W
+H NIL
+X NIL
+
+
+S Thu Apr 30 15:57:36 1987
+E Thu Apr 30 15:59:35 1987
+
+C mail renert < letform
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f renert
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail renert@vaxb < letform
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letform
+D /user/offstaff/xxxxxxx
+A emacs letform
+H NIL
+X NIL
+
+
+S Fri May  1 09:02:06 1987
+E Fri May  1 11:48:05 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm*.BAK
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e exam.87
+D /user/offstaff/xxxxxxx
+A emacs exam.87
+H NIL
+X NIL
+
+C eqn 321def | ptroff
+D /user/offstaff/xxxxxxx
+A eqn 321def | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn 321def | ptroff
+D /user/offstaff/xxxxxxx
+A eqn 321def | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+
+S Fri May  1 15:28:06 1987
+E Fri May  1 17:16:48 1987
+
+C e 321def
+D /user/offstaff/xxxxxxx
+A emacs 321def
+H NIL
+X NIL
+
+C eqn 321def | ptroff -o2
+D /user/offstaff/xxxxxxx
+A eqn 321def | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C eqn 321def | ptroff -o2
+D /user/offstaff/xxxxxxx
+A eqn 321def | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2"
+H NIL
+X NIL
+
+
+S Tue May  5 11:24:40 1987
+E Tue May  5 16:05:15 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e mttps.87
+D /user/offstaff/xxxxxxx
+A emacs mttps.87
+H NIL
+X NIL
+
+C e ~cpsc/rooms
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/rooms
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/offstaff/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C lpr -Palw2 -d slide.dvi
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 885
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm -Palw2 885
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C wc slide.dvi
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm slide.v
+D /user/offstaff/xxxxxxx
+A mv slide.v ~/deleted
+H NIL
+X NIL
+
+C rm slide.dvi
+D /user/offstaff/xxxxxxx
+A mv slide.dvi ~/deleted
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C latex slide
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2 -d slide.dvi
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+
+S Wed May  6 09:04:29 1987
+E Wed May  6 11:54:35 1987
+
+C e leblanc
+D /user/offstaff/xxxxxxx
+A emacs leblanc
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff leblanc
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me leblanc"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff leblanc
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me leblanc"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ptroff leblanc
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me leblanc"
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 409
+D /user/offstaff/xxxxxxx/publishers
+A emacs 409
+H NIL
+X NIL
+
+C ptroff 409
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 409"
+H NIL
+X J  81
+
+C fg
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 13:14:46 1987
+E Wed May  6 14:49:09 1987
+
+C rlogin vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e labman
+D /user/offstaff/xxxxxxx
+A emacs labman
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C latex slide
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr -Palw2 -d slide.dvi
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2,3,4,5,6
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2,3,4,5,6"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C unalias ptroff
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2,3,4,5,6
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2,3,4,5,6 -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 895
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 895 -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X J  81
+
+
+S Wed May  6 14:50:04 1987
+E Wed May  6 15:11:30 1987
+
+C e labman
+D /user/offstaff/xxxxxxx
+A emacs labman
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2,3,4,5
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2,3,4,5"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+
+S Wed May  6 16:07:01 1987
+E Wed May  6 16:45:40 1987
+
+C tbl labman | ptroff -o1,2,3,4,5,6
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2,3,4,5,6"
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+
+S Thu May  7 13:31:40 1987
+E Thu May  7 16:28:48 1987
+
+C e labman
+D /user/offstaff/xxxxxxx
+A emacs labman
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2,3,4,5,6
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2,3,4,5,6"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl labman | ptroff -o2,3,4,5,6,7
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o2,3,4,5,6,7"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl labman | ptroff -o1,2,3,4,5,6
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o1,2,3,4,5,6"
+H NIL
+X NIL
+
+C e mtt.ps
+D /user/offstaff/xxxxxxx
+A emacs mtt.ps
+H NIL
+X NIL
+
+C mttps.87
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C e mttps.87
+D /user/offstaff/xxxxxxx
+A emacs mttps.87
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 5252
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 5261
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X J  81
+
+
+S Fri May  8 09:22:44 1987
+E Fri May  8 11:57:04 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e payta
+D /user/offstaff/xxxxxxx
+A emacs payta
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl paytaps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl paytaps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl paytaps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl paytaps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl paytaps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl paytaps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl paytaps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl paytaps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e notice
+D /user/offstaff/xxxxxxx
+A emacs notice
+H NIL
+X NIL
+
+
+S Fri May  8 14:26:19 1987
+E NIL
+
+C e mttsp.87
+D /user/offstaff/xxxxxxx
+A emacs mttsp.87
+H NIL
+X NIL
+
+C e mttps.87
+D /user/offstaff/xxxxxxx
+A emacs mttps.87
+H NIL
+X NIL
+
+C tbl mttps.87 | ptroff
+D /user/offstaff/xxxxxxx
+A tbl mttps.87 | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me"
+H NIL
+X NIL
+
+C e notice
+D /user/offstaff/xxxxxxx
+A emacs notice
+H NIL
+X NIL
+
+C ptroff notice
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me notice"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff notice
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me notice"
+H NIL
+X NIL
+
+C e cpsc/rooms
+D /user/offstaff/xxxxxxx
+A emacs cpsc/rooms
+H NIL
+X NIL
+
+C e ~cpsc/rooms
+D /user/offstaff/xxxxxxx
+A emacs ~cpsc/rooms
+H NIL
+X NIL
+
+C e notice
+D /user/offstaff/xxxxxxx
+A emacs notice
+H NIL
+X NIL
+
+C ptroff notice
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me notice"
+H NIL
+X NIL
+
+
+S Mon May 11 09:59:42 1987
+E Mon May 11 13:44:25 1987
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 531
+D /user/offstaff/xxxxxxx/publishers
+A emacs 531
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 531
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 531"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/publishers
+A emacs
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 531
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 531"
+H NIL
+X NIL
+
+C mail
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx/publishers
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx/publishers
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e McGraw
+D /user/offstaff/xxxxxxx/publishers
+A emacs McGraw
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm McGraw
+D /user/offstaff/xxxxxxx/publishers
+A mv McGraw ~/deleted
+H NIL
+X NIL
+
+C e 321
+D /user/offstaff/xxxxxxx/publishers
+A emacs 321
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 321
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 321"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/publishers
+A /bin/ls -F
+H NIL
+X NIL
+
+C e 313
+D /user/offstaff/xxxxxxx/publishers
+A emacs 313
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/offstaff/xxxxxxx
+A mv *.CKP ~/deleted
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/offstaff/xxxxxxx
+A mv *.BAK ~/deleted
+H NIL
+X NIL
+
+C rm paytasp.87
+D /user/offstaff/xxxxxxx
+A mv paytasp.87 ~/deleted
+H NIL
+X NIL
+
+C rm peek
+D /user/offstaff/xxxxxxx
+A mv peek ~/deleted
+H NIL
+X NIL
+
+C rm prz
+D /user/offstaff/xxxxxxx
+A mv prz ~/deleted
+H NIL
+X NIL
+
+C rm slide.log
+D /user/offstaff/xxxxxxx
+A mv slide.log ~/deleted
+H NIL
+X NIL
+
+C rm slide.tex
+D /user/offstaff/xxxxxxx
+A mv slide.tex ~/deleted
+H NIL
+X NIL
+
+C rm zanna
+D /user/offstaff/xxxxxxx
+A mv zanna ~/deleted
+H NIL
+X NIL
+
+C rm gland
+D /user/offstaff/xxxxxxx
+A mv gland ~/deleted
+H NIL
+X NIL
+
+C rm des
+D /user/offstaff/xxxxxxx
+A mv des ~/deleted
+H NIL
+X NIL
+
+C rm bb
+D /user/offstaff/xxxxxxx
+A mv bb ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm suns
+D /user/offstaff/xxxxxxx
+A mv suns ~/deleted
+H NIL
+X NIL
+
+C rm tble
+D /user/offstaff/xxxxxxx
+A mv tble ~/deleted
+H NIL
+X NIL
+
+C rm tchange
+D /user/offstaff/xxxxxxx
+A mv tchange ~/deleted
+H NIL
+X NIL
+
+C rm testm
+D /user/offstaff/xxxxxxx
+A mv testm ~/deleted
+H NIL
+X NIL
+
+C rm thalman
+D /user/offstaff/xxxxxxx
+A mv thalman ~/deleted
+H NIL
+X NIL
+
+C rm try
+D /user/offstaff/xxxxxxx
+A mv try ~/deleted
+H NIL
+X NIL
+
+C rm weiss
+D /user/offstaff/xxxxxxx
+A mv weiss ~/deleted
+H NIL
+X NIL
+
+C rm masu
+D /user/offstaff/xxxxxxx
+A mv masu ~/deleted
+H NIL
+X NIL
+
+C rm loose
+D /user/offstaff/xxxxxxx
+A mv loose ~/deleted
+H NIL
+X NIL
+
+C rm little
+D /user/offstaff/xxxxxxx
+A mv little ~/deleted
+H NIL
+X NIL
+
+C rm halliday
+D /user/offstaff/xxxxxxx
+A mv halliday ~/deleted
+H NIL
+X NIL
+
+C rm harry
+D /user/offstaff/xxxxxxx
+A mv harry ~/deleted
+H NIL
+X NIL
+
+C rm histo
+D /user/offstaff/xxxxxxx
+A mv histo ~/deleted
+H NIL
+X NIL
+
+C rm jack
+D /user/offstaff/xxxxxxx
+A mv jack ~/deleted
+H NIL
+X NIL
+
+C rm jon
+D /user/offstaff/xxxxxxx
+A mv jon ~/deleted
+H NIL
+X NIL
+
+C rm jon1
+D /user/offstaff/xxxxxxx
+A mv jon1 ~/deleted
+H NIL
+X NIL
+
+C \òm jonab
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm slide.aux
+D /user/offstaff/xxxxxxx
+A mv slide.aux ~/deleted
+H NIL
+X NIL
+
+C rm slide.dvi
+D /user/offstaff/xxxxxxx
+A mv slide.dvi ~/deleted
+H NIL
+X NIL
+
+C rm akbar
+D /user/offstaff/xxxxxxx
+A mv akbar ~/deleted
+H NIL
+X NIL
+
+C rm andr
+D /user/offstaff/xxxxxxx
+A mv andr ~/deleted
+H NIL
+X NIL
+
+C rm anja
+D /user/offstaff/xxxxxxx
+A mv anja ~/deleted
+H NIL
+X NIL
+
+C rm antc
+D /user/offstaff/xxxxxxx
+A mv antc ~/deleted
+H NIL
+X NIL
+
+C rm antc1
+D /user/offstaff/xxxxxxx
+A mv antc1 ~/deleted
+H NIL
+X NIL
+
+C rm bradley
+D /user/offstaff/xxxxxxx
+A mv bradley ~/deleted
+H NIL
+X NIL
+
+C rm core
+D /user/offstaff/xxxxxxx
+A mv core ~/deleted
+H NIL
+X NIL
+
+C rm scuri
+D /user/offstaff/xxxxxxx
+A mv scuri ~/deleted
+H NIL
+X NIL
+
+C rm csuri
+D /user/offstaff/xxxxxxx
+A mv csuri ~/deleted
+H NIL
+X NIL
+
+C rm pub
+D /user/offstaff/xxxxxxx
+A mv pub ~/deleted
+H NIL
+X NIL
+
+C rm public
+D /user/offstaff/xxxxxxx
+A mv public ~/deleted
+H NIL
+X NIL
+
+C rm reflet
+D /user/offstaff/xxxxxxx
+A mv reflet ~/deleted
+H NIL
+X NIL
+
+C rm req
+D /user/offstaff/xxxxxxx
+A mv req ~/deleted
+H NIL
+X NIL
+
+C rm yap
+D /user/offstaff/xxxxxxx
+A mv yap ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm gary
+D /user/offstaff/xxxxxxx
+A mv gary ~/deleted
+H NIL
+X NIL
+
+C rm graph
+D /user/offstaff/xxxxxxx
+A mv graph ~/deleted
+H NIL
+X NIL
+
+C rm how
+D /user/offstaff/xxxxxxx
+A mv how ~/deleted
+H NIL
+X NIL
+
+C rm howe
+D /user/offstaff/xxxxxxx
+A mv howe ~/deleted
+H NIL
+X NIL
+
+C rm leblanc
+D /user/offstaff/xxxxxxx
+A mv leblanc ~/deleted
+H NIL
+X NIL
+
+C rm nfb
+D /user/offstaff/xxxxxxx
+A mv nfb ~/deleted
+H NIL
+X NIL
+
+C rm notice
+D /user/offstaff/xxxxxxx
+A mv notice ~/deleted
+H NIL
+X NIL
+
+C rm out1
+D /user/offstaff/xxxxxxx
+A mv out1 ~/deleted
+H NIL
+X NIL
+
+C rm patch
+D /user/offstaff/xxxxxxx
+A mv patch ~/deleted
+H NIL
+X NIL
+
+C rm title
+D /user/offstaff/xxxxxxx
+A mv title ~/deleted
+H NIL
+X NIL
+
+C rm sked
+D /user/offstaff/xxxxxxx
+A mv sked ~/deleted
+H NIL
+X NIL
+
+C rm title
+D /user/offstaff/xxxxxxx
+A mv title ~/deleted
+H NIL
+X NIL
+
+C rm finis
+D /user/offstaff/xxxxxxx
+A mv finis ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm exempt
+D /user/offstaff/xxxxxxx
+A mv exempt ~/deleted
+H NIL
+X NIL
+
+C rm strate
+D /user/offstaff/xxxxxxx
+A mv strate ~/deleted
+H NIL
+X NIL
+
+C rm 403as
+D /user/offstaff/xxxxxxx
+A mv 403as ~/deleted
+H NIL
+X NIL
+
+C rm 403as4
+D /user/offstaff/xxxxxxx
+A mv 403as4 ~/deleted
+H NIL
+X NIL
+
+C rm 531dec
+D /user/offstaff/xxxxxxx
+A mv 531dec ~/deleted
+H NIL
+X NIL
+
+C rm pay
+D /user/offstaff/xxxxxxx
+A mv pay ~/deleted
+H NIL
+X NIL
+
+C rm memo
+D /user/offstaff/xxxxxxx
+A mv memo ~/deleted
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+
+S Mon May 11 13:45:12 1987
+E Mon May 11 17:05:06 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd publishers
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv ~xxxxxxx/desk313 .
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e desk313
+D /user/offstaff/xxxxxxx/publishers
+A emacs desk313
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff desk313
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me desk313"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 321
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 321"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C e heath
+D /user/offstaff/xxxxxxx/publishers
+A emacs heath
+H NIL
+X NIL
+
+C e 201
+D /user/offstaff/xxxxxxx/publishers
+A emacs 201
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+C ptroff 201
+D /user/offstaff/xxxxxxx/publishers
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me 201"
+H NIL
+X NIL
+
+C lpq -Palw2
+D /user/offstaff/xxxxxxx/publishers
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 11:29:02 1987
+E Tue May 12 11:54:58 1987
+
+C ma9il
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .cshrc
+D /user/offstaff/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+C e .emacs.pro
+D /user/offstaff/xxxxxxx
+A emacs .emacs.pro
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/offstaff/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C e ~terry/.emacs_pro
+D /user/offstaff/xxxxxxx
+A emacs ~terry/.emacs_pro
+H NIL
+X NIL
+
+C cp ~terry/.emacs_pro
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .cshrc
+D /user/offstaff/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+C e .login
+D /user/offstaff/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+
+S Tue May 12 11:55:52 1987
+E Tue May 12 11:59:31 1987
+
+C e labman
+D /user/offstaff/xxxxxxx
+A emacs labman
+H NIL
+X NIL
+
+C e labman
+D /user/offstaff/xxxxxxx
+A emacs labman
+H NIL
+X NIL
+
+
+S Tue May 12 13:05:53 1987
+E Tue May 12 16:38:10 1987
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd bin
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C echo $path
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cp /usr/local/bin/emacs_old
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cp /usr/local/bin/emacs_old ..
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H T
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv emacs_old bin
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login .cshrc
+D /user/offstaff/xxxxxxx
+A emacs .login .cshrc
+H NIL
+X NIL
+
+C source .login
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C echo $path
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C [Dmv emacs_old emacs
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X S  71
+
+C e
+D /user/offstaff/xxxxxxx/bin
+A emacs
+H NIL
+X NIL
+
+C echo $path
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls bin
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F bin
+H NIL
+X NIL
+
+C alias
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ~/bin/emacs
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X N  10
+
+C pwd
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv emacs_old emacs
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx/bin
+A emacs
+H NIL
+X NIL
+
+C page EPATH
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C echo $EPATH
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls /usr/local/lib/emacs_old/maclib
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F /usr/local/lib/emacs_old/maclib
+H NIL
+X NIL
+
+C cd /usr/local
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd lib
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd emacs
+D /usr/local/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib/emacs
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /usr/local/lib/emacs
+A NIL
+H NIL
+X NIL
+
+C e .login .cshrc
+D /user/offstaff/xxxxxxx
+A emacs .login .cshrc
+H NIL
+X NIL
+
+C rehash
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C source .login
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ls -la | page
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -la | page
+H NIL
+X NIL
+
+C chmod a+r .*
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -la .*
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -la .*
+H NIL
+X NIL
+
+C chmod a+rx EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd EMACS
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/offstaff/xxxxxxx/EMACS
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod a+r *
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/offstaff/xxxxxxx/EMACS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -la | page
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -la | page
+H NIL
+X NIL
+
+C chmod a+rx bin
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/offstaff/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/offstaff/xxxxxxx/bin
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod a+rx *
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/offstaff/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/offstaff/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -la
+D /user/offstaff/xxxxxxx
+A /bin/ls -F -la
+H NIL
+X NIL
+
+C e labman
+D /user/offstaff/xxxxxxx
+A emacs labman
+H NIL
+X NIL
+
+C e cover
+D /user/offstaff/xxxxxxx
+A emacs cover
+H NIL
+X NIL
+
+C ptroff cover
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cover"
+H NIL
+X NIL
+
+C e
+D /user/offstaff/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ptroff cover
+D /user/offstaff/xxxxxxx
+A /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me cover"
+H NIL
+X NIL
+
+C tbl labman | ptroff -o7-
+D /user/offstaff/xxxxxxx
+A tbl labman | /userc/offstaff/group.bin/lwpp /usr/local/bin/ptroff "-h -me -o7-"
+H NIL
+X NIL

@@ -1,0 +1,1152 @@
+S Fri Mar  6 14:05:31 1987
+E Fri Mar  6 14:07:13 1987
+
+C nroff head1 cv | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:10:38 1987
+E Fri Mar  6 16:33:51 1987
+
+C emacs cv
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 head1 cv | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 14:43:50 1987
+E Mon Mar 16 14:50:28 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs gar2
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 gar2 | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 proggar | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 10:18:44 1987
+E Thu Mar 26 11:24:14 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 shirley | lpr -Pci
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:27:05 1987
+E Tue Mar 31 15:09:27 1987
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 shirley | lpr -Pcilq
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:52:34 1987
+E Fri Apr 10 13:01:15 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 607
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 14:51:13 1987
+E Fri Apr 10 15:03:40 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f boob
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail boob
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 16:28:18 1987
+E Fri Apr 10 16:41:13 1987
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm 607
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs slide
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm slide
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C t
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C time
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C d
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 16:41:17 1987
+E Tue Apr 14 16:49:31 1987
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 11:14:51 1987
+E Wed Apr 15 11:18:55 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs cv
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 cv | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 13:59:01 1987
+E Fri Apr 24 14:19:13 1987
+
+C emacs tax
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 tax | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs tax
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head1
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 tax | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs tax
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 tax | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 14:36:46 1987
+E Fri Apr 24 14:41:10 1987
+
+C emacs tax
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell tax
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs tax
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 tax | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 tax | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 13:20:05 1987
+E Tue Apr 28 13:28:32 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs hale
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 hale | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 hale | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 16:27:10 1987
+E Tue Apr 28 16:39:52 1987
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C time
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 20:48:45 1987
+E Tue Apr 28 22:43:45 1987
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs manitoba
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 hale | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp head1 hdshirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs hdshirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff hdshirley hale | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm hdshirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 23:57:57 1987
+E Wed Apr 29 00:09:54 1987
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 shirley | lpr -P8
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 14:46:16 1987
+E Wed Apr 29 16:17:34 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs women
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs exp
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 exp | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs women
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 16:32:13 1987
+E Wed Apr 29 16:40:19 1987
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 10:28:20 1987
+E Thu Apr 30 10:45:22 1987
+
+C emacs women
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs women
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 women | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 12:14:54 1987
+E Thu Apr 30 12:21:57 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs women
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 women | setuphp -a | hpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 16:40:20 1987
+E Thu Apr 30 17:20:13 1987
+
+C date
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs exp
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm exp
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm hale
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zero
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs manage
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs zero
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 13:58:33 1987
+E Mon May  4 19:37:43 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs fed
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs fed
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs shirley
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 shirley | lpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who are you
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C so there
+D /user/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C hpq
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 sbib] | lpr
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 sbib] | lpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C cribbage
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 15:58:17 1987
+E Wed May 13 16:47:51 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 pardesh | lpr &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rose
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rose
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rose
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rosee
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rose
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rose
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rose
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose | more
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rosee > temp &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 rose > temp &
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs temp
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs temp
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C hpr temp
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL

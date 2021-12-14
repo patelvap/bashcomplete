@@ -1,0 +1,4932 @@
+S Fri Feb 20 13:27:19 1987
+E NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx
+A who | more
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 20 14:44:45 1987
+E NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr bindings
+D /user/cpsc550/l01b01/xxxxxxx
+A lpr -C box0244xxx bindings
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C mkdir WPrograms
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd WPrograms ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C mkdir Rectangle
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp ~greenberg/547/Ass2/Makefile Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i ~greenberg/547/Ass2/Makefile Makefile
+H NIL
+X NIL
+
+C cp ~greenberg/547/Ass2/examples.c examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i ~greenberg/547/Ass2/examples.c examples.c
+H NIL
+X NIL
+
+C cp ~greenberg/547/Ass2/examples.h examples.h
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i ~greenberg/547/Ass2/examples.h examples.h
+H NIL
+X NIL
+
+C cp ~greenberg/547/Ass2/Rectangle/Makefile Rectangle/Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i ~greenberg/547/Ass2/Rectangle/Makefile Rectangle/Makefile
+H NIL
+X NIL
+
+C cp ~greenberg/547/Ass2/Rectangle/rectangle.c Rectangle/rectangle
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i ~greenberg/547/Ass2/Rectangle/rectangle.c Rectangle/rectangle
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Rectangle
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd Rectangle ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C mv rectangle rectangle.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A mv -i rectangle rectangle.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C more bindongs
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more bindings
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr bindings
+D /user/cpsc550/l01b01/xxxxxxx
+A lpr -C box0244xxx bindings
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd WPrograms ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp Rectangle/*.* Calculator/*.*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i Rectangle/*.* Calculator/*.*
+H NIL
+X D  70
+
+C mkdir Calculator
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp Rectangle/*.* Calculator/*.*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i Rectangle/*.* Calculator/*.*
+H T
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd Calculator ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cp Rectangle/rectangle.c Calculator/calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i Rectangle/rectangle.c Calculator/calculator.c
+H NIL
+X NIL
+
+C cp Rectangle/Makefile Calculator/Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cp -i Rectangle/Makefile Calculator/Makefile
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd Calculator ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C rm*.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X M  09
+
+C rm *.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A /bin/mv *.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd Re*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd Re* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Rectangle
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H T
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Cal*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd Cal* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 19:32:54 1987
+E NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -a
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx
+A who | more
+H NIL
+X NIL
+
+C kill -9 6637
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd WPrograms ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 19:40:11 1987
+E NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx
+A who | more
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd WPrograms ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X M  09
+
+C emacs c*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs c*.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C lpr calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A lpr -C box0244xxx calculator.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C more calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 20 20:24:02 1987
+E NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 21 14:31:37 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs c*.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emca
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 21 15:18:38 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A /bin/mv core $HOME/DELETIONS
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ~jade/examples/toolbox
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd ~jade/examples/toolbox ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C cd M*
+D /user/srdg/jade/examples/toolbox
+A cd M* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X S  36
+
+C cd Man*
+D /user/srdg/jade/examples/toolbox
+A cd Man* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C manipulate_windows
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C manipulate_windows
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H T
+X NIL
+
+C more m*.c
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/jade/examples/toolbox/Manipulate
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C cd Trimessage
+D /user/srdg/jade/examples/toolbox
+A cd Trimessage ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Trimessage
+A NIL
+H NIL
+X NIL
+
+C tri_message
+D /user/srdg/jade/examples/toolbox/Trimessage
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Trimessage
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/jade/examples/toolbox/Trimessage
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C cd Trirec
+D /user/srdg/jade/examples/toolbox
+A cd Trirec ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Trirec
+A NIL
+H NIL
+X NIL
+
+C trirec_vax
+D /user/srdg/jade/examples/toolbox/Trirec
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/jade/examples/toolbox/Trirec
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C cd I*
+D /user/srdg/jade/examples/toolbox
+A cd I* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C icon_alert_vax
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C more icon_alert.c
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C more icon_alert.c
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H T
+X NIL
+
+C cd
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A cd ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs example.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 21 15:27:52 1987
+E NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 21 15:39:34 1987
+E NIL
+
+C cd 547/W*/C*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W*/C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 21 15:52:57 1987
+E NIL
+
+C cd 547/W*/C*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W*/C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 21 16:07:47 1987
+E Sat Feb 21 16:09:12 1987
+
+C ize
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X N  10
+
+
+S Sat Feb 21 20:23:34 1987
+E NIL
+
+C cd 547/W*/C*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W*/C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make'
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X S  11
+
+C make'
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X S  11
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A who | more
+H NIL
+X NIL
+
+
+S Sat Feb 21 20:23:46 1987
+E NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C example_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 21 22:24:05 1987
+E NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A who | more
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A who | more
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 02:31:21 1987
+E NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 9742
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A who | more
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C lpr calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A lpr -C box0244xxx calculator.c
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A /bin/mv *.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C rm *.*.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A /bin/mv *.*.BAK $HOME/DELETIONS
+H NIL
+X M  09
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A /bin/mv *.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpr examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A lpr -C box0244xxx examples.c
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C more cal*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A logout
+H NIL
+X NIL
+
+
+S Sun Feb 22 15:03:53 1987
+E NIL
+
+C cd 547/W*/C*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W*/C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emcs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpr examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A lpr -C box0244xxx examples.c
+H NIL
+X NIL
+
+C more examples.h
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpe examples.h
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C lpr examples.h
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A lpr -C box0244xxx examples.h
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A logout
+H NIL
+X NIL
+
+
+S Sun Feb 22 15:24:25 1987
+E NIL
+
+C cd 547/W*/C*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W*/C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C lpr calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A lpr -C box0244xxx calculator.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C lpr calculator.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A lpr -C box0244xxx calculator.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+
+S Sun Feb 22 15:26:39 1987
+E NIL
+
+C cd 574/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 574/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X D  70
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A ls -al
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A /bin/mv *.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 16:58:07 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mkdir readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mv star readings/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i star readings/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mv sfs readings/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i sfs readings/
+H NIL
+X NIL
+
+C mv sfs.out readings/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i sfs.out readings/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mv term readings/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i term readings/
+H NIL
+X NIL
+
+C mv text1.n readings/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i text1.n readings/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mkdir WPrograms/asst1
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mv asst1.*.* WPrograms/asst1/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i asst1.*.* WPrograms/asst1/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mv readings/text1.n WPrograms/asst1/
+D /user/cpsc550/l01b01/xxxxxxx/547
+A mv -i readings/text1.n WPrograms/asst1/
+H NIL
+X NIL
+
+C cd readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd asst1
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd asst1 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/asst1
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/asst1
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A /bin/mv *.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm greycode.c
+D /user/cpsc550/l01b01/xxxxxxx
+A /bin/mv greycode.c $HOME/DELETIONS
+H NIL
+X NIL
+
+C more test.c
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm test.c
+D /user/cpsc550/l01b01/xxxxxxx
+A /bin/mv test.c $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more part.c
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir 451/gp1
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv part.c 451/gp1/
+D /user/cpsc550/l01b01/xxxxxxx
+A mv -i part.c 451/gp1/
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm -l
+D /user/cpsc550/l01b01/xxxxxxx
+A /bin/mv -l $HOME/DELETIONS
+H NIL
+X NIL
+
+C rm '*l'
+D /user/cpsc550/l01b01/xxxxxxx
+A /bin/mv '*l' $HOME/DELETIONS
+H NIL
+X NIL
+
+C l
+D /user/cpsc550/l01b01/xxxxxxx
+A ls -al
+H NIL
+X NIL
+
+C cd 451
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 451 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/451
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/451
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd 550
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 550 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/550
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/550
+A logout
+H NIL
+X NIL
+
+
+S Sun Feb 22 17:00:53 1987
+E NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Sun Feb 22 19:22:44 1987
+E NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Feb 22 19:47:27 1987
+E NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 24 08:52:48 1987
+E NIL
+
+C printenv
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C hdfioughikesfgikusher
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  2 21:57:52 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C l
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A ls -al
+H NIL
+X NIL
+
+C emacs phone.prop
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  2 22:24:57 1987
+E NIL
+
+C cd 547/readings
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A who | more
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C more ph*
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C rm *.*.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A /bin/mv *.*.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr phone.prop
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx phone.prop
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A who | more
+H NIL
+X NIL
+
+
+S Tue Mar  3 12:32:17 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs lang
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 13:29:12 1987
+E NIL
+
+C cd 547/readings
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs lang.CKP
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C more lang.CKP.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr lang.CKP
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx lang.CKP
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A who | more
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C man lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C man lprm
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C man lpd
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C man 2 lpd
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls'
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X S  11
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H T
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H T
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H T
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H T
+X NIL
+
+C lpq xxxxxxx
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C cd lnag.CKP lang
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A cd lnag.CKP lang ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X B  49
+
+C cp lang.CKP lang
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A cp -i lang.CKP lang
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A /bin/mv *.CKP $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C rm *.*.BAK
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A /bin/mv *.*.BAK $HOME/DELETIONS
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A who | more
+H NIL
+X NIL
+
+C sdf
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mike_1
+D /user/cpsc550/l01b01/xxxxxxx
+A /bin/mv mike_1 $HOME/DELETIONS
+H NIL
+X NIL
+
+C cd 451
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 451 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/451
+A NIL
+H NIL
+X NIL
+
+C cd gp1
+D /user/cpsc550/l01b01/xxxxxxx/451
+A cd gp1 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/451/gp1
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/451/gp1
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/451
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 550
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 550 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/550
+A NIL
+H NIL
+X NIL
+
+C cd project
+D /user/cpsc550/l01b01/xxxxxxx/550
+A cd project ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/550/project
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/550/project
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/550
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc550/l01b01/xxxxxxx
+A ls -al
+H NIL
+X NIL
+
+C rm "-l"
+D /user/cpsc550/l01b01/xxxxxxx
+A /bin/mv "-l" $HOME/DELETIONS
+H NIL
+X NIL
+
+C l
+D /user/cpsc550/l01b01/xxxxxxx
+A ls -al
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar  3 22:04:23 1987
+E NIL
+
+C lprbindings
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C lpr bindings
+D /user/cpsc550/l01b01/xxxxxxx
+A lpr -C box0244xxx bindings
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 13:05:58 1987
+E NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd readings'
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X S  11
+
+C cd readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs intellect
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr intellect
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx intellect
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs ASK
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr ASK
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx ASK
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 18:54:34 1987
+E NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 21 12:54:41 1987
+E NIL
+
+C more .login
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:11:42 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C more examples.c
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:44:10 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd W* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd C*
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A cd C* ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms/Calculator
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 23 08:36:21 1987
+E NIL
+
+C 
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd ~hoar/451/visual
+D /user/cpsc550/l01b01/xxxxxxx
+A cd ~hoar/451/visual ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /user/cpsc451/l01b02/hoar/451/visual
+A cd doc ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C more specs_overview
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C more proc*
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C lpr proc_details
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A lpr -C box0244xxx proc_details
+H NIL
+X NIL
+
+C more specs_3
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C more specs_2_rev
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C more specs_2
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C lpr specs_2_rev
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A lpr -C box0244xxx specs_2_rev
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc451/l01b02/hoar/451/visual/doc
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 24 12:58:02 1987
+E NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs teiresias
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr teiresias
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx teiresias
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 25 17:09:58 1987
+E NIL
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc550/l01b01
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc550/l01b01
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550
+A NIL
+H NIL
+X NIL
+
+C whoami
+D /user/cpsc550
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc550
+A cd ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd /user/cpsc547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547
+A NIL
+H NIL
+X NIL
+
+C cd l01b91
+D /user/cpsc547
+A cd l01b91 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91
+A NIL
+H NIL
+X NIL
+
+C cd keizer
+D /user/cpsc547/l01b91
+A cd keizer ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X D  88
+
+C bye
+D /user/cpsc547/l01b91
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 12:30:58 1987
+E NIL
+
+C cd 547/readings
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547/readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C emacs ency
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr ency
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx ency
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 31 13:32:25 1987
+E NIL
+
+C cd 547
+D /user/cpsc550/l01b01/xxxxxxx
+A cd 547 ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd readings
+D /user/cpsc550/l01b01/xxxxxxx/547
+A cd readings ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C emacs dobis
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpr dobis
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A lpr -C box0244xxx dobis
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lines dobis
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A who | more
+H NIL
+X NIL
+
+C write briosi
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C write briosi
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C talk briosi
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx/547/readings
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 11:56:29 1987
+E Mon Apr  6 11:58:39 1987
+
+C cd ..
+D /user/cpsc550/l01b01/xxxxxxx
+A cd .. ; set noglob ; eval `echo set prompt = \"$metaprompt:q\"` ; unset noglob = "cwd: t] =!=> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc550/l01b01
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 10:48:53 1987
+E NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 22 12:04:13 1987
+E NIL
+
+C lpr .cshrc
+D /user/cpsc550/l01b01/xxxxxxx
+A lpr -C box0244xxx .cshrc
+H NIL
+X NIL
+
+C lpr .login
+D /user/cpsc550/l01b01/xxxxxxx
+A lpr -C box0244xxx .login
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr .logout
+D /user/cpsc550/l01b01/xxxxxxx
+A lpr -C box0244xxx .logout
+H NIL
+X NIL
+
+C limits
+D /user/cpsc550/l01b01/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc550/l01b01/xxxxxxx
+A logout
+H NIL
+X NIL

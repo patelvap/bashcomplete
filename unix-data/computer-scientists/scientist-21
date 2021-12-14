@@ -1,0 +1,10894 @@
+S Tue Feb 17 09:25:23 1987
+E Tue Feb 17 09:27:17 1987
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 09:30:26 1987
+E Tue Feb 17 09:31:23 1987
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh
+A cd ../Trace ; dirs
+H NIL
+X D  88
+
+C cd Trace
+D /user/grads/xxxxxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep oijfqwe xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xgr*9915
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C page .login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 09:55:33 1987
+E Tue Feb 17 09:56:00 1987
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C grep oifqwe xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 10:00:18 1987
+E Tue Feb 17 10:06:23 1987
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C grep fawoi xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 10:05:30 1987
+E Tue Feb 17 10:09:37 1987
+
+C grep oiqf xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ifwq
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C page xgr*430
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd .
+D /user/grads/xxxxxxx/Csh/Trace
+A cd . ; dirs
+H NIL
+X H  25
+
+C page xgr*430
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xgr*430
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X H  25
+
+
+S Thu Feb 26 17:15:57 1987
+E Thu Feb 26 17:16:41 1987
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep gggg xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat xgr*149
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 11:06:23 1987
+E Fri Feb 27 11:52:14 1987
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Csh.new
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C alias x "tail xgr*28117"
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/grads/xxxxxxx/Csh/Trace
+A tail xgr*28117
+H NIL
+X NIL
+
+C cd ../Source
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Source ; dirs
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Source
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/grads/xxxxxxx/Csh/Trace
+A tail xgr*28117
+H NIL
+X NIL
+
+C cd ../Csh
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Csh ; dirs
+H NIL
+X D  88
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat > Makefile
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/grads/xxxxxxx/Csh
+A tail xgr*28117
+H NIL
+X M  09
+
+C x
+D /user/grads/xxxxxxx/Csh
+A tail xgr*28117
+H NIL
+X M  09
+
+C ( cd Trace ; x )
+D /user/grads/xxxxxxx/Csh
+A ( cd Trace ; dirs ; tail xgr*28117 )
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/grads/xxxxxxx/Csh/Trace
+A tail xgr*28117
+H NIL
+X NIL
+
+C set
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C setenv SHELL /user/grads/xxxxxxx/csh
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cp Csh.new ../csh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cp Csh.new/zz_csh ../csh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C set
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C chmod 755 junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C chmod 755 j*
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C chmod 755 junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C mv junk j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh
+A ls -las
+H NIL
+X NIL
+
+C page j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C emacs j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j3 &
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X J  82
+
+C emacs j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ed j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time repeat 10 j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time repeat 6 j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time repeat 10 j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rj j*
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C rm j*
+D /user/grads/xxxxxxx/Csh
+A /bin/mv j* /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C pagre xg*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C page xg*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+
+S Fri Feb 27 11:26:22 1987
+E NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C chmod 755 junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C . junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X Y 102
+
+C jnk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C junk
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X N  10
+
+C set
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 14:15:34 1987
+E Fri Feb 27 14:22:12 1987
+
+C set
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X J  82
+
+C cat > j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat > j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat > j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C chmod 755 j*
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ed j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C e j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j1
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C setenv SHELL /user/grads/xxxxxxx/Csh/Csh.new/zz_csh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j2
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C time j3
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 14:24:05 1987
+E Fri Feb 27 14:24:57 1987
+
+C echo zzzzz
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 16:17:44 1987
+E Sat Feb 28 16:18:24 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C grep oij xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xgr*95
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 16:20:55 1987
+E Sat Feb 28 16:21:25 1987
+
+C echo hello
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh/Trace
+A ls -las
+H NIL
+X NIL
+
+
+S Sat Feb 28 16:49:38 1987
+E Sat Feb 28 16:50:03 1987
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C grep agioqjioilll xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 15:54:50 1987
+E Thu Mar  5 16:02:05 1987
+
+C cd Csh/Compacted
+D /user/grads/xxxxxxx
+A cd Csh/Compacted ; dirs
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 09:56:04 1987
+E NIL
+
+C cd /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx
+A cd /user/grads/xxxxxxx/Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:10:09 1987
+E Fri Mar  6 14:09:51 1987
+
+C cd /user/grads/xxxxxxx
+D /user/grads/xxxxxxx
+A cd /user/grads/xxxxxxx ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh
+D /user/grads/xxxxxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh
+A ls -las
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh/Trace
+A ls -las
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd /user/grads/xxxxxxx
+D /user/grads/xxxxxxx/Csh/Trace
+A cd /user/grads/xxxxxxx ; dirs
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep xxxxxxx: /etc/passwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep joeblog: /etc/passwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C calendar april
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C D
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C cal
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cal april
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cal 04 87
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xconnick*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jjT
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar  6 13:22:11 1987
+E Fri Mar  6 14:05:57 1987
+
+C cd /user/grads/xxxxxxx
+D /user/grads/xxxxxxx
+A cd /user/grads/xxxxxxx ; dirs
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cp ~/Csh/Trace/Makefile .
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ~/Csh/Compa*
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ~/Csh/Compa* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Comp*
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Comp* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H T
+X NIL
+
+
+S Sun Mar  8 13:05:05 1987
+E Sun Mar  8 13:42:15 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C set term vt102
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C vt102
+D /user/grads/xxxxxxx/Csh/Trace
+A set term = vt102
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune > look
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page look
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm look
+D /user/grads/xxxxxxx/Csh/Trace
+A /bin/mv look /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ../Compacted
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Compacted ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:52:59 1987
+E Tue Mar 10 10:54:08 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune > /dev/null &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 10:20:53 1987
+E Thu Mar 12 10:34:55 1987
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C see .login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l Lib
+D /user/grads/xxxxxxx
+A ls -las Lib
+H NIL
+X NIL
+
+C cd Lib
+D /user/grads/xxxxxxx
+A cd Lib ; dirs
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Lib
+A ls -las
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/grads/xxxxxxx/Lib
+A NIL
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/grads/xxxxxxx/Lib
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Lib
+A ls -las
+H NIL
+X NIL
+
+C ls AutBuff
+D /user/grads/xxxxxxx/Lib
+A NIL
+H NIL
+X NIL
+
+C l AutBuff
+D /user/grads/xxxxxxx/Lib
+A ls -las AutBuff
+H NIL
+X NIL
+
+C cd AutBuff ; chmod 755 *
+D /user/grads/xxxxxxx/Lib
+A cd AutBuff ; dirs ; chmod 755 *
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Lib/AutBuff
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ( cd Include ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A ( cd Include ; dirs ; chmod 755 * )
+H NIL
+X NIL
+
+C ( cd LinkedList ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A ( cd LinkedList ; dirs ; chmod 755 * )
+H T
+X NIL
+
+C ( cd LinkedList ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A NIL
+H T
+X H  17
+
+C ( cd Scrool_Example ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A ( cd Scrool_Example ; dirs ; chmod 755 * )
+H T
+X D  88
+
+C ( cd Scroll_Example ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A ( cd Scroll_Example ; dirs ; chmod 755 * )
+H T
+X NIL
+
+C ( cd TextBuff ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A ( cd TextBuff ; dirs ; chmod 755 * )
+H T
+X NIL
+
+C ( cd VisBuff ; chmod 755 * )
+D /user/grads/xxxxxxx/Lib
+A ( cd VisBuff ; dirs ; chmod 755 * )
+H T
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib
+A NIL
+H NIL
+X NIL
+
+C cd Scroll_Example
+D /user/grads/xxxxxxx/Lib
+A cd Scroll_Example ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C scroll scroll.c
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C mv scroll scroll.old
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C scroll scroll.c
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 14:56:01 1987
+E Thu Mar 12 16:04:13 1987
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/547
+A cd ; dirs
+H NIL
+X NIL
+
+C Lib
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd Lib
+D /user/grads/xxxxxxx
+A cd Lib ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib
+A NIL
+H NIL
+X NIL
+
+C cd Scroll*
+D /user/grads/xxxxxxx/Lib
+A cd Scroll* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C rm scroll.old
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A /bin/mv scroll.old /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C scroll scroll.c
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C scroll Makefile
+D /user/grads/xxxxxxx/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 12:50:36 1987
+E Sat Mar 14 13:12:03 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rlogin evdsvax -8
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Compactedc
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Compactedc ; dirs
+H NIL
+X D  88
+
+C cd ../Co*
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Co* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+
+S Sun Mar 15 13:26:04 1987
+E Sun Mar 15 13:26:50 1987
+
+C cd
+D /user/grads/xxxxxxx
+A cd ; dirs
+H NIL
+X NIL
+
+
+S Sun Mar 15 13:26:36 1987
+E Sun Mar 15 13:45:15 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls /user/greads/xxxxxxx/Dsh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls /user/greads/xxxxxxx/Csh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C ls /user/graads/xxxxxxx/Csh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H T
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh/Compacted
+D /user/grads/xxxxxxx
+A cd Csh/Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls Trace
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh
+A cd ; dirs
+H NIL
+X NIL
+
+
+S Mon Mar 16 11:08:34 1987
+E Mon Mar 16 11:14:24 1987
+
+C cd Lib
+D /user/grads/xxxxxxx
+A cd Lib ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib
+A NIL
+H NIL
+X NIL
+
+C cd TextBuff
+D /user/grads/xxxxxxx/Lib
+A cd TextBuff ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib/TextBuff
+A NIL
+H NIL
+X NIL
+
+C see buffer.c
+D /user/grads/xxxxxxx/Lib/TextBuff
+A NIL
+H NIL
+X N  10
+
+C scroll buffer.c
+D /user/grads/xxxxxxx/Lib/TextBuff
+A NIL
+H NIL
+X NIL
+
+C scroll buffer.c
+D /user/grads/xxxxxxx/Lib/TextBuff
+A NIL
+H NIL
+X NIL
+
+C page buffer.c
+D /user/grads/xxxxxxx/Lib/TextBuff
+A NIL
+H NIL
+X NIL
+
+C page buffer.c
+D /user/grads/xxxxxxx/Lib/TextBuff
+A NIL
+H T
+X NIL
+
+C cd ../Vis
+D /user/grads/xxxxxxx/Lib/TextBuff
+A cd ../Vis ; dirs
+H NIL
+X D  88
+
+C cd ../Vi*
+D /user/grads/xxxxxxx/Lib/TextBuff
+A cd ../Vi* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Lib/VisBuff
+A NIL
+H NIL
+X NIL
+
+C page draw_buff.c
+D /user/grads/xxxxxxx/Lib/VisBuff
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 23:27:44 1987
+E NIL
+
+C printenv
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Tue Mar 17 11:37:01 1987
+E NIL
+
+C cd ~blain
+D /user/grads/xxxxxxx
+A cd ~blain ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc533/l01b02/blain
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/blain/547
+A NIL
+H NIL
+X NIL
+
+C cd Ass4
+D /user/cpsc533/l01b02/blain/547
+A cd Ass4 ; dirs
+H NIL
+X D  88
+
+C l
+D /user/cpsc533/l01b02/blain/547
+A ls -las
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/blain/547
+A cd ; dirs
+H NIL
+X NIL
+
+C login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 08:31:16 1987
+E Wed Mar 18 08:54:03 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Compacted
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:26:44 1987
+E Fri Mar 20 13:26:56 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat ~bin/Local/prune_files
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat ~/bin/Local/prune_files
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C prune_files ../Compacted/ x[a-h]*_*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X S  72
+
+C prune_files ../Compacted/ x[a-d]*_*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C prune_files ../Compacted/ x[a-d]*_*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X H  20
+
+C prune_files ../Compacted/ x[e-j]*_*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd /Vaxc.usera/grads/xxxxxxx/Csh/Trace ; make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A cd /Vaxc.usera/grads/xxxxxxx/Csh/Trace ; dirs ; make prune &
+H NIL
+X D  88
+
+C cd /user/grads/xxxxxxx/Csh/Trace ; make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A cd /user/grads/xxxxxxx/Csh/Trace ; dirs ; make prune &
+H T
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C kill %2
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C prune_files ../Compacted/ x[k-z]*_*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 10:38:46 1987
+E Mon Mar 23 10:44:38 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxb -8
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 11:46:32 1987
+E Tue Mar 24 11:54:38 1987
+
+C cd ~jade/examples
+D /user/grads/xxxxxxx
+A cd ~jade/examples ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples
+A NIL
+H NIL
+X NIL
+
+C cd toolbox
+D /user/srdg/jade/examples
+A cd toolbox ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C cd Manipulate
+D /user/srdg/jade/examples/toolbox
+A cd Manipulate ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C manipulate_windows
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C see manipulate_windows.c
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X N  10
+
+C scroll manipulate_windows.c
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H T
+X NIL
+
+C page manip*c
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/jade/examples/toolbox/Manipulate
+A cd ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Ass2
+D /user/grads/xxxxxxx/547
+A cd Ass2 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Ass2
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c Rectangle/rectangle.c
+D /user/grads/xxxxxxx/547/Ass2
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 14:16:36 1987
+E Fri Mar 27 14:18:04 1987
+
+C cd ~jade/sour*
+D /user/grads/xxxxxxx
+A cd ~jade/sour* ; dirs
+H NIL
+X M  09
+
+C cd ~jade
+D /user/grads/xxxxxxx
+A cd ~jade ; dirs
+H NIL
+X NIL
+
+C cd source
+D /user/srdg/jade
+A cd source ; dirs
+H NIL
+X D  88
+
+C cd src
+D /user/srdg/jade
+A cd src ; dirs
+H NIL
+X D  88
+
+C ls
+D /user/srdg/jade
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 01:22:46 1987
+E Sat Mar 28 01:23:55 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 14:21:51 1987
+E Sat Mar 28 14:26:43 1987
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~jade/examples/to*
+D /user/grads/xxxxxxx
+A cd ~jade/examples/to* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X N  10
+
+C cd Ex*
+D /user/srdg/jade/examples/toolbox
+A cd Ex* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X NIL
+
+C [?CV
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X H  25
+
+C setvterm
+D /user/srdg/jade/examples/toolbox/Example_driver
+A setenv PL `getvterm -r` ; setenv TERMCAP "`getvterm -s`"
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X NIL
+
+C [?CV
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X H  25
+
+
+S Sat Mar 28 14:28:43 1987
+E Sat Mar 28 14:32:44 1987
+
+C cd ~jade/examples/too*
+D /user/grads/xxxxxxx
+A cd ~jade/examples/too* ; dirs
+H NIL
+X NIL
+
+C cd Ex*
+D /user/srdg/jade/examples/toolbox
+A cd Ex* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X NIL
+
+C cd /usr/local/jade/bin
+D /user/srdg/jade/examples/toolbox/Example_driver
+A cd /usr/local/jade/bin ; dirs
+H NIL
+X NIL
+
+C ls | c
+D /usr/local/jade/bin
+A ls | more
+H NIL
+X NIL
+
+C su jade
+D /usr/local/jade/bin
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 21:24:50 1987
+E Mon Mar 30 21:25:19 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C make prune &
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 08:02:39 1987
+E Wed Apr  1 08:06:26 1987
+
+C cd Bin
+D /user/grads/xxxxxxx
+A cd Bin ; dirs
+H NIL
+X D  88
+
+C cd bin
+D /user/grads/xxxxxxx
+A cd bin ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd Local
+D /user/grads/xxxxxxx/bin
+A cd Local ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C cat > prune
+D /user/grads/xxxxxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C rm prune
+D /user/grads/xxxxxxx/bin/Local
+A /bin/mv prune /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cat > prune
+D /user/grads/xxxxxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C chmod 755 prune
+D /user/grads/xxxxxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/grads/xxxxxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/bin/Local
+A cd ; dirs
+H NIL
+X NIL
+
+C prune
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls Csh/Compacted | wc -l
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 09:04:50 1987
+E Wed Apr  1 09:05:50 1987
+
+C cd ~jade/exa*
+D /user/grads/xxxxxxx
+A cd ~jade/exa* ; dirs
+H NIL
+X NIL
+
+C cd too*
+D /user/srdg/jade/examples
+A cd too* ; dirs
+H NIL
+X NIL
+
+C cd Ex*
+D /user/srdg/jade/examples/toolbox
+A cd Ex* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:23:17 1987
+E Wed Apr  1 15:00:22 1987
+
+C cd ~blain
+D /user/grads/xxxxxxx
+A cd ~blain ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/blain
+A NIL
+H NIL
+X NIL
+
+C cd 547/Ass4
+D /user/cpsc533/l01b02/blain
+A cd 547/Ass4 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/blain/547/Ass4
+A NIL
+H NIL
+X NIL
+
+C desk Roland
+D /user/cpsc533/l01b02/blain/547/Ass4
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc533/l01b02/blain/547/Ass4
+A NIL
+H NIL
+X NIL
+
+C cd ~wong/547/WPrograms
+D /user/cpsc533/l01b02/blain/547/Ass4
+A cd ~wong/547/WPrograms ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd ..
+D /user/grads/xxxxxxx
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user
+A NIL
+H NIL
+X NIL
+
+C cd ~robson
+D /user
+A cd ~robson ; dirs
+H NIL
+X NIL
+
+C cd 547/hab*
+D /user/cpsc500/l01b91/robson
+A cd 547/hab* ; dirs
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/robson/547/habidex
+A ls -las
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:33:18 1987
+E NIL
+
+C cd ~mcgregor/547/Wprograms
+D /user/grads/xxxxxxx
+A cd ~mcgregor/547/Wprograms ; dirs
+H NIL
+X D  88
+
+C cd ~mcgregor/547/Wprograms
+D /user/grads/xxxxxxx
+A cd ~mcgregor/547/Wprograms ; dirs
+H T
+X D  88
+
+C cd ~mcgregor/547/Wprograms
+D /user/grads/xxxxxxx
+A cd ~mcgregor/547/Wprograms ; dirs
+H T
+X D  88
+
+C cd ~mcgregor/547/Wprograms
+D /user/grads/xxxxxxx
+A cd ~mcgregor/547/Wprograms ; dirs
+H T
+X NIL
+
+
+S Wed Apr  1 14:19:16 1987
+E Wed Apr  1 14:59:26 1987
+
+C cd ..
+D /user/grads/xxxxxxx
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user
+A NIL
+H NIL
+X NIL
+
+C cd ~robson
+D /user
+A cd ~robson ; dirs
+H NIL
+X NIL
+
+C cd 547/hab*
+D /user/cpsc500/l01b91/robson
+A cd 547/hab* ; dirs
+H NIL
+X NIL
+
+C hab_run
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 16:21:06 1987
+E Wed Apr  1 16:37:18 1987
+
+C cd ~higginson/547/W*
+D /user/grads/xxxxxxx
+A cd ~higginson/547/W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A ls -las
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C su higginson
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 10:14:12 1987
+E Thu Apr  2 17:14:12 1987
+
+C cd ~higginson/547/Wprograms
+D /user/grads/xxxxxxx
+A cd ~higginson/547/Wprograms ; dirs
+H NIL
+X D  88
+
+C cd ~higginson/547/W*
+D /user/grads/xxxxxxx
+A cd ~higginson/547/W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C pushd ~
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mkdir Projects
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C pushd
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C cp Wprograms ~/547/Projects/higginson
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C cp WPrograms ~/547/Projects/higginson
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C man tar
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~xxxxxxx/547/Projects WPrograms
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~xxxxxxx/547/Projects/higginson WPrograms
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C cd ~marozoff
+D /user/cpsc547/l01b91/higginson/547
+A cd ~marozoff ; dirs
+H NIL
+X D  88
+
+C cd ~bl ; ain
+D /user/cpsc547/l01b91/higginson/547
+A cd ~bl ; dirs ; ain
+H NIL
+X D  69
+
+C cd ~blain
+D /user/cpsc547/l01b91/higginson/547
+A cd ~blain ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc533/l01b02/blain
+A cd W* ; dirs
+H NIL
+X M  09
+
+C ls
+D /user/cpsc533/l01b02/blain
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc533/l01b02/blain
+A cd 547/W* ; dirs
+H NIL
+X M  09
+
+C cd 547
+D /user/cpsc533/l01b02/blain
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/blain/547
+A NIL
+H NIL
+X NIL
+
+C cd Ass4
+D /user/cpsc533/l01b02/blain/547
+A cd Ass4 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/blain/547/Ass4
+A NIL
+H NIL
+X NIL
+
+C desk Saul
+D /user/cpsc533/l01b02/blain/547/Ass4
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/blain/547/Ass4
+A cd .. ; dirs
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/blain Ass4
+D /user/cpsc533/l01b02/blain/547
+A NIL
+H NIL
+X NIL
+
+C cd ~lagore
+D /user/cpsc533/l01b02/blain/547
+A cd ~lagore ; dirs
+H NIL
+X D  88
+
+C cd ~robson
+D /user/cpsc533/l01b02/blain/547
+A cd ~robson ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/robson
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/robson/547
+A cd W* ; dirs
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/robson/547
+A NIL
+H NIL
+X NIL
+
+C cd habidex
+D /user/cpsc500/l01b91/robson/547
+A cd habidex ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/robson/547/habidex
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls WPr*
+D /user/cpsc500/l01b91/robson/547
+A NIL
+H NIL
+X NIL
+
+C cd habidex
+D /user/cpsc500/l01b91/robson/547
+A cd habidex ; dirs
+H NIL
+X NIL
+
+C hab_run
+D /user/cpsc500/l01b91/robson/547/habidex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/robson/547/habidex
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/robson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/robson habidex
+D /user/cpsc500/l01b91/robson/547
+A NIL
+H NIL
+X NIL
+
+C cd ~/franciscow
+D /user/cpsc500/l01b91/robson/547
+A cd ~/franciscow ; dirs
+H NIL
+X D  88
+
+C cd ~franciscow
+D /user/cpsc500/l01b91/robson/547
+A cd ~franciscow ; dirs
+H NIL
+X D  69
+
+C cd ~lee/547
+D /user/cpsc500/l01b91/robson/547
+A cd ~lee/547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee/547
+A NIL
+H NIL
+X NIL
+
+C ls Wprograms
+D /user/cpsc500/l01b91/lee/547
+A NIL
+H NIL
+X NIL
+
+C ls WPrograms
+D /user/cpsc500/l01b91/lee/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc500/l01b91/lee/547
+A cd Wprograms ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc500/l01b91/lee/547
+A cd Wprograms ; dirs
+H NIL
+X NIL
+
+C diary
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X Y 102
+
+C ls diary
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C grep francis /etc/passwd
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd /usera/cpsc500
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A cd /usera/cpsc500 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A NIL
+H NIL
+X NIL
+
+C cd lo*
+D /user/cpsc500
+A cd lo* ; dirs
+H NIL
+X M  09
+
+C cd l0
+D /user/cpsc500
+A cd l0 ; dirs
+H NIL
+X D  88
+
+C cd
+D /user/cpsc500
+A cd ; dirs
+H NIL
+X NIL
+
+C cd /usera/cpsc500/l0*
+D /user/grads/xxxxxxx
+A cd /usera/cpsc500/l0* ; dirs
+H NIL
+X NIL
+
+C ls f*
+D /user/cpsc500/l01b91
+A NIL
+H NIL
+X NIL
+
+C cd ~lee
+D /user/cpsc500/l01b91
+A cd ~lee ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/lee
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee/547
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/lee/547
+A ls -las
+H NIL
+X NIL
+
+C cd ~wong
+D /user/cpsc500/l01b91/lee/547
+A cd ~wong ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/wong
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/wong/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C [?CV cv08 ;
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X H  25
+
+C [?CV cv08 ;
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H T
+X S  71
+
+C examples_vax
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H T
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C tar cf ~xxxxxxx/547/Projects/wong WPrograms
+D /user/cpsc500/l01b91/wong/547
+A NIL
+H NIL
+X NIL
+
+C mail wong
+D /user/cpsc500/l01b91/wong/547
+A NIL
+H NIL
+X NIL
+
+C cd ~higginson
+D /user/cpsc500/l01b91/wong/547
+A cd ~higginson ; dirs
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc547/l01b91/higginson
+A cd 547/W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C su higginson
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C rm ~/547/Projects/hig*
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A /bin/mv ~/547/Projects/hig* /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/higginson WPrograms
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C cd ~mcgregor/547/Wpr*
+D /user/cpsc547/l01b91/higginson/547
+A cd ~mcgregor/547/Wpr* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C su
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C su janmohamed
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ~janmohamed/547
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A cd ~janmohamed/547 ; dirs
+H NIL
+X NIL
+
+C cd WProg*
+D /user/cpsc500/l01b91/janmohamed/547
+A cd WProg* ; dirs
+H NIL
+X NIL
+
+C cd haba*
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A cd haba* ; dirs
+H NIL
+X M  09
+
+C cd H*
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A cd H* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms/Habadex
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/janmohamed Habadex
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ~changa
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A cd ~changa ; dirs
+H NIL
+X NIL
+
+C cd 547/ass3
+D /user/cpsc551/l01b03/changa
+A cd 547/ass3 ; dirs
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C cd PRO
+D /user/cpsc551/l01b03/changa/547/ass3
+A cd PRO ; dirs
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A NIL
+H NIL
+X NIL
+
+C rd
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C manunix
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc551/l01b03/changa/547/ass3
+A ls -las
+H NIL
+X NIL
+
+C cd PRO
+D /user/cpsc551/l01b03/changa/547/ass3
+A cd PRO ; dirs
+H NIL
+X NIL
+
+C l
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A ls -las
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc551/l01b03/changa/547/ass3/PRO
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C ls manunix
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc551/l01b03/changa/547/ass3
+A ls -las
+H NIL
+X NIL
+
+C cd ~mutiso/Of547/N*
+D /user/cpsc551/l01b03/changa/547/ass3
+A cd ~mutiso/Of547/N* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C mn print
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C mn print
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C cd ~changa/547/ass3
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A cd ~changa/547/ass3 ; dirs
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C manunix
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C manunix print
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C pushd ~mutiso/Of547/News
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X N  10
+
+C pwd
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C mn cat
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b03/mutiso/Of547/News
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/mutiso Office-87
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H NIL
+X NIL
+
+C rm ~/547/Projects/mutiso
+D /user/cpsc451/l01b03/mutiso/Of547
+A /bin/mv ~/547/Projects/mutiso /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/mutiso Of87
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/mutiso News
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H NIL
+X NIL
+
+C su changa
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc451/l01b03/mutiso/Of547
+A NIL
+H NIL
+X NIL
+
+C cd ~changa/547/Ass3
+D /user/cpsc451/l01b03/mutiso/Of547
+A cd ~changa/547/Ass3 ; dirs
+H NIL
+X D  88
+
+C cd ~changa/547/ass3
+D /user/cpsc451/l01b03/mutiso/Of547
+A cd ~changa/547/ass3 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C manunix
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C kill -9 22604 22618
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C su changa
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 10:34:49 1987
+E Thu Apr  2 11:58:26 1987
+
+C cd ~francisco
+D /user/grads/xxxxxxx
+A cd ~francisco ; dirs
+H NIL
+X D  69
+
+C cd ~francisco
+D /user/grads/xxxxxxx
+A cd ~francisco ; dirs
+H NIL
+X D  69
+
+C cd ~lee
+D /user/grads/xxxxxxx
+A cd ~lee ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/lee
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc500/l01b91/lee/547
+A cd Wprograms ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/lee/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 10:42:32 1987
+E NIL
+
+C cd ~mcgregor
+D /user/grads/xxxxxxx
+A cd ~mcgregor ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/mcgregor
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc500/l01b91/mcgregor/547
+A cd WPrograms ; dirs
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc500/l01b91/mcgregor/547
+A cd Wprograms ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ~stuart
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A cd ~stuart ; dirs
+H NIL
+X D  88
+
+C cd 547
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd ~mcgregor
+D /user/grads/xxxxxxx/547
+A cd ~mcgregor ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/mcgregor
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H NIL
+X NIL
+
+C ls Wprograms
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/mcgregor/547
+A cd .. ; dirs
+H NIL
+X NIL
+
+C tar cf ~xxxxxxx/547/Projects/mcgregor Wprograms
+D /user/cpsc500/l01b91/mcgregor
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/mcgregor
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~xxxxxxx/547/Projects/mcgregor Wprograms
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H T
+X NIL
+
+C mail mcgregor
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 12:08:07 1987
+E NIL
+
+C cd ~lakhani
+D /user/grads/xxxxxxx
+A cd ~lakhani ; dirs
+H NIL
+X D  88
+
+C cd ~lakhani
+D /user/grads/xxxxxxx
+A cd ~lakhani ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lakhani
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/lakhani
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc500/l01b91/lakhani/547
+A cd WPrograms ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X Y 102
+
+C examples_vax
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X Y 102
+
+C examples_vax
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X Y 102
+
+C examples_vax
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 12:18:01 1987
+E NIL
+
+C cd lakhani/547
+D /user/grads/xxxxxxx
+A cd lakhani/547 ; dirs
+H NIL
+X D  88
+
+C cd ~lakhani/547
+D /user/grads/xxxxxxx
+A cd ~lakhani/547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lakhani/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/lakhani WPrograms
+D /user/cpsc500/l01b91/lakhani/547
+A NIL
+H NIL
+X NIL
+
+C mail lakhani
+D /user/cpsc500/l01b91/lakhani/547
+A NIL
+H NIL
+X NIL
+
+C cd ~/courtnage
+D /user/cpsc500/l01b91/lakhani/547
+A cd ~/courtnage ; dirs
+H NIL
+X D  88
+
+C cd ~/courtnage
+D /user/cpsc500/l01b91/lakhani/547
+A cd ~/courtnage ; dirs
+H NIL
+X D  88
+
+C cd ~courtnage
+D /user/cpsc500/l01b91/lakhani/547
+A cd ~courtnage ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/courtnage
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/courtnage/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/courtnage/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/courtnage/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc547/l01b91/courtnage/547/WPrograms
+A cd H* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H T
+X NIL
+
+C cd[
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X M  09
+
+C ]cd
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+
+S Thu Apr  2 15:14:32 1987
+E Thu Apr  2 15:59:38 1987
+
+C cd ~yee
+D /user/grads/xxxxxxx
+A cd ~yee ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc531/l01b91/yee
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/yee/547
+A NIL
+H NIL
+X NIL
+
+C ls WP*
+D /user/cpsc531/l01b91/yee/547
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc531/l01b91/yee/547
+A cd ; dirs
+H NIL
+X NIL
+
+C 
+D /user/grads/xxxxxxx
+A clear
+H NIL
+X NIL
+
+C su keizer
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~keizer/547/W*
+D /user/grads/xxxxxxx
+A cd ~keizer/547/W* ; dirs
+H NIL
+X D  70
+
+C cd ~keizer
+D /user/grads/xxxxxxx
+A cd ~keizer ; dirs
+H NIL
+X D  88
+
+C su keizer
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~keizer/547/W*
+D /user/grads/xxxxxxx
+A cd ~keizer/547/W* ; dirs
+H NIL
+X D  70
+
+C cd ~keizer
+D /user/grads/xxxxxxx
+A cd ~keizer ; dirs
+H NIL
+X D  88
+
+C su keizer
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A cd ; dirs
+H NIL
+X NIL
+
+C cd ~keizer
+D /user/grads/xxxxxxx
+A cd ~keizer ; dirs
+H NIL
+X D  88
+
+C cd ~keizer
+D /user/grads/xxxxxxx
+A cd ~keizer ; dirs
+H T
+X D  88
+
+C cd ~keizer
+D /user/grads/xxxxxxx
+A cd ~keizer ; dirs
+H T
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/keizer
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/keizer/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/keizer Wprograms
+D /user/cpsc547/l01b91/keizer/547
+A NIL
+H NIL
+X NIL
+
+C cd ~watson/547/W*
+D /user/cpsc547/l01b91/keizer/547
+A cd ~watson/547/W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C [?CV +cv43 ;
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X S  71
+
+C setvterm
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A setenv PL `getvterm -r` ; setenv TERMCAP "`getvterm -s`"
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H T
+X NIL
+
+
+S Thu Apr  2 15:27:04 1987
+E NIL
+
+C cd ~keizer
+D /user/grads/xxxxxxx
+A cd ~keizer ; dirs
+H NIL
+X D  88
+
+C su keizer
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~keizer/547
+D /user/grads/xxxxxxx
+A cd ~keizer/547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/keizer/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C quota -v
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 16:01:06 1987
+E Thu Apr  2 16:22:36 1987
+
+C cd ~watson/547/W*
+D /user/grads/xxxxxxx
+A cd ~watson/547/W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/watson WPrograms
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+C ls ~/547
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/watson WPrograms
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H T
+X NIL
+
+C l
+D /user/cpsc451/l01b04/watson/547
+A ls -las
+H NIL
+X NIL
+
+C 
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X N  10
+
+C su watson
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+C su watson
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 16:18:22 1987
+E Thu Apr  2 17:27:25 1987
+
+C su watson
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su watson
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C prune
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 16:27:39 1987
+E Thu Apr  2 17:15:19 1987
+
+C pwd
+D /user/cpsc451/l01b04
+A NIL
+H NIL
+X NIL
+
+C cd watson
+D /user/cpsc451/l01b04
+A cd watson ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/watson
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/watson WPrograms
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 17:01:28 1987
+E Thu Apr  2 17:14:21 1987
+
+C cd ~/changa/547
+D /user/grads/xxxxxxx
+A cd ~/changa/547 ; dirs
+H NIL
+X D  88
+
+C cd ~changa
+D /user/grads/xxxxxxx
+A cd ~changa ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc551/l01b03/changa
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C tar ~/547/Projects/changa ass3
+D /user/cpsc551/l01b03/changa/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/changa ass3
+D /user/cpsc551/l01b03/changa/547
+A NIL
+H T
+X NIL
+
+C cd ass3
+D /user/cpsc551/l01b03/changa/547
+A cd ass3 ; dirs
+H NIL
+X NIL
+
+C manunix pix
+D /user/cpsc551/l01b03/changa/547/ass3
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 17:26:51 1987
+E Thu Apr  2 17:40:57 1987
+
+C cd Csh/Pr*
+D /user/grads/xxxxxxx
+A cd Csh/Pr* ; dirs
+H NIL
+X M  09
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 17:50:07 1987
+E Thu Apr  2 18:40:56 1987
+
+C ls /user/grads/xxxxxxx/Csh/Trace/br*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+C ls /user/grads/xxxxxxx/Csh/Trace/
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C p
+D /user/grads/xxxxxxx
+A ps -x
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace/
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx
+A cd /user/grads/xxxxxxx/Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C cd ~/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ~/Csh/Trace ; dirs
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/grads/xxxxxxx/Csh/Trace
+A more
+H NIL
+X NIL
+
+C prune_files /user/grads/xxxxxxx/Csh/Compacted/ x*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A cd /user/grads/xxxxxxx/Csh/Trace ; dirs
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C prune_files ~/Csh/Compacted/ x*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Compacted
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Compacted ; dirs
+H NIL
+X D  88
+
+C pwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh/Compacted
+D /user/grads/xxxxxxx
+A cd Csh/Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ar r /tmp/apr1.a.ar *
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ar t /tmp/apr1.a.ar | wc
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd /tmp
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd /tmp ; dirs
+H NIL
+X NIL
+
+C /bin/rm apr*
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C cd
+D /tmp
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh/Compacted
+D /user/grads/xxxxxxx
+A cd Csh/Compacted ; dirs
+H NIL
+X NIL
+
+C la
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 21:52:42 1987
+E Thu Apr  2 21:53:57 1987
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM amb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 21:54:55 1987
+E NIL
+
+C p
+D /user/grads/xxxxxxx
+A ps -x
+H NIL
+X NIL
+
+C setenv TERM amb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd Projects
+D /user/grads/xxxxxxx/547
+A cd Projects ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ar t mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar t mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar tf mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ar x mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd News
+D /user/grads/xxxxxxx/547/Projects
+A cd News ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv *CKP *BAK .*BAK .*CKP /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las
+H NIL
+X NIL
+
+C page man.c
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/News
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd News
+D /user/grads/xxxxxxx/547/Projects
+A cd News ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv *CKP *BAK .*BAK .*CKP /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cat makefile
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head man.dump3
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head man.c
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm man.dump3 man.old2
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv man.dump3 man.old2 /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm old*
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv old* /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head ame_r
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cat makefile
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm ame_r
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv ame_r /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm *.old
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv *.old /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cat dfes_man.h
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cat defs_man.h
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head ncl
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head incl
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C l in*
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las in*
+H NIL
+X NIL
+
+C rm incl include
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv incl include /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head dump
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C l dump
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las dump
+H NIL
+X NIL
+
+C rm dump
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv dump /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C l haha lit
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las haha lit
+H NIL
+X NIL
+
+C head haha
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm haha
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv haha /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C head lit
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm lit
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv lit /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head man1
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C l man1
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las man1
+H NIL
+X NIL
+
+C rm man1
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv man1 /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C head mn
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C l oo
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las oo
+H NIL
+X NIL
+
+C head oo
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm oo
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv oo /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C head sc
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C l sc
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las sc
+H NIL
+X NIL
+
+C rm sc
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv sc /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C head pipe.c
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C grep open_pipe *.c
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C grep pipe *.c
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm pipe.c
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv pipe.c /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las
+H NIL
+X NIL
+
+C ls Scroll
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm Scroll
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv Scroll /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls Test
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm Test
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv Test /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C rm Calc
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv Calc /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/News
+A ls -las
+H NIL
+X NIL
+
+C rm Lib
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv Lib /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm mn
+D /user/grads/xxxxxxx/547/Projects/News
+A /bin/mv mn /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C man time
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/News
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar cf changa &
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd News
+D /user/grads/xxxxxxx/547/Projects
+A cd News ; dirs
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/News
+A cd .. ; dirs
+H NIL
+X NIL
+
+C l changa
+D /user/grads/xxxxxxx/547/Projects
+A ls -las changa
+H NIL
+X NIL
+
+C tar tf changa
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C rm changa
+D /user/grads/xxxxxxx/547/Projects
+A /bin/mv changa /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ~changa
+D /user/grads/xxxxxxx/547/Projects
+A cd ~changa ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc551/l01b03/changa
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc551/l01b03/changa/547
+A NIL
+H NIL
+X NIL
+
+C ls ass3
+D /user/cpsc551/l01b03/changa/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/changa ass3 &
+D /user/cpsc551/l01b03/changa/547
+A NIL
+H NIL
+X NIL
+
+C cd ~/547/Projects
+D /user/cpsc551/l01b03/changa/547
+A cd ~/547/Projects ; dirs
+H NIL
+X NIL
+
+C cd New
+D /user/grads/xxxxxxx/547/Projects
+A cd New ; dirs
+H NIL
+X D  88
+
+C fg
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects
+A ls -las
+H NIL
+X NIL
+
+C tar xf blain &
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Ass4
+D /user/grads/xxxxxxx/547/Projects
+A cd Ass4 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls Calculator
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf changa &
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Ass4
+D /user/grads/xxxxxxx/547/Projects
+A cd Ass4 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A ls -las
+H NIL
+X NIL
+
+C ls Diary
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C cat Diary/Makefile
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C l Diary
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A ls -las Diary
+H NIL
+X NIL
+
+C l Diary/A*
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A ls -las Diary/A*
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C /bin/rm Calculator/*
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C rmdir Calculator
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls FINAL
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C head FINAL
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C head -50 FINAL
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C rm desk
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A /bin/mv desk /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A /bin/mv *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C fg %5
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C cat desk.h
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C cd Diary
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A cd Diary ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary
+A /bin/mv *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm diary_vax
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary
+A /bin/mv diary_vax /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary
+A NIL
+H NIL
+X NIL
+
+C cd Arrange
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary
+A cd Arrange ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Arrange
+A NIL
+H NIL
+X NIL
+
+C rm *.o *_vax
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Arrange
+A /bin/mv *.o *_vax /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Arrange
+A NIL
+H NIL
+X NIL
+
+C cd ../Confirm
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Arrange
+A cd ../Confirm ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Confirm
+A NIL
+H NIL
+X NIL
+
+C rm *.o *_vax
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Confirm
+A /bin/mv *.o *_vax /user/grads/xxxxxxx/.deleted
+H T
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Confirm
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Confirm
+A NIL
+H NIL
+X NIL
+
+C cd ../..
+D /user/grads/xxxxxxx/547/Projects/Ass4/Diary/Confirm
+A cd ../.. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Ass4
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd News
+D /user/grads/xxxxxxx/547/Projects
+A cd News ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C mn
+D /user/grads/xxxxxxx/547/Projects/News
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/News
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C f | wc
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C whom
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X N  10
+
+C whome
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X N  10
+
+C w
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls ass3
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv ass3 ChangA
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ChangA
+D /user/grads/xxxxxxx/547/Projects
+A cd ChangA ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C cat makefile
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A ls -las
+H NIL
+X NIL
+
+C head junk
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C head .pc
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C grep junk *.c *.h
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C rm junk
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A /bin/mv junk /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C l PRO
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A ls -las PRO
+H NIL
+X NIL
+
+C cat my.h
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C cat my.c
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C rm manunix
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A /bin/mv manunix /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C cat my.h
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C cd PRO
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A cd PRO ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C page REA*
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C page makefile
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C cat dcl.h
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C cat makefile
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C rm manunix_real
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A /bin/mv manunix_real /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A NIL
+H NIL
+X NIL
+
+C cd ../..
+D /user/grads/xxxxxxx/547/Projects/ChangA/PRO
+A cd ../.. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv Ass4 Blain
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv News Mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls Mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/547/Projects
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Office-86
+D /user/grads/xxxxxxx
+A cd Office-86 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Office-86
+A NIL
+H NIL
+X NIL
+
+C cd Old_projects
+D /user/grads/xxxxxxx/Office-86
+A cd Old_projects ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Office-86/Old_projects
+A NIL
+H NIL
+X NIL
+
+C rm Old_projects
+D /user/grads/xxxxxxx/Office-86/Old_projects
+A /bin/mv Old_projects /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Office-86/Old_projects
+A cd .. ; dirs
+H NIL
+X NIL
+
+C /bin/rm -f Old_projects
+D /user/grads/xxxxxxx/Office-86
+A NIL
+H NIL
+X NIL
+
+C rm Old_projects
+D /user/grads/xxxxxxx/Office-86
+A /bin/mv Old_projects /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm.deleted
+D /user/grads/xxxxxxx/Office-86
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/Office-86
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Office-86
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls Test
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm Test
+D /user/grads/xxxxxxx
+A /bin/mv Test /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls Mycurses
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C du
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 09:12:21 1987
+E NIL
+
+C cd 547/Proj*
+D /user/grads/xxxxxxx
+A cd 547/Proj* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Blain
+D /user/grads/xxxxxxx/547/Projects
+A cd Blain ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C desk Saul
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C desk Walter
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Blain
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ChangA
+D /user/grads/xxxxxxx/547/Projects
+A cd ChangA ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C manunix
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Mutiso
+D /user/grads/xxxxxxx/547/Projects
+A cd Mutiso ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C mn
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C head man.c
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C head -50 man.c
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C head defs_man.h
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C cd ../Changa
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A cd ../Changa ; dirs
+H NIL
+X D  88
+
+C cd .,./Ch*
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A cd .,./Ch* ; dirs
+H NIL
+X D  70
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Ch*
+D /user/grads/xxxxxxx/547/Projects
+A cd Ch* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Blain
+D /user/grads/xxxxxxx/547/Projects
+A cd Blain ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C 'ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X S  11
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C desk
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C desk Saul
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Blain
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd ChangA
+D /user/grads/xxxxxxx/547/Projects
+A cd ChangA ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C manunix
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 10:12:43 1987
+E Fri Apr  3 11:15:03 1987
+
+C setvterm
+D /user/grads/xxxxxxx
+A setenv PL `getvterm -r` ; setenv TERMCAP "`getvterm -s`"
+H NIL
+X NIL
+
+C cd 547/Pro*
+D /user/grads/xxxxxxx
+A cd 547/Pro* ; dirs
+H NIL
+X NIL
+
+C cd Bla*
+D /user/grads/xxxxxxx/547/Projects
+A cd Bla* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C diary Walter
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X N  10
+
+C desk Walter
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C man pr
+D /user/grads/xxxxxxx/547/Projects/Blain
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Blain
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Changa
+D /user/grads/xxxxxxx/547/Projects
+A cd Changa ; dirs
+H NIL
+X D  88
+
+C cd Ch*
+D /user/grads/xxxxxxx/547/Projects
+A cd Ch* ; dirs
+H NIL
+X NIL
+
+C manunix
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A NIL
+H NIL
+X NIL
+
+C cd ../Mu*
+D /user/grads/xxxxxxx/547/Projects/ChangA
+A cd ../Mu* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C mn
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C setvterm
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A setenv PL `getvterm -r` ; setenv TERMCAP "`getvterm -s`"
+H NIL
+X NIL
+
+C cd ~/francovalias
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A cd ~/francovalias ; dirs
+H NIL
+X D  88
+
+C cd ~francovalias
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A cd ~francovalias ; dirs
+H NIL
+X NIL
+
+C cd clock
+D /user/cpsc500/l01b91/francovalias
+A cd clock ; dirs
+H NIL
+X NIL
+
+C cd fusge
+D /user/cpsc500/l01b91/francovalias/clock
+A cd fusge ; dirs
+H NIL
+X D  88
+
+C cd fudge
+D /user/cpsc500/l01b91/francovalias/clock
+A cd fudge ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/clock
+A NIL
+H NIL
+X NIL
+
+C cd ~francovalias
+D /user/cpsc500/l01b91/francovalias/clock
+A cd ~francovalias ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/francovalias
+A cd ; dirs
+H NIL
+X NIL
+
+C su francovalias
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su francovalias
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 10:41:46 1987
+E Fri Apr  3 11:15:17 1987
+
+C cd ~francovalius
+D /user/grads/xxxxxxx
+A cd ~francovalius ; dirs
+H NIL
+X D  69
+
+C cd ~francovalias
+D /user/grads/xxxxxxx
+A cd ~francovalias ; dirs
+H T
+X NIL
+
+C cd clock
+D /user/cpsc500/l01b91/francovalias
+A cd clock ; dirs
+H NIL
+X NIL
+
+C cd fudge
+D /user/cpsc500/l01b91/francovalias/clock
+A cd fudge ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C a.out &
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C more ccj
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A ls -las
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A ls -las
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A ls -las
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/francovalias/clock/fudge
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/clock
+A NIL
+H NIL
+X NIL
+
+C tar cf ~547/Projects/franco fudge
+D /user/cpsc500/l01b91/francovalias/clock
+A NIL
+H NIL
+X D  69
+
+C tar cf ~/547//Projects/franco fudge
+D /user/cpsc500/l01b91/francovalias/clock
+A NIL
+H T
+X NIL
+
+
+S Fri Apr  3 11:24:34 1987
+E Fri Apr  3 12:06:47 1987
+
+C cd 547/Pr*
+D /user/grads/xxxxxxx
+A cd 547/Pr* ; dirs
+H NIL
+X NIL
+
+C cd Mut*
+D /user/grads/xxxxxxx/547/Projects
+A cd Mut* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C mn
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Mutiso
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm blain changa mutiso
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf robson
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat > README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C rm README
+D /user/grads/xxxxxxx/547/Projects
+A /bin/mv README /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C mv Blain Diary
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls ChnagA
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls ChangA
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv ChangA Manunix
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv Mutiso Mn
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat > README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv Mn Mc
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv habidex Habidex1
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Habidex1
+D /user/grads/xxxxxxx/547/Projects
+A cd Habidex1 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A ls -las
+H NIL
+X NIL
+
+C rm hab.o hab_run
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A /bin/mv hab.o hab_run /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls directory
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C cd dire*
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A cd dire* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C head const2.h const3.h
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A ls -las
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C mail robson
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A /bin/mv *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex1/directory
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C hab_run
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex1
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm robson
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ~courtnage
+D /user/grads/xxxxxxx/547/Projects
+A cd ~courtnage ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/courtnage
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/courtnage/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/courtnage/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/courtnage/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/courtnage/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Hab*
+D /user/cpsc547/l01b91/courtnage/547/WPrograms
+A cd Hab* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/courtnage/547/WPrograms/Habadex
+A cd ; dirs
+H NIL
+X NIL
+
+C cd 547/projects
+D /user/grads/xxxxxxx
+A cd 547/projects ; dirs
+H NIL
+X D  88
+
+C cd 547/Pro*
+D /user/grads/xxxxxxx
+A cd 547/Pro* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ~lakhani
+D /user/grads/xxxxxxx/547/Projects
+A cd ~lakhani ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/lakhani
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lakhani/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/lakhani/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 12:06:08 1987
+E Fri Apr  3 13:02:52 1987
+
+C cd 547/Pro*
+D /user/grads/xxxxxxx
+A cd 547/Pro* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf lakhani
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar tf lakhani
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/grads/xxxxxxx/547/Projects
+A cd WPrograms ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C /bin/rm WPrograms
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C rm WPrograms
+D /user/grads/xxxxxxx/547/Projects
+A /bin/mv WPrograms /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm lakhani
+D /user/grads/xxxxxxx/547/Projects
+A /bin/mv lakhani /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ~lakhani
+D /user/grads/xxxxxxx/547/Projects
+A cd ~lakhani ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/lakhani
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/lakhani/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A cd H* ; dirs
+H NIL
+X M  09
+
+C ls
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A ls -las
+H NIL
+X NIL
+
+C cd ~higginson
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A cd ~higginson ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/higginson
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/higginson/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ~janz
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A cd ~janz ; dirs
+H NIL
+X D  88
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A cd ; dirs
+H NIL
+X NIL
+
+C cd ~/547/Pro*
+D /user/grads/xxxxxxx
+A cd ~/547/Pro* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf higginson
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd WP*
+D /user/grads/xxxxxxx/547/Projects
+A cd WP* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C rm WPrograms higginson
+D /user/grads/xxxxxxx/547/Projects
+A /bin/mv WPrograms higginson /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C rm WPrograms
+D /user/grads/xxxxxxx/547/Projects
+A /bin/mv WPrograms /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -rf WPrograms
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf franco
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv fudg SimClock
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv fudge SimClock
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd SimClock
+D /user/grads/xxxxxxx/547/Projects
+A cd SimClock ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C ls ~/francovalias
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C cd ~francovalias
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A cd ~francovalias ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/francovalias
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/francovalias/547
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/francovalias/547
+A cd ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd Projects
+D /user/grads/xxxxxxx/547
+A cd Projects ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd SimClock
+D /user/grads/xxxxxxx/547/Projects
+A cd SimClock ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C cp ../Mc/Makefile .
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C cp ../Diary/Makefile .
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C clock
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A NIL
+H NIL
+X NIL
+
+C rm a.out *.o
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A /bin/mv a.out *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/SimClock
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat >> README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm franco
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf watson
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv WPrograms Habidex2
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Habidex2
+D /user/grads/xxxxxxx/547/Projects
+A cd Habidex2 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C /bin/rm core Calculator
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -rf Calculator
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -rf Rectangle
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *.o *_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A ls -las
+H NIL
+X NIL
+
+C l Address
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A ls -las Address
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C /bin/rm most*
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A cd Address ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C cat header
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C rm header
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A /bin/mv header /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A /bin/mv *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm *_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A /bin/mv *_vax /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A cd .. ; dirs
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C cd Add*
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A cd Add* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C head HI*
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C rm HI*
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A /bin/mv HI* /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C head TO*
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C rm TO*
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A /bin/mv TO* /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C head examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C head examples.c
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A /bin/mv *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd Add*
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A cd Add* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C head address.c
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex2/Address
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex2
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ~wong
+D /user/grads/xxxxxxx/547/Projects
+A cd ~wong ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/wong
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/wong/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/wong/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/wong/547/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/wong/547
+A NIL
+H NIL
+X NIL
+
+C /bin/rm ~/547/Projects/wong
+D /user/cpsc500/l01b91/wong/547
+A NIL
+H NIL
+X NIL
+
+C tar cf ~/547/Projects/wong WPrograms
+D /user/cpsc500/l01b91/wong/547
+A NIL
+H NIL
+X NIL
+
+C cd ~/547/Pr*
+D /user/cpsc500/l01b91/wong/547
+A cd ~/547/Pr* ; dirs
+H NIL
+X NIL
+
+C cd Hab*3
+D /user/grads/xxxxxxx/547/Projects
+A cd Hab*3 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C head examplers_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C head examples.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A cd addr ; dirs
+H NIL
+X NIL
+
+C head addr.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C cd ../..
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A cd ../.. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf wong
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/grads/xxxxxxx/547/Projects
+A ps -x
+H NIL
+X NIL
+
+C kill -9 19447 20267
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A cd janmohamed ; dirs
+H NIL
+X D  88
+
+C pushd ~janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/janmohamed
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/janmohamed/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 12:17:08 1987
+E NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~watson
+D /user/grads/xxxxxxx
+A cd ~watson ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/watson
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/watson/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc451/l01b04/watson/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ~keizer
+D /user/cpsc451/l01b04/watson/547/WPrograms
+A cd ~keizer ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/keizer
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/keizer/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/keizer/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ~/547/Pr*
+D /user/cpsc547/l01b91/keizer/547/Wprograms
+A cd ~/547/Pr* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf keizer
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat >> README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv Wprograms Habidex3
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Habidex3
+D /user/grads/xxxxxxx/547/Projects
+A cd Habidex3 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A /bin/mv *CKP *BAK .*BAK .*CKP /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C /bin/rm *.o examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A ls -las
+H NIL
+X NIL
+
+C head message
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C head MESSAGE
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C rm MESSAGE
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A /bin/mv MESSAGE /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C cat examples.h
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C head -50 examples.h
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H T
+X NIL
+
+C ls addr
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A cd addr ; dirs
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A /bin/mv *CKP *BAK .*BAK .*CKP /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C rm a.out addr.o addr_vax temp temp1 test* ttt
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A /bin/mv a.out addr.o addr_vax temp temp1 test* ttt /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C cat daddrdef.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C head addr.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C head -50 addr.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C head -50 addr.c
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H T
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C rm *.Save
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A /bin/mv *.Save /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm *.o
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A /bin/mv *.o /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C make &
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex3/addr
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A /bin/mv core /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C /bin/rm -rf Calculator Rectangle
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex3
+A cd .. ; dirs
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat RE*
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat >> README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm keizer
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm watson
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ~janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A cd ~janmohamed ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/janmohamed
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/janmohamed/547
+A NIL
+H NIL
+X NIL
+
+C cd WP*
+D /user/cpsc500/l01b91/janmohamed/547
+A cd WP* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 13:03:21 1987
+E NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Pr*
+D /user/grads/xxxxxxx/547
+A cd Pr* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/grads/xxxxxxx/547/Projects
+A cd WPrograms ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/WPrograms
+A cd .. ; dirs
+H NIL
+X NIL
+
+C mv WPrograms Calender
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat >> README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Pro*
+D /user/grads/xxxxxxx/547
+A cd Pro* ; dirs
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Pro*
+D /user/grads/xxxxxxx/547
+A cd Pro* ; dirs
+H NIL
+X NIL
+
+C cd mcgregor
+D /user/grads/xxxxxxx/547/Projects
+A cd mcgregor ; dirs
+H NIL
+X D  88
+
+C pushd ~mcgregor
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/mcgregor
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/mcgregor/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H T
+X NIL
+
+C cd ~lakhani
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A cd ~lakhani ; dirs
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc500/l01b91/lakhani
+A cd 547/W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A ls -las
+H NIL
+X NIL
+
+C pop`d
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X S  11
+
+C popd
+D /user/cpsc500/l01b91/lakhani/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm wong
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 13:03:28 1987
+E NIL
+
+C cd ~janmohamed
+D /user/grads/xxxxxxx
+A cd ~janmohamed ; dirs
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/janmohamed
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/janmohamed/547
+A cd W* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ~/547/Pro*
+D /user/cpsc500/l01b91/janmohamed/547/WPrograms
+A cd ~/547/Pro* ; dirs
+H NIL
+X NIL
+
+C cd Cal*
+D /user/grads/xxxxxxx/547/Projects
+A cd Cal* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Calender
+A NIL
+H NIL
+X NIL
+
+C cd diary
+D /user/grads/xxxxxxx/547/Projects/Calender
+A cd diary ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Calender/diary
+A NIL
+H NIL
+X NIL
+
+C head diary.c
+D /user/grads/xxxxxxx/547/Projects/Calender/diary
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Calender/diary
+A cd .. ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Calender
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Calender
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf mcgregor
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv Wprograms Habidex4
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat >> README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Habidex4
+D /user/grads/xxxxxxx/547/Projects
+A cd Habidex4 ; dirs
+H NIL
+X NIL
+
+C cat ../README
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C rm *.o *_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A /bin/mv *.o *_vax /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cat Makefile
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C cat examples.h
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C cd Calculator
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A cd Calculator ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4/Calculator
+A NIL
+H NIL
+X NIL
+
+C rm calc*
+D /user/grads/xxxxxxx/547/Projects/Habidex4/Calculator
+A /bin/mv calc* /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex4/Calculator
+A cd .. ; dirs
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 14:05:17 1987
+E NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Pr*
+D /user/grads/xxxxxxx/547
+A cd Pr* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Habidex4
+D /user/grads/xxxxxxx/547/Projects
+A cd Habidex4 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C [?CV +cv08 ;
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X S  71
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X NIL
+
+C sls
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habidex4
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C ar xf janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C tar xf janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Habadex
+D /user/grads/xxxxxxx/547/Projects
+A cd Habadex ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/grads/xxxxxxx/547/Projects/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Habadex
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C mv Habadex Habadex5
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat >> README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cat README
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd mc
+D /user/grads/xxxxxxx/547/Projects
+A cd mc ; dirs
+H NIL
+X D  88
+
+C cd Mc
+D /user/grads/xxxxxxx/547/Projects
+A cd Mc ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mc
+A NIL
+H NIL
+X NIL
+
+C mn lpr
+D /user/grads/xxxxxxx/547/Projects/Mc
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:01:33 1987
+E Fri Apr  3 15:12:02 1987
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ce .login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C source .login
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C prune
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail mason
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 15:53:13 1987
+E NIL
+
+C prune
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill %1
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C prun >> /dev/null &
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C prune >> /dev/null &
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 11 12:19:09 1987
+E NIL
+
+C prune >> /dev/null
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Sat Apr 11 14:28:51 1987
+E Sat Apr 11 14:45:46 1987
+
+C quota -v
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c /etc/passwd
+D /user/grads/xxxxxxx/Csh/Trace
+A more /etc/passwd
+H NIL
+X NIL
+
+C grep xxxxxxx /etc/passwd | c
+D /user/grads/xxxxxxx/Csh/Trace
+A grep xxxxxxx /etc/passwd | more
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep joifqwe xgr*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Com*
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ../Com* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C l | c
+D /user/grads/xxxxxxx/Csh/Compacted
+A ls -las | more
+H NIL
+X NIL
+
+C quota -v
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C prune
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls ~/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd /user/grads/xxxxxxx/Csh/T*
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd /user/grads/xxxxxxx/Csh/T* ; dirs
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Make*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C prune_files /user/grads/xxxxxxx/Csh/Compacted/ x*_*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/Csh/Trace
+A /bin/mv *CKP *BAK .*BAK .*CKP /user/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat x*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 12:22:04 1987
+E NIL
+
+C prune >> /dev/null
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Sun Apr 19 15:45:16 1987
+E Sun Apr 19 15:46:40 1987
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc -l
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Trace
+A cd /user/grads/xxxxxxx/Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C prune
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 19 15:47:25 1987
+E Sun Apr 19 15:52:14 1987
+
+C page /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /etc/passwd ~/passwd.file.april
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep yiannacos /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep Yian /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep Sadler /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep Sad /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep iann /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep joeblog /etc/passwd | wc -l
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 09:08:21 1987
+E Mon Apr 20 09:12:44 1987
+
+C mail janmohamed
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 10:37:18 1987
+E Mon Apr 20 10:37:33 1987
+
+C bye
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Mon Apr 20 14:40:24 1987
+E Mon Apr 20 14:42:07 1987
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/xxxxxxx
+A cd 547 ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Projects
+D /user/grads/xxxxxxx/547
+A cd Projects ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Manunix
+D /user/grads/xxxxxxx/547/Projects
+A cd Manunix ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Manunix
+A NIL
+H NIL
+X NIL
+
+C manunix print
+D /user/grads/xxxxxxx/547/Projects/Manunix
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 14:45:47 1987
+E Mon Apr 20 14:55:15 1987
+
+C cd 547/Projects
+D /user/grads/xxxxxxx
+A cd 547/Projects ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Mc
+D /user/grads/xxxxxxx/547/Projects
+A cd Mc ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Mc
+A NIL
+H NIL
+X NIL
+
+C mn pr
+D /user/grads/xxxxxxx/547/Projects/Mc
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Mc
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Manunix
+D /user/grads/xxxxxxx/547/Projects
+A cd Manunix ; dirs
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/547/Projects/Manunix
+A ls -las
+H NIL
+X NIL
+
+C manunix cat
+D /user/grads/xxxxxxx/547/Projects/Manunix
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Manunix
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C cd Diary
+D /user/grads/xxxxxxx/547/Projects
+A cd Diary ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Diary
+A NIL
+H NIL
+X NIL
+
+C desk Saul
+D /user/grads/xxxxxxx/547/Projects/Diary
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects/Diary
+A NIL
+H NIL
+X NIL
+
+C desk Walter
+D /user/grads/xxxxxxx/547/Projects/Diary
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/547/Projects/Diary
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -r mcgregor janmohamed
+D /user/grads/xxxxxxx/547/Projects
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 12:39:25 1987
+E Tue Apr 21 12:41:58 1987
+
+C grep Sheppard /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep sheppard /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep shep /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep shep pass*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls pass*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep Mojzisik /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep mojzis pass*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxb -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 13:02:02 1987
+E NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep kaderali /etc/passwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xkaderali_0173*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C page xkaderali*73*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C tail -50 xkaderali*73*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd ../Compacted
+D /user/grads/xxxxxxx/Csh
+A cd ../Compacted ; dirs
+H NIL
+X D  88
+
+C cd Compa*
+D /user/grads/xxxxxxx/Csh
+A cd Compa* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+C ls /user/grads/xxxxxxx/Csh/Trace
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C pushd ../..
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~/../..
+D /user/grads/xxxxxxx
+A cd ~/../.. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls ~
+D /user/grads/xxxxxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/Csh/Compacted
+A cd ; dirs
+H NIL
+X NIL
+
+C grep adachi /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep airriess /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C alias ch 'grep ¡* /etc/passwd'
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ch allenl
+D /user/grads/xxxxxxx
+A grep allenl /etc/passwd
+H NIL
+X NIL
+
+C ch anseeuw
+D /user/grads/xxxxxxx
+A grep anseeuw /etc/passwd
+H NIL
+X NIL
+
+C check admin
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C check asaph
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ch asaph
+D /user/grads/xxxxxxx
+A grep asaph /etc/passwd
+H NIL
+X NIL
+
+C ch auld
+D /user/grads/xxxxxxx
+A grep auld /etc/passwd
+H NIL
+X NIL
+
+C ch austinm
+D /user/grads/xxxxxxx
+A grep austinm /etc/passwd
+H NIL
+X NIL
+
+C ch baezner
+D /user/grads/xxxxxxx
+A grep baezner /etc/passwd
+H NIL
+X NIL
+
+C ch beitel
+D /user/grads/xxxxxxx
+A grep beitel /etc/passwd
+H NIL
+X NIL
+
+C ch belt
+D /user/grads/xxxxxxx
+A grep belt /etc/passwd
+H NIL
+X NIL
+
+C ch besler
+D /user/grads/xxxxxxx
+A grep besler /etc/passwd
+H NIL
+X NIL
+
+C ch bidulock
+D /user/grads/xxxxxxx
+A grep bidulock /etc/passwd
+H NIL
+X NIL
+
+C ch blain
+D /user/grads/xxxxxxx
+A grep blain /etc/passwd
+H NIL
+X NIL
+
+C ch bonnie
+D /user/grads/xxxxxxx
+A grep bonnie /etc/passwd
+H NIL
+X NIL
+
+C ch briosi
+D /user/grads/xxxxxxx
+A grep briosi /etc/passwd
+H NIL
+X NIL
+
+C ch burfoot
+D /user/grads/xxxxxxx
+A grep burfoot /etc/passwd
+H NIL
+X NIL
+
+C ch byers
+D /user/grads/xxxxxxx
+A grep byers /etc/passwd
+H NIL
+X NIL
+
+C ch campbell ; ch chala ; ch changa
+D /user/grads/xxxxxxx
+A grep campbell /etc/passwd ; grep chala /etc/passwd ; grep changa /etc/passwd
+H NIL
+X NIL
+
+C ch deraadt
+D /user/grads/xxxxxxx
+A grep deraadt /etc/passwd
+H NIL
+X NIL
+
+C rlogin evdsvax -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep nelson /etc/passwd
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c xne*
+D /user/grads/xxxxxxx/Csh/Trace
+A more xne*
+H NIL
+X NIL
+
+C vt100
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C set term vt100
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c xne*
+D /user/grads/xxxxxxx/Csh/Trace
+A more xne*
+H T
+X NIL
+
+C setenv TERM vt100
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c xne*
+D /user/grads/xxxxxxx/Csh/Trace
+A more xne*
+H T
+X NIL
+
+C cat xne*
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 14:25:43 1987
+E Mon Apr 27 14:29:22 1987
+
+C prune
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 10:24:52 1987
+E Wed Apr 29 10:25:19 1987
+
+C prune &
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL

@@ -1,0 +1,5330 @@
+S Sat Feb  7 13:45:45 1987
+E Sat Feb  7 13:50:30 1987
+
+C who
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose xxxxx*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fweq
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N 10
+
+C Null Command
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X H 25
+
+C verbose xxxxx*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xsa*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh/Trace
+A ls -las
+H NIL
+X NIL
+
+C ls -augl
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose xde*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose xde*
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count demo
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose demo
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page demo
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb  9 12:09:26 1987
+E Mon Feb  9 12:11:45 1987
+
+C p
+D /sysuser/jan
+A ps -x
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /sysuser/jan
+A cd Csh/Trace ; dirs
+H NIL
+X D 88
+
+C cd
+D /sysuser/jan
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep jiofqr xs*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C qew
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N 10
+
+C verbose xxxxx*677
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/xxxx/Csh/Trace
+A ps -x
+H NIL
+X NIL
+
+C ps ax
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb  9 12:19:04 1987
+E Mon Feb  9 12:21:44 1987
+
+C set term = vt100
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/xxxx
+A ps -x
+H NIL
+X NIL
+
+C f xxxx
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C (
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X S 28
+
+C l
+D /user/xxxx/Csh/Trace
+A ls -las
+H NIL
+X NIL
+
+C grep qqqee xgr*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X M  9
+
+C grep fqqf xsau*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C err_count xs*112
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N 10
+
+C error_count xs*112
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbos xs*112
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N 10
+
+C verbose xs*112
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+
+S Mon Feb  9 12:23:51 1987
+E Mon Feb  9 12:24:31 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xde*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose xde*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N 10
+
+
+S Tue Feb 10 09:11:25 1987
+E Tue Feb 10 09:26:40 1987
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C tar -cf to.send emacs
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C page .login
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /user
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C mail sawyer
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx
+A ls -las
+H NIL
+X NIL
+
+C /bin/rm .*.BAK
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C /bin/rm .*.CKP
+D /user/xxxx
+A NIL
+H T
+X NIL
+
+C rm to.send
+D /user/xxxx
+A /bin/mv to.send /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Chsh
+D /user/xxxx/Csh
+A cd Chsh ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C cp trace.c ~
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C diff trace.c new_csh.c
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C diff trace.c new_chsh.c
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C rm new_chsh
+D /user/xxxx/Csh/Chsh
+A /bin/mv new_chsh /user/xxxx/.deleted
+H NIL
+X NIL
+
+C rm new_chsh*
+D /user/xxxx/Csh/Chsh
+A /bin/mv new_chsh* /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C rm passwd
+D /user/xxxx/Csh/Chsh
+A /bin/mv passwd /user/xxxx/.deleted
+H NIL
+X NIL
+
+C rm *.o
+D /user/xxxx/Csh/Chsh
+A /bin/mv *.o /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh/Chsh
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Chsh
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/xxxx/Csh
+A /bin/mv *.o /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat error_types
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rm error*
+D /user/xxxx/Csh
+A /bin/mv error* /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rm sh.c.old sh.exec.c.old sh.err.c.old
+D /user/xxxx/Csh
+A /bin/mv sh.c.old sh.exec.c.old sh.err.c.old /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cat strings
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Chs
+D /user/xxxx
+A cd Chs ; dirs
+H NIL
+X D 88
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Utilities
+D /user/xxxx/Csh
+A cd Utilities ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Utilities
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 11 11:22:40 1987
+E Wed Feb 11 11:36:55 1987
+
+C page .login
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 12 11:23:02 1987
+E Thu Feb 12 11:28:55 1987
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Chsh
+D /user/xxxx/Csh
+A cd Chsh ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C trace xxxx
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C chsh xxxx
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C trace xxxx
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C chsh xxxx /bin/csh
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C trace xxxx
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C trace xxxx
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh/Chsh
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C mail jan
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Chsh
+A NIL
+H NIL
+X NIL
+
+C rm trace.o
+D /user/xxxx/Csh/Chsh
+A /bin/mv trace.o /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Chsh
+A cd .. ; dirs
+H NIL
+X NIL
+
+C trace
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C trace greenberg
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C trace xxxx
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 12 13:03:54 1987
+E Thu Feb 12 13:04:42 1987
+
+C l /usr/local/trace
+D /user/xxxx
+A ls -las /usr/local/trace
+H NIL
+X NIL
+
+C date
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C f jan
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 13 12:27:47 1987
+E Fri Feb 13 12:28:22 1987
+
+C pwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C pwd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 13 14:14:24 1987
+E Fri Feb 13 14:16:58 1987
+
+C ftp vaxb
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 13 16:06:04 1987
+E Fri Feb 13 16:46:38 1987
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C mkdir Test
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Test
+D /user/xxxx/Csh
+A cd Test ; dirs
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/xxxx/Csh/Test
+A NIL
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/xxxx/Csh/Test
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Test
+A NIL
+H NIL
+X NIL
+
+C ar x modfiles.ar
+D /user/xxxx/Csh/Test
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Test
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Test
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ar x Test/modfiles.ar
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh
+A ls -las
+H NIL
+X NIL
+
+C cd Test
+D /user/xxxx/Csh
+A cd Test ; dirs
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/xxxx/Csh/Test
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Test
+A cd .. ; dirs
+H NIL
+X NIL
+
+C rmdir Test
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C mkdir Csh.new
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rm Csh.new
+D /user/xxxx/Csh
+A /bin/mv Csh.new /user/xxxx/.deleted
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C mkdir Csh.new
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Csh.new
+D /user/xxxx/Csh
+A cd Csh.new ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cat > install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C chmod 755 install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C zz_csh
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X J 81
+
+C fg
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Csh.new
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/xxxx/Csh
+A /bin/mv *.o /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 13 16:39:37 1987
+E Fri Feb 13 16:46:06 1987
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep ssssss xgr*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X M  09
+
+C saep ssssss xgr*
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X M  09
+
+C grep sssfiewi xsa*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C alias x tail xsa*508
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/xxxx/Csh/Trace
+A tail xxxxx_024508
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh/Trace
+A ls -las
+H NIL
+X NIL
+
+C kill 777
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X Y  92
+
+C x
+D /user/xxxx/Csh/Trace
+A tail xxxxx_024508
+H NIL
+X NIL
+
+C printenv
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Csh.new
+D /user/xxxx/Csh/Trace
+A cd ../Csh.new ; dirs
+H NIL
+X NIL
+
+C install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cat install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C rm install
+D /user/xxxx/Csh/Csh.new
+A /bin/mv install /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cat > install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C chmod 755 install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh/Csh.new
+A cd ; dirs
+H NIL
+X NIL
+
+C l csh
+D /user/xxxx
+A ls -las csh
+H NIL
+X NIL
+
+
+S Fri Feb 13 16:49:02 1987
+E Fri Feb 13 16:50:02 1987
+
+C grep oifwqe xd*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep 
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat xdemo*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 08:54:00 1987
+E Wed Feb 18 09:08:27 1987
+
+C f
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C grep greenb /etc/passwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C grep xxxx /etc/passwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /etc/moth
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C l /etc/motd
+D /user/xxxx
+A ls -las /etc/motd
+H NIL
+X NIL
+
+C mail jan
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 09:09:08 1987
+E Wed Feb 18 13:24:16 1987
+
+C emacs /etc/motd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx
+A cd ; dirs
+H NIL
+X NIL
+
+C pwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs note
+D /user/xxxx
+A NIL
+H NIL
+X Y 102
+
+C chmod 755 testit
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C testit
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C bif y
+D /user/xxxx
+A NIL
+H NIL
+X N  10
+
+C biff y
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C du demo
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C su demo
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 to.mail
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cat testit
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm testit
+D /user/xxxx
+A /bin/mv testit /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C page trace.c
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C trace xxxx
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm trace.c
+D /user/xxxx
+A /bin/mv trace.c /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 09:51:10 1987
+E Wed Feb 18 10:07:02 1987
+
+C cp /etc/passwd .
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C emacs passwd
+D /user/xxxx
+A NIL
+H NIL
+X Y 102
+
+C man sort
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C sort passwd > passwd.sort
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpr passwd.sort
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 13:46:21 1987
+E Wed Feb 18 13:50:49 1987
+
+C grep love /etc/passwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C grep /bin/csh /etc/passwd | wc -l
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C wc -l /etc/passwd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xdemo*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm xdemo*
+D /user/xxxx/Csh/Trace
+A /bin/mv xdemo* /user/xxxx/.deleted
+H NIL
+X NIL
+
+C rm demo
+D /user/xxxx/Csh/Trace
+A /bin/mv demo /user/xxxx/.deleted
+H NIL
+X NIL
+
+C page verbose
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Utilities
+D /user/xxxx/Csh/Trace
+A cd ../Utilities ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C grep /user *.c
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Utilities
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page piers
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page mac*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 15:48:13 1987
+E NIL
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page macallum
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C which at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l at
+D /user/xxxx/Csh/Trace
+A ls -las at
+H NIL
+X NIL
+
+C l /usr/ucb/at
+D /user/xxxx/Csh/Trace
+A ls -las /usr/ucb/at
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C chmod 755 prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C touch lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C at 2400 prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C at 1600 prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm lookd
+D /user/xxxx/Csh/Trace
+A /bin/mv lookd /user/xxxx/.deleted
+H NIL
+X NIL
+
+C touch lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /usr/spool/at*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat /usr/spool/last*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X M  09
+
+C cat /usr/spool/last*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X M  09
+
+C l /usr/spool
+D /user/xxxx/Csh/Trace
+A ls -las /usr/spool
+H NIL
+X NIL
+
+C cat /usr/spool/at/last*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat /usr/spool/at/past
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh/Trace
+A ls -las
+H NIL
+X NIL
+
+C grep xxxx /etc/passwd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 18 16:25:27 1987
+E Wed Feb 18 16:31:47 1987
+
+C emacs .cshrc
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C source .cshrc
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c look
+D /user/xxxx/Csh/Trace
+A more look
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs weekly_prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C chmod 755 weekly_prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C weekly_prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 09:58:02 1987
+E NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page xxxx
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Util*
+D /user/xxxx/Csh/Trace
+A cd ../Util* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C emacs prUNE_FILES.C
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Utilities
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mkdir Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../utilitieis
+D /user/xxxx/Csh/Trace
+A cd ../utilitieis ; dirs
+H NIL
+X D  88
+
+C cd ../utilities
+D /user/xxxx/Csh/Trace
+A cd ../utilities ; dirs
+H NIL
+X D  88
+
+C cd ../Uti*
+D /user/xxxx/Csh/Trace
+A cd ../Uti* ; dirs
+H NIL
+X NIL
+
+C emacs prune_files.c
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Utilities
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd Compacted
+D /user/xxxx/Csh/Trace
+A cd Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C cp ../x* .
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C mkdir Test
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C cp ../Makefile .
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls Test
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ../../Util*
+D /user/xxxx/Csh/Trace/Compacted
+A cd ../../Util* ; dirs
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C go ../Compactes/T*
+D /user/xxxx/Csh/Utilities
+A pushd . ; cd ../Compactes/T* ; dirs
+H NIL
+X D  70
+
+C go ../Compacted
+D /user/xxxx/Csh/Utilities
+A pushd . ; cd ../Compacted ; dirs
+H NIL
+X D  88
+
+C popd
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C popd
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C go ../Trace/Comp*
+D /user/xxxx/Csh/Utilities
+A pushd . ; cd ../Trace/Comp* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls Test
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls Test
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H T
+X NIL
+
+C ls Test
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Trace/Compacted
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C /bin/rm -r Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mkdir Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv jan Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv macallum Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv piers Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv xxxx Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv schroede Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls Com*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh/Trace
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Bin
+D /user/xxxx
+A cd Bin ; dirs
+H NIL
+X D  88
+
+C cd bin
+D /user/xxxx
+A cd bin ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/bin
+A NIL
+H NIL
+X NIL
+
+C mkdir Local
+D /user/xxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/bin
+A cd ; dirs
+H NIL
+X NIL
+
+C popd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh/Utilities
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C mv prune_files ~/bin/Local
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C page verbose.c
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C mv verbose ~/bin/Local
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C rm *.o
+D /user/xxxx/Csh/Utilities
+A /bin/mv *.o /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Utilities
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs ~/.login
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C source ~/.login
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mr weekly_prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c lookd
+D /user/xxxx/Csh/Trace
+A more lookd
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh/Trace
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls verbose
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C chmod 755 view
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C chmod 755 view
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l Compacted
+D /user/xxxx/Csh/Trace
+A ls -las Compacted
+H NIL
+X NIL
+
+C rm verbose
+D /user/xxxx/Csh/Trace
+A /bin/mv verbose /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C view xxxxx*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xschr*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C kill %2
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm error_count
+D /user/xxxx/Csh/Trace
+A /bin/mv error_count /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l /usr/spool/at/*
+D /user/xxxx/Csh/Trace
+A ls -las /usr/spool/at/*
+H NIL
+X NIL
+
+C rm /usr/spool/at/*
+D /user/xxxx/Csh/Trace
+A /bin/mv /usr/spool/at/* /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page weekly_prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm weekly_prune
+D /user/xxxx/Csh/Trace
+A /bin/mv weekly_prune /user/xxxx/.deleted
+H NIL
+X NIL
+
+C page prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh
+A cd ; dirs
+H NIL
+X NIL
+
+C rm.deleted
+D /user/xxxx
+A NIL
+H NIL
+X N  10
+
+C ls ~/.deleted
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx
+A cd ; dirs
+H NIL
+X NIL
+
+C cd bin
+D /user/xxxx
+A cd bin ; dirs
+H NIL
+X NIL
+
+C cd Macros
+D /user/xxxx/bin
+A cd Macros ; dirs
+H NIL
+X NIL
+
+C rehash
+D /user/xxxx/bin/Macros
+A NIL
+H NIL
+X NIL
+
+C rm.deleted
+D /user/xxxx/bin/Macros
+A NIL
+H NIL
+X Y 102
+
+C chmod 755 rm*
+D /user/xxxx/bin/Macros
+A NIL
+H NIL
+X NIL
+
+C rm.deleted
+D /user/xxxx/bin/Macros
+A NIL
+H NIL
+X NIL
+
+C rm.junk
+D /user/xxxx/bin/Macros
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/xxxx/bin/Macros
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/bin/Macros
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls ~/.deleted
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm passwd
+D /user/xxxx
+A /bin/mv passwd /user/xxxx/.deleted
+H NIL
+X NIL
+
+
+S Thu Feb 19 11:40:36 1987
+E Thu Feb 19 12:36:04 1987
+
+C cd Csh/Utiliites
+D /user/xxxx
+A cd Csh/Utiliites ; dirs
+H NIL
+X D  88
+
+C cd Csh/Ut*
+D /user/xxxx
+A cd Csh/Ut* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx/Csh/Utilities
+A cd Csh/Trace ; dirs
+H NIL
+X D  88
+
+C cd ~/Csh/Trace
+D /user/xxxx/Csh/Utilities
+A cd ~/Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C chmod 755 error_count
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page error_count
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv error_count ~/bin/Local
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xhar*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C kill %1
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xxxxx*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C kill %1
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat error_count
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat ~/bin/Local/error_count
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose xxxxx*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C kill %1
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../util*
+D /user/xxxx/Csh/Trace
+A cd ../util* ; dirs
+H NIL
+X M  09
+
+C cd ../Util*
+D /user/xxxx/Csh/Trace
+A cd ../Util* ; dirs
+H NIL
+X NIL
+
+C page verbose
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C page verbose.c
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Utilities
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C pushd ~/bin/Local
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C emacs error_count
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C error_count xxxxx*19
+D /user/xxxx/bin/Local
+A NIL
+H T
+X M  09
+
+C cleanup
+D /user/xxxx/bin/Local
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C popd
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C error_count xxxxx*19
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C egrep "^X" xgr*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C egrep "^X" xsa*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xxxxx*19
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C view xxxxx*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/xxxx/Csh/Trace
+A /bin/mv core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xxxxx*19 > look
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X J  82
+
+C emacs xxxxx_006019 look
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C view xsa*19 > look1
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm look1 look
+D /user/xxxx/Csh/Trace
+A /bin/mv look1 look /user/xxxx/.deleted
+H NIL
+X NIL
+
+C rm core
+D /user/xxxx/Csh/Trace
+A /bin/mv core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C tail xsau*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xxxxx*19 > look
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page look
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm look
+D /user/xxxx/Csh/Trace
+A /bin/mv look /user/xxxx/.deleted
+H NIL
+X NIL
+
+C rm core
+D /user/xxxx/Csh/Trace
+A /bin/mv core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C /bin/csh
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page ~/bin/error_count
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat ~/bin/Error_count
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat ~/bin/Local/err*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat xs*19 | verbose | egrep "^ER"
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat $* | verbose > look
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C kill %2
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X J  84
+
+C kill %1
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm look
+D /user/xxxx/Csh/Trace
+A /bin/mv look /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cat xs*19 | verbose > look
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C dbx
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/xxxx/Csh/Trace
+A /bin/mv core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Util*
+D /user/xxxx/Csh/Trace
+A cd ../Util* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C emacs verbose.c
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C mv verbose ~/bin/Local
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Utilities
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C his
+D /user/xxxx/Csh/Trace
+A history -r 20
+H NIL
+X NIL
+
+C cat xs*19 | verbose > look
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C rm look
+D /user/xxxx/Csh/Trace
+A /bin/mv look /user/xxxx/.deleted
+H NIL
+X NIL
+
+C cat xs*19 | verbose > look
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page look
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C his
+D /user/xxxx/Csh/Trace
+A history -r 20
+H NIL
+X NIL
+
+C error_count xs*19
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv view ~/bin/Local
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm look
+D /user/xxxx/Csh/Trace
+A /bin/mv look /user/xxxx/.deleted
+H NIL
+X NIL
+
+C view xharpert*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C rehash
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C view xharpert*
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Util*
+D /user/xxxx/Csh/Trace
+A cd ../Util* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/xxxx/Csh/Utilities
+A /bin/mv *CKP *BAK .*BAK .*CKP *core /user/xxxx/.deleted
+H NIL
+X NIL
+
+C rm *.o
+D /user/xxxx/Csh/Utilities
+A /bin/mv *.o /user/xxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Utilities
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Utilities
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh
+A cd ; dirs
+H NIL
+X NIL
+
+C cd bin
+D /user/xxxx
+A cd bin ; dirs
+H NIL
+X NIL
+
+C cd Local
+D /user/xxxx/bin
+A cd Local ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/xxxx/bin/Local
+A NIL
+H NIL
+X NIL
+
+C cd ../../Csh
+D /user/xxxx/bin/Local
+A cd ../../Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 11:27:25 1987
+E Fri Feb 20 11:30:36 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls Comp*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 13:44:54 1987
+E Fri Feb 20 13:46:41 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd Com*
+D /user/xxxx/Csh/Trace
+A cd Com* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C view 701-14
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxx/Csh/Trace/Compacted
+A cd /usr/games ; dirs
+H NIL
+X D  88
+
+C ls
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X NIL
+
+C rogue
+D /user/xxxx/Csh/Trace/Compacted
+A NIL
+H NIL
+X N  10
+
+
+S Tue Feb 24 16:58:50 1987
+E Tue Feb 24 17:00:53 1987
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd TRACE
+D /user/xxxx/Csh
+A cd TRACE ; dirs
+H NIL
+X D  88
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls Compacted
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C quota
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C quota -a
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 14:47:32 1987
+E Thu Feb 26 15:11:15 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls Compac*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mail jan
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 16:42:48 1987
+E Thu Feb 26 16:56:18 1987
+
+C cd /
+D /user/xxxx
+A cd / ; dirs
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C ls etc
+D /
+A NIL
+H NIL
+X NIL
+
+C ls etc/m*
+D /
+A NIL
+H NIL
+X NIL
+
+C emacs etc/motd
+D /
+A NIL
+H NIL
+X NIL
+
+C mail jan
+D /
+A NIL
+H NIL
+X NIL
+
+C Bin/Macros/vax -c
+D /
+A NIL
+H NIL
+X N  10
+
+
+S Sat Feb 28 15:10:19 1987
+E Sat Feb 28 16:37:55 1987
+
+C vax -a
+D /user/xxxx
+A NIL
+H NIL
+X N  10
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv Compacted ..
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H T
+X NIL
+
+C cd /usr/spool/at
+D /user/xxxx/Csh/Trace
+A cd /usr/spool/at ; dirs
+H NIL
+X NIL
+
+C ls
+D /usr/spool/at
+A NIL
+H NIL
+X NIL
+
+C l
+D /usr/spool/at
+A ls -las
+H NIL
+X NIL
+
+C cd
+D /usr/spool/at
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C tail lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm lookd
+D /user/xxxx/Csh/Trace
+A /bin/mv lookd /user/xxxx/.deleted
+H NIL
+X NIL
+
+C touch lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Compacted
+D /user/xxxx/Csh
+A cd Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Compacted
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C mkdir Source
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cp *.c Source
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cp *.h Source
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cp Make* Source
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *.c *.h Mak*
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C rm strings
+D /user/xxxx/Csh
+A /bin/mv strings /user/xxxx/.deleted
+H NIL
+X NIL
+
+C chmod 700 Source
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh
+A ls -las
+H NIL
+X NIL
+
+C cd Source
+D /user/xxxx/Csh
+A cd Source ; dirs
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *.c *.h Make*
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C ar x modfiles.ar
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Source
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Source
+A cd .. ; dirs
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh
+A ls -las
+H NIL
+X NIL
+
+C cd Csh.new
+D /user/xxxx/Csh
+A cd Csh.new ; dirs
+H NIL
+X NIL
+
+C zz_csh
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cat install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C install
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Csh.new
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C chmod 777 Trace
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh
+A ls -las
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh
+A cd ; dirs
+H NIL
+X J  81
+
+C fg
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx
+A ls -las
+H NIL
+X NIL
+
+C cd Csh/Comp*
+D /user/xxxx
+A cd Csh/Comp* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C page 7*
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C acct
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C acct
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 16:30:18 1987
+E Sat Feb 28 16:31:02 1987
+
+C echo hello
+D /user/xxxx/Csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C grep hello xgr*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep hello xxxxx*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 16:44:11 1987
+E Sat Feb 28 16:46:07 1987
+
+C ed /etc/motd
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat prune_daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 13:13:26 1987
+E Wed Mar  4 13:16:25 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page lookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep xxxx /etc/passwd | wc -l
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Comp*
+D /user/xxxx/Csh/Trace
+A cd ../Comp* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C 'l
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X S  11
+
+C l
+D /user/xxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+C error_count harpert
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C view smithc
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 16:02:19 1987
+E Thu Mar  5 16:05:00 1987
+
+C cd Csh/Compacted
+D /user/xxxx
+A cd Csh/Compacted ; dirs
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/xxxx/Csh/Compacted
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:49:28 1987
+E Tue Mar 10 10:51:52 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /etc/spool
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l /usr/spool/at
+D /user/xxxx/Csh/Trace
+A ls -las /usr/spool/at
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C page makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../compacted
+D /user/xxxx/Csh/Trace
+A cd ../compacted ; dirs
+H NIL
+X D  88
+
+C cd ../Compacted
+D /user/xxxx/Csh/Trace
+A cd ../Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 12:51:53 1987
+E Sat Mar 14 13:02:28 1987
+
+C set term vt100
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C set env
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C setenv
+D /user/xxxx
+A NIL
+H NIL
+X B  48
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /etc/at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /usr/spool/at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l /usr/spool/at
+D /user/xxxx/Csh/Trace
+A ls -las /usr/spool/at
+H T
+X NIL
+
+C cd ../Compacted
+D /user/xxxx/Csh/Trace
+A cd ../Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/xxxx/Csh/Compacted
+A ls -las
+H NIL
+X NIL
+
+C error-count schroede
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X N  10
+
+C quota
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd /etc/mothd
+D /user/xxxx/Csh/Compacted
+A cd /etc/mothd ; dirs
+H NIL
+X D  88
+
+C cd /etc/motd
+D /user/xxxx/Csh/Compacted
+A cd /etc/motd ; dirs
+H NIL
+X D  88
+
+C cd /etc
+D /user/xxxx/Csh/Compacted
+A cd /etc ; dirs
+H NIL
+X NIL
+
+C l motd
+D /etc
+A ls -las motd
+H NIL
+X NIL
+
+C emacs motd
+D /etc
+A NIL
+H NIL
+X NIL
+
+C setenv term=vt102
+D /etc
+A NIL
+H NIL
+X B  48
+
+C setenv term vt102
+D /etc
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /etc
+A NIL
+H NIL
+X NIL
+
+C setenv term vt102
+D /etc
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /etc
+A NIL
+H NIL
+X NIL
+
+C set term vt102
+D /etc
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /etc
+A NIL
+H NIL
+X NIL
+
+C set term=vt102
+D /etc
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /etc
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 13:46:38 1987
+E Sun Mar 15 13:53:08 1987
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C cd Compacted
+D /user/xxxx/Csh
+A cd Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C /bin/rm *
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxx/Csh/Compacted
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/xxxx/Csh
+A cd ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls .deleted
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C rm.deleted
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 22:33:09 1987
+E Tue Mar 24 22:37:26 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C /usr/spool/at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X Y 102
+
+C ls /usr/spool/at/*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/xxxx/Csh/Trace
+A cd Csh/Trace ; dirs
+H NIL
+X D  88
+
+C pwd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Compacted
+D /user/xxxx/Csh/Trace
+A cd ../Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 21:19:48 1987
+E Mon Mar 30 21:24:12 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C /usr/spool/at/*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X S  36
+
+C ls /usr/spool
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /usr/spool/at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make daemon
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C kill %1
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Comp*
+D /user/xxxx/Csh/Trace
+A cd ../Comp* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 11 14:51:43 1987
+E Sat Apr 11 14:57:02 1987
+
+C cd /etc/msg
+D /user/xxxx
+A cd /etc/msg ; dirs
+H NIL
+X D  88
+
+C cd /
+D /user/xxxx
+A cd / ; dirs
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C ls etc
+D /
+A NIL
+H NIL
+X NIL
+
+C ls etc/motd
+D /
+A NIL
+H NIL
+X NIL
+
+C emacs etc/motd
+D /
+A NIL
+H NIL
+X NIL
+
+C set term vt100
+D /
+A NIL
+H NIL
+X NIL
+
+C emacs etc/motd
+D /
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /
+A NIL
+H NIL
+X NIL
+
+C emacs etc/motd
+D /
+A NIL
+H T
+X NIL
+
+C cd
+D /
+A cd ; dirs
+H NIL
+X NIL
+
+C cd Csh
+D /user/xxxx
+A cd Csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/xxxx/Csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make prune
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ../Com*
+D /user/xxxx/Csh/Trace
+A cd ../Com* ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls | wc
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C mail jan
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 15:47:20 1987
+E Wed Apr 22 15:49:16 1987
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /usr.spool/at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls /usr/spool/at
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C c lookd
+D /user/xxxx/Csh/Trace
+A more lookd
+H NIL
+X NIL
+
+C rmlookd
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C ld
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 10:21:21 1987
+E Wed Apr 29 10:22:32 1987
+
+C cls Csh/Trace | wc -l
+D /user/xxxx
+A NIL
+H NIL
+X N  10
+
+C ls Csh/Trace | wc -l
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C man at
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls /usr/spool/at
+D /user/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd Csh/.Trace
+D /user/xxxx
+A cd Csh/.Trace ; dirs
+H NIL
+X D  88
+
+C cd Csh/Trace
+D /user/xxxx
+A cd Csh/Trace ; dirs
+H NIL
+X NIL
+
+C cat Mak*
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C make weekly &
+D /user/xxxx/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Sat May  2 22:11:15 1987
+E Sat May  2 22:19:24 1987
+
+C cd Csh/Compacted
+D /user/xxxx
+A cd Csh/Compacted ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C ls ../Trace/ner*
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X M  09
+
+C tail -20 nerbas
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL
+
+C mail nerbas
+D /user/xxxx/Csh/Compacted
+A NIL
+H NIL
+X NIL

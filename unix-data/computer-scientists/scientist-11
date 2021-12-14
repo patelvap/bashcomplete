@@ -1,0 +1,1380 @@
+S Mon Feb 23 15:03:02 1987
+E Mon Feb 23 15:12:44 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C d
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C fgrep Vickers /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep Joan /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep Bruce /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 16:53:43 1987
+E Thu Feb 26 16:57:54 1987
+
+C fgrep orrain /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep icker /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail storeyl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 11:25:23 1987
+E Fri Feb 27 11:26:48 1987
+
+C fgrep Lorraine /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail storeyl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 14:20:58 1987
+E Fri Feb 27 14:22:17 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 10:26:50 1987
+E Mon Mar  2 10:28:46 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 10:19:11 1987
+E Wed Mar 18 10:23:06 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail storeyl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 22:37:27 1987
+E Wed Mar 18 22:41:33 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:32:57 1987
+E Tue Mar 31 14:41:13 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *junk*
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat dead.letter
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm dead*
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat mbox
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls -l
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed mbox
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l *
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 21:04:27 1987
+E Fri Apr  3 21:06:18 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 12:34:39 1987
+E Tue Apr  7 12:36:58 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 08:52:03 1987
+E Mon Apr 20 08:55:18 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep /etc/passwd woodward
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep woodward /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 15:28:13 1987
+E Mon Apr 20 15:28:52 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 11:44:07 1987
+E Wed Apr 22 11:44:43 1987
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 22:30:25 1987
+E Thu Apr 23 22:33:24 1987
+
+C 1111
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Sat Apr 25 13:50:12 1987
+E Sat Apr 25 13:57:20 1987
+
+C mail 
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep Lorrain /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep irpa /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail storeyl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 13:31:39 1987
+E Mon Apr 27 13:32:41 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 09:07:02 1987
+E Mon May  4 09:07:53 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 12:41:35 1987
+E Wed May  6 12:42:49 1987
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs receive.c
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l *
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 13:14:20 1987
+E Wed May  6 13:24:15 1987
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man call
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cat /etc/netccitt
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C call 61600095
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X J  81
+
+
+S Wed May  6 13:24:57 1987
+E Wed May  6 13:30:22 1987
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod +x uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X J  81
+
+
+S Wed May  6 13:31:05 1987
+E Wed May  6 13:38:12 1987
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man call
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat self.mac
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm self.mac
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C D
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Fri May  8 11:54:23 1987
+E Fri May  8 11:55:29 1987
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 12:50:26 1987
+E Mon May 11 12:51:26 1987
+
+C setem
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .profile
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 14:38:49 1987
+E Mon May 11 14:42:32 1987
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo $term
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 14:43:24 1987
+E Mon May 11 14:46:37 1987
+
+C setenv TERM aaa-60
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .login
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tty
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 14:47:02 1987
+E Mon May 11 14:54:29 1987
+
+C ls -al
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .memos.BAK
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat > .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat > .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat >> .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -all
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .memos.BAK
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo .login.*K*
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .login.*K*
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .newsrc
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .newsrc
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .CKP
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C .el
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C rm .CKP
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .emacs_91
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al 681
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 09:57:03 1987
+E Tue May 12 10:26:49 1987
+
+C > reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X S  35
+
+C cat > reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man call
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed resume
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed nar
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep eena /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 10:53:51 1987
+E Tue May 12 11:33:28 1987
+
+C ls ~terry/.emacs_pro
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~terry/.emacs_pro
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~terry/.emacs_pro .
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .emacs_pro
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .emacs_pro
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv EPATH /usr/local/lib/emacs/maclib
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .memos
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat *.CKP
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *CKP
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat junk
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail keenan < junk
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fgrep Jon /etc/passwd
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 11:12:01 1987
+E Tue May 12 11:12:22 1987
+
+C cat reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 11:29:25 1987
+E Tue May 12 11:29:39 1987
+
+C cat junk
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 11:45:35 1987
+E Tue May 12 12:16:56 1987
+
+C emacs reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv reading books
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv books journals reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat reading/*
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ;
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ; junk
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C #junk
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cat .login
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv EPATH /usr/local/lib/emacs/maclib
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *BAK
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *CKP
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm .emacs_91
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man alarm
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man setitimer
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 12:17:43 1987
+E Tue May 12 13:25:37 1987
+
+C emacs todo
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .emacs_91
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv EPATH /usr/local/lib/emacs/maclib
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 15:20:53 1987
+E Tue May 12 17:37:57 1987
+
+C ls
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 08:51:00 1987
+E Wed May 13 09:06:47 1987
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uol
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed .login
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~terry/.emacs_pro .
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat what
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 09:07:02 1987
+E Wed May 13 10:13:53 1987
+
+C mail terry < what
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv EPATH /usr/local/emacs/emacs_old/maclib
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs_old
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat reminder
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv EPATH /usr/local/lib/emacs/emacs_old/maclib
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls $EPATH
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir ideas
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv schedule ideas
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs_old
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 09:36:16 1987
+E Wed May 13 09:36:24 1987
+
+C ls reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 16:11:26 1987
+E Wed May 13 16:41:21 1987
+
+C setenv EPATH /usr/local/lib/emacs/emacs_old/maclib
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C unsetenv EPATH
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uofl
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 16:20:51 1987
+E Wed May 13 16:21:30 1987
+
+C ls reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm reading/*K*
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls reading
+D /user/grads/xxxxxx
+A NIL
+H NIL
+X NIL

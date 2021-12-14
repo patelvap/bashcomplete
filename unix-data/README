@@ -1,0 +1,256 @@
+================================================================
+		 CONFIDENTIALITY AND ACKNOWLEDGEMENTS
+================================================================
+
+All subjects were promised confidentiality and anonymous references 
+to published data.  To this end, each trace files was modified
+by replacing the subject's names with x's. For example, if a command 
+line in bloggs's original trace file was "cd ~blogg", it was changed
+to "cd ~xxxxx". Still, I ask you to try to preserve confidentiality
+when presenting or publishing a trace segment that may hint to a
+subject's identity.
+
+The text and trace files are copyrighted by:
+    Saul Greenberg
+    Dept of Computer Science
+    University of Calgary
+    Calgary, Alberta, Canada
+
+You are free to use the data if you:
+1) acknowledge the reference as
+   Greenberg, S. (1988). "Using Unix: collected traces 
+      of 168 users".   Research Report 88/333/45, 
+      includes tar-format cartridge tape. Department
+      of Computer Science, University of Calgary, Alberta.
+2) protect the confidentiality of a subject.
+
+================================================================
+			OVERVIEW
+================================================================
+
+This directory contains 168 trace files collected
+from 168 different users of Unix csh. The users
+are divided into four different user groups, each in
+a different directory:
+
+	Number of subjects	Group name
+		55		novice-programmers
+		36		experienced-programmers
+		52		computer-scientists
+		25		non-programmers
+	     =======
+	       168
+
+In addition, there is a directory called show-error-code
+which is a simple C program that will convert the error codes
+found in the trace file into more meaningful descriptions.
+	
+Further details, including the method of data collection,
+are described in the paper mentioned above.
+
+================================================================
+			TRACE FILES
+================================================================
+
+Every non-empty line in the trace file is preceded with a 
+one-letter code.
+
+S: The starting time of the current login session.
+E: The end time of the current login session (may be NIL)
+
+C: The command line entered by the user 
+D: The current working directory 
+A: The alias the command line invoked (may be nil)
+H: Indicates ifthe line was retrieved through history.
+   T if it was, else NIL
+X: Indicates if an error has occurred, followed by a letter and
+   number code. See the section on error codes.
+
+
+================================================================
+			EXAMPLE
+================================================================
+This fragment from an imaginary trace file shows a single 
+login session with two commands. All text from the ";" on are
+comments that do not appear in the trace file.
+
+S Fri Feb 20 23:39:46 1987	; Session starting time
+E NIL				; Session end time not available
+
+
+C who				; the line entered to csh 
+D /user/cpsc500/l01b91/xxxxxx	; the current directory
+A who | more			; "who" is an alias for "who | more"
+H NIL				; history was not used
+X NIL				; the line did not generate a csh error
+
+C cd ~cpsc500					; the line entered to csh
+D /user/cpsc500/l01b91/xxxxxx			; the current directory
+A cd ~cpsc500 ; set prompt = "[$cwd:t] =!==> "	; "cd" is an alias"
+H NIL						; history was not used
+X D  69				; a csh error was produced, classified as 
+				; a directory error (code D). More
+				; specifically, an unknown user (code 69) 
+				; was given in the directory path.
+
+C who				; the line was recalled via history (see H)
+D /user/cpsc500/l01b91/xxxxxx	; the current directory
+A who | more			; "who" is an alias for "who | more"
+H T				; history used
+X NIL				; the line did not generate a csh error
+
+S Tue Feb 24 23:41:39 1987	; A new login session
+E NIL				;  and so on....
+
+
+================================================================
+			ERROR CODES
+================================================================
+
+The letter describes the general kind of error,
+while the number describes the actual error. 
+See the example above (X D 69) for its application.
+
+The C program in the directory show-error-code will replace
+the letter and number equivalents with its textual equivalent.
+
+The meanings of the codes are as follows. 
+
+   S	  syntax error
+   M	  reg expression error
+   N	  execution error
+   D	  directory error
+   A	  alias problem
+   R	  redirection problem
+   H	  history problem
+   E	  expression error
+   B	  built in problem
+   C	  control error
+   J	  job error
+   Y	  system error
+
+   0	unknown error
+   1	*chdir didn't work
+   2	No other directory
+   3	Directory stack not that deep
+   4	Bad directory
+   5	Directory stack empty
+   6	No home directory
+   7	Can't change to home directory
+   8	Usage: dirs [ -l ]
+   9	No match
+   10	Command not found
+   11	Unmatched (something)
+   12	Word too long
+   13	Variable syntax
+   14	Expansion buf ovflo
+   15	Bad ! form
+   16	No prev sub
+   17	Bad substitute
+   18	No prev lhs
+   19	Rhs too long
+   20	Bad ! modifier
+   21	Modifier failed
+   22	Subst buf ovflo
+   23	Bad ! arg selector
+   24	No prev search
+   25	: Event not found
+   26	Alias loop
+   27	Too many )'s
+   28	Too many ('s
+   29	Badly placed (
+   30	Missing name for redirect
+   31	Ambiguous output redirect
+   32	Can't << within ()'s
+   33	Ambiguous input redirect
+   34	Badly placed ()'s
+   35	Invalid null command
+   36	Ambiguous
+   37	$< line too long
+   38	No file for $0
+   39	Subscript out of range
+   40	Bad : mod in $
+   41	<< terminator not found
+   42	Line overflow
+   43	Divide by 0
+   44	Mod by 0
+   45	Expression syntax
+   46	Missing }
+   47	Missing file name
+   48	Too few arguments
+   49	Too many arguments
+   50	Too dangerous to alias that
+   51	Empty if
+   52	Improper then
+   53	Syntax error
+   54	Not in while/foreach
+   55	Invalid variable
+   56	Words not ()'d
+   57	then/endif not found
+   58	endif not found
+   59	endsw not found
+   60	end not found
+   61	label not found
+   62	Improper mask
+   63	No such limit
+   64	Improper or unknown scale factor
+   65	Bad scaling; did you mean ?
+   66	Can't suspend a login shell (yet)
+   67	Can't from terminal
+   68	Not login shell
+   69	Unknown user:
+   70	Path error
+   71	Missing ]
+   72	Arguments too long
+   73	Pathname too long
+   74	Unmatched `
+   75	Too many words from
+   76	Undefined variable
+   77	Usage: jobs [ -l ]
+   78	Bad signal number
+   79	Unknown signal; kill -l lists signals
+   80	Arguments should be jobs or process id's
+   81	There are stopped jobs
+   82	No current job
+   83	No previous job
+   84	No such job
+   85	No job matches pattern
+   86	No job control in this shell
+   87	No job control in subshells
+   88	No such file or directory
+   89	Error 0
+   90	Not super-user
+   91	No such file or directory
+   92	No such process
+   93	Interrupted system call
+   94	I/O error
+   95	No such device or address
+   96	Arguments too long
+   97	Exec format error
+   98	Bad file number
+   99	No children
+   100	No more processes
+   101	Not enough core
+   102	Permission denied
+   103	Error 14
+   104	Block device required
+   105	Mount device busy
+   106	File exists
+   107	Cross-device link
+   108	No such device
+   109	Not a directory
+   110	Is a directory
+   111	Invalid argument
+   112	File table overflow
+   113	Too many open files
+   114	Not a typewriter
+   115	Text file busy
+   116	File too large
+   117	No space left on device
+   118	Illegal seek
+   119	Read-only file system
+   120	Too many links
+   121	Broken Pipe
+   122	Disk quota exceeded
+
+

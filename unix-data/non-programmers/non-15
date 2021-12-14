@@ -1,0 +1,3736 @@
+S Mon Feb 23 11:22:54 1987
+E Mon Feb 23 12:27:56 1987
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 12:29:43 1987
+E Mon Feb 23 12:30:21 1987
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 10:03:54 1987
+E Tue Feb 24 12:36:28 1987
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C head2
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 10:12:13 1987
+E Tue Feb 24 12:35:07 1987
+
+C 
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bibl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bibl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C makbib bibl > bib
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mkbib bibl > bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs633
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633 | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 12:40:25 1987
+E NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633.save | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633.save | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633.save | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:31:50 1987
+E Tue Feb 24 13:38:10 1987
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633.save | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 633.save | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:55:28 1987
+E Tue Feb 24 13:56:30 1987
+
+C nroff bib | lpr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:57:44 1987
+E Tue Feb 24 13:58:56 1987
+
+C emacs bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff bib | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 14:00:30 1987
+E NIL
+
+C nroff bib | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 14:15:12 1987
+E Tue Feb 24 14:30:04 1987
+
+C emacscover
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs cover
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 cover | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs cover
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 cover
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 cover | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs cover
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 15:31:16 1987
+E Wed Feb 25 15:37:29 1987
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o7-8 head2 633.save | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 15:38:13 1987
+E Wed Feb 25 15:39:20 1987
+
+C emacs 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o9 head2 633.save | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 11:22:04 1987
+E Mon Mar  2 12:34:44 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C lllll
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar  2 13:23:42 1987
+E Mon Mar  2 13:40:18 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 15:50:50 1987
+E Mon Mar  2 16:28:01 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 10:44:20 1987
+E Tue Mar  3 11:21:04 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o4 head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 11:22:43 1987
+E Tue Mar  3 11:25:08 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 12:55:32 1987
+E Tue Mar  3 15:46:19 1987
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacsspsc
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 16:28:26 1987
+E Tue Mar  3 16:58:59 1987
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 spsc | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 17:01:31 1987
+E Tue Mar  3 17:10:40 1987
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o1 head2 spsc | more &
+D /user/xxxxxx
+A NIL
+H NIL
+X J  81
+
+C nroff -o1 head2 spsc | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X J  81
+
+C spell spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs spsc
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o3 head2 spsc | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X J  81
+
+
+S Wed Mar  4 15:37:44 1987
+E Wed Mar  4 15:38:57 1987
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs budget
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff budget | lpr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 17:26:51 1987
+E Wed Mar  4 20:41:52 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o5-6 head2 prop2 | setuphp -8 | hpr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs b
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkbib b > bb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff bb | kore
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C nroff bb | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs b
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 bb | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs head1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head1 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs b
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff bb | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff bb | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:46:36 1987
+E Thu Mar  5 11:30:51 1987
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C nroff prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs stankey
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 11:31:43 1987
+E Thu Mar  5 12:04:55 1987
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C head2
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o7 head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C hprm 227
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 13:16:33 1987
+E Thu Mar  5 13:20:26 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 bb | hpr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 14:22:24 1987
+E Thu Mar  5 15:37:19 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o4 head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head3
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head4
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o2 head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 09:43:32 1987
+E Mon Mar  9 12:41:07 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | sepuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C nroff head
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | setuphp -8 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 propl | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Judyl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs jol
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm jol
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume ?more
+D /user/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 Ian | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 Ian | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 Ian | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 Ian | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 13:43:04 1987
+E Mon Mar  9 14:02:50 1987
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 10:54:18 1987
+E Thu Mar 12 11:05:29 1987
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 11:06:20 1987
+E Thu Mar 12 11:12:33 1987
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 11:30:54 1987
+E Thu Mar 12 11:50:09 1987
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 11:59:54 1987
+E Thu Mar 12 12:07:16 1987
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 15:36:17 1987
+E Thu Mar 12 15:41:52 1987
+
+C emacs rpw
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | hpr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rpw | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 15:43:30 1987
+E Sat Mar 21 16:17:08 1987
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 08:27:25 1987
+E Sun Mar 22 11:32:05 1987
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 11:32:24 1987
+E Sun Mar 22 12:03:49 1987
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 13:13:08 1987
+E Sun Mar 22 13:17:34 1987
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 13:19:05 1987
+E NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 19:54:31 1987
+E Sun Mar 22 21:12:55 1987
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/games
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C wargames
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C emacs wargames
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+C emacs title
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 21:13:19 1987
+E Sun Mar 22 21:51:16 1987
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs phy
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 21:39:15 1987
+E Sun Mar 22 23:04:40 1987
+
+C emacs phy
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkbib phy > phy1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs phy1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs phy1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 phy1 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 phy1 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o8 head2 6332 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -o8 head2 6332 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 11:13:53 1987
+E Mon Mar 23 11:24:32 1987
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 15:18:24 1987
+E Thu Mar 26 15:24:46 1987
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 09:33:22 1987
+E Wed Apr  1 09:55:45 1987
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 09:44:56 1987
+E Tue Apr  7 10:18:33 1987
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 10:27:03 1987
+E Tue Apr  7 11:12:49 1987
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 12:47:44 1987
+E Tue Apr  7 14:41:30 1987
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 final | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 16:31:31 1987
+E Tue Apr  7 17:26:03 1987
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 19:02:03 1987
+E Tue Apr  7 22:12:39 1987
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C  emacs
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 final | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs inv
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 inv | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 22:38:34 1987
+E Tue Apr  7 22:42:38 1987
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 prop2 | lpr _Pci &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 22:46:26 1987
+E Tue Apr  7 22:50:28 1987
+
+C nroff head2 prop2 | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 14:59:44 1987
+E Wed Apr  8 16:57:58 1987
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs final
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs finb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkbib finb > finbb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 finbb | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs finbb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 finbb | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 13:35:11 1987
+E Fri Apr 10 13:52:56 1987
+
+C emacs finbb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 finbb | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs finbb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 finbb | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 final | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C hprm
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs fint
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 fint | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 13:54:34 1987
+E Fri Apr 10 13:56:09 1987
+
+C emacs pool
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm pool
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:06:59 1987
+E Fri Apr 10 15:08:52 1987
+
+C nroff head2 final | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 final | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 fint | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:20:05 1987
+E Fri Apr 10 15:24:15 1987
+
+C nroff head2 final | Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C nroff head2 final | -Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C nroff head2 final | Pci-lq &
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C nroff head2 final | lpr -Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 fint | lpr -Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 finbb | lpr -Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:26:13 1987
+E Fri Apr 10 15:26:33 1987
+
+C nroff head2 final | lpr -Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:49:24 1987
+E Fri Apr 10 15:50:26 1987
+
+C nroff head2 final | lpr -Pcilq &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 16:47:31 1987
+E Fri Apr 24 17:00:32 1987
+
+C cd /usr/games
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C banner "CONGRADULATIONS MEGAN AND BRIAN" | lpr &
+D /usr/games
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 10:50:12 1987
+E Mon Apr 27 11:03:20 1987
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 11:04:54 1987
+E NIL
+
+C emacs 6332
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | hpr
+D /user/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C emacs bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bib1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs bb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs b
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs phy1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2 phy1 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 12:10:25 1987
+E Mon Apr 27 12:22:23 1987
+
+C nroff head2 6332 | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 phy1 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 6332 | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 t | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 11:29:01 1987
+E Wed May  6 12:09:39 1987
+
+C email
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 13:26:52 1987
+E Wed May  6 15:23:18 1987
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May  7 10:56:43 1987
+E Thu May  7 11:09:05 1987
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May  7 13:12:02 1987
+E Thu May  7 13:43:22 1987
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs t
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs tt
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May  7 13:44:58 1987
+E Thu May  7 13:47:41 1987
+
+C emacs rdr
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 rdr | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 14:03:40 1987
+E Wed May 13 15:11:12 1987
+
+C mail ;
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm Ian
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm phy
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm phy1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm finb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm finbb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm fint
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm dfhgj
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm cover
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs dead.letter
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm dead.letter
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm b
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm 633
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm 633.save
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head3
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm head3
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs inv
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm inv
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm stankey
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm bb
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm bib
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm bibl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs 1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm 1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm prop1
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm propl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs prop2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm schol
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 14:11:02 1987
+E Wed May 13 14:12:26 1987
+
+C mail
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May 14 12:00:14 1987
+E Thu May 14 12:30:40 1987
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May 14 13:19:48 1987
+E Thu May 14 14:33:24 1987
+
+C emacspreprop[D[D[D[D[D[D[D[D[D[D[C
+D /user/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 preprop | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu May 14 14:55:02 1987
+E Thu May 14 15:17:00 1987
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 preprop | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 preprop | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May 15 08:15:44 1987
+E Fri May 15 08:31:42 1987
+
+C emacs preprop
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 preprop | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May 15 10:10:30 1987
+E Fri May 15 11:32:49 1987
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | lpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May 15 11:33:31 1987
+E Fri May 15 11:35:27 1987
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May 15 11:36:19 1987
+E Fri May 15 11:53:19 1987
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C qhpr
+D /user/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C spell resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May 15 12:24:47 1987
+E Fri May 15 13:04:29 1987
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs resume
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs head2
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | more
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 resume | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May 15 13:12:58 1987
+E Fri May 15 13:15:07 1987
+
+C emacs coverl
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff head2 coverl | hpr &
+D /user/xxxxxx
+A NIL
+H NIL
+X NIL

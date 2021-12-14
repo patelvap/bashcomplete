@@ -1,0 +1,11270 @@
+S Mon Feb 23 14:01:33 1987
+E NIL
+
+C setenv -TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail lagore
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n lagore
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C WHO
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write lagore
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk lagore@vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write lagore
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write lagore
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Feb 23 14:48:22 1987
+E NIL
+
+C ibm
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv -TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd snow
+D /user/cpsc500/l01b91/xxxxxxx
+A cd snow && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/snow
+A /bin/ls -F
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/snow
+A logout
+H NIL
+X M  09
+
+
+S Tue Feb 24 11:16:15 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more thetest
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.BAK *.CKP
+D /user/cpsc500/l01b91/xxxxxxx
+A mv -f *.BAK *.CKP ~/.delete
+H NIL
+X NIL
+
+C rm calc
+D /user/cpsc500/l01b91/xxxxxxx
+A mv -f calc ~/.delete
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more doc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more ada.login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 25 10:55:53 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Wed Feb 25 20:19:57 1987
+E Wed Feb 25 20:27:28 1987
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e ada.login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs ada.login
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C a.mklib
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C a.mklib
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ..
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 20:28:40 1987
+E Wed Feb 25 20:47:41 1987
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx
+A mv -f -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ~/.delete ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C a.mklib
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ..
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C chmod 755
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C open ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A chmod 755 ADA
+H NIL
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C close ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A chmod 700 ADA
+H NIL
+X NIL
+
+C cp .login ada.login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ada part.a -M main -o part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main -o part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C talk marozoff
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C jo0bs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X J  82
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C !
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C !
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X N  10
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C part_run
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A mv -f -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ~/.delete ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs .cshrc
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C emacs .chsrc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .cshrc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxxx
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X M  09
+
+C list
+D /user/cpsc500/l01b91
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd xxxxxxx
+D /user/cpsc500/l01b91
+A cd xxxxxxx && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C cd .delete
+D /user/cpsc500/l01b91/xxxxxxx
+A cd .delete && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/.delete
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxxx/.delete
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C lgout
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 12:23:14 1987
+E NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C ada part.a -M main -o part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C chmod 755 part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm home
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A rm -i home
+H NIL
+X NIL
+
+C ada part.a -M main -o part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 27 12:43:20 1987
+E NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main -o part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C alarm 12:55
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C alrm
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C alarm
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C alarm
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X N  10
+
+C ada part.a -M main -o part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H T
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Fri Feb 27 13:42:21 1987
+E NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 27 13:44:15 1987
+E Fri Feb 27 13:46:33 1987
+
+C cat part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main -o part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 13:55:18 1987
+E NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "lpr" -C "RIZ  1069" typescript
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C timruptime
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X NIL
+
+
+S Fri Feb 27 13:56:34 1987
+E Fri Feb 27 14:02:42 1987
+
+C ada part.a -M main -o part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C cat part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C part.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 05:23:20 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 05:48:28 1987
+E NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e abstract8
+D /user/cpsc500/l01b91/xxxxxxx/547
+A emacs abstract8
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C e abstract8
+D /user/cpsc500/l01b91/xxxxxxx/547
+A emacs abstract8
+H NIL
+X NIL
+
+
+S Tue Mar  3 20:35:24 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar  4 13:18:11 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" matrix.a
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Thu Mar  5 15:21:52 1987
+E NIL
+
+C cd LISP
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/LISP
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr list1
+D /user/cpsc500/l01b91/xxxxxxx/LISP
+A "lpr" -C "RIZ  1069" list1
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/LISP
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/LISP
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ~/C
+H NIL
+X D  88
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs matrix.a
+H NIL
+X NIL
+
+C x.a
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C fred matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar  5 15:58:51 1987
+E NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Fri Mar  6 10:13:41 1987
+E NIL
+
+C cd modula
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd MODULA
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd MOD
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A /bin/ls -F
+H NIL
+X NIL
+
+C fred component.mod
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr component.mod
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A "lpr" -C "RIZ  1069" component.mod
+H NIL
+X NIL
+
+C lpr component.mod
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A "lpr" -C "RIZ  1069" component.mod
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 13:10:41 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs matrix.a
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar  7 12:10:32 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+
+S Wed Mar 11 10:56:30 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail poonja
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n poonja
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Thu Mar 12 12:56:34 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/cpsc500/l01b01
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd /cpsc500
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd handouts
+D /user/cpsc500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr n028
+D /user/cpsc500/handouts
+A "lpr" -C "RIZ  1069" n028
+H NIL
+X NIL
+
+C lpr no28
+D /user/cpsc500/handouts
+A "lpr" -C "RIZ  1069" no28
+H NIL
+X NIL
+
+C more no28
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C setenv TERM apl100
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C more no28
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C byee
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X N  10
+
+C bye
+D /user/cpsc500/handouts
+A logout
+H NIL
+X M  09
+
+
+S Thu Mar 12 13:14:38 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/cpsc500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more ex1
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more processes.mod
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C more Processes.mod
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C more Processes.def
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C more Primes.mod
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more TryReadb.mod
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more TryCheat.mod
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more TryWriteb.mod
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C time
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Sun Mar 15 13:21:26 1987
+E NIL
+
+C mail hirji
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n hirji
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 15 15:28:11 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 16 09:45:48 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Mon Mar 16 13:52:45 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 18 13:52:26 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Fri Mar 20 10:05:14 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" matrix.a
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:05:23 1987
+E NIL
+
+C cd ~greenberg
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd bin
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd l ; ocal
+D /user/grads/greenberg/bin
+A NIL
+H NIL
+X D  88
+
+C cd local
+D /user/grads/greenberg/bin
+A NIL
+H NIL
+X D  88
+
+C cd ..
+D /user/grads/greenberg/bin
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /user/grads/greenberg
+A NIL
+H NIL
+X D  88
+
+C cd Lib
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd LlinkedList
+D /user/grads/greenberg/Lib
+A NIL
+H NIL
+X D  88
+
+C cd LinkedList
+D /user/grads/greenberg/Lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib/LinkedList
+A /bin/ls -F
+H NIL
+X NIL
+
+C more linked_list.c
+D /user/grads/greenberg/Lib/LinkedList
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib/LinkedList
+A /bin/ls -F
+H NIL
+X NIL
+
+C more linked_list.h
+D /user/grads/greenberg/Lib/LinkedList
+A NIL
+H NIL
+X NIL
+
+C lpr linked_list.c
+D /user/grads/greenberg/Lib/LinkedList
+A "lpr" -C "RIZ  1069" linked_list.c
+H NIL
+X NIL
+
+C lpr linked_list.h
+D /user/grads/greenberg/Lib/LinkedList
+A "lpr" -C "RIZ  1069" linked_list.h
+H NIL
+X NIL
+
+C lpq
+D /user/grads/greenberg/Lib/LinkedList
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/grads/greenberg/Lib/LinkedList
+A logout
+H NIL
+X M  09
+
+
+S Thu Mar 26 11:42:20 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su yee
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar 27 20:28:56 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail yee@vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n yee@vaxc
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ye
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Sat Mar 28 10:31:12 1987
+E NIL
+
+C Null Command
+D XN  10
+A NIL
+H NIL
+X N  10
+
+C whop
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e writedb.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs writedb.c
+H NIL
+X NIL
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs read_db.c
+H NIL
+X NIL
+
+C e modify.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs modify.c
+H NIL
+X NIL
+
+C lpr modify.c
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" modify.c
+H NIL
+X NIL
+
+C lpr read_db.c
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" read_db.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr writedb.c
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" writedb.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Sat Mar 28 14:35:04 1987
+E NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X D  88
+
+C cd Wprograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X D  88
+
+C cd WPrograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C mkdir Calculator
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C mkdir Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C move phaba.c Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C mv phaba.c Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C mv habadex.c Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C mv makeh Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C mv makep Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C make -f makeh makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C more makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make -f makeh makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C e source .cshrc
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A emacs source .cshrc
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/WPrograms && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 15:21:36 1987
+E NIL
+
+C pwd
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 15:58:37 1987
+E Sat Mar 28 16:02:58 1987
+
+C cd 547/WPrograms
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/WPrograms && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:03:53 1987
+E Sat Mar 28 16:08:08 1987
+
+C cd
+D /user/cpsc531/l01b91/yee/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C chmod 755 WPrograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X D  88
+
+C cd WPrograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X J  68
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:08:56 1987
+E Sat Mar 28 16:12:45 1987
+
+C cd 547/WPrograms
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/WPrograms && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:19:50 1987
+E NIL
+
+C cd 547/WPrograms/Habadex
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/WPrograms/Habadex && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g g
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X J  82
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 28 22:11:11 1987
+E NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 29 10:36:46 1987
+E NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/xxxxxxx/547
+A cd W* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd Habadex.c && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X D  88
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp habadex.c habadex.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C mkdir Phaba
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C mv phaba.c Phaba/phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm phaba.o phaba_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i phaba.o phaba_vax
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv makep Phaba/makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd .delete
+D /user/cpsc500/l01b91/xxxxxxx
+A cd .delete && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/.delete
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/.delete
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm habadex_vax habadex.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i habadex_vax habadex.o
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd W*/H*
+D /user/cpsc500/l01b91/xxxxxxx/547
+A cd W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "lpr" -C "RIZ  1069" habadex.c
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr examples.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A "lpr" -C "RIZ  1069" examples.c
+H NIL
+X NIL
+
+C lpr examples.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A "lpr" -C "RIZ  1069" examples.h
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp examples.h Habadex/habadex.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.h
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "lpr" -C "RIZ  1069" habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C rm habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i habadex_vax
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ]e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs Makefile
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+
+S Sun Mar 29 10:38:54 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C make -f makehabadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make -f makh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadkdkjladkdkdkdk
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C exdkalkdfaldksdfkd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C hjhkjhj
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C dad
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm habadex.h.BAK habadex.h.CKP
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i habadex.h.BAK habadex.h.CKP
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Phaba
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd Phaba && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp ~xxxxxxx/read_db.c read_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cp ~xxxxxxx/write_db.c write_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp ~xxxxxxx/writedb.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cp ~xxxxxxx/writedb.c writedb.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H T
+X NIL
+
+C cp ~xxxxxxx/modify.c modify.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp makep Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs Makefile
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C dakdjfl ; kasdjfksjadfkd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 12:38:38 1987
+E NIL
+
+C lskjdfl
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx
+A clear
+H NIL
+X NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A logout
+H NIL
+X M  09
+
+
+S Sun Mar 29 14:53:46 1987
+E NIL
+
+C cd 547/WPrograms
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/WPrograms && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make -f make p
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C e phabaaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phabaaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e address_book
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs address_book
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cp phaba.c phaba.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g -g
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g
+H NIL
+X NIL
+
+C ps -a
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g -a
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C lpr habadex.h habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "lpr" -C "RIZ  1069" habadex.h habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr modify.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" modify.c
+H NIL
+X NIL
+
+C lpr writedb.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" writedb.c
+H NIL
+X NIL
+
+C lpr read_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" read_db.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv modify.c modify.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C mv read_db.c read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C mv writedb.c writedb.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C mv makep Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.c
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e modify.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs modify.h
+H NIL
+X NIL
+
+C e modify.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs modify.h
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C e writedb.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs writedb.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e writedb.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs writedb.h
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ]ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C e modify.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs modify.h
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C more address_book
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 14:56:16 1987
+E NIL
+
+C  & [1#,"rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X S  11
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g -g
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g -g
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C kill -9 13622 13607
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C kill -9 146
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X Y  92
+
+C kill -9 1146
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 15:00:39 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs read_db.c
+H NIL
+X NIL
+
+C e writedb.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs writedb.c
+H NIL
+X NIL
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs read_db.c
+H NIL
+X NIL
+
+C e writedb.c
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs writedb.c
+H NIL
+X NIL
+
+C e address_book
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs address_book
+H NIL
+X NIL
+
+
+S Sun Mar 29 15:44:28 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C dfsadf
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make -f makep
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rm habadex.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i habadex.o
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C oijjjkk
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+
+S Sun Mar 29 15:49:20 1987
+E NIL
+
+C mv read_db.c 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv writedb.c 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e address_book
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs address_book
+H NIL
+X NIL
+
+C more address_book
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.c
+H NIL
+X NIL
+
+C e writedb.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs writedb.c
+H NIL
+X NIL
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.c
+H NIL
+X NIL
+
+C e writedb.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs writedb.c
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C more read*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C more writedb.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 29 20:49:46 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/W*/H*/P
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C 547/W*/H*/P
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X M  09
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs Makefile
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cp modify.h modify.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e modify.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs modify.h
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:00:54 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C e address_book
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs address_book
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C cc -c -o driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -c -c -o driver.c
+H NIL
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H NIL
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H T
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H T
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H T
+X NIL
+
+C cc -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -c -c driver.c
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e read_db.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.c
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C cc -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -c -c driver.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C reiver
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C q5, ( ? fred phab.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X S  28
+
+C fred phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C mnail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "mail" -n
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "mail" -n
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv data_base Habadex
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv data_base 547/W*/H*/data_base
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+C mv Habadex 547/W*/H*/data_base
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Habadex
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv Habadex data_base
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp database database.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp ~xxxxxxx/data_base database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C e database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs database
+H NIL
+X NIL
+
+C fred database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp database d1
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C more d1
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp d1 database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C more database.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C more d1
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs database
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs database
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:02:58 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C cc -o -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -o -o -c driver.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C cc -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -c -c driver.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C cc -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -c -c driver.c
+H NIL
+X NIL
+
+C e driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs driver.c
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cc -c driver.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cc -o -c -c driver.c
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs read_db.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C rm phaba_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba_vax
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C man fopen
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man open
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man open
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv address_book database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e habadex.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.h
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp P*/database database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g -g
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 13:58:09 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp database Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C mv database H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C more database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C more read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd 547/Ph*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/Ph* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/xxxxxxx/547
+A cd W* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd Ph*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd Ph* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A "mail" -n
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A "mail" -n
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm driver.c database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i driver.c database
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp phaba.c phaba.back2
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+
+S Mon Mar 30 14:20:28 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A clear
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rm habadex.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i habadex.o
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp database.back database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp di database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp d1 database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 14:48:45 1987
+E Mon Mar 30 14:50:44 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:13:36 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.h
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd ~jade/examples/toolbox
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd ~jade/examples/toolbox && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd E*
+D /user/srdg/jade/examples/toolbox
+A cd E* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/jade/examples/toolbox/Example_driver
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxxx
+A "ps" -g -g
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx
+A "ps" -g
+H NIL
+X NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C man toupper
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man isalpha
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man intro
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man intro.3
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man intro ( 3 )
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X S  34
+
+C man string
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e junk.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs junk.c
+H NIL
+X NIL
+
+C man junk
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man string
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man 3 intro
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man ctype
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g
+H NIL
+X NIL
+
+C kill -9 16325
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C kill -9 116327
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  80
+
+C kill -9 16327
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:46:43 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs database
+H NIL
+X NIL
+
+C make -f makeh
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g g
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C kill -9 16207
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X Y  92
+
+C kill -9 16217
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "mail" -n
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:53:10 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cp phaba.c phaba.back2
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C cd ~jade
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd ~jade && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/srdg/jade
+A cd examples && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd toolbox
+D /user/srdg/jade/examples
+A cd toolbox && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Example_driver
+D /user/srdg/jade/examples/toolbox
+A cd Example_driver && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Example_driver
+A /bin/ls -F
+H NIL
+X NIL
+
+C examples_vax
+D /user/srdg/jade/examples/toolbox/Example_driver
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/jade/examples/toolbox/Example_driver
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 17:02:33 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X M  09
+
+
+S Mon Mar 30 19:46:38 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W8W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W8W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C more database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A logout
+H NIL
+X M  09
+
+
+S Mon Mar 30 20:05:37 1987
+E NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*/P*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/P*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd 547/W*/P*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/P*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/xxxxxxx/547
+A cd W* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp ~xxxxxxx/stuff.547 srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C mesg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C limtis
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C limits
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X J  82
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 20:43:25 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C fred .emacs_pro
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 20:46:13 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e .emacs_pro
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 21:12:18 1987
+E NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx
+A "ps" -g
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Mon Mar 30 21:37:11 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C fred .emacs_pro
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 21:39:30 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C lpr srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" srch.h
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C man stdio
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man ctype
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man 3 intro
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C main atof
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C man atof
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C man ascii
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man ascii
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C lpr srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" srch.h
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man ctype
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 30 22:43:15 1987
+E Mon Mar 30 23:20:20 1987
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 22:46:37 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 23:11:34 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "ps" -g
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cp phaba.c phaba.back3
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phab.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phab.o
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i core
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs database
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs srch.h
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs srch.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.c
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 23:17:53 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 23:24:43 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp database.stff
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp database data
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cp d1 database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C man ascii
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A clear
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i core
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 02:13:15 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C '
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X S  11
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C more database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C more database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e database
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs database
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs srch.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C lpr srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" srch.h
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C lpr habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "lpr" -C "RIZ  1069" habadex.c
+H NIL
+X NIL
+
+C e habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs habadex.c
+H NIL
+X NIL
+
+C lpr habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "lpr" -C "RIZ  1069" habadex.c
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C lpr phaab.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaab.c
+H NIL
+X NIL
+
+C lpr phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" phaba.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ruptiume
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 31 02:13:43 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C man ascii
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ]habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs srch.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C man ascii
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C hbadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 03:21:29 1987
+E NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd 547/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X M  09
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs srch.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 03:51:09 1987
+E NIL
+
+C cd 547/W*/H*/P*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H*/P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e phba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phba.c
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A emacs srch.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 31 15:02:47 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C setenv TERM apl100
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i core
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C cp srch.h.BAK srch.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cp phaba_vax phaba_vax.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:34:32 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vaxa
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X N  10
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "ps" -g
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A "mail" -n
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:35:20 1987
+E NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:40:21 1987
+E NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C lpr typescript1
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" typescript1
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lines typescript1
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su hirji
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e typescript1
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs typescript1
+H NIL
+X NIL
+
+C lpr typescript1
+D /user/cpsc500/l01b91/xxxxxxx
+A "lpr" -C "RIZ  1069" typescript1
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Tue Mar 31 16:06:34 1987
+E NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Wed Apr  1 13:11:21 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A clear
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs srch.h
+H NIL
+X NIL
+
+C lpr srch.h phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A "lpr" -C "RIZ  1069" srch.h phaba.c
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A clear
+H NIL
+X NIL
+
+C rm phaba.o
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.o
+H NIL
+X NIL
+
+C make
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C habadex_vax
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C fred README
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mor eREADME
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C more README
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  1 17:25:59 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more README
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 11:23:56 1987
+E Thu Apr  2 11:29:03 1987
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/mcgregor/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/mcgregor/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/mcgregor
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ~xxxxxxx
+D /user/cpsc500/l01b91/mcgregor
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C chmod 755 xxxxxxx
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 ~xxxxxxx
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C chmod 755 WPrograms
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C chmod 755 Habadex
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X J  68
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 12:21:49 1987
+E NIL
+
+C cd 547/W*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd H*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms
+A cd H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C size habadex.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A echo -n The length is: ; wc -l habadex.c
+H NIL
+X NIL
+
+C size habadex.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A echo -n The length is: ; wc -l habadex.h
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C size phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A echo -n The length is: ; wc -l phaba.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C size srch.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A echo -n The length is: ; wc -l srch.h
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr  3 12:31:22 1987
+E NIL
+
+C cd 547/W*/H*
+D /user/cpsc500/l01b91/xxxxxxx
+A cd 547/W*/H* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C rm d1 data
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i d1 data
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv makeh Makefile
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm database.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i database.back
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm habadex.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A rm -i habadex.back
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd P*
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex
+A cd P* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm srch.back writedb.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i srch.back writedb.h
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm modify.back modify.h read_db.h
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i modify.back modify.h read_db.h
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm phaba.back phaba.back2 phaba.back3
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba.back phaba.back2 phaba.back3
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm phaba_vax.back
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i phaba_vax.back
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C e phaba.c
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A emacs phaba.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A /bin/ls -F
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/547/WPrograms/Habadex/Phaba
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr  3 12:37:37 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm modify.c *.CKP *.BAK
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i modify.c *.CKP *.BAK
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm README calc.o doc thetest
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i README calc.o doc thetest
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more typescript1
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more stuff.547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl data_base
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C rm data_base
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i data_base
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm calc.c
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i calc.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv ~xxxxxxx/matrix.a ADA/matrix.a
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm stuff.547
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i stuff.547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C lpr matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "lpr" -C "RIZ  1069" matrix.a
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Fri Apr  3 13:50:27 1987
+E NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C fred matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr  7 15:37:23 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail wongce@vaxb
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n wongce@vaxb
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "lpr" -C "RIZ  1069" matrix.a
+H NIL
+X NIL
+
+C lpr matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "lpr" -C "RIZ  1069" matrix.a
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Wed Apr  8 17:59:05 1987
+E NIL
+
+C setenv -TERM ibm3163
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C more matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C setenv TERM ibm3163
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C ada -M matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more ada.login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ADA -M matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ada -M part.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs .login
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C mklib ADA
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ada -M matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Wed Apr  8 21:03:36 1987
+E NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Wed Apr  8 21:24:37 1987
+E Wed Apr  8 22:52:45 1987
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod 777 busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C dir
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C mor embox
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C more mbox
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su hirji
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H T
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 11:39:43 1987
+E Thu Apr  9 11:43:26 1987
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C emacs mosmess
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/cpsc500/l01b91/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more mosmess
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 12:12:11 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more mosmess
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ada -M matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C ada -M matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C ada -M matrix matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C ada -M matrix matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Thu Apr  9 12:44:02 1987
+E Thu Apr  9 12:44:30 1987
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X J  68
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 12:46:08 1987
+E NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Thu Apr  9 12:52:27 1987
+E NIL
+
+C cl
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C setenv TERM apl100
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx
+A clear
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C more data*
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx
+A clear
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C del mosmess
+D /user/cpsc500/l01b91/xxxxxxx
+A "rm" -f mosmess
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxxx
+A rm -i -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C cl
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc500/l01b91/xxxxxxx
+A clear
+H NIL
+X NIL
+
+C busy
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C su hirji
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C su hirji
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C more data
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C more data1
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e data2
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs data2
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C more data2
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd MOD
+D /user/cpsc500/l01b91/xxxxxxx
+A cd MOD && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A /bin/ls -F
+H NIL
+X NIL
+
+C more component.mod
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A NIL
+H NIL
+X NIL
+
+C more component.mod
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A NIL
+H NIL
+X NIL
+
+C more component.mod
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx/MOD
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxxx
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs matrix.a
+H NIL
+X NIL
+
+C cp data2 data3
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e data3
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs data3
+H NIL
+X NIL
+
+C ada -M matrix matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "lpr" -C "RIZ  1069" typescript
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C e data
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A emacs data
+H NIL
+X NIL
+
+C cp data3 data4
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "lpr" -C "RIZ  1069" typescript
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X J  82
+
+C ps g
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A "ps" -g g
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A logout
+H NIL
+X M  09
+
+
+S Thu Apr  9 14:27:22 1987
+E Thu Apr  9 14:43:23 1987
+
+C cat matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M matrix matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 14:50:28 1987
+E Thu Apr  9 14:55:41 1987
+
+C cat matrix.a
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C cat data
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C cat data1
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C cat data2
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C cat data3
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 12:58:13 1987
+E Sun Apr 12 13:00:02 1987
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc500/l01b91/xxxxxxx/547
+A "lpr" -C "RIZ  1069" typescript
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 20:49:41 1987
+E Sun Apr 12 20:52:05 1987
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C more typescript.BAK
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C more typescript.BAK
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H T
+X NIL
+
+C ls -l
+D /user/cpsc500/l01b91/xxxxxxx/547
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C more file
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C more file1
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxxx/547
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 14:47:29 1987
+E NIL
+
+C mil
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C cd example/500
+D /user/cpsc500/l01b91/xxxxxxx
+A cd example/500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C cd
+D /user/cpsc500/l01b91/xxxxxxx
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxxx
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/cpsc500
+A cd examples && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more finex86
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C lpr finex86
+D /user/cpsc500/examples
+A "lpr" -C "RIZ  1069" finex86
+H NIL
+X NIL
+
+C lpr finex86
+D /user/cpsc500/examples
+A "lpr" -C "RIZ  1069" finex86
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/examples
+A logout
+H NIL
+X M  09
+
+
+S Fri Apr 17 14:15:40 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C who | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09
+
+
+S Tue Apr 21 16:41:38 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxxx
+A logout
+H NIL
+X M  09

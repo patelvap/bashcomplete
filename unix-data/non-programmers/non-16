@@ -1,0 +1,5108 @@
+S Thu Feb 26 10:51:06 1987
+E Thu Feb 26 13:11:32 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm *lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch3.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 10:16:35 1987
+E Fri Feb 27 14:42:38 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set history = 10
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch2.2 | nroff -ms > ch2.lpr88 &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more ch2.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 ch2.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 20
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm biblio.ig
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm biblio.ig
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C wc t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm *.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 12:42:47 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 09:03:37 1987
+E Wed Mar  4 14:31:32 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1r | tbl | nroff -ms | col > r.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more r.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1r | tbl | nroff -ms | col > r.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more r.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1r | tbl | nroff -ms | col > r.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more r.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more r.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1r | tbl | nroff -ms | col > r.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more r.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+
+S Wed Mar  4 17:03:09 1987
+E Wed Mar  4 18:15:15 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C man ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps -x
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C man ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps -acegklstuvwx#
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C man
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C man t
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C man ctlt
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C man ctlt
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C lpr -P8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 09:29:34 1987
+E NIL
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm *out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:46:06 1987
+E Thu Mar  5 15:53:43 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cp ch3.1t.CKP ch3.1tt
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch3.1tt
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch3.1t
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm ch3.1tt*
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm t_temp
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm ttest
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm ch3.1r
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm ch3.1s
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X H  25
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs memo
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C nroff -ms refhd88.2 memo > m.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more m.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more m.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch3.1t
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -S -s refhd88.2 ch3.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cat m.out t.out > ch3.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more ch3.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 ch3.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 ch3.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C lpr -P8 ch3.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C !
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C rm *.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:08:20 1987
+E Fri Mar 20 11:10:09 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd coop
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X NIL
+
+C mv stuff hc
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X NIL
+
+C ls ..
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X NIL
+
+C nroff ../MDP/refhd66.1 hc > hc.out
+D /user/xxxxxxx/coop
+A NIL
+H NIL
+X Y 102
+
+
+S Fri Mar 20 11:50:49 1987
+E Fri Mar 20 13:04:04 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd faculty
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/faculty
+A NIL
+H NIL
+X NIL
+
+C cd ../junk
+D /user/xxxxxxx/faculty
+A NIL
+H NIL
+X D  88
+
+C cd ..
+D /user/xxxxxxx/faculty
+A NIL
+H NIL
+X NIL
+
+C more junk
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm junk
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd letters
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/letters
+A NIL
+H NIL
+X NIL
+
+C cd ../loans
+D /user/xxxxxxx/letters
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X NIL
+
+C cp Jan15 Mar20
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X NIL
+
+C emacs Mar20
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X NIL
+
+C cd MDP
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X NIL
+
+C cd ../MDP
+D /user/xxxxxxx/loans
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch1.2
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S -P refhd88.2 ch1.2 | nroff -ms > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch1.2
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:58:42 1987
+E Fri Mar 20 12:05:53 1987
+
+C nroff phead66.1 letters/Mar20 > let.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls letters
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls loans
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff phead66.1 loans/Mar20 > let.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more let.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff MDP/refhd88.2 coop/hc > coop.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more coop.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more MDP/refhd88.2
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C nroff -ms MDP/refhd88.2 coop/hc > coop.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more coop.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 coop.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr let.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm *.out
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:34:55 1987
+E Wed Mar 25 10:35:37 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cat ch1.2
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 12:16:46 1987
+E Wed Mar 25 12:17:47 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm ch3.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cat biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 08:07:58 1987
+E Mon Apr  6 08:08:54 1987
+
+C cd rona
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C cat assign.1
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C cat head88.2
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C cat let.1
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 11:08:42 1987
+E Mon Apr  6 11:14:58 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd rona
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci -P8 a1.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 14:05:05 1987
+E Tue Apr  7 14:56:50 1987
+
+C cd rona
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C rm *.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C tar -xf all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pclq8 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pcilq8 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pcilq8 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lprm 636 637
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lprm 637
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pcilq8 -i12 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pcilq8 -i12 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H T
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C rm *.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C rm all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C tar -xf all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C tar -xf all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C rm all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C tar -xf all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C rm all
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 a.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pcilq8 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C lpr -Pcilq8 a.out l.out
+D /user/xxxxxxx/rona
+A NIL
+H T
+X NIL
+
+
+S Thu Apr  9 09:43:39 1987
+E Thu Apr  9 09:46:26 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch1.2
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 13:55:11 1987
+E Thu Apr  9 13:55:50 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch2.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 13:59:24 1987
+E Thu Apr  9 13:59:52 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 11:42:19 1987
+E Fri Apr 10 11:58:14 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C tar -cf biblio.all biblio biblio.ia biblio.ib biblio.ic
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C t
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C tset
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm biblio.all
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more refhd88.2
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C tar -cf to_apollo refhd88.2 ch3.1 biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C # N3
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C # N3
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C # N3
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C # N3
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C # N3
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C # N3
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C tset
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 11:56:54 1987
+E Fri Apr 10 11:59:57 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 1579
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 137
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 11:58:35 1987
+E Fri Apr 10 12:13:19 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm to_apollo
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:19:53 1987
+E Fri Apr 10 15:30:19 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpc -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C lpq -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:38:10 1987
+E Fri Apr 10 15:43:24 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lprm 781
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lprm -Pci 781
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lprm -Pci 783
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:44:02 1987
+E Fri Apr 10 15:56:45 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lprm -Pci 784
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq -Pci
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lprm -Pci 785
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 10:49:29 1987
+E Mon Apr 13 11:30:55 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C rm ch3.1t
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -Pci8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:06:15 1987
+E Wed Apr 15 14:15:58 1987
+
+C cd rona
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C more l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C more l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C hpr l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:38:32 1987
+E Wed Apr 15 14:40:47 1987
+
+C cd rona
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C hpr l.out
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+C hpq
+D /user/xxxxxxx/rona
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 10:48:24 1987
+E Fri Apr 24 11:01:56 1987
+
+C cd mdp
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cp ch3.1 ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 11:20:43 1987
+E Fri Apr 24 11:47:19 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 11:56:20 1987
+E Fri Apr 24 12:51:40 1987
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 09:34:13 1987
+E Wed May  6 09:41:21 1987
+
+C cd mdp
+D /user/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cat ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 10:21:07 1987
+E Wed May  6 10:23:57 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C nroff -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X Y 102
+
+C Null Command
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X Y 102
+
+C psj
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X Y 102
+
+
+S Wed May  6 10:26:03 1987
+E Wed May  6 11:47:30 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cp ch4.1 ch4.1.back
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:11:27 1987
+E Wed May  6 15:18:20 1987
+
+C ls
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir center
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd center
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C more p.out
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C lpr p.out
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/center
+A NIL
+H NIL
+X NIL
+
+
+S Thu May  7 09:24:36 1987
+E Thu May  7 11:07:53 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C tbl refhd88.2 ch4.1t | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C tbl refhd88.2 ch4.1t | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C tbl refhd88.2 ch4.1t | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 09:59:29 1987
+E Fri May  8 10:28:11 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lprm 989
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 12:00:32 1987
+E Fri May  8 15:23:07 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C eamcs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C lpr -P8 t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 09:34:59 1987
+E Tue May 12 10:13:56 1987
+
+C acct
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 10:54:12 1987
+E Tue May 12 11:57:07 1987
+
+C emacs
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 12:43:08 1987
+E Tue May 12 13:48:59 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X H  25
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C indxbib biblio
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 13:24:13 1987
+E NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 13:26:08 1987
+E Tue May 12 13:26:59 1987
+
+C ps -g
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 6176
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 6177 6178
+D /user/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C ps -g
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 13:54:48 1987
+E Tue May 12 15:28:19 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X H  25
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 08:46:44 1987
+E Wed May 13 14:42:43 1987
+
+C cd MDP
+D /user/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set history = 30
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C emacs ch4.1
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1t | tbl | nroff -ms | col > t.out &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C more t.out
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > ch4.lpr88 &
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more ch4.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C more ch4.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > ch4.lpr88 &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C ps
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cd ../metro
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cd exec
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C .s
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C more minutes.feb26
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C cp min.86.8.27 min.87.2.25
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C emacs min.87.2.25
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C more ../../MDP/ch4.lpr88
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C cd ../../MDP
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C refer -p biblio -s -S refhd88.2 ch4.1 | tbl | nroff -ms | col > ch4.lpr88 &
+D /user/xxxxxxx/MDP
+A NIL
+H T
+X NIL
+
+C cd ../metro/exec/
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C ls ..
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead66.1 exec/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C more m.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cd exec
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead66.1 exec/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C more m.out
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C cd exec
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C rm *lpr
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead88.2 exec/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C more m.out
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cd exec
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/exec
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead66.1 exec/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C more m.out
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C lpr m.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cat m.out m.out m.out m.out m.out m.out > m6.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C lpr m6.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cd ../MDP
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C more ch4.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpr -P8 ch4.lpr88
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C cd ../metro/general
+D /user/xxxxxxx/MDP
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C cp min.86.8.27 min.87.2.25
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C emacs min.87.2.25
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C rm junk*
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead66.1 general/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C more ch4.lpr88
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C more m.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cd general
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead66.1 general/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C more m.out
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C cat m.out m.out > m2.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C rm m6.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cat m2.out m2.out > m4.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cat m4.out m4.out > m8.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cat m8.out m8.out > m16.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C wc m16.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C history
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C lpr m16.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C rm *.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C cd general
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+C nroff ../shead66.1 general/min.87.2.25 > m.out &
+D /user/xxxxxxx/metro
+A NIL
+H T
+X NIL
+
+C lpr m.out
+D /user/xxxxxxx/metro
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 12:26:51 1987
+E Wed May 13 12:27:01 1987
+
+C lpr junk
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 12:57:21 1987
+E NIL
+
+C ls
+D /user/xxxxxxx/metro/general
+A NIL
+H NIL
+X NIL

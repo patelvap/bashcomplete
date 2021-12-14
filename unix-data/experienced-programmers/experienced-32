@@ -1,0 +1,6102 @@
+S Mon Feb 23 00:55:42 1987
+E NIL
+
+C n
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C stty erase
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~thompson/213/ass3.p11 .
+D /user/cpsc533/l01b02/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02
+A NIL
+H NIL
+X NIL
+
+C cd vaxd
+D /user/cpsc533/l01b02
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc533/l01b02
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc533/l01b02
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C cd user
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A NIL
+H NIL
+X NIL
+
+C cd cpsc213
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C cd ta
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/ta
+A NIL
+H NIL
+X NIL
+
+C cd thompson
+D /user/cpsc213/ta
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C cd 213
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/ta/thompson/213
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc213/ta/thompson/213
+A NIL
+H NIL
+X NIL
+
+C cd test
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C cd ~thompson
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ls 213
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ls test
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f pearce
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X M  09
+
+
+S Mon Feb 23 01:04:34 1987
+E NIL
+
+C f pearce
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vt100
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C which f
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f peradce
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f pearce
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:59:23 1987
+E NIL
+
+C ruptime
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C emacs simple_add.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/213
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 24 14:13:08 1987
+E Tue Feb 24 16:04:10 1987
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 08:41:52 1987
+E Wed Feb 25 08:43:40 1987
+
+C pwd
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C more *.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C chmod a+r *.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C more *.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X J  68
+
+C exit
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 11:06:51 1987
+E NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/213
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 25 11:21:59 1987
+E NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/213
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 25 11:24:27 1987
+E NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs
+H NIL
+X NIL
+
+C pdpas subroutine_add
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C rm *.po
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/mv *.po $home/.Deleted
+H NIL
+X NIL
+
+C rm p. ; out
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/mv p. $home/.Deleted ; out
+H NIL
+X N  10
+
+C rm p.out
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/mv p.out $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C rm a.poiout
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/mv a.poiout $home/.Deleted
+H NIL
+X NIL
+
+C rm a.pout
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/mv a.pout $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C rm pcore
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/mv pcore $home/.Deleted
+H NIL
+X NIL
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/213
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 28 15:08:34 1987
+E NIL
+
+C man mail
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 16:56:06 1987
+E NIL
+
+C mkdir test
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/xxxxx
+A cd ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e subroutine_add.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs subroutine_add.p11
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C mv print_16.p11 ../test/
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C cd ../test
+D /user/cpsc533/l01b02/xxxxx/213
+A cd ../test ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs print_16.p11
+H NIL
+X NIL
+
+C more ~thompson/213/*
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C cp ~thompson/213/assign3.p11 shit
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C mv shit shit.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C clb
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X N  10
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C rm pcore
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/mv pcore $home/.Deleted
+H NIL
+X NIL
+
+C dl
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/echo "Deleted files are : " ; ls -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C nuke
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C m shit
+D /user/cpsc533/l01b02/xxxxx/test
+A more shit
+H NIL
+X NIL
+
+C m shit.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A more shit.p11
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs
+H NIL
+X NIL
+
+C pdpdb a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C m print_16.lst
+D /user/cpsc533/l01b02/xxxxx/test
+A more print_16.lst
+H NIL
+X NIL
+
+C pdpdb
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpdb a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk *.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C rm pcore
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/mv pcore $home/.Deleted
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs
+H NIL
+X NIL
+
+C pdplk print_16
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C mv print_16.p11 ../213/
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C rm *
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/mv * $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/test
+A ls -lsa | more
+H NIL
+X NIL
+
+C rm .em*
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/mv .em* $home/.Deleted
+H NIL
+X NIL
+
+C cd ../213
+D /user/cpsc533/l01b02/xxxxx/test
+A cd ../213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e CONTENTS
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs CONTENTS
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/213
+A ls -lsa | more
+H NIL
+X NIL
+
+C chmod 744 header
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C chmod 744 print_16.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/213
+A ls -lsa | more
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/213
+A emacs
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/213
+A ls -lsa | more
+H NIL
+X NIL
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/213
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C man mail
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C man mail
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/xxxxx/213
+A cd ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx
+A emacs
+H NIL
+X NIL
+
+C e .mailrc
+D /user/cpsc533/l01b02/xxxxx
+A emacs .mailrc
+H NIL
+X NIL
+
+C man mail
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd vaxa.
+D /user/cpsc533/l01b02/xxxxx
+A cd vaxa. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X D  88
+
+C ls /
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd user
+D /user/cpsc533/l01b02/xxxxx
+A cd user ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X D  88
+
+C cd ~thompson
+D /user/cpsc533/l01b02/xxxxx
+A cd ~thompson ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd ../..
+D /user/cpsc213/ta/thompson
+A cd ../.. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cat l02* > $home/labs
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc213
+A cd ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C ftp apollo
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~thompson
+D /user/cpsc533/l01b02/xxxxx
+A cd ~thompson ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd ../..
+D /user/cpsc213/ta/thompson
+A cd ../.. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C ls l02*
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02* > $home/labs
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc213
+A cd ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C m labs
+D /user/cpsc533/l01b02/xxxxx
+A more labs
+H NIL
+X NIL
+
+C ftp apollo
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C heng
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C f heng
+D /user/cpsc533/l01b02/xxxxx
+A fred heng
+H NIL
+X NIL
+
+C fin heng
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f heng | more
+H NIL
+X NIL
+
+C fin xxxxx
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f xxxxx | more
+H NIL
+X NIL
+
+C fin xxxxx &
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f xxxxx | more &
+H T
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm b*
+D /user/cpsc533/l01b02/xxxxx
+A /bin/mv b* $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 28 17:29:12 1987
+E NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas -l print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C PSW: N=1 ; Z=0 ; V=0 ; C=1
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X B  49
+
+C man psw
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas -l print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 17:48:04 1987
+E NIL
+
+C pdpas -l print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C rm print_16.lst
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/mv print_16.lst $home/.Deleted
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdplk print_16.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 a
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 18:24:01 1987
+E NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas -l print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas print_16.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 18:47:10 1987
+E NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C wd user
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cd /user/cpsc213/ta/thompson
+D /user/cpsc533/l01b02/xxxxx
+A cd /user/cpsc213/ta/thompson ; set prompt = "{!} [$cwd:t] --> " ; ls
+H NIL
+X NIL
+
+C cd /user/cpsc213/ta
+D /user/cpsc213/ta/thompson
+A cd /user/cpsc213/ta ; set prompt = "{!} [$cwd:t] --> " ; ls
+H NIL
+X NIL
+
+C cd /user/cpsc213
+D /user/cpsc213/ta
+A cd /user/cpsc213 ; set prompt = "{!} [$cwd:t] --> " ; ls
+H NIL
+X NIL
+
+C ls l02b04
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b04 > b4
+D /user/cpsc213
+A NIL
+H T
+X NIL
+
+C h
+D /user/cpsc213
+A history | more
+H NIL
+X H  25
+
+C ls
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b04 > $home/b4
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b05
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b05 > $home/b5
+D /user/cpsc213
+A NIL
+H T
+X NIL
+
+C ls l02b06
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b06 > $home/b6
+D /user/cpsc213
+A NIL
+H T
+X NIL
+
+C ls l02b07
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b07 > $home/b7a
+D /user/cpsc213
+A NIL
+H T
+X NIL
+
+C ll
+D /user/cpsc213
+A ls -lsa | more
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b* | grep bouvier
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02b12
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls l02* > $home/labs
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc213
+A cd / ; set prompt = "{!} [$cwd:t] --> " ; ls
+H NIL
+X NIL
+
+C {23} [cpsc213] -- > cd /
+D /
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc533/l01b02/xxxxx
+D /
+A cd /user/cpsc533/l01b02/xxxxx ; set prompt = "{!} [$cwd:t] --> " ; ls
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp apollo
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat /etc/passwd | grep 213l02 > labs
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C m labs
+D /user/cpsc533/l01b02/xxxxx
+A more labs
+H NIL
+X NIL
+
+C grep 213l02 /etc/passwd
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat /etc/passwd
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f hang
+D /user/cpsc533/l01b02/xxxxx
+A fred hang
+H NIL
+X NIL
+
+
+S Tue Mar  3 19:29:49 1987
+E NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 744 .
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -alt .
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 700 * .*
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -alt
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 213
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a 213
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l .
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 744 .*
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 .
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -la
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls O533
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls -F
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls ian_stuff
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls -a ian_stuff
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls ian_stuff/*
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X D  70
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 13:19:46 1987
+E Thu Mar  5 13:23:57 1987
+
+C grep xxxxx /etc/passwd
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C /vax
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cd /user/grads/greenberg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C csh
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 13:20:39 1987
+E Thu Mar  5 13:23:54 1987
+
+C cd Csh/Trace
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X N  10
+
+C ls -las
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls -las
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H T
+X NIL
+
+C csh
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ../../csh
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 13:23:10 1987
+E Thu Mar  5 13:23:53 1987
+
+C ls -las
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+C echo second shell
+D /user/grads/greenberg/Csh/Trace
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  8 16:28:26 1987
+E NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C emacs print_16.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C m CONTENTS
+D /user/cpsc533/l01b02/xxxxx/213
+A more CONTENTS
+H NIL
+X NIL
+
+C emacs CONTENTS
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 21:02:12 1987
+E NIL
+
+C cd test
+D /user/cpsc533/l01b02/xxxxx
+A cd test ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C ls ../213
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C emacs test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 21:34:32 1987
+E Wed Mar 18 22:09:56 1987
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C dump
+D /user/cpsc533/l01b02/xxxxx/test
+A dumpstuff 0
+H NIL
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 22:08:13 1987
+E NIL
+
+C emacs ps -g
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 22:09:00 1987
+E NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 12022
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 12021
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 12908
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X Y  92
+
+C kill -9 12915
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 12923
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 22:11:20 1987
+E NIL
+
+C source .login
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .cshrc
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C at
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .cshrc > .cshrc_temp
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd test
+D /user/cpsc533/l01b02/xxxxx
+A cd test ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs
+H NIL
+X NIL
+
+C dt
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X N  10
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C rm pcore
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/mv pcore $home/.Deleted
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/test
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/test
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 14:03:40 1987
+E NIL
+
+C cd test
+D /user/cpsc533/l01b02/xxxxx
+A cd test ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C clb
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X N  10
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/test
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc533/l01b02/xxxxx/test
+A history | more
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C cat test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C cat test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/test
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 15:01:18 1987
+E NIL
+
+C source .abv
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd test
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C lpr test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A lpr test.p11 ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C alias | grep lpr
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/test
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 16:11:30 1987
+E NIL
+
+C cd test
+D /user/cpsc533/l01b02/xxxxx
+A cd test ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/test
+A emacs
+H NIL
+X NIL
+
+C man lpr
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C g
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C dump 177720
+D /user/cpsc533/l01b02/xxxxx/test
+A dumpstuff 0 177720
+H NIL
+X NIL
+
+C gf
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C cd ../213
+D /user/cpsc533/l01b02/xxxxx/test
+A cd ../213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C m print_16.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A more print_16.p11
+H NIL
+X NIL
+
+C cd ../test
+D /user/cpsc533/l01b02/xxxxx/213
+A cd ../test ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdp60 test.po
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C cp test.p11 ../213/dumb_add.p11
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C cd ../213
+D /user/cpsc533/l01b02/xxxxx/test
+A cd ../213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C chmod 755 dumb_add.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/213
+A ls -lsa | more
+H NIL
+X NIL
+
+C chmod 744 dum_add.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C chmod 744 dumb_add.p11
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/213
+A ls -lsa | more
+H NIL
+X NIL
+
+C emacs CONTENTS
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/213
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 16:39:49 1987
+E NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H T
+X NIL
+
+C pdpas test
+D /user/cpsc533/l01b02/xxxxx/test
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 12:23:39 1987
+E NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 17:27:45 1987
+E NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fin thompson
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f thompson | more
+H NIL
+X NIL
+
+C /usr/ucb/f thompson
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C grep thompson /etc/password
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc533/l01b02/xxxxx
+A cd / ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd user
+D /
+A cd user ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd ..
+D /user
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd etc
+D /
+A cd etc ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C h
+D /etc
+A history | more
+H NIL
+X NIL
+
+C grep thompson /etc/passwd
+D /etc
+A NIL
+H T
+X NIL
+
+C who
+D /etc
+A NIL
+H NIL
+X NIL
+
+C j
+D /etc
+A jobs -l
+H NIL
+X NIL
+
+C cd
+D /etc
+A cd ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C j
+D /user/cpsc533/l01b02/xxxxx
+A jobs -l
+H NIL
+X NIL
+
+C j
+D /user/cpsc533/l01b02/xxxxx
+A jobs -l
+H NIL
+X NIL
+
+C fin thompson
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f thompson | more
+H T
+X NIL
+
+C bg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 02:36:39 1987
+E NIL
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A cd 533 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd two
+D /user/cpsc533/l01b02/xxxxx/533
+A cd two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/two
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd sub-two
+D /user/cpsc533/l01b02/xxxxx/533
+A cd sub-two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/sub-two
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C emacs .abv
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C alias ls ls -F
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533
+A ls -F
+H NIL
+X NIL
+
+C ls ian_stuff
+D /user/cpsc533/l01b02/xxxxx/533
+A ls -F ian_stuff
+H NIL
+X NIL
+
+C m ian_stuff/read-line.l
+D /user/cpsc533/l01b02/xxxxx/533
+A more ian_stuff/read-line.l
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C lis[
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X M  09
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533
+A ls -F
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533
+A ls -F
+H NIL
+X NIL
+
+C mkdir project
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C cp ian_stuff/read-line.l project/.
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls ian_stuff
+D /user/cpsc533/l01b02/xxxxx/533
+A ls -F ian_stuff
+H NIL
+X NIL
+
+C cd project
+D /user/cpsc533/l01b02/xxxxx/533
+A cd project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C emacs test.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/project
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd two
+D /user/cpsc533/l01b02/xxxxx/533
+A cd two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C emacs interface.l
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X NIL
+
+C cd ../project
+D /user/cpsc533/l01b02/xxxxx/533/two
+A cd ../project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C rm test.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/mv test.l $home/.Deleted
+H NIL
+X NIL
+
+C clb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C emacs test.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C wd ../one
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/project
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd one
+D /user/cpsc533/l01b02/xxxxx/533
+A cd one ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd ../two
+D /user/cpsc533/l01b02/xxxxx/533/one
+A cd ../two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C m interface.l
+D /user/cpsc533/l01b02/xxxxx/533/two
+A more interface.l
+H NIL
+X NIL
+
+C cd ../project
+D /user/cpsc533/l01b02/xxxxx/533/two
+A cd ../project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/project
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd one
+D /user/cpsc533/l01b02/xxxxx/533
+A cd one ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd ../sub-two
+D /user/cpsc533/l01b02/xxxxx/533/one
+A cd ../sub-two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C m interface.l
+D /user/cpsc533/l01b02/xxxxx/533/sub-two
+A more interface.l
+H NIL
+X NIL
+
+C cd ../two
+D /user/cpsc533/l01b02/xxxxx/533/sub-two
+A cd ../two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C vbp interface.l
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /usr/ucb/lpr -Pjp interface.l
+H NIL
+X NIL
+
+C vbp world-io.l
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /usr/ucb/lpr -Pjp world-io.l
+H NIL
+X NIL
+
+C m world2
+D /user/cpsc533/l01b02/xxxxx/533/two
+A more world2
+H NIL
+X NIL
+
+C alias | lp
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X N  10
+
+C alias | grep lp
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X NIL
+
+C vpq
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /usr/ucb/lpq -Pjp
+H NIL
+X NIL
+
+C vpq
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /usr/ucb/lpq -Pjp
+H T
+X NIL
+
+C vpq
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /usr/ucb/lpq -Pjp
+H T
+X NIL
+
+C vpq
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /usr/ucb/lpq -Pjp
+H T
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/two
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/two
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 02:52:52 1987
+E NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 03:06:07 1987
+E NIL
+
+C cd /user/cpsc533/l01b02/xxxxx/533
+D /user/cpsc533/l01b02/xxxxx/533/two
+A cd /user/cpsc533/l01b02/xxxxx/533 ; set prompt = "{!} [$cwd:t] --> " ; ls -F
+H NIL
+X NIL
+
+C cd /user/cpsc533/l01b02/xxxxx/533/sub-two
+D /user/cpsc533/l01b02/xxxxx/533
+A cd /user/cpsc533/l01b02/xxxxx/533/sub-two ; set prompt = "{!} [$cwd:t] --> " ; ls -F
+H NIL
+X NIL
+
+C cd /user/cpsc533/l01b02/xxxxx/533/one
+D /user/cpsc533/l01b02/xxxxx/533/sub-two
+A cd /user/cpsc533/l01b02/xxxxx/533/one ; set prompt = "{!} [$cwd:t] --> " ; ls -F
+H NIL
+X NIL
+
+
+S Thu Apr  2 03:12:16 1987
+E NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 03:41:50 1987
+E NIL
+
+C emacs .complete
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H T
+X NIL
+
+C h
+D /user/cpsc533/l01b02/xxxxx
+A history | more
+H NIL
+X NIL
+
+C vpq
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/lpq -Pjp
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 20:22:35 1987
+E NIL
+
+C emacs .cshrc_temp
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp .cshrc_temp .cshrc
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A cd 533 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd project
+D /user/cpsc533/l01b02/xxxxx/533
+A cd project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C rm read-line.l'
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X S  11
+
+C rm read-line.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/mv read-line.l $home/.Deleted
+H NIL
+X NIL
+
+C cp ../ian_stuff/read-line.l .
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/project
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd one
+D /user/cpsc533/l01b02/xxxxx/533
+A cd one ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C m *.ml
+D /user/cpsc533/l01b02/xxxxx/533/one
+A more *.ml
+H NIL
+X NIL
+
+C cd ../two
+D /user/cpsc533/l01b02/xxxxx/533/one
+A cd ../two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C m *.l
+D /user/cpsc533/l01b02/xxxxx/533/two
+A more *.l
+H NIL
+X NIL
+
+C cd ../project
+D /user/cpsc533/l01b02/xxxxx/533/two
+A cd ../project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C rm read-*
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/mv read-* $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C ls -F
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F -F
+H NIL
+X NIL
+
+C /bin/ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C /bin/ls -F
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C emacs prims.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C emacs header.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X J  82
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 20:58:23 1987
+E NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C sadgf
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C sdfg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C nil
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C sdfg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C asdf
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 22:27:03 1987
+E NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -98  8460
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X J  78
+
+C kill -9 8460
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 22:38:36 1987
+E NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 10466
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 01:53:05 1987
+E NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lsip
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 02:07:06 1987
+E Fri Apr  3 02:08:03 1987
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 07:03:19 1987
+E NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f mcartney
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f mccartney
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail mccartney
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 17:54:26 1987
+E NIL
+
+C fin mcartney
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f mcartney | more
+H NIL
+X NIL
+
+C fin mccartney
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f mccartney | more
+H NIL
+X NIL
+
+C fin xxxxx
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f xxxxx | more
+H NIL
+X NIL
+
+C fin
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f | more
+H NIL
+X NIL
+
+C f
+D /user/cpsc533/l01b02/xxxxx
+A fred
+H NIL
+X NIL
+
+C fin
+D /user/cpsc533/l01b02/xxxxx
+A /usr/ucb/f | more
+H NIL
+X NIL
+
+C mssg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C mesg
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 18:52:30 1987
+E NIL
+
+C cd 533/project
+D /user/cpsc533/l01b02/xxxxx
+A cd 533/project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C lpr data-base.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A lpr data-base.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr main.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A lpr main.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr prims.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A lpr prims.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr shit.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A lpr shit.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr test.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A lpr test.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C lpr test2.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A lpr test2.l ; sleep 1 ; lpq $user ; lquota
+H NIL
+X NIL
+
+C SL
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/echo -n
+H NIL
+X NIL
+
+C SL
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/echo -n
+H NIL
+X NIL
+
+C SL
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/echo -n
+H NIL
+X NIL
+
+C UL
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/echo -n
+H NIL
+X NIL
+
+C SL
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/echo -n
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/project
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 03:08:45 1987
+E NIL
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A cd 533 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd two
+D /user/cpsc533/l01b02/xxxxx/533
+A cd two ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C emacs typescript
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/two
+A ls -F
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/two
+A ls -F
+H NIL
+X NIL
+
+C ll
+D /user/cpsc533/l01b02/xxxxx/533/two
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /bin/mv typescript $home/.Deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/two
+A ls -F
+H NIL
+X NIL
+
+C alias | grep rm
+D /user/cpsc533/l01b02/xxxxx/533/two
+A NIL
+H NIL
+X NIL
+
+C dl
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /bin/echo "Deleted files are : " ; ls -F -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C nuke
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /bin/rm -rf $home/.Deleted/* $home/.Deleted/.[A-z]*
+H NIL
+X NIL
+
+C dl
+D /user/cpsc533/l01b02/xxxxx/533/two
+A /bin/echo "Deleted files are : " ; ls -F -lsa $home/.Deleted | more
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/two
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 06:53:50 1987
+E NIL
+
+C cd 533/project
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr -Cb284 *.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C bywe
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 09:02:41 1987
+E NIL
+
+C cd 533/proj
+D /user/cpsc533/l01b02/xxxxx
+A cd 533/proj ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X D  88
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A cd 533 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd projecct
+D /user/cpsc533/l01b02/xxxxx/533
+A cd projecct ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X D  88
+
+C cd project
+D /user/cpsc533/l01b02/xxxxx/533
+A cd project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/project
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 21:04:53 1987
+E NIL
+
+C cd 533/project
+D /user/cpsc533/l01b02/xxxxx
+A cd 533/project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C rm *.CKP
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpr -Cb284 *.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C vpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C man vbp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C man vpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H T
+X NIL
+
+C lines
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 02:55:00 1987
+E NIL
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C cd project
+D /user/cpsc533/l01b02/xxxxx/533
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C rm *.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C mv ../temp .
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C mv temp/*.l .
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C cd temp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project/temp
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project/temp
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc533/l01b02/xxxxx/533/project/temp
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx/533/project/temp
+A NIL
+H NIL
+X NIL
+
+C rmdir temp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C more temp.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C more test.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C rm test.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 533
+D /user/cpsc533/l01b02/xxxxx
+A cd 533 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd project
+D /user/cpsc533/l01b02/xxxxx/533
+A cd project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C emacs main.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ps -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ps -g
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg 2
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg 1
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C man fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C j
+D /user/cpsc533/l01b02/xxxxx/533/project
+A jobs -l
+H NIL
+X NIL
+
+C fg -
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg emacs
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X J  84
+
+C fg [2]
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ps -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ftp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ftp apollo
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/project
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr 10 03:02:28 1987
+E NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 03:52:04 1987
+E NIL
+
+C f maccartney
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C f mccartney
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X Y 102
+
+C rwho
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:54:55 1987
+E NIL
+
+C ce .emacs_pro
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cd .emacs_pro
+D /user/cpsc533/l01b02/xxxxx
+A cd .emacs_pro ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X D  88
+
+C cd .emacs_dir
+D /user/cpsc533/l01b02/xxxxx
+A cd .emacs_dir ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C m amb.ml
+D /user/cpsc533/l01b02/xxxxx/.emacs_dir
+A more amb.ml
+H NIL
+X NIL
+
+C cd ../533/proj
+D /user/cpsc533/l01b02/xxxxx/.emacs_dir
+A cd ../533/proj ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X D  88
+
+C cd ../533
+D /user/cpsc533/l01b02/xxxxx/.emacs_dir
+A cd ../533 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd project
+D /user/cpsc533/l01b02/xxxxx/533
+A cd project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C clb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C kb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /bin/rm -rf *.BAK .*.BAK *.CKP .*.CKP
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C cdx
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C rwho
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ps -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ps -g
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C alias | grep lpr
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ls -F
+H NIL
+X NIL
+
+C vbp main.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /usr/ucb/lpr -Pjp main.l
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C vbp data-base.l
+D /user/cpsc533/l01b02/xxxxx/533/project
+A /usr/ucb/lpr -Pjp data-base.l
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/project
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:12:58 1987
+E NIL
+
+C cd 533/project
+D /user/cpsc533/l01b02/xxxxx
+A cd 533/project ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C ftp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc533/l01b02/xxxxx/533/project
+A emacs
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/cpsc533/l01b02/xxxxx/533/project
+A ps -g
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C ftp vaxa
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/project
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr 10 17:14:37 1987
+E NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 17:36:43 1987
+E NIL
+
+C lisp
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 18:19:45 1987
+E NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail mccartney@vaxa
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cd 533/project
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X Y 102
+
+C ftp vaxb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 04:18:03 1987
+E NIL
+
+C cd 533/project
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxb
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc533/l01b02/xxxxx/533/project
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 17 00:01:04 1987
+E NIL
+
+C alias
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C .ab
+D /user/cpsc533/l01b02/xxxxx
+A source $home/.abv
+H NIL
+X NIL
+
+C cd ~ian
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian
+A ls -F
+H NIL
+X NIL
+
+C cd courses
+D /user/profs/ian
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/courses
+A ls -F
+H NIL
+X NIL
+
+C cd 533
+D /user/profs/ian/courses
+A NIL
+H NIL
+X NIL
+
+C alias cd 'cd ¡* ; ls'
+D /user/profs/ian/courses/533
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/ian/courses/533
+A ls -F
+H NIL
+X NIL
+
+C cd lisp
+D /user/profs/ian/courses/533
+A cd lisp ; ls -F
+H NIL
+X NIL
+
+C cd ../prolog
+D /user/profs/ian/courses/533/lisp
+A cd ../prolog ; ls -F
+H NIL
+X D  88
+
+C logout
+D /user/profs/ian/courses/533/lisp
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 17 18:18:59 1987
+E NIL
+
+C alias
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C .ab
+D /user/cpsc533/l01b02/xxxxx
+A source $home/.abv
+H NIL
+X NIL
+
+C cd /tmp
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ll
+D /tmp
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd /
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A ls -F
+H NIL
+X NIL
+
+C alias cd 'cd ¡* ; ls'
+D /
+A NIL
+H NIL
+X NIL
+
+C telenet vaxc
+D /
+A NIL
+H NIL
+X N  10
+
+C telnet vaxc
+D /
+A NIL
+H NIL
+X Y 102
+
+C rlogin vaxc
+D /
+A NIL
+H NIL
+X Y 102
+
+C bye
+D /
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr 17 18:21:14 1987
+E NIL
+
+C .ab
+D /user/cpsc533/l01b02/xxxxx
+A source $home/.abv
+H NIL
+X NIL
+
+C cd /tmp
+D /user/cpsc533/l01b02/xxxxx
+A cd /tmp ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ll
+D /tmp
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd ~veer
+D /tmp
+A cd ~veer ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ll .
+D /user/cpsc213/l02b05/veer
+A ls -F -lsa | more .
+H NIL
+X NIL
+
+C cd 213
+D /user/cpsc213/l02b05/veer
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/l02b05/veer/213
+A ls -F
+H NIL
+X NIL
+
+C alias ls ls ¡* -F
+D /user/cpsc213/l02b05/veer/213
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc213/l02b05/veer/213
+A cd .. ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C cd WORK
+D /user/cpsc213/l02b05/veer
+A cd WORK ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X D  88
+
+C cd ~lamoureux
+D /user/cpsc213/l02b05/veer
+A cd ~lamoureux ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X D  88
+
+C cd ~amenda
+D /user/cpsc213/l02b05/veer
+A cd ~amenda ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ll
+D /user/cpsc213/l02b06/amenda
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/l02b06/amenda
+A ls -F
+H NIL
+X NIL
+
+C ll WORK
+D /user/cpsc213/l02b06/amenda
+A ls -F -lsa | more WORK
+H NIL
+X NIL
+
+C more sub8.p11
+D /user/cpsc213/l02b06/amenda
+A NIL
+H NIL
+X NIL
+
+C cp sub8.p11 shit
+D /user/cpsc213/l02b06/amenda
+A NIL
+H NIL
+X NIL
+
+C cp ~lamoureux/WORK/sub8.p11 shit
+D /user/cpsc213/l02b06/amenda
+A NIL
+H NIL
+X NIL
+
+C cd /tmp
+D /user/cpsc213/l02b06/amenda
+A cd /tmp ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C bye
+D /tmp
+A logout
+H NIL
+X NIL
+
+
+S Fri Apr 17 19:20:20 1987
+E NIL
+
+C cd 213
+D /user/cpsc533/l01b02/xxxxx
+A cd 213 ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C rlogin vaxb
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X Y 102
+
+C ftp vaxb
+D /user/cpsc533/l01b02/xxxxx/213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/xxxxx/213
+A ls -F
+H NIL
+X NIL
+
+C cd /tmp
+D /user/cpsc533/l01b02/xxxxx/213
+A cd /tmp ; set prompt = "{!} [$cwd:t] -[VAXA]-> " ; ls -F
+H NIL
+X NIL
+
+C ll
+D /tmp
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C m sub4.p11
+D /tmp
+A more sub4.p11
+H NIL
+X NIL
+
+C mail
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C rlogin
+D /tmp
+A NIL
+H NIL
+X Y 102
+
+C telnet
+D /tmp
+A NIL
+H NIL
+X Y 102
+
+C rl
+D /tmp
+A NIL
+H NIL
+X N  10
+
+C who
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /tmp
+A NIL
+H NIL
+X NIL
+
+C bye
+D /tmp
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 20 21:15:39 1987
+E Mon Apr 20 21:23:50 1987
+
+C f thompson
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc533/l01b02
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C cd user
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A NIL
+H NIL
+X NIL
+
+C alias ls 'ls -F ¡*'
+D /user
+A NIL
+H NIL
+X NIL
+
+C alias cd 'cd ¡* ; ls '
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A ls -F
+H NIL
+X NIL
+
+C cd cpsc213
+D /user
+A cd cpsc213 ; ls -F
+H NIL
+X NIL
+
+C cd ta
+D /user/cpsc213
+A cd ta ; ls -F
+H NIL
+X NIL
+
+C cd thompson
+D /user/cpsc213/ta
+A cd thompson ; ls -F
+H NIL
+X NIL
+
+C ld -lat
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ls -la
+D /user/cpsc213/ta/thompson
+A ls -F -la
+H NIL
+X NIL
+
+C cd 213
+D /user/cpsc213/ta/thompson
+A cd 213 ; ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc213/ta/thompson/213
+A cd .. ; ls -F
+H NIL
+X NIL
+
+C su thompson
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C su thompson
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C su xxxxx
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C byue
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X N  10
+
+C bye
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X N  10
+
+C logour
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X N  10
+
+C exity
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 21:20:35 1987
+E Mon Apr 20 21:23:38 1987
+
+C pwd
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C whoami
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C mail dutton
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ld
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc213/ta/thompson
+A NIL
+H NIL
+X N  10
+
+
+S Mon Apr 20 21:49:46 1987
+E NIL
+
+C .ab
+D /user/cpsc533/l01b02/xxxxx
+A source $home/.abv
+H NIL
+X NIL
+
+C cd ~hill
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/hill
+A ls -F
+H NIL
+X NIL
+
+C ''ls
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs/hill
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs
+A ls -F
+H NIL
+X NIL
+
+C pwd
+D /user/profs
+A NIL
+H NIL
+X NIL
+
+C cd user
+D /user/profs
+A NIL
+H NIL
+X D  88
+
+C cd /user
+D /user/profs
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A ls -F
+H NIL
+X NIL
+
+C cd progs
+D /user
+A NIL
+H NIL
+X D  88
+
+C cd progs
+D /user
+A NIL
+H NIL
+X D  88
+
+C cd prfs
+D /user
+A NIL
+H NIL
+X D  88
+
+C cd profs
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs
+A ls -F
+H NIL
+X NIL
+
+C cd hill
+D /user/profs
+A NIL
+H NIL
+X D  88
+
+C pwd
+D /user/profs
+A NIL
+H NIL
+X NIL
+
+C mail hill
+D /user/profs
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/profs
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A ls -F
+H NIL
+X NIL
+
+C cd cpsc213
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213
+A ls -F
+H NIL
+X NIL
+
+C more sort.p11
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C vbp sort.p11
+D /user/cpsc213
+A /usr/ucb/lpr -Pjp sort.p11
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213
+A ls -F
+H NIL
+X NIL
+
+C m readme.t
+D /user/cpsc213
+A more readme.t
+H NIL
+X NIL
+
+C ld
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ll
+D /user/cpsc213
+A ls -F -lsa | more
+H NIL
+X NIL
+
+C cd c213l02
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213/c213l02
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc213/c213l02
+A NIL
+H NIL
+X NIL
+
+C getvterm
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C setvterm
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C $home/bin/getvterm
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C $home/bin/setvterm
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C setenve TERM bt100
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C setenv TERM vt100
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C more main.p11
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C vpb main.p11
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C more sourort.p11
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C more sort.p11
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C vbp main.p11
+D /user/cpsc213
+A /usr/ucb/lpr -Pjp main.p11
+H NIL
+X NIL
+
+C vbp readme.t
+D /user/cpsc213
+A /usr/ucb/lpr -Pjp readme.t
+H NIL
+X NIL
+
+C vbq
+D /user/cpsc213
+A NIL
+H NIL
+X N  10
+
+C alias | grep lpq
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C /usr/ucb/lpq -Pjp
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc213
+A ls -F
+H NIL
+X NIL
+
+C more valtb\áb
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C more valtab.p11
+D /user/cpsc213
+A NIL
+H NIL
+X NIL
+
+C vbp valtab.p11
+D /user/cpsc213
+A /usr/ucb/lpr -Pjp valtab.p11
+H NIL
+X NIL
+
+C vbp newline.p11
+D /user/cpsc213
+A /usr/ucb/lpr -Pjp newline.p11
+H NIL
+X NIL
+
+C bye
+D /user/cpsc213
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 21 19:33:42 1987
+E NIL
+
+C f hill
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc533/l01b02/xxxxx
+A NIL
+H NIL
+X NIL

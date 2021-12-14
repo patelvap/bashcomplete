@@ -1,0 +1,6100 @@
+S Sat Mar  7 02:52:51 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /cpsc211
+D /user
+A NIL
+H NIL
+X D  88
+
+C cd/user/cpsc211
+D /user
+A NIL
+H NIL
+X N  10
+
+C cd /user/cpsc211
+D /user
+A NIL
+H NIL
+X D  88
+
+C cd /user/cpsc211
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more f26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m03 m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cat m03
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cat m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C }i
+D /user/cpsc211
+A NIL
+H NIL
+X N  10
+
+C cat m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C {ls
+D /user/cpsc211
+A NIL
+H NIL
+X S  46
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr j22
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 22:48:00 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m03
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr j27
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr f10
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k macro
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k umacs
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man islower
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k islower
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man man
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 12:18:18 1987
+E Tue Mar 10 12:19:44 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more f26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 12:20:21 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr f26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C umacs
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C pix t.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 23:54:00 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m03
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr f26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr f12
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 23:47:54 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr f12
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m03
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab4.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 12:20:57 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m17 m17
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 12:19:53 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m19 lab8.p lab7.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab6.5.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab5.*.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 17:03:42 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umace h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g189 h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 13:34:21 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m19 m19
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab8.p lab8.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab7.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab6.5.p lab5.1.p lab5.2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab4.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 18:44:38 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n,p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 20:48:44 1987
+E NIL
+
+C term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 21:11:06 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 21:16:10 1987
+E NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 01:02:58 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g64 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g91 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 12:46:21 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lqouta
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C lquota
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 9959
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 10122
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 10125
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X Y  92
+
+C kill -9 10314
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:40:13 1987
+E NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:43:45 1987
+E NIL
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X B  48
+
+C killall
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill me
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X J  80
+
+C ps- -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps- ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man ps
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps-ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps- -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X B  48
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:54:07 1987
+E Tue Mar 31 14:54:24 1987
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 14:57:15 1987
+E NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man mail
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:08:07 1987
+E NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pipix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C i
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g61 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g140 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g135 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g131 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g131 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g147 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g131 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g131 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g120 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g120 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X J  81
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 19:29:27 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g150 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g180 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g180 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 23:29:36 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C passwd
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g180 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g170 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g130 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g130 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g108 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g120 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g120 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g125 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g100 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 2381
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 2379
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 1630
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 1627
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 1578
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g120 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g135 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g136 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g145 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g192 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C .p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 2707
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 2704
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g145 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g120 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g93 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g100 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g100 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g90 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g80 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -d -5 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -d -4 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -d -5 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp t5.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp t5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -d -5 t5.p > t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -d -5 t5.p > t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -d -6 t5.p > t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -5 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp -5 t5.p > t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g80 t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp t5b.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp t5b.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m31 m31
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m17
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m19
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C limit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm dirtyfile
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm emptyfile
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm h3*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm infile
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm test*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm test
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm tt*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm h4*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm noline
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm new*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C rm newdirt
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm h5.p.CKP
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm t5.p.CKP
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat obj
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X J  81
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X J  81
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 20:29:13 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt,p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm tt*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g70 tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cs
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g147
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g147 tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g184 tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g180 tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp tt.p ttb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g176 tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp tt.p ttb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp tt.p ttb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k Kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps-
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps¤ GF4
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pspsaa
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C @ ETranfer aborted by otherside.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C show
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C . Sz, @-# & 1~,?W
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C @ ETranfer aborted by otherside.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k c-kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -ug
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C vat tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cat tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logcd /
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc211
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m17
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X J  81
+
+C killme
+D /user/cpsc211
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X J  81
+
+C killme
+D /user/cpsc211
+A NIL
+H NIL
+X N  10
+
+C kill
+D /user/cpsc211
+A NIL
+H NIL
+X B  48
+
+C ps -ug
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X J  81
+
+C killme
+D /user/cpsc211
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X J  81
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 22:29:30 1987
+E Wed Apr  1 22:56:59 1987
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ¤ GF4
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs new,p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm new*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ¤ GF4
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ¤ GF4
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ¤ GL:
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ¤ GF4
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C aaaaaaaqqqqhjhgggggggyqwiuiiiiooexit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C ]
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 00:06:59 1987
+E Thu Apr  2 01:32:56 1987
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tt.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp tt.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp tt.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm t*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5b.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hw4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k size
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C size hw4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs hw4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi hw4/.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi hw4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g 648 hw4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g648 hw4.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 01:48:49 1987
+E Thu Apr  2 02:10:43 1987
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g70 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g80 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g81 h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 02:15:13 1987
+E Thu Apr  2 02:16:49 1987
+
+C pix h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 15:38:01 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g99 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g195 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp t5.p t5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g169 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g160 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g160 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g180 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g160 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g222 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g187 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g160 t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp t5.p w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g175 w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g160 w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp w.p wb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g150 w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix n.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g160 w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp w.p wb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g170 w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat w.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm hw4.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X J  81
+
+C killme
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 01:08:24 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g111 polyadd
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g111 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p polyaddb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g217 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g218 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g250 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g225 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g225 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g223 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g223 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g223 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p polyaddb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cat polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g225 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p polyaddb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g227 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g250 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p polyaddb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm h5*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm h.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rmt5*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X M  09
+
+C re t5*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C rm t5*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm w*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm new.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm polyadd.p.CKP
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pi polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 02:45:10 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C del poly.add.CKP
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C rm obj
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm polyadd.p.CKP
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm polyaddb.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5*.*
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 13:51:19 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g420 polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polydd.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp h5.p h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm h5b.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm polyadd.p.CKP
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp typescript ts
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp polyadd.p h5.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 14:04:52 1987
+E Fri Apr  3 14:21:36 1987
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polydd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 14:36:17 1987
+E Fri Apr  3 14:37:15 1987
+
+C polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X Y 102
+
+
+S Fri Apr  3 14:37:34 1987
+E Fri Apr  3 14:57:06 1987
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix 4x4++2x3-5
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix -l polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:16:41 1987
+E NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:16:56 1987
+E NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:16:56 1987
+E NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:20:35 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:26:20 1987
+E NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cp typescript type1
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /vaxausera/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X D  88
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:27:17 1987
+E Fri Apr  3 15:46:49 1987
+
+C pix -l polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C piadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:49:10 1987
+E Fri Apr  3 15:50:46 1987
+
+C pix -l polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 15:53:09 1987
+E Fri Apr  3 16:04:35 1987
+
+C pix -l polyaddp
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix -l polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix polyadd.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:20:36 1987
+E NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m26
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m31
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr a02
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more lab8.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr lab8.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr Deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more exam@les
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more examples
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd /examples
+D /user/cpsc211
+A NIL
+H NIL
+X D  88
+
+C cd /user/cpsc211/examples
+D /user/cpsc211
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 18 20:43:05 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 08:32:09 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umavcs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umascs
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C imacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix test.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 10:13:18 1987
+E NIL
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs t.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs t.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix t.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 11:24:26 1987
+E NIL
+
+C 
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C set term = vt100
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C ix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X N  10
+
+C pix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C pix q.p
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b36/xxxxx
+A NIL
+H NIL
+X NIL

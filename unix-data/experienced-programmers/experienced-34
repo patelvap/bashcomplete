@@ -1,0 +1,11676 @@
+S Fri Feb 20 13:00:35 1987
+E NIL
+
+C cd 547/WPrograms/Calculator
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Calculator ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C lpr calculator.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A lpr -Cb1090 calculator.c
+H NIL
+X NIL
+
+C lpr functions.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A lpr -Cb1090 functions.c
+H NIL
+X NIL
+
+C lpr mystruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A lpr -Cb1090 mystruct.h
+H NIL
+X NIL
+
+C lpq xxxxxx
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X N  10
+
+
+S Fri Feb 20 13:38:02 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Sat Feb 21 11:59:26 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Calc*
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Calc* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs functions.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Calc*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Calc* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  82
+
+C cd Calc*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Calc* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Wed Feb 25 18:16:32 1987
+E NIL
+
+C eho
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C umacs README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx/211
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C umacs README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H T
+X NIL
+
+C chmod 755 README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd /user/csus
+D /user/cpsc451/l01b04/xxxxxx/211
+A cd /user/csus ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/csus
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/csus
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/csus
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C pwd
+D /user/csus
+A NIL
+H NIL
+X NIL
+
+C ls -la
+D /user/csus
+A /bin/ls -F -la
+H NIL
+X NIL
+
+C ls
+D /user/csus
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/csus
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls csus
+D /user
+A /bin/ls -F csus
+H NIL
+X NIL
+
+C cd csus/LORRAINE
+D /user
+A cd csus/LORRAINE ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C logout
+D /user
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user
+A NIL
+H NIL
+X N  10
+
+
+S Wed Feb 25 18:33:10 1987
+E NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C umacs README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx/211
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C umacs README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H T
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/211
+A who | sort
+H NIL
+X NIL
+
+C f hoar
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+
+S Fri Feb 27 16:00:22 1987
+E NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C umacs README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C alias
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C umacs USE_THIS
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/211
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+
+S Sat Feb 28 20:18:53 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C rwwho
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar  3 09:22:14 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Messages
+D /user/cpsc451/l01b04/xxxxxx
+A cd Messages ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/Messages
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/Messages
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/Messages
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C more Directory
+D /user/cpsc451/l01b04/xxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C rm dead.letter
+D /user/cpsc451/l01b04/xxxxxx/Messages
+A mv dead.letter $home/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/Messages
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C rm dead.letter
+D /user/cpsc451/l01b04/xxxxxx
+A mv dead.letter $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm prompt
+D /user/cpsc451/l01b04/xxxxxx
+A mv prompt $home/.deleted
+H NIL
+X NIL
+
+C rm cups
+D /user/cpsc451/l01b04/xxxxxx
+A mv cups $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar  3 13:43:39 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 
+D /user/cpsc451/l01b04/xxxxxx
+A cd  ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd /usera/cpsc211
+D /user/cpsc451/l01b04/xxxxxx
+A cd /usera/cpsc211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp f10 ..
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cp f10 ~xxxxxx
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs f10
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv f10 211
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv f10 EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C pix EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C umacs EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C pix EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C umacs EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C pix EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C umacs EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H T
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar  3 15:41:39 1987
+E NIL
+
+C 211
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C pix EOR*.*
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C pix EOF*.*
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C umacs EOF_LOOP.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C pix EOF*.*
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H T
+X NIL
+
+C emacs README
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar  4 18:43:38 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod 711 xxxxxx
+D /user/cpsc451/l01b04
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc451/l01b04
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod 755 211
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C chmod 711 547
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm README.BAK
+D /user/cpsc451/l01b04/xxxxxx/211
+A mv README.BAK $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C pix EOF*.*
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/211
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cp 211/USE_THIS .
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp 211/EOF*.* .
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv EOF_LOOP.p junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pi junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pi junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pi junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pi junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pi junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C more USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C more USE*
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C more USE*
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C h
+D /user/cpsc451/l01b04/xxxxxx
+A history | pr -3 -w80 -l1 -t
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 1u
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p > reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat reses
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat USE*
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod 700 junk.p junk.p.CKP
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm out obj reses
+D /user/cpsc451/l01b04/xxxxxx
+A mv out obj reses $home/.deleted
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C rm OUT
+D /user/cpsc451/l01b04/xxxxxx
+A mv OUT $home/.deleted
+H NIL
+X NIL
+
+C pix junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar  5 08:39:28 1987
+E NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/211
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs junk.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp < junk.p > HI
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat HI
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pxp junk.p > HI
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat HI
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C script garbage
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o garbage
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm garbage
+D /user/cpsc451/l01b04/xxxxxx
+A mv garbage $home/.deleted
+H NIL
+X NIL
+
+C script -o garbage
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm garbage
+D /user/cpsc451/l01b04/xxxxxx
+A mv garbage $home/.deleted
+H NIL
+X NIL
+
+C man cat
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pc hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm garbage
+D /user/cpsc451/l01b04/xxxxxx
+A mv garbage $home/.deleted
+H NIL
+X NIL
+
+C script -o garbage
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr garbage
+D /user/cpsc451/l01b04/xxxxxx
+A lpr -Cb1090 garbage
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logoutlpr
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lprm 655
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat garbage | lpr
+D /user/cpsc451/l01b04/xxxxxx
+A cat garbage | lpr -Cb1090
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar  5 09:04:42 1987
+E Thu Mar  5 09:05:21 1987
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv HI hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C script -o garbage
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 09:05:41 1987
+E Thu Mar  5 09:06:21 1987
+
+C pix -l hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 09:09:11 1987
+E Thu Mar  5 09:10:36 1987
+
+C px -l hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pi -l hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat -v USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 13:30:14 1987
+E NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C umacs EOF_PROBLEM
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd
+D /user/cpsc451/l01b04/xxxxxx/211
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod 700 hi.p garbage
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm f10.BAK
+D /user/cpsc451/l01b04/xxxxxx
+A mv f10.BAK $home/.deleted
+H NIL
+X NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar  6 15:48:51 1987
+E Fri Mar  6 15:52:54 1987
+
+C cd
+D /user/cpsc211/l03b38
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cp ~yeh/typescript YEH
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more YEH
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr -CB460-yeh typescript
+D /user/cpsc451/l01b04/xxxxxx
+A lpr -Cb1090 -CB460-yeh typescript
+H NIL
+X NIL
+
+C lpr -CB460-yeh YEH
+D /user/cpsc451/l01b04/xxxxxx
+A lpr -Cb1090 -CB460-yeh YEH
+H NIL
+X NIL
+
+C lpq xxxxxx
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 11:18:44 1987
+E NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar  9 20:34:43 1987
+E Mon Mar  9 20:43:04 1987
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C [?1 ; 0c
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+
+S Mon Mar  9 20:44:30 1987
+E NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C [?1 ; 0c
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C pix hi.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp hi.p wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv USE_THIS test1
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test2
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp test2 USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm YEH
+D /user/cpsc451/l01b04/xxxxxx
+A mv YEH $home/.deleted
+H NIL
+X NIL
+
+C alias
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs .cshrc
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/cpsc451/l01b04/xxxxxx
+A mv *.BAK *.CKP *.*.BAK *.*.CKP $home/.deleted
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C pc wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc451/l01b04/xxxxxx
+A mv obj $home/.deleted
+H NIL
+X NIL
+
+C chmod 700 test1
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 700 test2
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp test1 USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp test2 USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat USE*
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test2
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp test2 USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test3
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp test3 USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs test3
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp test3 USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat OUT
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp test* 211
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls 211
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F 211
+H NIL
+X NIL
+
+C mv text*.* 547
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv mac2.n 547
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more compile
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm compile
+D /user/cpsc451/l01b04/xxxxxx
+A mv compile $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm a.out
+D /user/cpsc451/l01b04/xxxxxx
+A mv a.out $home/.deleted
+H NIL
+X NIL
+
+C rm mbox
+D /user/cpsc451/l01b04/xxxxxx
+A mv mbox $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv assignment1.n 547
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv wp.p 211
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs wp.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C chmod 700 wp.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm obj
+D /user/cpsc451/l01b04/xxxxxx/211
+A mv obj $home/.deleted
+H NIL
+X NIL
+
+C rrm typescript
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+C rm typescript
+D /user/cpsc451/l01b04/xxxxxx/211
+A mv typescript $home/.deleted
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C more runs
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C lsl
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm wp.p.BAK
+D /user/cpsc451/l01b04/xxxxxx/211
+A mv wp.p.BAK $home/.deleted
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/211
+A who | sort
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X J  82
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 10 12:29:12 1987
+E NIL
+
+C umacs rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 10 15:12:07 1987
+E NIL
+
+C emacs rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C umacs rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H T
+X NIL
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 10 16:32:44 1987
+E NIL
+
+C cat 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C page rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv rand.p 211/RAND.p
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C chall
+D /user/cpsc451/l01b04/xxxxxx/211
+A chmod 755 *.* *
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+
+S Wed Mar 11 12:45:53 1987
+E NIL
+
+C cd 211
+D /user/cpsc451/l01b04/xxxxxx
+A cd 211 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/211
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr ran
+D /user/cpsc451/l01b04/xxxxxx/211
+A lpr -Cb1090 ran
+H NIL
+X NIL
+
+C lpr RAND > 
+D /user/cpsc451/l01b04/xxxxxx/211
+A lpr -Cb1090 RAND > 
+H NIL
+X NIL
+
+C lpr RAND.p wp.p
+D /user/cpsc451/l01b04/xxxxxx/211
+A lpr -Cb1090 RAND.p wp.p
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/211
+A NIL
+H NIL
+X N  10
+
+
+S Sat Mar 14 09:43:17 1987
+E NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C more HI_LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C rm HI_LORR TI
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A mv HI_LORR TI $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm TIME
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A mv TIME $home/.deleted
+H NIL
+X NIL
+
+C rm TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A mv TIM $home/.deleted
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A mv core $home/.deleted
+H NIL
+X NIL
+
+C lpr examples.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 examples.c
+H NIL
+X NIL
+
+C cd Calc*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Calc* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C lpr calculator.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A lpr -Cb1090 calculator.c
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X N  10
+
+
+S Sat Mar 14 10:23:51 1987
+E Sat Mar 14 11:30:34 1987
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C emacs Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C mkdir Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C chmod 700 547
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm out USE_THIS
+D /user/cpsc451/l01b04/xxxxxx
+A mv out USE_THIS $home/.deleted
+H NIL
+X NIL
+
+C rm OUT
+D /user/cpsc451/l01b04/xxxxxx
+A mv OUT $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv Calculator/calculator.c Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp Address/calculator.c Calculator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp Calculator/Makefile Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv calculator.c address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C rm Makefile.BAK
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv Makefile.BAK $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp ../Calculator/mystruct.h addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C eamcs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cat Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page ../Calculator/Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C page ../examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls ../Calulator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F ../Calulator
+H NIL
+X NIL
+
+C ls ../Calculator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F ../Calculator
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emac
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ../examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 11:31:00 1987
+E Sat Mar 14 11:56:11 1987
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C page Makefiel
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page Makefiel
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page Make*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page ../Calculator/Make*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cat Make*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X H  25
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Adress
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Adress ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ../examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 11:54:23 1987
+E Sat Mar 14 11:56:22 1987
+
+C stty earse 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ../examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 11:56:42 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd .
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd . ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emas
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C .
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X Y 102
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X N  10
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 12:13:54 1987
+E NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C emac
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C semacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpr Address/addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 Address/addstruct.h
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 14:23:24 1987
+E Sat Mar 14 17:06:19 1987
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547
+A NIL
+H T
+X N  10
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpr Address/address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 Address/address.c
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 26167
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 14 17:04:45 1987
+E NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  68
+
+
+S Sun Mar 15 09:39:03 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 26199
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp ../Calculator/calculator.c cutup
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cp Calculator/calculator.c Address/cutup
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  82
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Sun Mar 15 10:44:15 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd /547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C maek
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 14:32:08 1987
+E Sun Mar 15 15:00:08 1987
+
+C eamcs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ex
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ex
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd ~jade/examples/toolbox
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd ~jade/examples/toolbox ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Icon_alert
+D /user/srdg/jade/examples/toolbox
+A cd Icon_alert ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A /bin/ls -F
+H NIL
+X NIL
+
+C icon_alert_vax
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A /bin/ls -F
+H NIL
+X NIL
+
+C Example_driver
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X Y 102
+
+C Examples_driver
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X N  10
+
+C cd Icon_alert
+D /user/srdg/jade/examples/toolbox
+A cd Icon_alert ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A /bin/ls -F
+H NIL
+X NIL
+
+C page icon_alert.c
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd ~jade/examples/toolbox/Icon_alert
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd ~jade/examples/toolbox/Icon_alert ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A /bin/ls -F
+H NIL
+X NIL
+
+C page icon_alert.h
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/jade/examples/toolbox/Icon_alert
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X J  68
+
+C bye
+D /user/cpsc451/l01b04/xxxxxx
+A logout
+H NIL
+X J  68
+
+
+S Sun Mar 15 15:28:09 1987
+E NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A logout
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A logout
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Sun Mar 15 15:32:12 1987
+E NIL
+
+C stty erase =
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  82
+
+C emacs Address/address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 10:42:14 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A mv core $home/.deleted
+H NIL
+X NIL
+
+C page Address/addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs Address/addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpr Address/address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 Address/address.c
+H NIL
+X NIL
+
+C lpr Address/addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 Address/addstruct.h
+H NIL
+X NIL
+
+C cd address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd address.c ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar 16 17:14:57 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 17 09:33:39 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C emacs TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm cutup
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv cutup $home/.deleted
+H NIL
+X NIL
+
+C rm cutup.BAK
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv cutup.BAK $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm address.c.BAK addstruct.h.BAK
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv address.c.BAK addstruct.h.BAK $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp address.c save_address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 18 09:56:02 1987
+E NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr address.c addstruct.h save_address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 address.c addstruct.h save_address.c
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 18 11:59:47 1987
+E NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 addstruct.h
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 20 15:35:23 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; setprompt
+H NIL
+X N  10
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; setprompt
+H NIL
+X N  10
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; setprompt
+H NIL
+X N  10
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C rm TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpr addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 addstruct.h
+H NIL
+X NIL
+
+C more addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 20 16:12:43 1987
+E NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Calculator ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Adress
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Adress ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd aB
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd aB ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C address_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C address_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C address_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Calculator ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A /bin/ls -F
+H NIL
+X NIL
+
+C more functions.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C more dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C address_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Calculator ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A /bin/ls -F
+H NIL
+X NIL
+
+C calculator_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Calculator
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Sat Mar 21 07:48:55 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X H  25
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpr dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 dbfuncts.c
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Sat Mar 21 07:53:20 1987
+E Sat Mar 21 07:53:30 1987
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+
+S Sat Mar 21 07:53:38 1987
+E Sat Mar 21 07:56:51 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:08:40 1987
+E Sat Mar 21 08:08:54 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:09:32 1987
+E Sat Mar 21 08:11:07 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:39:55 1987
+E Sat Mar 21 08:42:03 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:45:55 1987
+E Sat Mar 21 08:46:57 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:49:50 1987
+E Sat Mar 21 08:50:14 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:51:05 1987
+E Sat Mar 21 08:51:26 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:52:06 1987
+E Sat Mar 21 08:52:49 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:54:26 1987
+E Sat Mar 21 08:55:01 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 08:58:36 1987
+E Sat Mar 21 09:01:46 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:02:10 1987
+E Sat Mar 21 09:05:03 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:13:55 1987
+E Sat Mar 21 09:18:02 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:26:08 1987
+E Sat Mar 21 09:28:27 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:39:15 1987
+E Sat Mar 21 09:40:30 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:43:11 1987
+E Sat Mar 21 09:43:36 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:47:41 1987
+E Sat Mar 21 09:50:51 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 09:58:39 1987
+E Sat Mar 21 10:02:26 1987
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 11047
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 10:05:59 1987
+E Sat Mar 21 10:07:36 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 10:09:03 1987
+E Sat Mar 21 10:10:57 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 10:17:31 1987
+E Sat Mar 21 10:20:38 1987
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+
+S Sat Mar 21 10:26:38 1987
+E Sat Mar 21 10:27:19 1987
+
+C message leitch
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C talk leitch
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 10:29:33 1987
+E Sat Mar 21 10:30:26 1987
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 11:16:57 1987
+E Sat Mar 21 11:17:59 1987
+
+C 
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 11:43:56 1987
+E Sat Mar 21 11:46:34 1987
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 11:47:07 1987
+E Sat Mar 21 11:49:02 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 11:50:53 1987
+E Sat Mar 21 11:51:22 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 11:51:58 1987
+E Sat Mar 21 11:52:42 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 11:54:28 1987
+E Sat Mar 21 11:57:54 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 12:03:13 1987
+E Sat Mar 21 12:12:32 1987
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 12:16:49 1987
+E Sat Mar 21 12:18:10 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 12:18:53 1987
+E Sat Mar 21 12:19:19 1987
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:00:37 1987
+E Sat Mar 21 13:01:25 1987
+
+C ascii
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C man ascii
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:05:57 1987
+E Sat Mar 21 13:14:53 1987
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:06:07 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 
+D /user/cpsc451/l01b04/xxxxxx
+A cd  ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C stty se
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page Makefile
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C clear
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  82
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+
+S Sat Mar 21 14:34:51 1987
+E Sat Mar 21 14:40:46 1987
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 15:35:14 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs NEW_TIM'
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X S  11
+
+C emacs NEW_TIME
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F ..
+H NIL
+X NIL
+
+C emacs NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd .
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd . ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar 23 15:57:23 1987
+E Mon Mar 23 16:14:07 1987
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 16:15:01 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F ..
+H NIL
+X NIL
+
+C page NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 9932
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C lpr address.c dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 address.c dbfuncts.c
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar 23 18:53:11 1987
+E NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C cat NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 24 08:29:06 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F ..
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 24 08:53:20 1987
+E NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 24 11:47:17 1987
+E NIL
+
+C cd /547/WProgra,s
+D /user/cpsc451/l01b04/xxxxxx
+A cd /547/WProgra,s ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd /547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C more NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C lpr Address.c NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 Address.c NEW_TIM
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 address.c
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Tue Mar 24 15:25:50 1987
+E Tue Mar 24 15:33:32 1987
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 15:34:11 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X H  25
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C page dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 25 08:30:31 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WProgram/Add4ress
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WProgram/Add4ress ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C [?CV
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X H  25
+
+C page examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C page examples.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C exam
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F Address
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 25 10:17:45 1987
+E NIL
+
+C cd /547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd /547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lil
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C kill -9 2101
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 25 11:46:27 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C s
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C ls Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F Address
+H NIL
+X NIL
+
+C page Address/NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 25 16:30:34 1987
+E NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr address.c dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 address.c dbfuncts.c
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C emacs NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 25 21:10:32 1987
+E Wed Mar 25 23:40:54 1987
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cp address.c oldaddress
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cp dbfuncts.c olddbfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C clear
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C umacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C mazke
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C [?1 ; 0c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs NEW_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 00:06:53 1987
+E NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C man cb
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cb < dbfuncts.c > BOB
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat BOB
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mv dbfuncts.c LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mv BOB dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H T
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C alias clean
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv *.BAK *.CKP *.*.BAK *.*.CKP $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv NEW_TIM TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs TO*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emamcs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C rm LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv LORR $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C clean
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv *.BAK *.CKP *.*.BAK *.*.CKP $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more save_address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm save_address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv save_address.c $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar 26 08:29:59 1987
+E NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx
+A who | sort
+H NIL
+X NIL
+
+C vt100
+D /user/cpsc451/l01b04/xxxxxx
+A setenv TERM vt100 ; setenv TERMCAP ""
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C umacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mskr
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar 26 11:42:59 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 11:54:42 1987
+E NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 24646
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 24756
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 24558
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 12:01:05 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpr dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 dbfuncts.c
+H NIL
+X NIL
+
+C lpr Address/dbfuncts.c &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A lpr -Cb1090 Address/dbfuncts.c &
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar 26 20:26:56 1987
+E Thu Mar 26 21:02:52 1987
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp dbfuncts.c LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cb < dbfuncts.c > newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mv newfuncts dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 21:03:51 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C help
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C finger
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C msgs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Error log.CKP
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C rm LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv LORR $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C clean
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv *.BAK *.CKP *.*.BAK *.*.CKP $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar 26 21:24:46 1987
+E NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar 26 21:27:21 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cp dbfuncts.c LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cb < dbuncts.c > newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cp < dbfuncts.c > newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cb < dbfuncts.c > newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpr newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 newfuncts
+H NIL
+X NIL
+
+C mv newfucnts dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv newfuncts dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C page dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv LORR $home/.deleted
+H NIL
+X NIL
+
+C cp dbfuncts.c LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cb < dbfuncts.c > newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page newfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C mv newfuncts dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 08:56:56 1987
+E NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C more LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C rm LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv LORR $home/.deleted
+H NIL
+X NIL
+
+C page TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs address.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs TO_TIM
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C clean
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv *.BAK *.CKP *.*.BAK *.*.CKP $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm oldaddress aolddbfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv oldaddress aolddbfuncts $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm olddbfuncts
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv olddbfuncts $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 10:11:58 1987
+E NIL
+
+C cd /547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd /547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd /5]]
+D /user/cpsc451/l01b04/xxxxxx
+A cd /5]] ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C stty ersa
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 15880
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C man ascii
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 12:25:09 1987
+E Fri Mar 27 13:00:14 1987
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make @
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Assignment
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Assignment ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bf
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C bf
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X J  82
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make @
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 12:59:16 1987
+E NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 16:44:02 1987
+E NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 22720
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 17:31:03 1987
+E NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C date
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 19:23:40 1987
+E Fri Mar 27 22:44:16 1987
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Ass
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Ass ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Assignment
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Assignment ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C e!
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C e!
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X N  10
+
+C e!
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X N  10
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 25185
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Addre
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Addre ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C cd Add*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Add* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Ad*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Ad* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 25816
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 258*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C kill -9 258..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X Y  92
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 25827
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 25824
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 25823
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 25817
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Ad*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Ad* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C kill -9 25990
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+
+S Fri Mar 27 22:35:33 1987
+E NIL
+
+C P/
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X H  25
+
+C cd 
+D /user/cpsc451/l01b04/xxxxxx
+A cd  ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X D  88
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C t
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar 27 23:14:13 1987
+E NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C eamp
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X N  10
+
+C stty erase =
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C stty erase
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs HI_LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpr dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 dbfuncts.c
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X N  10
+
+
+S Sat Mar 28 16:04:15 1987
+E Sat Mar 28 17:11:56 1987
+
+C stty re
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase =sdafasdf
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty erase 
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/WPrograms
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F Address
+H NIL
+X NIL
+
+C page Address/HI_LORR
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A who | sort
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd 547/WPrograms/Address
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547/WPrograms/Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C emacs dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C chmod 755 547
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WPrograms ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd Address
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A cd Address ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C chmod 755 address.c address.o dbfuncts.c dbfuncts.o addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C clean
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A mv *.BAK *.CKP *.*.BAK *.*.CKP $home/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls ../Calculator
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A /bin/ls -F ../Calculator
+H NIL
+X NIL
+
+C cp ../Calculator/header .
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C emacs header
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page dbfuncts.c
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C lpr address.c dbfuncts.c addstruct.h
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A lpr -Cb1090 address.c dbfuncts.c addstruct.h
+H NIL
+X NIL
+
+C make &
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C page HI*
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms/Address
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc451/l01b04/xxxxxx/547/WPrograms
+A NIL
+H T
+X NIL
+
+
+S Thu Apr  2 16:22:16 1987
+E Thu Apr  2 17:15:58 1987
+
+C cd
+D /user/grads/greenberg
+A cd ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc451/l01b04/xxxxxx
+A /bin/ls -F -l
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc451/l01b04/xxxxxx
+A cd .. ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C chmod 755 xxxxxx
+D /user/cpsc451/l01b04
+A NIL
+H NIL
+X NIL
+
+C ls -l xxxxxx
+D /user/cpsc451/l01b04
+A /bin/ls -F -l xxxxxx
+H NIL
+X NIL
+
+C ls -l ..
+D /user/cpsc451/l01b04
+A /bin/ls -F -l ..
+H NIL
+X NIL
+
+C ls -l .
+D /user/cpsc451/l01b04
+A /bin/ls -F -l .
+H NIL
+X NIL
+
+C su greenberg
+D /user/cpsc451/l01b04
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc451/l01b04
+A NIL
+H NIL
+X NIL
+
+C cd xxxxxx
+D /user/cpsc451/l01b04
+A cd xxxxxx ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc451/l01b04/xxxxxx
+A cd 547 ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+C cd WP*
+D /user/cpsc451/l01b04/xxxxxx/547
+A cd WP* ; eval `echo set prompt = \"$metaprompt:q\"`
+H NIL
+X NIL
+
+
+S Tue Apr 14 14:32:29 1987
+E NIL
+
+C mail
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs maks
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv maks marks
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat marks
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs marks
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail loose@vaxb
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C Null Command
+D /user/cpsc451/l01b04/xxxxxx
+A NIL
+H NIL
+X N  10

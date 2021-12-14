@@ -1,0 +1,14396 @@
+S Thu Feb 26 17:23:27 1987
+E NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat calc.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cata calculator.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cat calculator.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C su francovalias
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lss
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir calc
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv *.c calc
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv Makefile Makefilefather
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C |
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X S  35
+
+C cat calculator.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 11:56:48 1987
+E Fri Mar  6 11:58:37 1987
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 18:22:37 1987
+E Thu Mar 12 18:25:54 1987
+
+C rdm
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 18:27:03 1987
+E Thu Mar 12 18:30:15 1987
+
+C cat save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 21:10:27 1987
+E Fri Mar 13 21:15:09 1987
+
+C mail johnsonm
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C f johnsonm
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write baans
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C w baans
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write baans
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep johnsonm | cat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 14:30:07 1987
+E Mon Mar 16 14:34:06 1987
+
+C mail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep ( cv | cat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X S  28
+
+C rwho | grep cv | cat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep cv18 | cat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep blain | cat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep tty | cat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep byers
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep xxxxxx
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep nielsen
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C life
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 18 19:48:05 1987
+E Wed Mar 18 21:46:22 1987
+
+C mail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d -s 0
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d -s 1
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -l
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d -s pacman.SYMDEF
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d blank.SYMDEF
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~symdef
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X D  69
+
+C showcus -d groucho.SYMDEF
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man showcus
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C man -k showcus
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d __.SYMDEF corner
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cursed it
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -l
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc547/l01b91
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C cd local
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd jade
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/lib
+A NIL
+H NIL
+X NIL
+
+C cd std-cursors.c
+D /local/jade/lib
+A NIL
+H NIL
+X D  88
+
+C cd std-cursors.a
+D /local/jade/lib
+A NIL
+H NIL
+X D  88
+
+C cat std-cursors.a
+D /local/jade/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/lib
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/jade/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C cd temp
+D /local/jade
+A NIL
+H NIL
+X D  88
+
+C cd include
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C cd windows.h
+D /local/jade/include
+A NIL
+H NIL
+X D  88
+
+C cd ../..
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C cat basic.help
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C showcus -d GLASSES_CS
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd src
+D /local
+A NIL
+H NIL
+X D  88
+
+C cd doc
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C cat kermit.doc
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C cat window.doc
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C cd NETiquette
+D /local/doc
+A NIL
+H NIL
+X D  88
+
+C cat NETquette
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C cat NETiquette
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C usenet
+D /local/doc
+A NIL
+H NIL
+X N  10
+
+C ls
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C news
+D /local/lib
+A NIL
+H NIL
+X Y 102
+
+C emacs
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C cd ../../..
+D /local/lib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C cd etc
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /etc
+A NIL
+H NIL
+X Y 102
+
+C printcap
+D /etc
+A NIL
+H NIL
+X Y 102
+
+C cd
+D /etc
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesh y
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mesg y
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write byers
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -l
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d -l eye
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C showcus -d -s eye
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rsh vaxa
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C telnet
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C whereis man
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C whereis emacs.doc
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C whereis grep
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C whereis vi
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C whereis termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C xsend
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/man/man1/
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat vi.1
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C man vi1
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C whereis vi
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C man vi.1
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C nroff vi.1 | colcrt | more
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C cat edit.1
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C cat ex.1
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /usr/man/man1
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C cd man2
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man/man2
+A NIL
+H NIL
+X NIL
+
+C cd man2c
+D /usr/man/man2
+A NIL
+H NIL
+X D  88
+
+C which vi
+D /usr/man/man2
+A NIL
+H NIL
+X NIL
+
+C vmstat
+D /usr/man/man2
+A NIL
+H NIL
+X NIL
+
+C vmstat xxxxxx
+D /usr/man/man2
+A NIL
+H NIL
+X NIL
+
+C cd
+D /usr/man/man2
+A NIL
+H NIL
+X NIL
+
+C ed termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ?
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C ed termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERMCAP=termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X B  48
+
+C set TERM termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred it
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set termcap termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred it
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set termcap ~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set termcap=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set TERM=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred it
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C su xxxxxx
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C hashstat
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset ap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset apple
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set TERM=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred it
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset ap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset apple
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=apple
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=ap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tty
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set TERM=ap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=ap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set TERM=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set prompt=!
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tty
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERMCAP=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X B  48
+
+C setenv TERMCAP ~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set prompt=¤
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set prompt=%
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C uemacs
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C microemacs
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C man emacs
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~greenberg
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C cd emacs
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/emacs
+A NIL
+H NIL
+X NIL
+
+C cd ../547
+D /user/grads/greenberg/emacs
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C cat emacs.cheat.sheet
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C emacs save
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 21:19:14 1987
+E Wed Mar 18 21:20:04 1987
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 21:51:19 1987
+E Wed Mar 18 22:06:07 1987
+
+C set
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=ap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set TERMCAP=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C tset
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C set TERM=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERMCAP=~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X B  48
+
+C setenv TERMCAP ~xxxxxx/termcap
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred it
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs newfile
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 12:47:55 1987
+E Sat Mar 21 13:00:53 1987
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv *.c hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C catn  examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C cat examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C mmv *.c ../hold
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C mv *.c ../hpold
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C skldjflsjkdf
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C cdK
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lclear
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more save
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C .lgi
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C . .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C chmod +x .lgoinogin
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod +x .login
+D /user/cpsc547/l01b91
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc547/l01b91
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C . .lgoi
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ls -al .lgogin
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -al .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod +x .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lsdjf
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C . .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+
+S Sat Mar 21 13:01:22 1987
+E Sat Mar 21 13:06:58 1987
+
+C ls -l
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C sdlfkj
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cat .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:07:19 1987
+E Sat Mar 21 14:07:55 1987
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C mkdir addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv examples.h hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm templogin
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm *.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm *.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd Rectangle
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cp Rectangle addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd Rectangle
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cp *.c ../addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cp Makefile ../addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cd ../addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mv rectangle.c addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C Make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emaxs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more Makefilefather
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd 547/W*/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+
+S Sat Mar 21 15:27:21 1987
+E Sat Mar 21 15:28:06 1987
+
+C 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C mkdir pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 16:11:08 1987
+E Sun Mar 22 16:13:17 1987
+
+C cat .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat -n .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 16:14:17 1987
+E Sun Mar 22 16:19:15 1987
+
+C cat -n .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp j
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp .login savelogin
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C . .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C chmod +x .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C . .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+
+S Sun Mar 22 16:20:16 1987
+E Sun Mar 22 16:45:40 1987
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv termcap utilities
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv save utilities
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat newfile.CKP
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a newfile.CKP
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l newfile.CKP
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd calc
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/calc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv savelogin utilities
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv Makefilefather hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv newgfile.CKP hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv newfile.CKP hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd Wprograms
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat hpdef.c
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C alias addrdir cd ~xxxxxx/547/Wprograms/addr
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod +x .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+
+S Sun Mar 22 16:46:36 1987
+E Sun Mar 22 17:37:30 1987
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cat -n examples.c ; cat -n examplesh
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cat -n examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ed
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C qprogdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+H NIL
+X NIL
+
+C ed examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep byers | cat
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep xxxxxx | cat
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod +x .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C cd wproddir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X D  88
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C cat Makefilefather
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addridir
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd cpsc547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/cpsc547
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/cpsc547
+A NIL
+H NIL
+X NIL
+
+C cd utilities
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C cat fixscript.c
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 17:50:48 1987
+E Sun Mar 22 18:17:11 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ed calc.c
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C ed calculator.c
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls -l read
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 19:25:11 1987
+E Mon Mar 23 22:23:22 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep byers | cat
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep xxxxxx | cat
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed message
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ~xxxxxx/utilities/busy.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y 102
+
+C ~xxxxxx/utilities/busy
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep byers
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep xxxxxx
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep watson
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep baans
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+
+S Tue Mar 24 15:22:52 1987
+E Tue Mar 24 17:32:14 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C more addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mv addrdef.h addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 24150 24151 24153
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y  92
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C more save1
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mv addr.c save.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mv save1 addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C reet
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C reset
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addridr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more save.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C Jim440 addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C w
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 26139
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X J  82
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C clclear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C kill -9 26183
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 18:14:53 1987
+E Tue Mar 24 18:16:34 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 18:18:18 1987
+E Tue Mar 24 19:21:59 1987
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C d addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:19:06 1987
+E NIL
+
+C wprogdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C cat message
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed message2
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:22:53 1987
+E NIL
+
+C cd 547/Wprograms
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd message
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C mv ed.hup message2
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed message2
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat read
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C w byers
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:38:27 1987
+E Wed Mar 25 09:40:16 1987
+
+C rwho | grep johnsonm
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs read
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:27:27 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed edit.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mv edit.h edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C setenv TERMCAP "'getvterm -s'"
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C setenv PL "'getvterm -r'"
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more /usr/local/jade/include/jipc.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write francova
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write francova
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C man write
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write francova ttyp2
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ed MESSAGE
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cat MESSAGE
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed message3
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.o display.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.o edit.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.o display.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.o edit.o display.o -o run
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.o test.o display.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.o test.c display.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ../utilities/busy
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd utilities
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.c display.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write byers
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n test.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed message3
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc addr.c edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.c -ltools -lvterm -ljipc
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test.c edit.c display.o -o out -ltools -lvterm -ljipc
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y 102
+
+C chmod +x out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rm out a.out read
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat run
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls -l run
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat run
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rm run
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more save1.CKP
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ed examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ed Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd hld
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C cat Makefilefather
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat Makefilefather
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C addr_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y 102
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ../utilities/busy
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd utilities
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C cat busy.c
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C mail nielsen
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C cat sendheather
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C ed msg
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C sendheather msg
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C busy
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C rm msgg
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C rm msg
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 11:13:28 1987
+E Wed Mar 25 11:17:58 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 16:04:40 1987
+E Wed Mar 25 16:06:33 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 16:06:33 1987
+E Wed Mar 25 16:10:00 1987
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 16:09:20 1987
+E Wed Mar 25 16:37:10 1987
+
+C mail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C .
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X Y 102
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_Vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs examples.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 17:14:26 1987
+E Wed Mar 25 17:28:47 1987
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/Wprograms
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd MESSAGE
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X D  88
+
+C more MESSAGE
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C more message
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C more message2
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C cd message3
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X D  88
+
+C more message3
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C emacs jim_01
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 25 20:13:24 1987
+E Wed Mar 25 20:14:54 1987
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C cat jim_01
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 12:30:14 1987
+E Thu Mar 26 12:30:40 1987
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd pmail
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 19:32:39 1987
+E Thu Mar 26 20:29:40 1987
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed messagemar26
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C write byers
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C cat messagemar26
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 09:10:45 1987
+E Fri Mar 27 10:05:41 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C who Keizer
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 1
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 1
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cp edit.c edit.c.Save
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 21:07:42 1987
+E Fri Mar 27 22:44:44 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ed saturdaymorn
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 09:06:58 1987
+E Sat Mar 28 09:08:20 1987
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 09:07:59 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rm temp
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C acs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C ed Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rm edit.o display.o
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C more Makefilefather
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cc
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C man cc
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C man -k isupper
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C man isascii
+D /
+A NIL
+H NIL
+X NIL
+
+C cd local
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C cd ../include
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/include
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /local/include
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /lib
+A NIL
+H NIL
+X NIL
+
+C whereis man
+D /lib
+A NIL
+H NIL
+X NIL
+
+C cd /usr/man/man3
+D /lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C 
+D /usr/man/man3
+A NIL
+H NIL
+X N  10
+
+C cd /
+D /usr/man/man3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A NIL
+H NIL
+X NIL
+
+C cd local
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C whereis < stdi.h >
+D /local
+A NIL
+H NIL
+X R  30
+
+C whereis stdio.h
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd /usr/include/stdio.h
+D /local
+A NIL
+H NIL
+X D  88
+
+C more /usr/include/stdio.h
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd /usr/include
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cat strings.h
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cat stdio.h
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cat fcntl.h
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cat sccs.h
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cat syscall.h
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C 
+D /usr/include
+A NIL
+H NIL
+X N  10
+
+C ls
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cd loca
+D /usr/include
+A NIL
+H NIL
+X D  88
+
+C cd local
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include/local
+A NIL
+H NIL
+X NIL
+
+C cd CC
+D /usr/include/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C cat string.h
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C man isupper
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C man -k isupper
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C man ascii
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C man isalpha
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C man isascii
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C cd /usr/include
+D /usr/include/local/CC
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cd /usr/man
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C ls man2
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C ls man2
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C ls man3
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C man -k isalpha
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C man ctype
+D /usr/man
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /usr/man
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C [?CV < cv34 ;
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C [?CV < cv34 ;
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C lsdjexamples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C [?CV < cv34 ;
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C [?CV < cv34 ; sdf
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C [?CV < cv34 ;
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 10:37:23 1987
+E Sat Mar 28 14:56:36 1987
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/Wprograms/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more M*
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X H  25
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat display.c find.c > display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat display.c find.c > ttt
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cp ttt display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cp display.c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs adderdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 10:39:51 1987
+E Sat Mar 28 11:11:17 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C plwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs Makefile
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C more examples.h
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 11:13:04 1987
+E Sat Mar 28 11:32:37 1987
+
+C addrddir
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 11:30:33 1987
+E Sat Mar 28 13:52:28 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; make ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 373 387
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 12:42:20 1987
+E NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; make ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X N  10
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C MAKE
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed add4.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C 1P/
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X H  25
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; make ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ; s
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 1298 1304
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; make ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 13:52:56 1987
+E NIL
+
+C [?CV %9cv33 ;
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C P/
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X H  25
+
+C [?CV %9cv33 ;
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X S  71
+
+C more .login
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:06:29 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:50:33 1987
+E Sat Mar 28 21:45:03 1987
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 1373
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 885
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X Y  92
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addridir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X D  88
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls -l core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C pb
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C macs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C rm core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd .. ; examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C chmod +x go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X D  88
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X D  88
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C more addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 4720
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 4719
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y  92
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls core
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 4889
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:53:19 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 20:27:13 1987
+E Sun Mar 29 01:46:05 1987
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547/W*/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c find.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cp find.c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C man mesg
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C talk xxxxxx
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C man xxxxxx
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C man write
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C whp
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write xxxxxx dz09
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C [?CV & 0cv33 ; cdcdcdcdc
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X S  71
+
+C Null Command
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C Null Command
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 28 22:56:20 1987
+E Sun Mar 29 00:08:25 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cp edit.c editprint.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n editprint.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C w | grep xxxxxx
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cp addr.c addrprint.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n addrprint.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write xxxxxx ttyp2
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat ttt
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lint editprint.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C write xxxxxx ttyp2
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat -n display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ../busy
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ./utilities/busy
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ./utilities/busy
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ./utilities/busy
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cat -n addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C w | grep xxxxxx
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ed edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 00:30:31 1987
+E Sun Mar 29 00:54:56 1987
+
+C cd 547/W*/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 00:53:58 1987
+E Sun Mar 29 01:45:16 1987
+
+C cd 547/W8/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd 547/W*/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 10:21:01 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 10:35:01 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 11:39:06 1987
+E Sun Mar 29 11:59:51 1987
+
+C cd 547/W*/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 11:41:28 1987
+E Sun Mar 29 18:31:17 1987
+
+C cd 547/W*/addr
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cc -c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc -c addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 11:59:22 1987
+E Sun Mar 29 18:31:54 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 11:59:43 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 12:04:43 1987
+E Sun Mar 29 12:42:01 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 12:10:54 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C Jim440 edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C yes lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 13:42:49 1987
+E Sun Mar 29 13:51:31 1987
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 13:50:31 1987
+E NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 14:19:58 1987
+E NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more edit.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C more edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 15:40:41 1987
+E Sun Mar 29 18:31:48 1987
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd 547/pmail
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C more message3
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/547/pmail
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cd hold
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs calculator.c
+D /user/cpsc547/l01b91/xxxxxx/hold
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx/hold
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cat test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C cc test1.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 16:02:22 1987
+E Sun Mar 29 18:32:44 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 907
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 16:06:58 1987
+E NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ki
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep byers
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C gosdflkjsdlkf
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 19:10:38 1987
+E Sun Mar 29 20:50:29 1987
+
+C  & [1$+?
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X S  13
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mail johnsonm < addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mail johnsonm < display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mail johnsonm < data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C mail johnsonm < edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 19:10:42 1987
+E Sun Mar 29 21:13:07 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 19:11:41 1987
+E Sun Mar 29 20:32:57 1987
+
+C go
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C addrdur
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred data/c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 19:11:54 1987
+E Sun Mar 29 21:05:11 1987
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 19:12:46 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 20:30:23 1987
+E Sun Mar 29 21:42:31 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 20:32:48 1987
+E Sun Mar 29 20:51:35 1987
+
+C clear
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 20:34:40 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep dave
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C rwho | grep mason
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 21:16:58 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls *.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C JIM440 addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C JIM440 addrdef.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C JIM440 display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C JIM440 edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpr -C JIM440 data.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 5297 5303 5304
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X Y  92
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C kill -9 4926
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 21:17:04 1987
+E Sun Mar 29 21:20:44 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C lpr -C JIM440 display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C lines addrdef.c addr.c edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 21:54:08 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 21:57:26 1987
+E NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 5310
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 29 21:58:10 1987
+E Sun Mar 29 21:58:36 1987
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 4291
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C killme
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C killme
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Mon Mar 30 09:55:13 1987
+E Mon Mar 30 10:10:12 1987
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C fred display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 12:28:41 1987
+E Tue Mar 31 12:32:42 1987
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 12:29:18 1987
+E NIL
+
+C addrdir
+D /user/cpsc547/l01b91/xxxxxx
+A cd /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs edit.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs display.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs addr.c
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+C [?CV & cv23 ;
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X S  71
+
+C Null Command
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X N  10
+
+C go
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 13:24:40 1987
+E Wed Apr  1 13:30:15 1987
+
+C cd ut*
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C cat sendheather
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C ls -l sendheather
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C sendheather
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc547/l01b91/xxxxxx/utilities
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 15:20:21 1987
+E Thu Apr  2 15:24:09 1987
+
+C ls
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C chmod +xr all 547
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C man chmod
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C chmod 0007 547
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X H  25
+
+C chmod 755 *
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd addr
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms/addr
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 15:27:00 1987
+E Thu Apr  2 15:28:18 1987
+
+C cd
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 15:29:15 1987
+E Thu Apr  2 15:31:26 1987
+
+C cd
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C c547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc547/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C cd ~
+D /user/cpsc547/l01b91/xxxxxx/547/Wprograms
+A NIL
+H NIL
+X NIL
+
+C chmod 755 *
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C l .
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C chmod 755 .
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C l 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls -l 547
+D /user/cpsc547/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL

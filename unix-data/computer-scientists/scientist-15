@@ -1,0 +1,9216 @@
+S Fri Feb 13 16:19:20 1987
+E NIL
+
+C echo "Saul is a twit :-)"
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 13 16:39:05 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 15 10:04:35 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 16 11:35:46 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 16 13:56:19 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Feb 16 20:13:53 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 17 16:06:32 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 18 13:12:17 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 18 14:43:19 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 18 15:52:26 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Feb 18 19:42:00 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a xxxxxxx thompson
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 12:00:47 1987
+E NIL
+
+C ls
+D /user/others/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd SOURCES
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/SOURCES
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/others/xxxxxxx/SOURCES
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm -rf SOURCES s s.BAK x prompt main.CKP gliding.BAK dead.letter chords ai_mag
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C du
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 15:34:57 1987
+E NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 14:50:41 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 13:10:56 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man tar
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir dypar
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dypar
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tar x
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/dypar
+A /bin/ls -F
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx/dypar
+A dirs
+H NIL
+X NIL
+
+C cd ..
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C mkdir dypar 2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir dypar2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dypar2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tar x
+D /user/others/xxxxxxx/dypar2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/dypar2
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/others/xxxxxxx/dypar2
+A NIL
+H NIL
+X NIL
+
+C diff dypar dypar2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm -rf dypar2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dypar
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/others/xxxxxxx/dypar
+A /bin/ls -F -a
+H NIL
+X NIL
+
+C head *.l
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X Y 102
+
+C page *.l
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C ed ~/.lisprc
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C lisp
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C page *.l
+D /user/others/xxxxxxx/dypar
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/dypar
+A /bin/ls -F
+H NIL
+X NIL
+
+C dypar1.15
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C page *.l
+D /user/others/xxxxxxx/dypar
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C page *.l
+D /user/others/xxxxxxx/dypar
+A NIL
+H T
+X NIL
+
+C ls
+D /user/others/xxxxxxx/dypar
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail ian
+D /user/others/xxxxxxx/dypar
+A NIL
+H NIL
+X NIL
+
+C h bin
+D /user/others/xxxxxxx/dypar
+A cd ; cd bin
+H NIL
+X NIL
+
+C ln -s ~/dypar/dypar1.15
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C mv dypar1.15 dypar
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls -l dypar
+D /user/others/xxxxxxx/bin
+A /bin/ls -F -l dypar
+H NIL
+X NIL
+
+C rehash
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/others/xxxxxxx/bin
+A cd ; cd
+H NIL
+X NIL
+
+C dypar
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 15:21:40 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 24 15:31:59 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 09:43:28 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep apollo /usr/lib/ext_sendmail.cf
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep apollo /usr/lib/sendmail.cf
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 10:26:14 1987
+E NIL
+
+C ls
+D /user/others/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail brinsmead
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 16:34:28 1987
+E NIL
+
+C rehash
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/others/xxxxxxx
+A /bin/ls -l
+H NIL
+X NIL
+
+C printenv
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm -rf ~greenberg/* ~greenberg/.*
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo tee hee
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo Sorry, couldnt resist the temptation to
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo make you annoyed with me
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo -- Dan.
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 22:51:53 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uc file
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uc file | p
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C cd ~bonham
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls file
+D /user/srdg/bonham
+A /bin/ls -F file
+H NIL
+X NIL
+
+C cd file
+D /user/srdg/bonham
+A NIL
+H NIL
+X D  88
+
+C cd src
+D /user/srdg/bonham
+A NIL
+H NIL
+X NIL
+
+C ls file.c
+D /user/srdg/bonham/src
+A /bin/ls -F file.c
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/bonham/src
+A NIL
+H NIL
+X NIL
+
+C ls file.c
+D /user/srdg/bonham
+A /bin/ls -F file.c
+H NIL
+X NIL
+
+C cd bin
+D /user/srdg/bonham
+A NIL
+H NIL
+X NIL
+
+C ls file.c
+D /user/srdg/bonham/bin
+A /bin/ls -F file.c
+H NIL
+X NIL
+
+C ls file
+D /user/srdg/bonham/bin
+A /bin/ls -F file
+H NIL
+X NIL
+
+C l file
+D /user/srdg/bonham/bin
+A /bin/ls -l file
+H NIL
+X NIL
+
+C cd ../src/file
+D /user/srdg/bonham/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/bonham/src/file
+A /bin/ls -F
+H NIL
+X NIL
+
+C p file.c
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/bonham/src/file
+A /bin/ls -F
+H NIL
+X NIL
+
+C p file.key_MAP
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C p file.key_map
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C ps aux | grep ian
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C l /dev/dz07
+D /user/srdg/bonham/src/file
+A /bin/ls -l /dev/dz07
+H NIL
+X NIL
+
+C l /dev/dh13
+D /user/srdg/bonham/src/file
+A /bin/ls -l /dev/dh13
+H NIL
+X NIL
+
+C termkind dh13
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/srdg/bonham/src/file
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 09:11:32 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 14:37:21 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 20:23:04 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  1 11:49:57 1987
+E NIL
+
+C checkeanmail
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C checkeanmail
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ean
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C printenv
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat ~/bin/call
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  1 17:13:05 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 13:07:26 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar  3 16:03:14 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar  4 09:29:06 1987
+E Wed Mar  4 09:30:01 1987
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime --t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 09:31:08 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C seek apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail microbe@cs-apollo-a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C per harry
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 09:39:36 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar  5 20:48:12 1987
+E NIL
+
+C setvterm
+D /user/others/xxxxxxx
+A setenv TERMCAP "`/usr/local/jade/bin/getvterm -s`"
+H NIL
+X NIL
+
+C c
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C p .newsrc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C sort .newsrc : p
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C sort .newsrc | p
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C fgrep apollo .newsrc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail dan@cs-apollo-a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 10:40:04 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 13:23:14 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 13:46:11 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 09:08:13 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 13:19:20 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 13:33:33 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 14:20:30 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 09:42:23 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 14:09:53 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 12 15:44:30 1987
+E NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 12 17:34:34 1987
+E NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 16:17:36 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 16 17:17:57 1987
+E NIL
+
+C cd src
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C page pty_demo.c
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C pty_demo'cat -u'
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X N  10
+
+C pty_demo 'cat -u'
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X N  10
+
+C ls ~/bin
+D /user/others/xxxxxxx/src
+A /bin/ls -F ~/bin
+H NIL
+X NIL
+
+C quota
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C cd ~/src
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src
+A /bin/ls -F
+H NIL
+X NIL
+
+C cc -o pty_demo pty_demo.c
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C pty_demo 'cat -u'
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 19:17:21 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd src
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir dobis
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C cp pty_demo* dobis
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C mv pty_demo ~/bin
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C ls pty*
+D /user/others/xxxxxxx/src
+A /bin/ls -F pty*
+H NIL
+X NIL
+
+C cd dobis
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv pty_demo dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C mv pty_demo.c dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis ls
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'cat'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'stty everything'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C emacs dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X H  25
+
+C cc dobis.c -o dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g dobis.c -o dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc dobis.c -o dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc dobis.c -o dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g dobis.c -o dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dbx dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C c -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis 'stty everything'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty everything
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'stty everything'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C cc -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis cat -u
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'cat -u'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'stty everything'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C man 4 tty
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty old
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X Y 102
+
+C dobis 'csh -c tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'csh -c \'tip dn\§'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X S  11
+
+C dobis 'csh -c \'tip dn\§ '
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X S  11
+
+C dobis 'csh -c 'tip dn' '
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'csh tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'csh -c tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'csh -c "tip dn"'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis 'sh -c "tip dn"'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -o -g dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dbx dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dbx dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dbx dobis 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fil
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C file
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C which tip
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C which tip
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis s
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C 
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C stty everything
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty new
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C man tip
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C pty_demo 'tip dn'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X Y 102
+
+C pty_demo 'file'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X J  81
+
+C logout
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 19:19:27 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar 16 19:55:48 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 20:19:07 1987
+E Mon Mar 16 20:19:39 1987
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 20:20:20 1987
+E NIL
+
+C cd src/dobis
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C remove
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm '-g'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C rm - -g
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs dobis.c ~/projects/file/file.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X S  11
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C man tip
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C l /usr/ucb/tip
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -l /usr/ucb/tip
+H NIL
+X NIL
+
+C l /usr/bin/tip
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -l /usr/bin/tip
+H NIL
+X NIL
+
+C man tip
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat /etc/remote
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C l /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -l /dev/dz12
+H NIL
+X NIL
+
+C cat /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C cat > /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X Y 102
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 2819 2821
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat > /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 20:36:53 1987
+E NIL
+
+C man tip
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 2922 2887 2888
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo $$
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 29459 29435
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C '
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X S  11
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 2546
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx
+A dirs
+H NIL
+X NIL
+
+C cd src/dobis
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C echo $$
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 2502 285
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X Y  90
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3005 3006
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3015 3020
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty old
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty everything
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C pty_demo 'stty everything'
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty new
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3038 3042
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3047 3048
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X J  82
+
+C emacs dobis.c file.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3080 3081
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3084
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3085
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3122
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3123
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3154 3155
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3162 3163
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3196 3197
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ~P.
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fgrep avid /etc/passwd
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C pushd ~spooner
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/spooner
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd prolog
+D /user/research/spooner
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/spooner/prolog
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls hack
+D /user/research/spooner/prolog
+A /bin/ls -F hack
+H NIL
+X NIL
+
+C l
+D /user/research/spooner/prolog
+A /bin/ls -l
+H NIL
+X NIL
+
+C ls lib
+D /user/research/spooner/prolog
+A /bin/ls -F lib
+H NIL
+X NIL
+
+C cd ../emacs
+D /user/research/spooner/prolog
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/spooner/emacs
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ../c
+D /user/research/spooner/emacs
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/research/spooner/c
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd work
+D /user/research/spooner/c
+A NIL
+H NIL
+X D  88
+
+C l
+D /user/research/spooner/c
+A /bin/ls -l
+H NIL
+X NIL
+
+C cd ..
+D /user/research/spooner/c
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/research/spooner
+A /bin/ls -l
+H NIL
+X NIL
+
+C popd
+D /user/research/spooner
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3230 3231
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3330 3331
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3406 3407
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3451 3452
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3466 3467
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3470 3471
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fgcc
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X N  10
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3474 3476
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3579
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3583
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3598 3599
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3605 3606
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C stty everything
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C pry_demo csh
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C pty_demo csh
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C j
+D /user/others/xxxxxxx/src/dobis
+A jobs -l
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 3869 3873
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ~.
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C ~.
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C ~.
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ~.
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C  1111111 \reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C   reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C e
+D /user/others/xxxxxxx/src/dobis
+A emacs
+H NIL
+X NIL
+
+C reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 4906 4907 4905
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 5562 5563 5571
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 5982
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cc -g -o dobis dobis.c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C j
+D /user/others/xxxxxxx/src/dobis
+A jobs -l
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 21:13:37 1987
+E NIL
+
+C stty everything
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logouty
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 21:54:26 1987
+E NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 4193 4194 4195
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man 2 kill
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man 2 kill
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C man 2 killpg
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man 2 read
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn | tee xx
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn | tee xx
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 5563
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 21:59:45 1987
+E NIL
+
+C printenv
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd src/dobis
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C       
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ~~
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C ~~
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X N  10
+
+C Null Command
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X H  25
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C echo $status
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C echo $status
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H T
+X NIL
+
+C    
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C reset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C kill -9 4225 5756
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X Y  92
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tty
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C l /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -l /dev/dz12
+H NIL
+X NIL
+
+C cat /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cat > /dev/dz12
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tcpreset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C /etc/tcpreset
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X N  10
+
+C u
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C vaxc
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C u -a greenberg
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C talk greenberg@vaxc
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 23:30:03 1987
+E NIL
+
+C termkind develnet
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -CONT 5563
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd srcf/dobis
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C remove
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd src/dobis
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C remove
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/dobis
+A /bin/ls -F
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C cd ~/bin
+D /user/others/xxxxxxx/src/dobis
+A NIL
+H NIL
+X NIL
+
+C ln -s ~/src/dobis/dobis
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/others/xxxxxxx/bin
+A cd ; cd
+H NIL
+X NIL
+
+C dobis
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C h bin
+D /user/others/xxxxxxx
+A cd ; cd bin
+H NIL
+X NIL
+
+C mv dobis library
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C l library
+D /user/others/xxxxxxx/bin
+A /bin/ls -l library
+H NIL
+X NIL
+
+C rm library
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd ~/src
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C mv dobis library
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C cd library
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/library
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv dobis.c library.c
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C mv dobis library
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/others/xxxxxxx/src/library
+A /bin/ls -l
+H NIL
+X NIL
+
+C h bin
+D /user/others/xxxxxxx/src/library
+A cd ; cd bin
+H NIL
+X NIL
+
+C ln -s ~/src/library/library
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/others/xxxxxxx/bin
+A cd ; cd
+H NIL
+X NIL
+
+C h
+D /user/others/xxxxxxx
+A cd ; cd
+H NIL
+X NIL
+
+C library
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C library
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 08:45:56 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 10:12:13 1987
+E NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 10:52:39 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 11:12:09 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk andrews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk andrews < 2vaxa
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk andrews@vaxa
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx
+A dirs
+H NIL
+X NIL
+
+C h src/dobis
+D /user/others/xxxxxxx
+A cd ; cd src/dobis
+H NIL
+X D  88
+
+C h
+D /user/others/xxxxxxx
+A cd ; cd
+H NIL
+X NIL
+
+C library
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 20161 20159
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C >
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X S  35
+
+C >
+D /user/others/xxxxxxx
+A NIL
+H T
+X S  35
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C h src/library
+D /user/others/xxxxxxx
+A cd ; cd src/library
+H NIL
+X NIL
+
+C p library.c
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 12:46:13 1987
+E Tue Mar 17 12:48:29 1987
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat < /dev/ptyp3
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat < /dev/ptyp3
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C cat < /dev/ttyp3
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+
+S Tue Mar 17 13:13:50 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 17 19:04:12 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 18 17:29:03 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 10:19:31 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd new_prolog_mode
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/new_prolog_mode
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls -al
+D /user/others/xxxxxxx/new_prolog_mode
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C h bin
+D /user/others/xxxxxxx/new_prolog_mode
+A cd ; cd bin
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/bin
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv piupdate ~/new_prolog_mode
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ln -s ~/new_prolog_mode/piupdate
+D /user/others/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C h new*
+D /user/others/xxxxxxx/bin
+A cd ; cd new*
+H NIL
+X S  36
+
+C h new_*
+D /user/others/xxxxxxx
+A cd ; cd new_*
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/new_prolog_mode
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd prolog
+D /user/others/xxxxxxx/new_prolog_mode
+A NIL
+H NIL
+X D  88
+
+C h prolog
+D /user/others/xxxxxxx/new_prolog_mode
+A cd ; cd prolog
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/prolog
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls-al
+D /user/others/xxxxxxx/prolog
+A NIL
+H NIL
+X N  10
+
+C ls -al
+D /user/others/xxxxxxx/prolog
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C cat .prolog_index
+D /user/others/xxxxxxx/prolog
+A NIL
+H NIL
+X NIL
+
+C cd theop
+D /user/others/xxxxxxx/prolog
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/others/xxxxxxx/prolog/theop
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C cat .prolog_index
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C piupdate
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X Y 102
+
+C shf ~/new_*/piupdate
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C piupdate
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C p .prolog_index
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C p .prolog_index
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C page /usr/include/stdio.h
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C kill -9 20161
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X Y  92
+
+C kill -9 20159
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C kill -9 20159
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+C cat < /dev/ttypa
+D /user/others/xxxxxxx/prolog/theop
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 14:46:23 1987
+E NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:29:03 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar 20 15:41:51 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 09:25:50 1987
+E NIL
+
+C cd /usr/local/lib/laserwriter
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib/laserwriter
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat /etc/printcap
+D /usr/local/lib/laserwriter
+A NIL
+H NIL
+X NIL
+
+C man 5 printcap
+D /usr/local/lib/laserwriter
+A NIL
+H NIL
+X NIL
+
+C page /etc/printcap
+D /usr/local/lib/laserwriter
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 13:15:44 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd man
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C virtex menu
+D /user/others/xxxxxxx/man
+A NIL
+H NIL
+X N  10
+
+C tex menu
+D /user/others/xxxxxxx/man
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/others/xxxxxxx/man
+A /bin/ls -l
+H NIL
+X NIL
+
+C l menu.*
+D /user/others/xxxxxxx/man
+A /bin/ls -l menu.*
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/man
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 20:14:55 1987
+E NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-f -8 -l dan
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat remote
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx
+A dirs
+H NIL
+X NIL
+
+C cat remote
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C rlogin cs-apollo-f -8 -l dan
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 06:14:14 1987
+E Tue Mar 24 08:18:57 1987
+
+C setenv TERMCAP ~/etc/termcap
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd src/library
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/library
+A /bin/ls -F
+H NIL
+X NIL
+
+C tail -40 library.c | page
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C tail -60 library.c | page
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C u
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C man vnews
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C cd ~danny/bin
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X D  88
+
+C cd ~danny
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/willowglen/danny
+A /bin/ls -F
+H NIL
+X NIL
+
+C u
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C su danny
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C ed .newsrc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 12:05:21 1987
+E Tue Mar 24 12:06:09 1987
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 12:06:42 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 15:56:23 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a jevans xxxxxxx dan dave
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -c
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls src/u.c
+D /user/others/xxxxxxx
+A /bin/ls -F src/u.c
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:07:08 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 25 11:32:45 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C getvetrm
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C getvterm
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C alias setvterm
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C getvterm -s
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 13:29:36 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 11:34:15 1987
+E NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 15:29:45 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C @@
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ksl
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ksl
+D /user/others/xxxxxxx
+A NIL
+H T
+X N  10
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ks
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C !
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn!
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 17:25:46 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar 27 17:57:12 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ksl
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:52:23 1987
+E NIL
+
+C cd projects/roff
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C diff roff.c ~/src/roff.c
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C l roff.c ~/src/roff.c
+D /user/others/xxxxxxx/projects/roff
+A /bin/ls -l roff.c ~/src/roff.c
+H NIL
+X NIL
+
+C cp src/roff.c c
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C cp ~/src/roff.c .
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C e roff.c
+D /user/others/xxxxxxx/projects/roff
+A emacs roff.c
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/projects/roff
+A /bin/ls -F
+H NIL
+X NIL
+
+C head roff.c
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C cc -O -o roff roff.c -lvterm -ljipc
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C roff -d -a1 sdfg
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C roff -d -a2 sdfg
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H T
+X NIL
+
+C roff -d -a sdfg
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H T
+X NIL
+
+C mv roff ~/bin
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C l ~/bin/roff
+D /user/others/xxxxxxx/projects/roff
+A /bin/ls -l ~/bin/roff
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx/projects/roff
+A dirs
+H NIL
+X NIL
+
+C strip roff
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C strip roff
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H T
+X NIL
+
+C strip roff
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H T
+X NIL
+
+C strip roff
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X J  81
+
+C j
+D /user/others/xxxxxxx/projects/roff
+A jobs -l
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 13:57:41 1987
+E NIL
+
+C roff -d -a fred
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/local/lib/laserwriter
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd troff.font
+D /usr/local/lib/laserwriter
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib/laserwriter/troff.font
+A /bin/ls -F
+H NIL
+X NIL
+
+C c
+D /usr/local/lib/laserwriter/troff.font
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 13:59:05 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+C df
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 06:31:03 1987
+E NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls 2
+D /user/others/xxxxxxx
+A /bin/ls -F 2
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 06:58:29 1987
+E NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C @@
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /usr/lib
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls l.sys
+D /usr/lib
+A /bin/ls -F l.sys
+H NIL
+X NIL
+
+C h
+D /usr/lib
+A cd ; cd
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 09:16:49 1987
+E NIL
+
+C page /usr/local/bin/ptroff
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C sh -x ptroff -t f
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C sh -x /usr/local/bin/ptroff -t x
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C CCCCCCCCCCCCCCCCAAAAA
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Wed Apr  1 15:09:46 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  2 08:12:03 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C h src/library
+D /user/others/xxxxxxx
+A cd ; cd src/library
+H NIL
+X NIL
+
+C l
+D /user/others/xxxxxxx/src/library
+A /bin/ls -l
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C make
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/library
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat > makefile
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ed makefile
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C library
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C kill 2714
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C kill 2716
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C kill 2716
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C kill -9 2716
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C emacs library.c
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C library
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C kill 3819
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X Y  92
+
+C kill 2819
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C kill 2820
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C kill 2820
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C kill -9 2820
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C library
+D /user/others/xxxxxxx/src/library
+A NIL
+H T
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/library
+A /bin/ls -F
+H NIL
+X NIL
+
+C reset
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/src/library
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/others/xxxxxxx/src/library
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 11:53:29 1987
+E NIL
+
+C library
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 2864
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X Y  92
+
+C kill -9 2863
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr  4 07:32:33 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C h projects/roff
+D /user/others/xxxxxxx
+A cd ; cd projects/roff
+H NIL
+X NIL
+
+C e roff.c
+D /user/others/xxxxxxx/projects/roff
+A emacs roff.c
+H NIL
+X NIL
+
+C head roff.c
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C cc -O -o roff roff.c -lvterm -ljipc
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C mail ian
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C msgs
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C mu
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx/projects/roff
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 08:42:30 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 15:20:56 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 18:51:45 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 09:36:55 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 11:31:58 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 12:11:48 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 14:55:43 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 15:37:35 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 16:25:21 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:31:16 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 14:32:02 1987
+E Thu Apr  9 15:39:20 1987
+
+C df
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd v2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C du
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/v2
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm v2
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/others/xxxxxxx/v2
+A /bin/ls -l
+H NIL
+X NIL
+
+C make v2d
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C v2d -s -p
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C v2d -sp
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C cat /etc/services
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C v2d -s -p 1234
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C kill -9 9655
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C v2d -d -s -p 1234
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ~/v2/v2 -d -s -p 1234
+D /
+A NIL
+H NIL
+X N  10
+
+C ~/v2/v2 -d -s -p 1234
+D /
+A NIL
+H T
+X H  21
+
+C ~/v2/v2d -d -s -p 1234
+D /
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /
+A dirs
+H NIL
+X NIL
+
+C page /etc/services
+D /
+A NIL
+H NIL
+X NIL
+
+C !~:p
+D /
+A NIL
+H NIL
+X N  10
+
+C :p
+D /
+A NIL
+H NIL
+X H  25
+
+C history 10
+D /
+A NIL
+H NIL
+X NIL
+
+C ~/v2/v2d -d -s -p 2347
+D /
+A NIL
+H T
+X NIL
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C cd v2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/v2
+A /bin/ls -F
+H NIL
+X NIL
+
+C v2d -s -p 2347
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx/v2
+A dirs
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/v2
+A /bin/ls -F
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C kill -9 10725
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/v2
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/others/xxxxxxx/v2
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C ftp cs-apollo-a
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ls -al
+D /user/others/xxxxxxx/v2
+A /bin/ls -F -al
+H NIL
+X NIL
+
+C make v2d
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx/v2
+A dirs
+H NIL
+X NIL
+
+C v2d -s -p 2343
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C kill -9 11149
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C dbx v2d -s -p 2343
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C dbx v2d
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C cat ~/dbx*
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X M  09
+
+C ls -a ~
+D /user/others/xxxxxxx/v2
+A /bin/ls -F -a ~
+H NIL
+X NIL
+
+C cat ~/.dbxinit
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/others/xxxxxxx/v2
+A dirs
+H NIL
+X NIL
+
+C fg
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 14:47:31 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr  9 15:39:50 1987
+E NIL
+
+C cd v2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps ux
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C dbx v2d
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+C dbx v2d
+D /user/others/xxxxxxx/v2
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx/v2
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 10:41:03 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u -a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C csuptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERMCAP ~/etc/termcap
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C c
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 10:01:00 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 13 11:36:28 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 14 10:26:53 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 14 16:32:41 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 16:58:51 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 15 10:02:22 1987
+E NIL
+
+C mail dan
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 15 10:13:09 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 15 10:36:01 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 15 11:40:37 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 15 16:42:52 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 15 18:05:42 1987
+E Wed Apr 15 18:44:46 1987
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 18:09:23 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 09:17:51 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr 16 09:32:50 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C df
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 12:10:49 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr 16 19:35:45 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty everything
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C stty everything
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rrrrrr
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 22:12:27 1987
+E NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C oidh blidhb
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 17 10:30:14 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 17 13:51:53 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 19 16:11:15 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 09:40:57 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 20 12:11:54 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 20 16:40:54 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 21 10:36:55 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 10:41:32 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 11:49:35 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 21 15:18:44 1987
+E NIL
+
+C forum
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C .l forum
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C forum tba
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C .l hw2
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C .l h
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr 22 09:50:33 1987
+E NIL
+
+C acttc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr 23 08:10:33 1987
+E NIL
+
+C setenv TERM vt52
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERMCAP ~/etc/termcap
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 09:31:02 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Thu Apr 23 11:03:47 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 15:32:08 1987
+E NIL
+
+C grep lee
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 21:33:02 1987
+E NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 22:01:13 1987
+E NIL
+
+C uc cansim
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mu
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tip dn
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 10:34:35 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Apr 26 00:33:06 1987
+E NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 21:52:16 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail brucet@cs-apollo-a
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 10:01:12 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Apr 28 16:58:11 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 09:54:14 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 08:53:28 1987
+E NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 30 13:53:13 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C .a kids1 marc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Apr 30 16:40:39 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  1 11:12:02 1987
+E NIL
+
+C h src
+D /user/others/xxxxxxx
+A cd ; cd src
+H NIL
+X NIL
+
+C page expand_path.c
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+C page expand_pathname.c
+D /user/others/xxxxxxx/src
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx/src
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  1 11:43:23 1987
+E NIL
+
+C rlogin cs-apollo-a -8 -l dan
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-a -8 -l dan
+D /user/others/xxxxxxx
+A NIL
+H T
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun May  3 21:15:30 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C df
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 08:37:04 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May  4 10:02:53 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/others/xxxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon May  4 10:07:23 1987
+E NIL
+
+C cd emacs/maclib
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/emacs/maclib
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls prolog*
+D /user/others/xxxxxxx/emacs/maclib
+A /bin/ls -F prolog*
+H NIL
+X NIL
+
+C ed prolog-mode.ml
+D /user/others/xxxxxxx/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C mkdir pl
+D /user/others/xxxxxxx/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C cp prolog-mode.ml prolog-mode-doc.roff pl
+D /user/others/xxxxxxx/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C cd pl
+D /user/others/xxxxxxx/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C ed prolog-mode.ml
+D /user/others/xxxxxxx/emacs/maclib/pl
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx/emacs/maclib/pl
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/xxxxxxx/emacs/maclib/pl
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail terry -s "prolog-mode.ml" < prolog-mode.ml
+D /user/others/xxxxxxx/emacs/maclib/pl
+A NIL
+H NIL
+X NIL
+
+C mail terry -s "prolog-mode-doc.roff" < prolog-mode-doc.roff
+D /user/others/xxxxxxx/emacs/maclib/pl
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/others/xxxxxxx/emacs/maclib/pl
+A NIL
+H NIL
+X NIL
+
+C ls pro*
+D /user/others/xxxxxxx/emacs/maclib
+A /bin/ls -F pro*
+H NIL
+X NIL
+
+C rm -rf pl
+D /user/others/xxxxxxx/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C cd ~terry
+D /user/others/xxxxxxx/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/adm/terry
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd emacs
+D /user/adm/terry
+A NIL
+H NIL
+X D  88
+
+C cd unipress
+D /user/adm/terry
+A NIL
+H NIL
+X D  88
+
+C cd uemacs
+D /user/adm/terry
+A NIL
+H NIL
+X D  88
+
+C cd emacs/maclib
+D /user/adm/terry
+A NIL
+H NIL
+X D  88
+
+C h
+D /user/adm/terry
+A cd ; cd
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 22:51:15 1987
+E NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-apollo-a -l dan
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 09:54:28 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 09:46:09 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 07:22:43 1987
+E NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime -t
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 10:22:20 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 22:30:00 1987
+E NIL
+
+C setenv TERMCAP ~/etc/termcap
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l /usr/local/bin/emacs
+D /user/others/xxxxxxx
+A /bin/ls -l /usr/local/bin/emacs
+H NIL
+X NIL
+
+C which emacs
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ~terry/bin/emacs
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ~terry/bin/new_emacs
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls ~terry/bin
+D /user/others/xxxxxxx
+A /bin/ls -F ~terry/bin
+H NIL
+X NIL
+
+C ls ~terry/bin/src
+D /user/others/xxxxxxx
+A /bin/ls -F ~terry/bin/src
+H NIL
+X NIL
+
+C ls ~terry/emacs
+D /user/others/xxxxxxx
+A /bin/ls -F ~terry/emacs
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C memo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C apollo
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vnews
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 09:20:00 1987
+E NIL
+
+C actc
+D /user/others/xxxxxxx
+A NIL
+H NIL
+X NIL

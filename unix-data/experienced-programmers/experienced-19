@@ -1,0 +1,11328 @@
+S Fri Feb 20 16:02:21 1987
+E Fri Feb 20 16:07:09 1987
+
+C l
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C more test
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv typescript typescript.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 16:10:03 1987
+E Fri Feb 20 16:16:51 1987
+
+C mail dorenkamp
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n dorenkamp
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C f peg
+D /user/cpsc500/l01b91/xxxxxx
+A "f" | more peg
+H NIL
+X NIL
+
+C finger peg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C finger xxxxxx
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C f xxxxxx
+D /user/cpsc500/l01b91/xxxxxx
+A "f" | more xxxxxx
+H NIL
+X NIL
+
+C unalias f
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C f xxxxxx
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C f
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 20 18:01:53 1987
+E NIL
+
+C rebooty
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C more *ada
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X M  09
+
+C more ada*
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C mv ada* $home
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C e .login ada*
+D /user/cpsc500/l01b91/xxxxxx
+A emacs .login ada*
+H NIL
+X NIL
+
+C mv ada* c500
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C boot .login
+D /user/cpsc500/l01b91/xxxxxx
+A source .login
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C mkdir ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C mklib ADA
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C mv ada* ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "mail" -n robson
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C more newtime.CKP
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ps -g
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "ps" -g -g
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C snow
+D /user/cpsc500/l01b91/xxxxxx
+A cd snobolwork && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp header $home/c500
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A NIL
+H NIL
+X NIL
+
+C cd $home/c500
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A cd $home/c500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cp header ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C cd ~terry/Ada
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ~terry/Ada && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/adm/terry/Ada
+A /bin/ls -F
+H NIL
+X NIL
+
+C more R*
+D /user/adm/terry/Ada
+A NIL
+H NIL
+X NIL
+
+C me
+D /user/adm/terry/Ada
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C a.mklib -f
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp $home/.emacs_pro
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C cp $home/.emacs_pro .emacs_pro
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A history -r | more
+H NIL
+X NIL
+
+C more ~terry/Ada/ReadMe
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C more *.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M main_part *.a -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X Y 102
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C man ada
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M main_part *.a -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X Y 102
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/cpsc500
+A cd examples && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more ex1
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/examples
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd handouts
+D /user/cpsc500
+A cd handouts && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no20
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/handouts
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cd colijn
+D /user
+A cd colijn && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C cd coljin
+D /user
+A cd coljin && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C ls
+D /user
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd progs
+D /user
+A cd progs && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C cd profs
+D /user
+A cd profs && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/profs
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd colijn
+D /user/profs
+A cd colijn && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C open colijn
+D /user/profs
+A chmod 755 colijn
+H NIL
+X NIL
+
+C me
+D /user/profs
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 17:53:21 1987
+E Sun Feb 22 18:15:04 1987
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C ada -M main_part part.a -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C ada -M main_part part.a -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C a.mklib ADA
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ada -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 18:06:56 1987
+E Sun Feb 22 18:15:06 1987
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx
+A "ps" -g
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 14:18:16 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM vip7400
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C is verbeurgt
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rwho | more -a | fgrep verbeurgt ; if $status echo no.
+H NIL
+X NIL
+
+C mail verbeurgt
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "mail" -n verbeurgt
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A clear
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A history -r | more
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C e list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs list.sno
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx/c500
+A "mail" -n
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run > out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i out
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" part.a
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C ( a ( b c ) ) ( b ) ( c )
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X S  27
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rwho | more
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rwho | more
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run &
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C spitbol list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ..
+H NIL
+X NIL
+
+C snow
+D /user/cpsc500/l01b91/xxxxxx
+A cd snobolwork
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv texted.sno $home/c500
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A NIL
+H NIL
+X NIL
+
+C cd $home/c500
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C e texted.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A emacs texted.sno
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C lpr list.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A "lpr" -C "BSL  1199" list.sno
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fred input
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C input > run < out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run < input > out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C e out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs out
+H NIL
+X NIL
+
+C dl out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i out
+H NIL
+X NIL
+
+C fred
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run < input > out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C lifg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C e out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs out
+H NIL
+X NIL
+
+C dl out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i out
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A logout
+H NIL
+X NIL
+
+
+S Tue Feb 24 10:45:44 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e newdraft abstract6
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs newdraft abstract6
+H NIL
+X NIL
+
+C nroff -me newdraft | colcrt > abstract7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs t_page.n
+H NIL
+X NIL
+
+C more abstract7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C e newdraft.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs newdraft.n
+H NIL
+X NIL
+
+C e abstract7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs abstract7
+H NIL
+X NIL
+
+C lpr abstract7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract7
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" header
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c547
+A cd ..
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C dl part.list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i part.list
+H NIL
+X NIL
+
+C dl part.lisp
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i part.lisp
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C unrm part.lisp
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X N  10
+
+C help rm
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C man -k rm
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C man rm
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm list.lisp
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i list.lisp
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C more test
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C dl test
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i test
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c500
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:50:28 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C e part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs part.a
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A emacs
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 13:57:27 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C emacs part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 15:20:15 1987
+E Tue Feb 24 15:32:42 1987
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada part.a -M main_part -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rwho | more
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C run > output
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C lpr part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" part.a
+H NIL
+X NIL
+
+C ada -M main_part part.a -o run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 15:33:16 1987
+E Tue Feb 24 15:34:07 1987
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx
+A "ps" -g
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 22310
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 16:58:19 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:08:19 1987
+E Tue Feb 24 17:12:52 1987
+
+C list
+D /
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C lpr working_list.sno
+D /
+A "lpr" -C "BSL  1199" working_list.sno
+H NIL
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H NIL
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C exit
+D /
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:30:09 1987
+E NIL
+
+C script
+D /
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /
+A rm -i typescript
+H NIL
+X NIL
+
+C mv typescript oldtype
+D /
+A NIL
+H NIL
+X NIL
+
+C script
+D /
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:30:22 1987
+E Tue Feb 24 17:30:31 1987
+
+C exit
+D /
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:31:03 1987
+E Tue Feb 24 17:32:07 1987
+
+C list
+D /
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H NIL
+X NIL
+
+C exit
+D /
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:35:20 1987
+E Tue Feb 24 17:39:11 1987
+
+C list
+D /
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H NIL
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C spitbol working_list.sno
+D /
+A NIL
+H T
+X NIL
+
+C exit
+D /
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:46:20 1987
+E Tue Feb 24 17:52:50 1987
+
+C ADA
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C dl input
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i input
+H NIL
+X NIL
+
+C more output
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C dl output
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i output
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C mv run $home
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv run c500
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C mv part.a $home/c500
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc500/l01b91/xxxxxx/c500
+A "lpr" -C "BSL  1199" typescript
+H NIL
+X NIL
+
+C lpr part.a
+D /user/cpsc500/l01b91/xxxxxx/c500
+A "lpr" -C "BSL  1199" part.a
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 17:49:59 1987
+E Tue Feb 24 17:52:27 1987
+
+C list
+D /
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C run
+D /
+A NIL
+H NIL
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C run
+D /
+A NIL
+H T
+X NIL
+
+C exit
+D /
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 09:59:50 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C is janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmohamed ; if $status echo no.
+H NIL
+X NIL
+
+C more .chsrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C .. ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd .. ..
+H NIL
+X B  49
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd ..
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd grads
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd greenberg
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/grads/greenberg
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C see
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 10:06:21 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 14:55:32 1987
+E Wed Feb 25 14:56:55 1987
+
+C mail janmohame
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohame
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 17:59:03 1987
+E Wed Feb 25 18:06:06 1987
+
+C user
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C is colijn
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep colijn ; if $status echo no.
+H NIL
+X NIL
+
+C mail colijn@vaxb
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n colijn@vaxb
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cd progs
+D /user
+A cd progs && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C cd profs
+D /user
+A cd profs && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/profs
+A /bin/ls -F
+H NIL
+X NIL
+
+C me
+D /user/profs
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 20:33:00 1987
+E Wed Feb 25 20:47:46 1987
+
+C more .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write marozoff
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is marozoff
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep marozoff ; if $status echo no.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 22:38:54 1987
+E NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 13:49:42 1987
+E Fri Feb 27 13:50:21 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 20:57:07 1987
+E Fri Feb 27 20:57:18 1987
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 13:54:33 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C bye'
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X S  11
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Feb 28 17:58:11 1987
+E Sat Feb 28 17:59:51 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 11:36:41 1987
+E Mon Mar  2 12:34:49 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C more run.c
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl run.c
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i run.c
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv header tpage7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl update.c
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i update.c
+H NIL
+X NIL
+
+C e executive.n newdraft
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs executive.n newdraft
+H NIL
+X NIL
+
+
+S Mon Mar  2 14:02:17 1987
+E NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs executive.n newdraft
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 14:09:53 1987
+E Mon Mar  2 14:49:30 1987
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C umacs executive.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me executive.n | colcrt > executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i executive_report
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c547
+A history -r | more
+H NIL
+X NIL
+
+C nroff -me executive.n | colcrt > executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C umacs executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" executive_report
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X J  82
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X J  82
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "ps" -g
+H NIL
+X NIL
+
+C emacs t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.exec | colcrt > execheader
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C news
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more execheader
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ]
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C fred execheader
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C e t_page.exec
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs t_page.exec
+H NIL
+X NIL
+
+C lpr execheader &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" execheader &
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fred header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C fred tpage7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C q
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 04:09:49 1987
+E NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" executive_report
+H NIL
+X NIL
+
+C lpr t_page.exec
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" t_page.exec
+H NIL
+X NIL
+
+C more t_page.exec
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lprm t_page.exec
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr execheader
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" execheader
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rwho | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar  3 05:23:09 1987
+E NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C emacs newdraft
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me newdraft.n | colcrt > abstract9
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e abstract9
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs abstract9
+H NIL
+X NIL
+
+C mv abstract9 abstract8
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr abstract8
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract8
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > ab8header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more ab8header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr ab8header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" ab8header
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+
+S Tue Mar  3 20:34:01 1987
+E Tue Mar  3 20:39:06 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail greenberg
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n greenberg
+H NIL
+X NIL
+
+C WHO
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 09:57:26 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is colijn
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep colijn ; if $status echo no.
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 14:53:56 1987
+E NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl t_page.exec
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i t_page.exec
+H NIL
+X NIL
+
+C dl executive
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i executive
+H NIL
+X NIL
+
+C dl ex*
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i ex*
+H NIL
+X NIL
+
+C lpr executive_reprot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" executive_reprot
+H NIL
+X NIL
+
+C lpr executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" executive_report
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X J  82
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X J  82
+
+C lpr executive_report
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" executive_report
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X J  82
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr executive_report &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" executive_report &
+H T
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rwho | more
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c547
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lidst
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C list
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C more oldtype
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C dl oldtype
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i oldtype
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C run > outfile
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H T
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C snow
+D /user/cpsc500/l01b91/xxxxxx
+A cd snobolwork && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A /bin/ls -F
+H NIL
+X NIL
+
+C more header
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A NIL
+H NIL
+X NIL
+
+C more question1
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd c451
+D /user/cpsc500/l01b91/xxxxxx
+A cd c451 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c451
+A /bin/ls -F
+H NIL
+X NIL
+
+C combo
+D /user/cpsc500/l01b91/xxxxxx/c451
+A NIL
+H NIL
+X NIL
+
+C dl core
+D /user/cpsc500/l01b91/xxxxxx/c451
+A rm -i core
+H NIL
+X NIL
+
+C rm *.*.*
+D /user/cpsc500/l01b91/xxxxxx/c451
+A rm -i *.*.*
+H NIL
+X M  09
+
+C rm *.*
+D /user/cpsc500/l01b91/xxxxxx/c451
+A rm -i *.*
+H NIL
+X NIL
+
+C rm *
+D /user/cpsc500/l01b91/xxxxxx/c451
+A rm -i *
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c451
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c451
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c451
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd 547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/xxxxxx/547
+A cd W* && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Re*
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A cd Re* && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cd ada
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ada && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X D  88
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv $home/c500/part.a $home/c500/ADA/part.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv $home/c500/run $home/c500/ADA
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C close *
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A chmod 700 *
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C run
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 15:09:01 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c500
+A "ps" -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X J  82
+
+C man kill
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C man sigvec
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c500
+A "ps" -g
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C list'
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X S  11
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:50:40 1987
+E Thu Mar  5 10:52:02 1987
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 09:58:16 1987
+E Fri Mar  6 10:06:40 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C more 451.info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more 451.indfo
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more 451.info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd W*
+D /user/cpsc500/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl examples.o
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A rm -i examples.o
+H NIL
+X NIL
+
+C dl examples_vax
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A rm -i examples_vax
+H NIL
+X NIL
+
+C cd R*
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl rectangle.o rectangle_vax
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A rm -i rectangle.o rectangle_vax
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A cd ..
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C fred outfile
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C dl outfile
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i outfile
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C dl typescript.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i typescript.sno
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C quota
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl filea fileb empty
+D /user/cpsc500/l01b91/xxxxxx/c500
+A rm -i filea fileb empty
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C more 451.info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C dl 451.info
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i 451.info
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C dl .login.BAK
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i .login.BAK
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C snow
+D /user/cpsc500/l01b91/xxxxxx
+A cd snobolwork
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl header
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A rm -i header
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A cd
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C more .delete
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C dl .delete
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i .delete
+H NIL
+X NIL
+
+C quota -v
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 13:58:39 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 14:14:44 1987
+E Mon Mar  9 14:17:02 1987
+
+C more 451info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail wong@vaxa
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n wong@vaxa
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C mail wong@vaxa
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n wong@vaxa
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more 451
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more 451info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 10:49:50 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e ab9.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs ab9.n
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C cd $home/c500
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C more fileproc.sno
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C cd $home/c547
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 10:08:38 1987
+E NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 14:01:48 1987
+E Wed Mar 11 14:02:29 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 00:04:08 1987
+E Thu Mar 12 00:06:54 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C man spell
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C stty -ttp ibm3101
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs test
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C spell test
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 10:42:51 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl test
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i test
+H NIL
+X NIL
+
+C more 451info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv 451info c451
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ftp cs-sun-fsa
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 13:57:04 1987
+E Fri Mar 13 13:58:18 1987
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H NIL
+X NIL
+
+C exiyt
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 15 17:13:38 1987
+E Sun Mar 15 17:14:23 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 16 13:57:32 1987
+E Mon Mar 16 13:58:07 1987
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 10:09:35 1987
+E Tue Mar 17 10:55:12 1987
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C nme
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c547
+A cd
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C dl newdraft
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i newdraft
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl a.out
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i a.out
+H NIL
+X NIL
+
+C dl tpage*
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i tpage*
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl ab9.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i ab9.n
+H NIL
+X NIL
+
+C dl ab8header
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i ab8header
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more newdraft.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl newdraft.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i newdraft.n
+H NIL
+X NIL
+
+C emacs ab11.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab11.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab11.n | colcrt > abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C emacs abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs ab11.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab11.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C nroff -me ab11.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab11.n | colcrt > abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C dl abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i abstract11
+H NIL
+X NIL
+
+C nroff -me ab11.n | colcrt > abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C e t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A emacs t_page.n
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > ab11tpage
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more ab11tpage
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs abstract11
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr abstract11 ab11tpage
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract11 ab11tpage
+H NIL
+X NIL
+
+C emacs ab12.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab12.n | colcrt > abtract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c547
+A history -r | more
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > tpage12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv abtract12 abstract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs abstract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C spell abstract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs ab12.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c547
+A history -r | more
+H NIL
+X NIL
+
+C nroff -me ab12.n | colcrt > abtract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl abstract12*
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i abstract12*
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C emacs abtract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more tpage12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs tpage12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr tpage12 abtract12
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" tpage12 abtract12
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.BAK
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i *.BAK
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 11:37:46 1987
+E Tue Mar 17 11:53:50 1987
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C emacs ab13.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab13.n | colcrt > abstract13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bgf
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > tpage13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more abstract13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs abstract13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C spell abstract13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr abstract13 &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract13 &
+H NIL
+X NIL
+
+C more tpage13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more tpage13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C emacs tpage13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr tpage13
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" tpage13
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 17 15:30:21 1987
+E Tue Mar 17 15:31:47 1987
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 18:01:59 1987
+E Wed Mar 18 18:04:42 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is verbeurgt
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep verbeurgt ; if $status echo no.
+H NIL
+X NIL
+
+C mail verbeurgt
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n verbeurgt
+H NIL
+X NIL
+
+C mail zampa
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n zampa
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 11:00:35 1987
+E Thu Mar 19 11:04:31 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 15:24:57 1987
+E Thu Mar 19 15:26:47 1987
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H NIL
+X NIL
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H T
+X NIL
+
+C clwear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 16:59:26 1987
+E Thu Mar 19 17:02:20 1987
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C setenv TERM vip7400
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:29:06 1987
+E Fri Mar 20 11:48:36 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more | more
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 11:31:18 1987
+E Fri Mar 20 11:46:41 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 14:37:34 1987
+E Fri Mar 20 14:39:12 1987
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 14:37:57 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 451
+D /user/cpsc500/l01b91/xxxxxx
+A cd 451
+H NIL
+X D  88
+
+C cd 451
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd c451
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c451
+A /bin/ls -F
+H NIL
+X NIL
+
+C more 451*
+D /user/cpsc500/l01b91/xxxxxx/c451
+A NIL
+H NIL
+X NIL
+
+C dl 451info
+D /user/cpsc500/l01b91/xxxxxx/c451
+A rm -i 451info
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c451
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X M  09
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c451
+A cd ..
+H NIL
+X NIL
+
+C rmdir c451
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C is janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmohamed ; if $status echo no.
+H NIL
+X NIL
+
+C is robson
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep robson ; if $status echo no.
+H NIL
+X NIL
+
+C is verbeurgt
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep verbeurgt ; if $status echo no.
+H NIL
+X NIL
+
+C is greenberg
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep greenberg ; if $status echo no.
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C unalias rwho
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is greenber
+D /user/cpsc500/l01b91/xxxxxx
+A rwho -a | fgrep greenber ; if $status echo no.
+H NIL
+X NIL
+
+C source .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is greenber
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep greenber ; if $status echo no.
+H NIL
+X NIL
+
+C is janmoham
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmoham ; if $status echo no.
+H NIL
+X NIL
+
+C is verbeurg
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep verbeurg ; if $status echo no.
+H NIL
+X NIL
+
+C cd 547/W*
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd R*
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C more Makefile
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H T
+X NIL
+
+C man cc
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C man cc
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H T
+X NIL
+
+C man make
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C man make
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H T
+X NIL
+
+C man make
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H T
+X NIL
+
+C man make > hold
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cat hold
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A /bin/ls -F
+H NIL
+X NIL
+
+C fred hold
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C emacs hold
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C is greenber
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A rwho | more -a | fgrep greenber ; if $status echo no.
+H NIL
+X NIL
+
+C mail greenberg
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A "mail" -n greenberg
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C dsate
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X N  10
+
+C daste
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X N  10
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 20 18:49:08 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail greenberg
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n greenberg
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/l01b91/xxxxxx
+A clear
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C eixt
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C byt ; e
+D /user/cpsc500/l01b91/xxxxxx
+A byt ; emacs
+H NIL
+X N  10
+
+C ; ye
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C l4*$¦
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X S  13
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 22 13:20:42 1987
+E Sun Mar 22 13:53:09 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C is greenber
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep greenber ; if $status echo no.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 14:34:36 1987
+E Sun Mar 22 14:39:24 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C more saulreply
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs saulreply
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is verbeurg
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep verbeurg ; if $status echo no.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 16:04:53 1987
+E Mon Mar 23 16:11:39 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more saulreply
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C q
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 16:23:30 1987
+E Mon Mar 23 16:29:41 1987
+
+C is greenber
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep greenber ; if $status echo no.
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C is saul
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep saul ; if $status echo no.
+H NIL
+X NIL
+
+C is janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmohamed ; if $status echo no.
+H NIL
+X NIL
+
+C is robson
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep robson ; if $status echo no.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 10:38:11 1987
+E Tue Mar 24 11:39:59 1987
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C dl ab10.n ab11.n ab11tpage ab12.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i ab10.n ab11.n ab11tpage ab12.n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs ab13.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab13.n | colcrt > abstract14
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > tpage14 &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs tpage14
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr tpage14 &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" tpage14 &
+H NIL
+X NIL
+
+C emacs abstract14
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr abstract14
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract14
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 17:21:58 1987
+E NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 09:52:45 1987
+E Wed Mar 25 09:55:46 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:06:11 1987
+E NIL
+
+C more mbox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fred mbox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C man make > info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd c500
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx
+A history -r | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 14:13:38 1987
+E Wed Mar 25 14:57:55 1987
+
+C mail verbeurgt
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n verbeurgt
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 10:42:26 1987
+E NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/547
+A cd ..
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs asb13.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs ab13.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ab13.n | colcrt > abstract15 &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > tp15
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs abstract15
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c547
+A history -r | more
+H NIL
+X NIL
+
+C dl abstract15
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i abstract15
+H NIL
+X NIL
+
+C nroff -me ab13.n | colcrt > abstract15 &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C more tp15
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr tp15
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" tp15
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr abstract15
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract15
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 17:36:58 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 12:00:47 1987
+E Fri Mar 27 12:01:50 1987
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 12:02:03 1987
+E NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs ab13.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv repdoc c547/repdoc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd c547
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more repdoc
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 13:27:14 1987
+E NIL
+
+C cd c547
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me as4report.n | more
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fred as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "mail" -n
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 14:55:13 1987
+E Fri Mar 27 15:18:55 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C cd c547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c547
+A history -r | more
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C more gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C rm gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i gobot
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C more gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C rm gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i gobot
+H NIL
+X NIL
+
+C emacs as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 15:21:30 1987
+E Fri Mar 27 16:04:02 1987
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C rm tp*
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i tp*
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more repdoc
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl repdoc
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i repdoc
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C fred gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fred as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C rm gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i gobot
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C fred gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fred as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C rm gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i gobot
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C fred gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr gobot
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" gobot
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C m
+D /user/cpsc500/l01b91/xxxxxx/c547
+A more
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c547
+A cd ..
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C beep
+D /user/cpsc500/l01b91/xxxxxx
+A echo -n 
+H NIL
+X NIL
+
+C echo beep
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo "beep"
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo \°14
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C lpq xxxxxx
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C limits
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 15:24:50 1987
+E NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C fred t_page.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n > FINAL
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C rm FINAL
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i FINAL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > FINAL
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more FINAL
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr FINAL
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" FINAL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 16:23:10 1987
+E NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C emacs as4report.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > go &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg [1]
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C rm go*
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i go*
+H NIL
+X NIL
+
+C nroff -me as4report.n | colcrt > go &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "ps" -g
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "ps" -g
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more go
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs go
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr go
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" go
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C su robson
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm dead.letter
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i dead.letter
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C whoami
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 10:22:47 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C emacs ass5.n
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C dl last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i last
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C is janmohame
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rwho | more -a | fgrep janmohame ; if $status echo no.
+H NIL
+X NIL
+
+C is janmoham
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rwho | more -a | fgrep janmoham ; if $status echo no.
+H NIL
+X NIL
+
+C f rizwana
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "f" | more rizwana
+H NIL
+X NIL
+
+C f xxxxxx
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "f" | more xxxxxx
+H NIL
+X NIL
+
+C finger xxxxxx
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C unalias f
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C f xxxxxx
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg [1]
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "mail" -n
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c547
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "ps" -g
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i last
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i last
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last &
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "ps" -g
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" last
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 10:25:12 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+
+S Mon Mar 30 13:57:53 1987
+E NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547 && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C wwb -ms ass5.n > critique
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more critique
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more critique
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl last
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i last
+H NIL
+X NIL
+
+C fg [1]
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i last1
+H NIL
+X NIL
+
+C nroff -me ass5.n | colcrt > last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr lasta1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" lasta1
+H NIL
+X NIL
+
+C lpr last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" last1
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X J  82
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C spell last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" last1
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C lp
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C lp
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X N  10
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H T
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C emacs t_page.c
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C nroff -me t_page.n | colcrt > tp4
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C more tp4
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C !
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X N  10
+
+C !
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X N  10
+
+C more tp4
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H T
+X NIL
+
+C lpr tp4
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" tp4
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c547
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 15:57:05 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is greenber
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep greenber ; if $status echo no.
+H NIL
+X NIL
+
+C is janmoham
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmoham ; if $status echo no.
+H NIL
+X NIL
+
+C write janmohamed@vaxc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C write leishman@vaxb
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write leishman
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X H  25
+
+C write leishman@vaxb
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is leishman
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep leishman ; if $status echo no.
+H NIL
+X NIL
+
+C mail leishmanX@vaxb
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n leishmanX@vaxb
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C dl info
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i info
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more saulreply
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs mbox saulreply
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C dl saul*
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i saul*
+H NIL
+X NIL
+
+C more Messages
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Messages
+D /user/cpsc500/l01b91/xxxxxx
+A cd Messages && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A /bin/ls -F
+H NIL
+X NIL
+
+C more Directory
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C more Directory.BAK
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C more *
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C clr
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK
+H NIL
+X NIL
+
+C c
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A cd ~/C && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X D  88
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A NIL
+H NIL
+X N  10
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd Messages
+D /user/cpsc500/l01b91/xxxxxx
+A cd Messages && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C rm *
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A rm -i *
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X M  09
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/Messages
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C rmdir Messges
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rmdir Messages
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 17:38:28 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C is janmoham
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmoham ; if $status echo no.
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmohamed@vaxd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C write janmoham@vaxd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is janmoham
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmoham ; if $status echo no.
+H NIL
+X NIL
+
+C write janmoham@vaxd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H T
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq | more
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C is verbeurg
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep verbeurg ; if $status echo no.
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mail janmoham
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmoham
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 19:40:07 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C dl temp
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i temp
+H NIL
+X NIL
+
+C is janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmohamed ; if $status echo no.
+H NIL
+X NIL
+
+C is janmoham
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more -a | fgrep janmoham ; if $status echo no.
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 09:40:11 1987
+E Tue Mar 31 09:41:52 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C time
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rhwo
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 11:04:39 1987
+E Tue Mar 31 11:05:16 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 13:47:41 1987
+E Tue Mar 31 13:48:38 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C eixt
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 09:50:57 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logut
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 13:57:05 1987
+E NIL
+
+C mail robson
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n robson
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr  6 15:19:55 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more 500info
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 15:39:14 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C mail wongce@vaxb
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n wongce@vaxb
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Wed Apr  8 12:38:54 1987
+E NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C amil
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 14:26:53 1987
+E NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C news
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C more *old
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X M  09
+
+C more my*
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more myoldlogin
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C more myoldlogin
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C checknews
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C checknews
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C wherenews
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C where
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C whoami
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C f bloggs
+D /user/cpsc500/l01b91/xxxxxx
+A "f" | more bloggs
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 14:40:41 1987
+E NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C more 4.mod
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C more 3.mod
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C emacs 3.mod
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv adagraph.a ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C emacs part.a adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C e mbox
+D /user/cpsc500/l01b91/xxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd 500info
+D /user/cpsc500/l01b91/xxxxxx
+A cd 500info && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X J  81
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X J  81
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg 1
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 17:52:06 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" adagraph.a
+H NIL
+X NIL
+
+C quit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C mesg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C write verbeurgt
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 19:34:35 1987
+E NIL
+
+C whoi
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 19:38:52 1987
+E NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mu
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Apr  9 14:27:39 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C umacs adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" adagraph.a
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C fg [1]
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C umacs adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada adagraph.
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C umacs adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C fred adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A history -r | more
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs adagraph.a typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C macs adagraph.a typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C emacs adagraph.a typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X J  82
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C lpr adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" adagraph.a
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C qplce
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X J  81
+
+C ps
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "ps" -g
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 16:17:55 1987
+E Thu Apr  9 16:19:32 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 16:25:13 1987
+E Thu Apr  9 16:27:19 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 16:38:35 1987
+E Thu Apr  9 16:39:52 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 16:48:02 1987
+E Thu Apr  9 16:49:41 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" adagraph.a
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 16:57:04 1987
+E Thu Apr  9 16:59:59 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 17:06:50 1987
+E Thu Apr  9 17:08:07 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 17:09:41 1987
+E Thu Apr  9 17:10:22 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 17:13:52 1987
+E Thu Apr  9 17:14:53 1987
+
+C ada -M FindComponents adagraph.
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A history -r | more
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph..a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 17:17:31 1987
+E Thu Apr  9 17:20:16 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 17:31:55 1987
+E Thu Apr  9 17:32:27 1987
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 18:16:24 1987
+E NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:32:03 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C emacs adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A cd ..
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500 && set prompt = "=!= [$cwd:t] ==> "
+H T
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A cd ADA && set prompt = "=!= [$cwd:t] ==> "
+H T
+X NIL
+
+C emacs adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C setenv TERM ibm3101
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C emacs adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:49:19 1987
+E NIL
+
+C 500
+D /user/cpsc500/l01b91/xxxxxx
+A cd c500
+H NIL
+X NIL
+
+C cd ada
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ADA
+D /user/cpsc500/l01b91/xxxxxx/c500
+A NIL
+H NIL
+X NIL
+
+C alias go 'ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X S  11
+
+C alias go 'ada -M FindComponents adagraph.a'
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C emacs
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go &
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a &
+H NIL
+X NIL
+
+C fg [1]
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C go
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A ada -M FindComponents adagraph.a
+H NIL
+X NIL
+
+C .
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X Y 102
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C dl typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A rm -i typescript
+H NIL
+X NIL
+
+C scrpt
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X N  10
+
+C script
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" typescript
+H NIL
+X NIL
+
+C qplace
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A lpq xxxxxx ; if $status echo No entries.
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:57:06 1987
+E NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+
+S Fri Apr 10 13:46:09 1987
+E Fri Apr 10 13:52:31 1987
+
+C list
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A /bin/ls -al | more
+H NIL
+X NIL
+
+C ada -M FindComponents adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C lpr adagraph.a
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A "lpr" -C "BSL  1199" adagraph.a
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C a.out
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H T
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 12:44:28 1987
+E NIL
+
+C mail janmohamed
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C lgout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Sun Apr 12 14:05:45 1987
+E NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C e test
+D /user/cpsc500/l01b91/xxxxxx
+A emacs test
+H NIL
+X NIL
+
+C spell test
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/cpsc500/l01b91/xxxxxx
+A emacs
+H NIL
+X NIL
+
+C spell test
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H T
+X NIL
+
+C bye
+D /user/cpsc500/l01b91/xxxxxx
+A logout
+H NIL
+X NIL
+
+
+S Mon Apr 13 11:15:36 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl test*
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i test*
+H NIL
+X NIL
+
+C dl 500info
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i 500info
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91
+A cd ..
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd handouts
+D /user/cpsc500
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no28
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C lpr no28
+D /user/cpsc500/handouts
+A "lpr" -C "BSL  1199" no28
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no27
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no25
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 11:32:04 1987
+E NIL
+
+C reboot
+D /user/cpsc500/l01b91/xxxxxx
+A source myoldlogin
+H NIL
+X NIL
+
+C .
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X Y 102
+
+C ..
+D /user/cpsc500/l01b91/xxxxxx
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/l01b91
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/cpsc500
+A cd examples && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C more ex1
+D /user/cpsc500/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/examples
+A /bin/ls -F
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500/examples
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ..
+D /user/cpsc500
+A cd .. && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C cd
+D /user
+A cd && set prompt = "=!= [5m[$cwd:t][0m ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 18:14:20 1987
+E NIL
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more styl.tmp
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl styl.tmp
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i styl.tmp
+H NIL
+X NIL
+
+C purge
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i -i .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more FINAL
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C dl FI*
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i FI*
+H NIL
+X NIL
+
+C more go
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C dl go
+D /user/cpsc500/l01b91/xxxxxx/c547
+A rm -i go
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C more abstract7
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr abstract7 abstract8 abstract9 abstract1* abtract12 last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract7 abstract8 abstract9 abstract1* abtract12 last1
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpr abstract7 abstract8 abstract9 abstract1* abtract12 last1
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" abstract7 abstract8 abstract9 abstract1* abtract12 last1
+H T
+X NIL
+
+C lpr xxxxxx
+D /user/cpsc500/l01b91/xxxxxx/c547
+A "lpr" -C "BSL  1199" xxxxxx
+H NIL
+X NIL
+
+C lpq bloggs
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C lpq xxxxxx
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx/c547
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 09:10:03 1987
+E Wed Apr 15 09:13:12 1987
+
+C mail
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n
+H NIL
+X NIL
+
+C exit
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 12:06:31 1987
+E NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm *.l
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i *.l
+H NIL
+X M  09
+
+C rm *.l*
+D /user/cpsc500/l01b91/xxxxxx
+A rm -i *.l*
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr mbox
+D /user/cpsc500/l01b91/xxxxxx
+A "lpr" -C "BSL  1199" mbox
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C lpr myoldlogin
+D /user/cpsc500/l01b91/xxxxxx
+A "lpr" -C "BSL  1199" myoldlogin
+H NIL
+X NIL
+
+C bg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 547
+D /user/cpsc500/l01b91/xxxxxx
+A cd c547
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/c547
+A /bin/ls -F
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/c547
+A cd
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc500/l01b91/xxxxxx/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A /bin/ls -F
+H NIL
+X NIL
+
+C me
+D /user/cpsc500/l01b91/xxxxxx/547/WPrograms
+A cd
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C jobsd
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X N  10
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C snow
+D /user/cpsc500/l01b91/xxxxxx
+A cd snobolwork
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc500/l01b91/xxxxxx/snobolwork
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail janmohamed verbeurgt
+D /user/cpsc500/l01b91/xxxxxx
+A "mail" -n janmohamed verbeurgt
+H NIL
+X NIL
+
+C clear
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc500/l01b91/xxxxxx
+A rwho | more
+H NIL
+X NIL
+
+C logout
+D /user/cpsc500/l01b91/xxxxxx
+A NIL
+H NIL
+X NIL

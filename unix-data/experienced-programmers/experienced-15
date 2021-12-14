@@ -1,0 +1,1404 @@
+S Mon Mar  2 15:04:09 1987
+E NIL
+
+C ls
+D /user/cpsc502/l01b01/xxxx
+A ls -F
+H NIL
+X NIL
+
+C ~greenberg/text1.n
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X N  10
+
+C ~greenberg/see text1.n
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~greenberg
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A ls -F
+H NIL
+X NIL
+
+C cd Lib
+D /user/grads/greenberg
+A NIL
+H NIL
+X D  88
+
+C cd Csh
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Csh
+A ls -F
+H NIL
+X NIL
+
+C cd Source
+D /user/grads/greenberg/Csh
+A NIL
+H NIL
+X D  88
+
+C cd ..
+D /user/grads/greenberg/Csh
+A NIL
+H NIL
+X NIL
+
+C cd ~jade
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade
+A ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/srdg/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples
+A ls -F
+H NIL
+X NIL
+
+C cd toolbox
+D /user/srdg/jade/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A ls -F
+H NIL
+X NIL
+
+C bye
+D /user/srdg/jade/examples/toolbox
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  2 15:06:05 1987
+E NIL
+
+C cd ~greenberg
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/547
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A ls -F
+H NIL
+X NIL
+
+C cd Office-87
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Office-87
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/greenberg/Office-87
+A NIL
+H NIL
+X NIL
+
+C see
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc502/l01b01/xxxx
+A ls -F
+H NIL
+X NIL
+
+C ~greenberg/see bres.c
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 26 15:19:28 1987
+E NIL
+
+C cd ~jade
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade
+A ls -F
+H NIL
+X NIL
+
+C cd examples
+D /user/srdg/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples
+A ls -F
+H NIL
+X NIL
+
+C cd toolbox
+D /user/srdg/jade/examples
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox
+A ls -F
+H NIL
+X NIL
+
+C cd slide
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X D  88
+
+C cd Slide
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/jade/examples/toolbox/Slide
+A ls -F
+H NIL
+X NIL
+
+C more slide.c
+D /user/srdg/jade/examples/toolbox/Slide
+A NIL
+H NIL
+X NIL
+
+C cd ~greenberg
+D /user/srdg/jade/examples/toolbox/Slide
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/547
+A ls -F
+H NIL
+X NIL
+
+C cd Ass2
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/547/Ass2
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/greenberg/547/Ass2
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/greenberg/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg
+A ls -F
+H NIL
+X NIL
+
+C cd Office-87
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Office-87
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/greenberg/Office-87
+A NIL
+H NIL
+X NIL
+
+C cd Office-86
+D /user/grads/greenberg
+A NIL
+H NIL
+X D  88
+
+C ls -l
+D /user/grads/greenberg
+A ls -F -l
+H NIL
+X NIL
+
+C cd Lib
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib
+A ls -F
+H NIL
+X NIL
+
+C cd Scroll_Example
+D /user/grads/greenberg/Lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib/Scroll_Example
+A ls -F
+H NIL
+X NIL
+
+C more scroll.c
+D /user/grads/greenberg/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib/Scroll_Example
+A ls -F
+H NIL
+X NIL
+
+C lpr scroll.c
+D /user/grads/greenberg/Lib/Scroll_Example
+A lpr -C "b275WHJ" scroll.c
+H NIL
+X NIL
+
+C lpq
+D /user/grads/greenberg/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C cd ~higginson
+D /user/grads/greenberg/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson
+A ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A ls -F
+H NIL
+X NIL
+
+C cd WP*
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A ls -F
+H NIL
+X NIL
+
+C cd Rec*
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Rectangle
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Rectangle
+A NIL
+H NIL
+X NIL
+
+C cd Cal*
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A ls -F
+H NIL
+X NIL
+
+C cd ~greenberg
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd Lib
+D /user/grads/greenberg
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib
+A ls -F
+H NIL
+X NIL
+
+C cd Scroll_Example
+D /user/grads/greenberg/Lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/greenberg/Lib/Scroll_Example
+A ls -F
+H NIL
+X NIL
+
+C more scroll.c
+D /user/grads/greenberg/Lib/Scroll_Example
+A NIL
+H NIL
+X NIL
+
+C e scroll.c
+D /user/grads/greenberg/Lib/Scroll_Example
+A emacs scroll.c
+H NIL
+X NIL
+
+C bye
+D /user/grads/greenberg/Lib/Scroll_Example
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 16:10:40 1987
+E NIL
+
+C cd ~jade
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd examples
+D /user/srdg/jade
+A NIL
+H NIL
+X NIL
+
+C cd tool*
+D /user/srdg/jade/examples
+A NIL
+H NIL
+X NIL
+
+C cd Man*
+D /user/srdg/jade/examples/toolbox
+A NIL
+H NIL
+X NIL
+
+C man*
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X S  36
+
+C ls
+D /user/srdg/jade/examples/toolbox/Manipulate
+A ls -F
+H NIL
+X NIL
+
+C manipulate_windows
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C manipulate_windows
+D /user/srdg/jade/examples/toolbox/Manipulate
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/srdg/jade/examples/toolbox/Manipulate
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 26 18:25:39 1987
+E Thu Mar 26 18:26:24 1987
+
+C rwho
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 13:31:05 1987
+E NIL
+
+C rwho
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A ls -F
+H NIL
+X NIL
+
+C cd local
+D /
+A NIL
+H NIL
+X NIL
+
+C cd jade
+D /local
+A NIL
+H NIL
+X NIL
+
+C cd include
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/include
+A ls -F
+H NIL
+X NIL
+
+C more window.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C more windows.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C more windows.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/include
+A ls -F
+H NIL
+X NIL
+
+C more tools.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C more tools.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/include
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade
+A ls -F
+H NIL
+X NIL
+
+C cd calendar
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/calendar
+A ls -F
+H NIL
+X NIL
+
+C cd jade
+D /local/jade/calendar
+A NIL
+H NIL
+X D  88
+
+C jade
+D /local/jade/calendar
+A NIL
+H NIL
+X Y 102
+
+C cd ..
+D /local/jade/calendar
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A ls -F
+H NIL
+X NIL
+
+C cd catman
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/catman
+A ls -F
+H NIL
+X NIL
+
+C more man0
+D /local/catman
+A NIL
+H NIL
+X NIL
+
+C cd man0
+D /local/catman
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/catman/man0
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/catman/man0
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /local/catman
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A ls -F
+H NIL
+X NIL
+
+C cd src
+D /local
+A NIL
+H NIL
+X D  88
+
+C cd doc
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/doc
+A ls -F
+H NIL
+X NIL
+
+C more window.doc
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/doc
+A ls -F
+H NIL
+X NIL
+
+C cat window.doc
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/doc
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local
+A ls -F
+H NIL
+X NIL
+
+C cd jade
+D /local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade
+A ls -F
+H NIL
+X NIL
+
+C cd lib
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/lib
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/jade/lib
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/bin
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /local/jade/bin
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/jade/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade
+A ls -F
+H NIL
+X NIL
+
+C cd log
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/log
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /local/jade/log
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade
+A ls -F
+H NIL
+X NIL
+
+C cd temp
+D /local/jade
+A NIL
+H NIL
+X D  88
+
+C cd xcomp
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/xcomp
+A ls -F
+H NIL
+X NIL
+
+C cd include
+D /local/jade/xcomp
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/xcomp/include
+A ls -F
+H NIL
+X NIL
+
+C more tools.h
+D /local/jade/xcomp/include
+A NIL
+H NIL
+X NIL
+
+C cd
+D /local/jade/xcomp/include
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc502/l01b01/xxxx
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar 27 20:16:30 1987
+E NIL
+
+C man scanf
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C talk higginson
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc502/l01b01/xxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar 28 16:45:06 1987
+E NIL
+
+C rwho
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~higginson
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson
+A ls -F
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C gh
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc547/l01b91/higginson
+A ls -F
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A ls -F
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A ls -F
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A ls -F
+H NIL
+X NIL
+
+C more habadex.c
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd habadex
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator/habadex
+A ls -F
+H NIL
+X NIL
+
+C more entries.c
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator/habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator/habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc547/l01b91/higginson
+A ls -F -a
+H NIL
+X NIL
+
+C more .LOGIN
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C more .login
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C more .cshr
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C more .cshrc
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/cpsc547/l01b91/higginson
+A ls -F -a
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C su
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C su higginson
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson
+A ls -F
+H NIL
+X NIL
+
+C bye
+D /user/cpsc547/l01b91/higginson
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 29 16:32:12 1987
+E NIL
+
+C cd /local/jade
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd include
+D /local/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/include
+A ls -F
+H NIL
+X NIL
+
+C more windows.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C more tools.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /local/jade/include
+A ls -F
+H NIL
+X NIL
+
+C more jaggies.h
+D /local/jade/include
+A NIL
+H NIL
+X NIL
+
+C qqqqqqqqqq
+D /local/jade/include
+A NIL
+H NIL
+X N  10
+
+C ls
+D /local/jade/include
+A ls -F
+H NIL
+X NIL
+
+C bye
+D /local/jade/include
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar 29 22:08:39 1987
+E NIL
+
+C lpq
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc502/l01b01/xxxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:24:21 1987
+E Tue Mar 31 15:36:06 1987
+
+C cd ~higginson
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C cd 547
+D /user/cpsc547/l01b91/higginson
+A NIL
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C cd Calculator
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C cd habadex
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator/habadex
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms/Calculator
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc547/l01b91/higginson/547
+A ls -F
+H NIL
+X NIL
+
+C cd WPrograms
+D /user/cpsc547/l01b91/higginson/547
+A NIL
+H NIL
+X NIL
+
+C examples_vax
+D /user/cpsc547/l01b91/higginson/547/WPrograms
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 15:36:57 1987
+E NIL
+
+C ps
+D /user/cpsc502/l01b01/xxxx
+A ps -g
+H NIL
+X NIL
+
+C kill 29665
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C kill 29834
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C ps
+D /user/cpsc502/l01b01/xxxx
+A ps -g
+H NIL
+X NIL
+
+C bye
+D /user/cpsc502/l01b01/xxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Apr  4 18:50:01 1987
+E NIL
+
+C sgt
+D /user/cpsc502/l01b01/xxxx
+A rwho | fgrep higginso
+H NIL
+X NIL
+
+C ls
+D /user/cpsc502/l01b01/xxxx
+A ls -F
+H NIL
+X NIL
+
+C more bres.c
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc502/l01b01/xxxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Apr  4 19:13:32 1987
+E NIL
+
+C more bres.c
+D /user/cpsc502/l01b01/xxxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc502/l01b01/xxxx
+A logout
+H NIL
+X NIL

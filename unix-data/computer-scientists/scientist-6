@@ -1,0 +1,7196 @@
+S Thu Feb 19 11:47:59 1987
+E Thu Feb 19 12:02:24 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C tbl signout.nr | itroff -me
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C cd private
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/private
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C e agenda.nr
+D /user/grads/xxxxxxx/private
+A emacs agenda.nr
+H NIL
+X NIL
+
+C itroff -me agenda2.nr &
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C itroff -me agenda3.nr &
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/private
+A ls -F
+H NIL
+X NIL
+
+C e medform.nr
+D /user/grads/xxxxxxx/private
+A emacs medform.nr
+H NIL
+X NIL
+
+C itroff -me medform.nr &
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/private
+A ls -F
+H NIL
+X NIL
+
+C e geninf.nr
+D /user/grads/xxxxxxx/private
+A emacs geninf.nr
+H NIL
+X NIL
+
+C itroff -me geninf.nr &
+D /user/grads/xxxxxxx/private
+A NIL
+H T
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/private
+A ls -F
+H NIL
+X NIL
+
+C e menu.nr
+D /user/grads/xxxxxxx/private
+A emacs menu.nr
+H NIL
+X NIL
+
+C itroff -me menu.nr &
+D /user/grads/xxxxxxx/private
+A NIL
+H T
+X NIL
+
+C lpq -Pimagen
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 13:59:38 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd private
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/private
+A ls -F
+H NIL
+X NIL
+
+C tbl medform.nr | itroff -me &
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 19 14:11:49 1987
+E Thu Feb 19 14:13:08 1987
+
+C cd
+D /user/grads/west/Thesis/TW11
+A NIL
+H NIL
+X NIL
+
+C cd private
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/private
+A ls -F
+H NIL
+X NIL
+
+C tbl menu.nr | itroff -me &
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/private
+A NIL
+H NIL
+X NIL
+
+
+S Sun Feb 22 18:36:47 1987
+E Sun Feb 22 19:05:16 1987
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i mandl*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e URGENT
+D /user/grads/xxxxxxx
+A emacs URGENT
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail lomow@vaxb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 09:54:19 1987
+E Mon Feb 23 10:55:26 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 10:59:39 1987
+E Mon Feb 23 11:03:56 1987
+
+C rlogin cs-sun-fsb -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 11:30:11 1987
+E Mon Feb 23 11:48:22 1987
+
+C rlogin cs-sun-fsa -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Feb 23 17:11:35 1987
+E Mon Feb 23 17:15:38 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx
+A ls -F -l
+H NIL
+X NIL
+
+C "rm" -i *
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Feb 24 12:36:09 1987
+E Tue Feb 24 12:39:19 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f west
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Feb 25 16:57:29 1987
+E Wed Feb 25 17:39:12 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C head resume
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail renee@vaxb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C "rm" -i res*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C ls -l news
+D /user/grads/xxxxxxx
+A ls -F -l news
+H NIL
+X NIL
+
+C ls -ld nes
+D /user/grads/xxxxxxx
+A ls -F -ld nes
+H NIL
+X NIL
+
+C ls -ld nes
+D /user/grads/xxxxxxx
+A ls -F -ld nes
+H NIL
+X NIL
+
+C ls -ld news
+D /user/grads/xxxxxxx
+A ls -F -ld news
+H NIL
+X NIL
+
+C chmod a+rx news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -ld news
+D /user/grads/xxxxxxx
+A ls -F -ld news
+H T
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.good*
+D /user/grads/xxxxxxx/news
+A ls -F *.good*
+H NIL
+X NIL
+
+C chmod a+r *.good*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Feb 26 11:09:43 1987
+E Thu Feb 26 11:22:47 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb 27 10:14:45 1987
+E Fri Feb 27 10:40:36 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C page ~/.newsrc
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C rlogin vaxa -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 13:30:19 1987
+E Sat Feb 28 13:39:31 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Feb 28 15:31:56 1987
+E Sat Feb 28 16:03:18 1987
+
+C rlogin cs-sun-fsa -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cal 03 1987
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 09:20:36 1987
+E Mon Mar  2 10:08:30 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd 403
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/403
+A ls -F
+H NIL
+X NIL
+
+C e assign.4.nr
+D /user/grads/xxxxxxx/403
+A emacs assign.4.nr
+H NIL
+X NIL
+
+
+S Mon Mar  2 16:26:12 1987
+E Mon Mar  2 17:31:50 1987
+
+C whoami
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd 403
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/403
+A emacs
+H NIL
+X NIL
+
+C tbl assign.4.nr | itroff -me
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 17:34:55 1987
+E Mon Mar  2 17:40:13 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  2 19:44:08 1987
+E Mon Mar  2 20:16:24 1987
+
+C cd 403
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/403
+A emacs
+H NIL
+X NIL
+
+C tbl assign.4.nr | itroff -me
+D /user/grads/xxxxxxx/403
+A NIL
+H T
+X NIL
+
+
+S Tue Mar  3 10:39:12 1987
+E Tue Mar  3 10:39:42 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 08:37:32 1987
+E Wed Mar  4 08:38:20 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 10:25:28 1987
+E NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar  4 12:03:18 1987
+E Wed Mar  4 12:10:39 1987
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:36:30 1987
+E Thu Mar  5 10:39:06 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f kfoc
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 10:40:29 1987
+E Thu Mar  5 10:46:28 1987
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 14:19:06 1987
+E Thu Mar  5 16:15:24 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C ls bin
+D /user/grads/xxxxxxx
+A ls -F bin
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx
+A ls -F -l
+H NIL
+X NIL
+
+C ls -l bin
+D /user/grads/xxxxxxx
+A ls -F -l bin
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C e cover.nr
+D /user/grads/xxxxxxx/grants
+A emacs cover.nr
+H NIL
+X NIL
+
+C itroff -me cover.nr
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e cv2.nr
+D /user/grads/xxxxxxx/grants
+A emacs cv2.nr
+H NIL
+X NIL
+
+C tbl cv2.nr | itroff -ms
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 15:06:19 1987
+E Thu Mar  5 15:32:49 1987
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 17:04:12 1987
+E Thu Mar  5 17:15:19 1987
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cover.nr
+D /user/grads/xxxxxxx/grants
+A emacs cover.nr
+H NIL
+X NIL
+
+C nroff -me cover.nr | colcrt | page
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X J  82
+
+C e
+D /user/grads/xxxxxxx/grants
+A emacs
+H NIL
+X NIL
+
+C itroff -me cover.nr &
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C kill %1
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C itroff -me cover.nr &
+D /user/grads/xxxxxxx/grants
+A NIL
+H T
+X NIL
+
+C e cv2.nr
+D /user/grads/xxxxxxx/grants
+A emacs cv2.nr
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C tbl cv2.nr | itroff -ms &
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 10:38:26 1987
+E Fri Mar  6 11:20:12 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/grants
+A emacs
+H NIL
+X NIL
+
+C quuota
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X N  10
+
+C quota
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e cover.nr
+D /user/grads/xxxxxxx/grants
+A emacs cover.nr
+H NIL
+X NIL
+
+C itroff -me cover.nr &
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C man ms
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e cv3.nr
+D /user/grads/xxxxxxx/grants
+A emacs cv3.nr
+H NIL
+X NIL
+
+C tbl cv3.nr | itroff -ms
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C cd ~stone
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone
+A ls -F
+H NIL
+X NIL
+
+C cd atari
+D /user/grads/stone
+A NIL
+H NIL
+X D  88
+
+C ls atari
+D /user/grads/stone
+A ls -F atari
+H NIL
+X NIL
+
+C cd News
+D /user/grads/stone
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/News
+A ls -F
+H NIL
+X NIL
+
+C page 4me*
+D /user/grads/stone/News
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/stone/News
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 13:42:20 1987
+E Fri Mar  6 13:56:12 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f vlsi
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd ~stone/atari
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari
+A ls -F
+H NIL
+X NIL
+
+C cd games
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari/games
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/stone/atari/games
+A NIL
+H NIL
+X NIL
+
+C cd wordpros
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari/wordpros
+A ls -F
+H NIL
+X NIL
+
+C page *
+D /user/grads/stone/atari/wordpros
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/stone/atari/wordpros
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari
+A ls -F
+H NIL
+X NIL
+
+C cd suppliers
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari/suppliers
+A ls -F
+H NIL
+X NIL
+
+C page *
+D /user/grads/stone/atari/suppliers
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/stone/atari/suppliers
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari
+A ls -F
+H NIL
+X NIL
+
+C cd Xdev
+D /user/grads/stone/atari
+A NIL
+H NIL
+X D  88
+
+C ls -l
+D /user/grads/stone/atari
+A ls -F -l
+H NIL
+X NIL
+
+C ls unsorted
+D /user/grads/stone/atari
+A ls -F unsorted
+H NIL
+X NIL
+
+C page modedit.*
+D /user/grads/stone/atari
+A NIL
+H NIL
+X M  09
+
+C page unsoterd/modedit.*
+D /user/grads/stone/atari
+A NIL
+H T
+X D  70
+
+C page unsorted/modedit.*
+D /user/grads/stone/atari
+A NIL
+H T
+X NIL
+
+C who
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:54:40 1987
+E Fri Mar  6 15:03:03 1987
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cover.nr
+D /user/grads/xxxxxxx/grants
+A emacs cover.nr
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/grants
+A emacs
+H NIL
+X NIL
+
+C nroff -me cover.nr | colcrt | page
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/grants
+A emacs
+H NIL
+X NIL
+
+C nroff -me cover.nr | colcrt | page
+D /user/grads/xxxxxxx/grants
+A NIL
+H T
+X NIL
+
+C itroff -me cover.nr &
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 16:08:26 1987
+E Fri Mar  6 16:11:26 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 16:46:36 1987
+E Fri Mar  6 16:58:59 1987
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e cover.nr
+D /user/grads/xxxxxxx/grants
+A emacs cover.nr
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C itroff -me cover.nr
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar  7 11:44:18 1987
+E Sat Mar  7 12:05:42 1987
+
+C readnews
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr news/polydisk
+D /user/grads/xxxxxxx
+A /usera/grads/xxxxxxx/bin/my_lpr news/polydisk
+H NIL
+X NIL
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/grants
+A emacs
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C itroff -me cover2.nr
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C lopq
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X N  10
+
+C lpq
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C lpr news/polydisk
+D /user/grads/xxxxxxx/grants
+A /usera/grads/xxxxxxx/bin/my_lpr news/polydisk
+H T
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C lpr news/polydisk
+D /user/grads/xxxxxxx
+A /usera/grads/xxxxxxx/bin/my_lpr news/polydisk
+H T
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ipq
+D /user/grads/xxxxxxx
+A lpq -Pimagen
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar  8 15:46:33 1987
+E Sun Mar  8 16:05:20 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e cover2.nr
+D /user/grads/xxxxxxx/grants
+A emacs cover2.nr
+H NIL
+X NIL
+
+C itroff -me cover2.nr
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C e cv3.nr
+D /user/grads/xxxxxxx/grants
+A emacs cv3.nr
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C tbl cv3.nr | itroff -ms &
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/grads/xxxxxxx/grants
+A history -r 40 | page
+H NIL
+X NIL
+
+C cd ../news
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ipq
+D /user/grads/xxxxxxx/news
+A lpq -Pimagen
+H NIL
+X NIL
+
+
+S Mon Mar  9 09:37:11 1987
+E Mon Mar  9 09:50:28 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail renee
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar  9 15:22:38 1987
+E NIL
+
+C cd
+D /user/grads/west/Thesis/TW15
+A NIL
+H NIL
+X NIL
+
+C cd grants
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C e cv3.nr
+D /user/grads/xxxxxxx/grants
+A emacs cv3.nr
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C page errors
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C "rm" -i errors
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/grants
+A ls -F
+H NIL
+X NIL
+
+C tbl cv.3 | itroff -ms
+D /user/grads/xxxxxxx/grants
+A NIL
+H NIL
+X NIL
+
+C tbl cv3.nr | itroff -ms
+D /user/grads/xxxxxxx/grants
+A NIL
+H T
+X NIL
+
+
+S Mon Mar  9 17:31:47 1987
+E Mon Mar  9 17:47:17 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 14:32:20 1987
+E Tue Mar 10 15:47:51 1987
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C page fixes
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls -l fixes
+D /user/grads/xxxxxxx
+A ls -F -l fixes
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 10 14:59:53 1987
+E Tue Mar 10 16:06:35 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 10:14:14 1987
+E Wed Mar 11 11:07:11 1987
+
+C xxxxxxx
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd 403
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/403
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/403
+A emacs
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+C itroff -me ass5.nr &
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd thesis
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd thesis
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/thesis
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/thesis
+A NIL
+H NIL
+X NIL
+
+C mkdir
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mkdir CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e abstract.nr
+D /user/grads/xxxxxxx/CCVLSI
+A emacs abstract.nr
+H NIL
+X NIL
+
+C itroff -me abstract.nr &
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C cd ../news
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 11:10:51 1987
+E Wed Mar 11 11:13:00 1987
+
+C mail west
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 15:00:04 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C login
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 16:05:32 1987
+E Wed Mar 11 16:35:10 1987
+
+C e
+D /user/grads/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd bin
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C qouta
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X N  10
+
+C quota
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd thesis.splat
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/thesis.splat
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i splat*
+D /user/grads/xxxxxxx/thesis.splat
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/thesis.splat
+A NIL
+H NIL
+X NIL
+
+C cd splat
+D /user/grads/xxxxxxx/thesis.splat
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/thesis.splat/splat
+A ls -F
+H NIL
+X NIL
+
+C cd ../splat2
+D /user/grads/xxxxxxx/thesis.splat/splat
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A ls -F
+H NIL
+X NIL
+
+C file okplot
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C page okplot
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C "rm" okplot
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H T
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A ls -F
+H NIL
+X NIL
+
+C page *script
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C "rm" *script
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A ls -F -l
+H NIL
+X NIL
+
+C file testdemo
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C page goodroute testdemo
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C page goodroute testdemo
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H T
+X NIL
+
+C "rm" goodroute
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/thesis.splat/splat2
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/thesis.splat
+A ls -F -l
+H NIL
+X NIL
+
+C cd ../news
+D /user/grads/xxxxxxx/thesis.splat
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 11 16:36:10 1987
+E Wed Mar 11 16:40:04 1987
+
+C f keefe
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail keefe
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 13:52:37 1987
+E Thu Mar 12 14:33:50 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 12 15:31:33 1987
+E Thu Mar 12 15:55:36 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+
+S Fri Mar 13 10:40:05 1987
+E Fri Mar 13 10:50:31 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnes
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X N  10
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 13 10:51:05 1987
+E Fri Mar 13 11:17:23 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C h | grep roff
+D /user/grads/xxxxxxx/CCVLSI
+A history -r 40 | page | grep roff
+H NIL
+X NIL
+
+C itroff -me abstract.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e ~stone/marklook
+D /user/grads/xxxxxxx/CCVLSI
+A emacs ~stone/marklook
+H NIL
+X NIL
+
+C mv rubin.mail ..
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C ftp cs-sun-g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 09:30:39 1987
+E Mon Mar 23 11:30:56 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .login
+D /user/grads/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C set term=amb-xl
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C e ../newsrc
+D /user/grads/xxxxxxx/news
+A emacs ../newsrc
+H NIL
+X NIL
+
+C cd /usr/spool
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/spool
+A ls -F
+H NIL
+X NIL
+
+C cd news
+D /usr/spool
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/spool/news
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /usr/spool/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 14:34:11 1987
+E NIL
+
+C rlogin cs-sun-fsb -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C itroff -man electric.1
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e electric.man
+D /user/grads/xxxxxxx
+A emacs electric.man
+H NIL
+X NIL
+
+C tbl electric.1 | itroff -man
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 10:44:09 1987
+E Tue Mar 24 10:55:17 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 13:30:39 1987
+E Tue Mar 24 14:26:34 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnewsd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X N  10
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C bg
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mv hdscan.arc.uue.2 hdscan.arc.uue.3
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C ls -l hdsc*
+D /user/grads/xxxxxxx/news
+A ls -F -l hdsc*
+H NIL
+X NIL
+
+C mv hdscan.arc.uue.2 hdscan.arc.uue.3
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mv hdscan.arc.uee.2 hdscan.arc.uue.3
+D /user/grads/xxxxxxx/news
+A NIL
+H T
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 08:38:57 1987
+E Wed Mar 25 10:12:57 1987
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail bonnie
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C f west
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mail west
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 10:21:11 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 12:08:06 1987
+E Wed Mar 25 12:11:43 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd 403
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/403
+A ls -F
+H NIL
+X NIL
+
+C cd ~grant
+D /user/grads/xxxxxxx/403
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/grant
+A ls -F
+H NIL
+X NIL
+
+C cd 403
+D /user/others/grant
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/others/grant/403
+A ls -F
+H NIL
+X NIL
+
+C page mark.1
+D /user/others/grant/403
+A NIL
+H NIL
+X NIL
+
+C tbl mark.1 | itroff -me &
+D /user/others/grant/403
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/others/grant/403
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 25 15:00:19 1987
+E Wed Mar 25 15:56:10 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e abst2.nr
+D /user/grads/xxxxxxx/CCVLSI
+A emacs abst2.nr
+H NIL
+X NIL
+
+C itroff -me abst2.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar 27 10:43:13 1987
+E Fri Mar 27 11:07:50 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C e sources.mar27
+D /user/grads/xxxxxxx/news
+A emacs sources.mar27
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C lpr sources.mar27
+D /user/grads/xxxxxxx/news
+A /usera/grads/xxxxxxx/bin/my_lpr sources.mar27
+H NIL
+X NIL
+
+
+S Fri Mar 27 15:02:27 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X Y 102
+
+C h
+D /user/grads/xxxxxxx/CCVLSI
+A history -r 40 | page
+H NIL
+X NIL
+
+C itroff -me abst2.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+C login
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 10:07:41 1987
+E Mon Mar 30 11:23:11 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd /usr/spool
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /usr/spool
+A NIL
+H NIL
+X NIL
+
+C cd comp
+D /usr/spool/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/spool/news/comp
+A ls -F
+H NIL
+X NIL
+
+C cd binaries
+D /usr/spool/news/comp
+A NIL
+H NIL
+X D  88
+
+C ls -l
+D /usr/spool/news/comp
+A ls -F -l
+H NIL
+X NIL
+
+
+S Mon Mar 30 11:43:18 1987
+E Mon Mar 30 11:47:38 1987
+
+C cd news
+D /user/grads/west/Thesis/TW16
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/grads/west/Thesis/TW16
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C grep binar sources.mar27 | page
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C e sources.mar27
+D /user/grads/xxxxxxx/news
+A emacs sources.mar27
+H NIL
+X NIL
+
+C ls source*
+D /user/grads/xxxxxxx/news
+A ls -F source*
+H NIL
+X NIL
+
+C grep binaries.atari sources.jan* | page
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 14:51:16 1987
+E Mon Mar 30 14:51:57 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 10:14:50 1987
+E Tue Mar 31 10:30:31 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 31 13:40:30 1987
+E Tue Mar 31 14:03:23 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 08:36:40 1987
+E Wed Apr  1 08:55:01 1987
+
+C readnews
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  1 09:34:30 1987
+E Wed Apr  1 09:55:51 1987
+
+C df
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /
+A ls -F
+H NIL
+X NIL
+
+C cd user
+D /
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A ls -F
+H NIL
+X NIL
+
+C pwd
+D /user
+A NIL
+H NIL
+X NIL
+
+C cd ../usera
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user
+A NIL
+H NIL
+X NIL
+
+C ls -l usera
+D /
+A ls -F -l usera
+H NIL
+X NIL
+
+C ls -ld usera
+D /
+A ls -F -ld usera
+H NIL
+X NIL
+
+C cd
+D /
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 10:44:20 1987
+E Thu Apr  2 10:48:54 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 13:58:21 1987
+E Thu Apr  2 14:00:37 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 11:17:38 1987
+E Fri Apr  3 11:25:21 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr  3 13:34:10 1987
+E Fri Apr  3 13:54:58 1987
+
+C ls -la | page
+D /user/grads/xxxxxxx
+A ls -F -la | page
+H NIL
+X NIL
+
+C rlogin vaxb -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 09:41:22 1987
+E Mon Apr  6 10:55:44 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr  7 10:38:32 1987
+E Tue Apr  7 10:50:21 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 09:28:23 1987
+E Wed Apr  8 09:46:11 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C e go.13
+D /user/grads/xxxxxxx/news
+A emacs go.13
+H NIL
+X NIL
+
+C ls *K*
+D /user/grads/xxxxxxx/news
+A ls -F *K*
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:14:48 1987
+E Thu Apr  9 10:58:00 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail kendall@vaxb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 16:25:12 1987
+E Thu Apr  9 16:26:33 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 10:00:16 1987
+E Fri Apr 10 10:03:58 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 11 14:09:45 1987
+E Sat Apr 11 14:59:54 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C cp abst2.nr abst3.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e abst3.nr
+D /user/grads/xxxxxxx/CCVLSI
+A emacs abst3.nr
+H NIL
+X NIL
+
+C itroff -me abst3.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 11 15:15:51 1987
+E Sat Apr 11 15:19:36 1987
+
+C hwo
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwhpo
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C rwho | page
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 11 15:47:39 1987
+E Sat Apr 11 16:01:57 1987
+
+C grep Breen /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f liblong
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail liblong@vaxb
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+
+S Mon Apr 13 17:21:44 1987
+E Mon Apr 13 17:26:06 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C mail graham
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail graham
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+
+S Tue Apr 14 16:30:30 1987
+E Tue Apr 14 16:55:19 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C "rm" electric.1
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 16 15:37:31 1987
+E Thu Apr 16 15:55:29 1987
+
+C cd news'
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X S  11
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 09:53:34 1987
+E Mon Apr 20 10:48:25 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail herr jameson lomow
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 12:18:23 1987
+E NIL
+
+C ruptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-g -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 12:19:46 1987
+E Mon Apr 20 13:11:26 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 20 15:05:08 1987
+E Mon Apr 20 18:08:25 1987
+
+C e .emacs_pro
+D /user/grads/xxxxxxx
+A emacs .emacs_pro
+H NIL
+X Y 102
+
+C grep ingra /etc/passwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail inder
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f inder
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd maclisp
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd maclib
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/maclib
+A ls -F
+H NIL
+X NIL
+
+C e elec-cshell.ml
+D /user/grads/xxxxxxx/maclib
+A emacs elec-cshell.ml
+H NIL
+X NIL
+
+C cd /usr/local
+D /user/grads/xxxxxxx/maclib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local
+A ls -F
+H NIL
+X NIL
+
+C cd lib
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib
+A ls -F
+H NIL
+X NIL
+
+C cd emacs
+D /usr/local/lib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib/emacs
+A ls -F
+H NIL
+X NIL
+
+C cd maclib
+D /usr/local/lib/emacs
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib/emacs/maclib
+A ls -F
+H NIL
+X NIL
+
+C e newcompile.ml
+D /usr/local/lib/emacs/maclib
+A emacs newcompile.ml
+H NIL
+X NIL
+
+C man emacs
+D /usr/local/lib/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /usr/local/lib/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C cd ../../../doc
+D /usr/local/lib/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/doc
+A ls -F
+H NIL
+X NIL
+
+C e emacs.doc
+D /usr/local/doc
+A emacs emacs.doc
+H NIL
+X NIL
+
+C cd ../lib/emacs/maclib
+D /usr/local/doc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/local/lib/emacs/maclib
+A ls -F
+H NIL
+X NIL
+
+C page profile.ml
+D /usr/local/lib/emacs/maclib
+A NIL
+H NIL
+X J  81
+
+C fg
+D /usr/local/lib/emacs/maclib
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 10:27:45 1987
+E Tue Apr 21 10:51:15 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X Y 102
+
+C "rm" -i source*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C ls -l | page
+D /user/grads/xxxxxxx/news
+A ls -F -l | page
+H NIL
+X NIL
+
+C e larn.2
+D /user/grads/xxxxxxx/news
+A emacs larn.2
+H NIL
+X NIL
+
+C "rm" -i larn*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls -l | page
+D /user/grads/xxxxxxx/news
+A ls -F -l | page
+H NIL
+X NIL
+
+C "rm" -i hdscan*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnwes
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X N  10
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 11:29:57 1987
+E Tue Apr 21 12:59:52 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C rlogin vaxa -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rlogin cs-sun-fsb -8
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 21 13:28:06 1987
+E Tue Apr 21 16:34:10 1987
+
+C e foo.c
+D /user/grads/xxxxxxx
+A emacs foo.c
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cc foo.c
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man asm
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man ASM
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv standard.nr CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e abst3.nr standard.nr
+D /user/grads/xxxxxxx/CCVLSI
+A emacs abst3.nr standard.nr
+H NIL
+X NIL
+
+C itroff -me abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C man grep
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C ipq
+D /user/grads/xxxxxxx/CCVLSI
+A lpq -Pimagen
+H NIL
+X NIL
+
+
+S Tue Apr 21 16:35:59 1987
+E Tue Apr 21 16:40:25 1987
+
+C lpr .emacs_pro
+D /user/grads/xxxxxxx
+A /usera/grads/xxxxxxx/bin/my_lpr .emacs_pro
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 10:08:54 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e wallace.mail
+D /user/grads/xxxxxxx
+A emacs wallace.mail
+H NIL
+X NIL
+
+C mail amc-vlsi¡kroeker
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F -l
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i dalek*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd larn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/larn
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/larn
+A NIL
+H NIL
+X NIL
+
+C rmdir larn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd larn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -a
+D /user/grads/xxxxxxx/larn
+A ls -F -a
+H NIL
+X NIL
+
+C "rm" -i .*
+D /user/grads/xxxxxxx/larn
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/larn
+A NIL
+H NIL
+X NIL
+
+C rmdir larn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd SOURCES
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/SOURCES
+A ls -F
+H NIL
+X NIL
+
+C ls -a
+D /user/grads/xxxxxxx/SOURCES
+A ls -F -a
+H NIL
+X NIL
+
+C "rm" -i .*
+D /user/grads/xxxxxxx/SOURCES
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/SOURCES
+A NIL
+H NIL
+X NIL
+
+C rmdir SOURCES
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd SOURCES2
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/SOURCES2
+A ls -F
+H NIL
+X NIL
+
+C ls -a
+D /user/grads/xxxxxxx/SOURCES2
+A ls -F -a
+H NIL
+X NIL
+
+C rmdir SOURCES
+D /user/grads/xxxxxxx/SOURCES2
+A NIL
+H T
+X NIL
+
+C "rm" -i .*
+D /user/grads/xxxxxxx/SOURCES2
+A NIL
+H T
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/SOURCES2
+A NIL
+H NIL
+X NIL
+
+C rmdir SOURCES2
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C page AMC
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C "rm" -i AMC
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C page SCODE
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv SCODE SCODE.s
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C page meeting.nr
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C "rm" -i meeting.nr
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnerws
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X N  10
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A emacs abst4.nr
+H NIL
+X NIL
+
+C man me
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C man ms
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/grads/xxxxxxx/CCVLSI
+A clear
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C man deroff
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C deroff abst4.nr | wc
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C itroff -me abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 13:16:54 1987
+E Wed Apr 22 14:09:25 1987
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 22 13:29:55 1987
+E Wed Apr 22 14:30:17 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ipq
+D /user/grads/xxxxxxx
+A lpq -Pimagen
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd ../CCVLSI
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C f west
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C mail west
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C talk west
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C talk west
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+
+S Wed Apr 22 15:25:22 1987
+E Wed Apr 22 16:32:50 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C itroff -me abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+
+S Thu Apr 23 10:41:13 1987
+E Thu Apr 23 10:41:46 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C adnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X N  10
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 12:12:51 1987
+E Thu Apr 23 12:16:02 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd electric/electric3
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr 23 12:20:38 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f west
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C df
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C deroff abst4.nr | more
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C deroff abst4.nr | wc
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C deroff abst4.nr | wc
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+C style abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C man style
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C style -gt 30 abst4.nr | page
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C style -gt 30 abst4.nr | lpr -Pjp
+D /user/grads/xxxxxxx/CCVLSI
+A style -gt 30 abst4.nr | /usera/grads/xxxxxxx/bin/my_lpr -Pjp
+H NIL
+X NIL
+
+C mail amc-vlsi
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X H  25
+
+C mail amc-vlsi¡mark
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C itroff -me abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 24 09:48:05 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 13:24:54 1987
+E Mon Apr 27 15:41:12 1987
+
+C df
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 17:10:37 1987
+E Mon Apr 27 17:14:18 1987
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 19:54:16 1987
+E Mon Apr 27 22:22:16 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo $term
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/grads/xxxxxxx
+A clear
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C ls hds*
+D /user/grads/xxxxxxx/news
+A ls -F hds*
+H NIL
+X NIL
+
+C e hdscan121*
+D /user/grads/xxxxxxx/news
+A emacs hdscan121*
+H NIL
+X NIL
+
+C "rm" -i *K*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C "rm" -i go*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls hdscan*
+D /user/grads/xxxxxxx/news
+A ls -F hdscan*
+H NIL
+X NIL
+
+C "rm" -i hds*.1
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cat hdscan*.2 hdscan*.3 | uudecode
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls hds*
+D /user/grads/xxxxxxx/news
+A ls -F hds*
+H NIL
+X NIL
+
+C "rm" hdscan*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls -l hds*
+D /user/grads/xxxxxxx/news
+A ls -F -l hds*
+H NIL
+X NIL
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls hds*
+D /user/grads/xxxxxxx/news
+A ls -F hds*
+H NIL
+X NIL
+
+C "rm" hds*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C cd ~stone
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone
+A ls -F
+H NIL
+X NIL
+
+C ls -l log* mark*
+D /user/grads/stone
+A ls -F -l log* mark*
+H NIL
+X NIL
+
+C page mark*
+D /user/grads/stone
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone
+A ls -F
+H NIL
+X NIL
+
+C ls -l log*
+D /user/grads/stone
+A ls -F -l log*
+H NIL
+X NIL
+
+C ls -l *log*
+D /user/grads/stone
+A ls -F -l *log*
+H NIL
+X NIL
+
+C page esau*
+D /user/grads/stone
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone
+A ls -F
+H NIL
+X NIL
+
+C cd atari
+D /user/grads/stone
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari
+A ls -F
+H NIL
+X NIL
+
+C cd binaries
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari/binaries
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/stone/atari/binaries
+A NIL
+H NIL
+X NIL
+
+C ls -R | page
+D /user/grads/stone/atari
+A ls -F -R | page
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari
+A ls -F
+H NIL
+X NIL
+
+C cd uw
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari/uw
+A ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/stone/atari/uw
+A ls -F -l
+H NIL
+X NIL
+
+C e *
+D /user/grads/stone/atari/uw
+A emacs *
+H NIL
+X NIL
+
+C cd ~/news
+D /user/grads/stone/atari/uw
+A NIL
+H NIL
+X NIL
+
+C ls UW*
+D /user/grads/xxxxxxx/news
+A ls -F UW*
+H NIL
+X NIL
+
+C "rm" -i UW.arc*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C uudecode ~stone/atari/uw/uw.uue
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls *.arc
+D /user/grads/xxxxxxx/news
+A ls -F *.arc
+H NIL
+X NIL
+
+C e uniterm.arc
+D /user/grads/xxxxxxx/news
+A emacs uniterm.arc
+H NIL
+X NIL
+
+C ls -l uniterm.arc
+D /user/grads/xxxxxxx/news
+A ls -F -l uniterm.arc
+H NIL
+X NIL
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X Y 102
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C "rm" wind.arc
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C e uniterm16g*
+D /user/grads/xxxxxxx/news
+A emacs uniterm16g*
+H NIL
+X NIL
+
+C ls -l uniter*
+D /user/grads/xxxxxxx/news
+A ls -F -l uniter*
+H NIL
+X NIL
+
+C e uniterm.2 uniterm.3
+D /user/grads/xxxxxxx/news
+A emacs uniterm.2 uniterm.3
+H NIL
+X NIL
+
+C ls uni*
+D /user/grads/xxxxxxx/news
+A ls -F uni*
+H NIL
+X NIL
+
+C e uniterm.man
+D /user/grads/xxxxxxx/news
+A emacs uniterm.man
+H NIL
+X NIL
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C "rm" -i uni*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C ls -l UNI*
+D /user/grads/xxxxxxx/news
+A ls -F -l UNI*
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C page uucode.c
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/grads/xxxxxxx/news
+A history -r 40 | page
+H NIL
+X NIL
+
+C "rm" uucode.c
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C e uudecode.good*
+D /user/grads/xxxxxxx/news
+A emacs uudecode.good*
+H NIL
+X NIL
+
+C uudecode uudecode.ttp.uue
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls uu*
+D /user/grads/xxxxxxx/news
+A ls -F uu*
+H NIL
+X NIL
+
+C e uuencode.arc.uue
+D /user/grads/xxxxxxx/news
+A emacs uuencode.arc.uue
+H NIL
+X NIL
+
+C uudecode uusrc.arc.uue
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls uu*
+D /user/grads/xxxxxxx/news
+A ls -F uu*
+H NIL
+X NIL
+
+C page uue
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C "rm" -i uu*
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C cd ~stone/bin
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/bin
+A ls -F
+H NIL
+X NIL
+
+C cd ../atari
+D /user/grads/stone/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari
+A ls -F
+H NIL
+X NIL
+
+C cd uw
+D /user/grads/stone/atari
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/stone/atari/uw
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/grads/stone/atari/uw
+A NIL
+H NIL
+X NIL
+
+C cd bin
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~stone/atari/uw/*.vax .
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/bin
+A ls -F -l
+H NIL
+X NIL
+
+C chmod a+rx *
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/bin
+A ls -F
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/bin
+A ls -F -l
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls *K*
+D /user/grads/xxxxxxx/bin
+A ls -F *K*
+H NIL
+X M  09
+
+C pwd
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C cd ../news
+D /user/grads/xxxxxxx/bin
+A NIL
+H NIL
+X NIL
+
+C ls *K*
+D /user/grads/xxxxxxx/news
+A ls -F *K*
+H T
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 23:17:26 1987
+E NIL
+
+C ls bin
+D /user/grads/xxxxxxx
+A ls -F bin
+H NIL
+X NIL
+
+C uw.vax
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 23:18:00 1987
+E Mon Apr 27 23:32:46 1987
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo $term
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C page UW.termcap
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C e UW.termcap /etc/termcap
+D /user/grads/xxxxxxx/news
+A emacs UW.termcap /etc/termcap
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cp /etc/termcap .termcap
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .termcap news/UW.termcap
+D /user/grads/xxxxxxx
+A emacs .termcap news/UW.termcap
+H NIL
+X NIL
+
+C setenv TERMCAP ~/.termcap
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=520st
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C reset
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=adm31
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X J  68
+
+
+S Mon Apr 27 23:18:35 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 23:18:50 1987
+E Mon Apr 27 23:19:34 1987
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 23:34:10 1987
+E NIL
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -9 8289
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 23:38:50 1987
+E Mon Apr 27 23:41:27 1987
+
+C uw.vax
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C tty
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C echo $term
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=adm31
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C echo $term
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C e
+D /user/grads/xxxxxxx
+A emacs
+H NIL
+X NIL
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 23:39:22 1987
+E NIL
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 10:09:00 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/news
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C "rm" standard.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C "rm" *K*
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X H  25
+
+C deroff abst4.nr | wc
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C itroff -me abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 15:12:53 1987
+E Tue Apr 28 16:24:10 1987
+
+C hi
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C sdfghjkl ;
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C electric
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Tue Apr 28 16:34:58 1987
+E Tue Apr 28 16:37:05 1987
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C f scowcroft
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail scowcroft
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 16:37:33 1987
+E Tue Apr 28 16:42:00 1987
+
+C mail scowcroft
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 17:11:58 1987
+E Tue Apr 28 17:22:23 1987
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C itroff -me abst4.nr
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+
+S Tue Apr 28 17:59:11 1987
+E Tue Apr 28 18:01:29 1987
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e abst4.nr abst4.nr.BAK
+D /user/grads/xxxxxxx/CCVLSI
+A emacs abst4.nr abst4.nr.BAK
+H NIL
+X NIL
+
+C itroff -me abst4.nr &
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+
+S Wed Apr 29 09:43:16 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C pushd /usr/include/tmac
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X D  88
+
+C pushd /usr/include
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A ls -F
+H NIL
+X NIL
+
+C cd local
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include/local
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /usr/include/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include
+A ls -F
+H NIL
+X NIL
+
+C pwd
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C cd lib
+D /usr/include
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/include/lib
+A ls -F
+H NIL
+X NIL
+
+C pwd
+D /usr/include/lib
+A NIL
+H NIL
+X NIL
+
+C cd /usr/local
+D /usr/include/lib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C cd /usr/lib
+D /usr/local
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/lib
+A ls -F
+H NIL
+X NIL
+
+C cd tmac
+D /usr/lib
+A NIL
+H NIL
+X NIL
+
+C pwd
+D /usr/lib/tmac
+A NIL
+H NIL
+X NIL
+
+C ls
+D /usr/lib/tmac
+A ls -F
+H NIL
+X NIL
+
+C e tmac.e
+D /usr/lib/tmac
+A emacs tmac.e
+H NIL
+X NIL
+
+C popd
+D /usr/lib/tmac
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C su west
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C su west
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C su xxxxxxx
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 11:26:01 1987
+E Wed Apr 29 11:31:57 1987
+
+C cd CCVLSI
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C h | grep itr
+D /user/grads/xxxxxxx/CCVLSI
+A history -r 40 | page | grep itr
+H NIL
+X NIL
+
+C itroff -me abst4.nr &
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+
+S Wed Apr 29 13:52:56 1987
+E Wed Apr 29 13:57:03 1987
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+
+S Wed Apr 29 13:56:56 1987
+E Wed Apr 29 14:03:35 1987
+
+C cd
+D /user/others/inder
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C itroff -me abst4.nr &
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+
+S Wed Apr 29 14:13:30 1987
+E Wed Apr 29 14:15:23 1987
+
+C cd
+D /user/profs/kendall
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F -l
+H NIL
+X NIL
+
+C chmod a+r
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C chmod a+r *
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H T
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/CCVLSI
+A NIL
+H NIL
+X NIL
+
+C chmod +r CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx
+A ls -F -l
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X J  68
+
+C d
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Wed Apr 29 14:18:04 1987
+E Wed Apr 29 14:19:09 1987
+
+C cd
+D /user/profs/kendall
+A NIL
+H NIL
+X NIL
+
+C chmod +rx CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 14:20:27 1987
+E Wed Apr 29 14:21:27 1987
+
+C cd
+D /user/profs/kendall
+A NIL
+H NIL
+X NIL
+
+C chmod a+rx CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls -l CCVLSI
+D /user/grads/xxxxxxx
+A ls -F -l CCVLSI
+H NIL
+X NIL
+
+C ls -la CCVLSI
+D /user/grads/xxxxxxx
+A ls -F -la CCVLSI
+H NIL
+X NIL
+
+
+S Wed Apr 29 14:26:10 1987
+E Wed Apr 29 14:33:35 1987
+
+C cd
+D /user/profs/kendall
+A NIL
+H NIL
+X NIL
+
+C cd CCVLSI
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/grads/xxxxxxx/CCVLSI
+A emacs
+H NIL
+X NIL
+
+C ls -l
+D /user/grads/xxxxxxx/CCVLSI
+A ls -F -l
+H NIL
+X NIL
+
+
+S Wed Apr 29 18:03:25 1987
+E NIL
+
+C uw.vax
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 18:03:53 1987
+E Wed Apr 29 18:28:19 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f arcsun
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 29 18:04:53 1987
+E NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  1 14:45:56 1987
+E Fri May  1 14:49:07 1987
+
+C df
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Sat May  2 20:41:43 1987
+E NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C uw.vax
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ps g
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logut
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat May  2 20:42:15 1987
+E Sat May  2 20:44:23 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | page
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f gass
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f inder
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun May  3 20:31:48 1987
+E NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f inder
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uw.vax
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun May  3 20:32:52 1987
+E NIL
+
+C ls
+D /user/grads/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C "rm" wallace*
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail renee@vaxa
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C "rm" dead.letter
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X J  68
+
+
+S Mon May  4 15:12:41 1987
+E Mon May  4 16:22:36 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 14:15:42 1987
+E Tue May  5 14:16:43 1987
+
+C tip dn
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May  5 14:18:06 1987
+E Tue May  5 15:15:18 1987
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls *.c
+D /user/grads/xxxxxxx
+A ls -F *.c
+H NIL
+X Y 102
+
+C lpr *.c
+D /user/grads/xxxxxxx
+A /usera/grads/xxxxxxx/bin/my_lpr *.c
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep switch *.c
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e graphapol.c
+D /user/grads/xxxxxxx
+A emacs graphapol.c
+H NIL
+X NIL
+
+C grep wantonescreen *.c
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep us_gotstat *.c
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep parse *.c
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e usr.c
+D /user/grads/xxxxxxx
+A emacs usr.c
+H NIL
+X NIL
+
+
+S Wed May  6 15:04:35 1987
+E Wed May  6 15:09:21 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May  6 15:16:46 1987
+E Wed May  6 15:47:58 1987
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C "rm" -i *.c
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Thu May  7 14:35:30 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C quota
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 19:30:49 1987
+E NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uw.vax
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 19:31:36 1987
+E NIL
+
+C f
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri May  8 19:31:52 1987
+E Fri May  8 19:40:56 1987
+
+C su inder
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 09:45:23 1987
+E Mon May 11 10:01:43 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Mon May 11 11:06:12 1987
+E Mon May 11 12:35:37 1987
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H T
+X NIL
+
+
+S Mon May 11 17:11:35 1987
+E NIL
+
+C mail graham
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail renee
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue May 12 16:53:41 1987
+E Tue May 12 17:13:03 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rwho | grep stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C f stone
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 09:32:58 1987
+E Wed May 13 10:25:44 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C cd news
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C readnews
+D /user/grads/xxxxxxx/news
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 13:37:16 1987
+E Wed May 13 13:38:58 1987
+
+C who
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C uptime
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed May 13 16:06:57 1987
+E Wed May 13 16:10:30 1987
+
+C cat -n graphapol.c | "lpr"
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat -n graphvax.c | "lpr"
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C cat -n graphsun.c | "lpr"
+D /user/grads/xxxxxxx
+A NIL
+H T
+X NIL
+
+C man grep
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep -n us_gotstatus *.c | "lpr"
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C grep -n SEPTTY *.c | "lpr" &
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
