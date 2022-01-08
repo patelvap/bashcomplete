@@ -1,1 +1,5 @@
 .ipynb_checkpoints/*
+unix-data/
+.vscode/
+env/
+.__pychache__/*

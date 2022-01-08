@@ -1,8 +1,10 @@
 import bashlex
+import copy
 import os
 import re
 
-re_filter = "C "
+command_filter = "C "
+start_filter = "S"
 
 scientists_dir = "./unix-data/computer-scientists/"
 experienced_dir = "./unix-data/experienced-programmers/"
@@ -42,13 +44,13 @@ for file_path in scientists_files:
     lines = file1.readlines()
     
     for line in lines:
-        if re.match(re_filter, line) is not None:
+        if re.match(command_filter, line) is not None:
             scientist_commands.append(line[2:-1])
             try:
                 parts = bashlex.parse(scientist_commands[-1])
                 scientist_parsed.append(parts[0].dump())
             except Exception as inst:
-                print(scientist_commands[-1])
+                pass
 
 
 for file_path in experienced_files:
@@ -56,32 +58,55 @@ for file_path in experienced_files:
     lines = file1.readlines()
     
     for line in lines:
-        if re.match(re_filter, line) is not None:
+        if re.match(command_filter, line) is not None:
             experienced_commands.append(line[2:-1])
+        try:
             parts = bashlex.parse(experienced_commands[-1])
             experienced_parsed.append(parts[0].dump())
+        except Exception as inst:
+            pass
 
 for file_path in non_programmers_files:
     file1 = open(file_path, encoding="ISO-8859-1")
     lines = file1.readlines()
     
     for line in lines:
-        if re.match(re_filter, line) is not None:
+        if re.match(command_filter, line) is not None:
             non_programmers_commands.append(line[2:-1])
+        try:
             parts = bashlex.parse(non_programmers_commands[-1])
             non_programmers_parsed.append(parts[0].dump())
+        except Exception as inst:
+            pass
             
 for file_path in novice_files:
     file1 = open(file_path, encoding="ISO-8859-1")
     lines = file1.readlines()
     
     for line in lines:
-        if re.match(re_filter, line) is not None:
+        if re.match(command_filter, line) is not None:
             novice_commands.append(line[2:-1])
+        try:
             parts = bashlex.parse(novice_commands[-1])
             novice_parsed.append(parts[0].dump())
+        except Exception as inst:
+            pass
 
+# TODO: add logic so each session (between starts) is in its own list
+# DRAFT
+def parse_commands(command_list, parsed_list, files_list):
+    for file_path in files_list: 
+        file1 = open(file_path, encoding="ISO-8859-1")
+        lines = file1.readlines()
 
-print(novice_parsed)
+        for line in lines:
+            if re.match(command_filter, lines) is not None:
+                command_list.append(line[2:-1])
+            try:
+                parts = bashlex.parse(command_list[-1])
+                parsed_list.append(parts[0].dump())
+            except Exception as inst:
+                pass
 
-
+    return parsed_list
+            
