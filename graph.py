@@ -37,7 +37,7 @@ class Node:
         potential_commands = sorted(command_dicts.items(), key=lambda item : item[1], reverse=True)
         
         #fuzzy match now with command parameter
-        print(potential_commands)
+        #print(potential_commands)
         return_command = 'None'
         highest_score = 0
 
@@ -54,7 +54,6 @@ class Node:
             if (cur_score > highest_score):
                 return_command = potential_command[0]
                 highest_score = potential_command[1]
-                print(return_command)
 
-
+        #print("returning: ", return_command)
         return return_command
