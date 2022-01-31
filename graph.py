@@ -57,3 +57,9 @@ class Node:
 
         #print("returning: ", return_command)
         return return_command
+
+# bidirectional
+
+class PipeNode:
+    def __init(self):
+        pass
