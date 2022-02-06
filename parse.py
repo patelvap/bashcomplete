@@ -78,7 +78,7 @@ class Parser:
                     parsed_list.append(lines[line][2:-1])
 
                     try:
-                        parts = list(bashlex.split(parsed_list[-1]))
+                        list(bashlex.split(parsed_list[-1]))
                     except:
                         parsed_list.pop(-1)
         
@@ -104,12 +104,12 @@ class Parser:
 
         return list(filter(pipe_regex.match, parsed_list))
 
-    # TODO: expand piped commands with >, <, and dummy args
     def expand_piped_commands(self, parsed_list):
         parsed_pipe_list = []
         parsed_pipe_sublist = []
-        output_redirection = " > foo"
-        input_redirection = " < foo"
+        # change from foo b/c foo is used a lot
+        output_redirection = " > pipetemp "
+        input_redirection = " < pipetemp"
         
         for command in parsed_list:
             split_command = command.split('|')
@@ -132,3 +132,25 @@ class Parser:
 
 
         return parsed_pipe_list
+
+    def replace_args(self, parsed_list):
+        filter_escaped = lambda x: (x and x.isprintable())
+        parsed_list = list(filter(filter_escaped, parsed_list))
+
+        parsed_list = [i for i in parsed_list if not re.compile(re_pipe_filter).match(i)]
+
+        parsed_list_replaced = []
+        arg_replacements = ["$" + str(i) for i in range(100)]
+
+        for command in range(len(parsed_list)):
+            command_split = parsed_list[command].split()
+            arg_counter = 0
+
+            for i in range(1, len(command_split)):
+                if not command_split[i].startswith("-"):
+                    command_split[i] = arg_replacements[arg_counter]
+                    arg_counter += 1
+            
+            parsed_list_replaced.append(' '.join(command_split))
+
+        return parsed_list_replaced
