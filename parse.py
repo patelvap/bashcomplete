@@ -137,8 +137,6 @@ class Parser:
         filter_escaped = lambda x: (x and x.isprintable())
         parsed_list = list(filter(filter_escaped, parsed_list))
 
-        parsed_list = [i for i in parsed_list if not re.compile(re_pipe_filter).match(i)]
-
         parsed_list_replaced = []
         arg_replacements = ["$" + str(i) for i in range(100)]
 
