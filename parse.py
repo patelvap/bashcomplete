@@ -108,7 +108,7 @@ class Parser:
         parsed_pipe_list = []
         parsed_pipe_sublist = []
         # change from foo b/c foo is used a lot
-        output_redirection = " > pipetemp "
+        output_redirection = " > pipetemp"
         input_redirection = " < pipetemp"
         
         for command in parsed_list:
@@ -125,7 +125,7 @@ class Parser:
                         split_command[i] = split_command[i][:idx] + input_redirection + split_command[i][idx:]
                         parsed_pipe_sublist.append(split_command[i].strip())
                     else:
-                        parsed_pipe_sublist.append(split_command[i].strip() + input_redirection)
+                        parsed_pipe_sublist.append((split_command[i].strip() + input_redirection).strip())
 
             parsed_pipe_list.append(copy.deepcopy(parsed_pipe_sublist))
             parsed_pipe_sublist = []
@@ -152,3 +152,14 @@ class Parser:
             parsed_list_replaced.append(' '.join(command_split))
 
         return parsed_list_replaced
+
+
+"""
+look for $1s and $2s that span commands
+
+get accuracy with fuzzy match with 90% + 
+get rid of '&' in output with pipes
+match within top 5 -> get prediction returns 5 commands
+
+change pipetemp to $arg
+"""

@@ -41,20 +41,22 @@ class Node:
         return_command = 'None'
         highest_score = 0
 
+        potential_commands_scored = {}
+
         for potential_command in potential_commands:
 
-            """fuzzy_score = .5 * fuzz.ratio(previous_command, potential_command[0])
+            fuzzy_score = .5 * fuzz.ratio(previous_command, potential_command[0])
 
             #set ratio to 1 incase no match; intent of fuzzy ratio is to match with args
             if fuzzy_score == 0:
                 fuzzy_score = 1
 
-            cur_score = fuzzy_score * potential_command[1]"""
-            cur_score = potential_command[1]
+            fuzzy_score = 1
+            cur_score = fuzzy_score * potential_command[1]
 
             if (cur_score > highest_score):
                 return_command = potential_command[0]
-                highest_score = potential_command[1]
+                highest_score = cur_score
 
         #print("returning: ", return_command)
         return return_command
