@@ -153,6 +153,31 @@ class Parser:
 
         return parsed_list_replaced
 
+    def replace_arg_pipes(self, parsed_list):
+
+        parsed_list_replaced = []
+        arg_replacements = ["$" + str(i) for i in range(100)]
+
+        for command in range(len(parsed_list)):
+            command_split = parsed_list[command].split()
+
+            arg_counter = 0
+
+            for i in range(1, len(command_split)):
+                if command_split[i] == "|":
+                    pass
+
+                elif not command_split[i].startswith("-") and not command_split[i-1] == '|' and not command_split[i] == '&':
+                    command_split[i] = arg_replacements[arg_counter]
+                    arg_counter += 1
+
+                if command_split[i-1] == '|':
+                    arg_counter = 0
+            
+            parsed_list_replaced.append(' '.join(command_split))
+
+        return parsed_list_replaced
+
 
 """
 look for $1s and $2s that span commands

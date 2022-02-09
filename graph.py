@@ -51,18 +51,16 @@ class Node:
             if fuzzy_score == 0:
                 fuzzy_score = 1
 
-            fuzzy_score = 1
             cur_score = fuzzy_score * potential_command[1]
 
+            potential_commands_scored[potential_command[0]] = cur_score
+
+            
             if (cur_score > highest_score):
                 return_command = potential_command[0]
                 highest_score = cur_score
+            
 
         #print("returning: ", return_command)
-        return return_command
-
-# bidirectional
-
-class PipeNode:
-    def __init(self):
-        pass
+        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)[0:5]
+        #return return_command
