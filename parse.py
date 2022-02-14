@@ -153,7 +153,7 @@ class Parser:
 
         return parsed_list_replaced
 
-    def replace_arg_pipes(self, parsed_list):
+    def replace_arg_pipes(parsed_list):
 
         parsed_list_replaced = []
         arg_replacements = ["$" + str(i) for i in range(100)]
@@ -168,7 +168,11 @@ class Parser:
                     pass
 
                 elif not command_split[i].startswith("-") and not command_split[i-1] == '|' and not command_split[i] == '&':
-                    command_split[i] = arg_replacements[arg_counter]
+                    #replace only file name, not file extension
+                    command_split_by_extension = command_split[i].split(".")
+                    command_split_by_extension[0] = arg_replacements[arg_counter]
+                    command_split[i] = ''.join(command_split_by_extension)
+
                     arg_counter += 1
 
                 if command_split[i-1] == '|':
