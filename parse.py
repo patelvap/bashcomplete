@@ -145,7 +145,7 @@ class Parser:
             arg_counter = 0
 
             for i in range(1, len(command_split)):
-                if not command_split[i].startswith("-"):
+                if not command_split[i].startswith("-") and command_split[i] != '|':
                     command_split[i] = arg_replacements[arg_counter]
                     arg_counter += 1
             
@@ -153,7 +153,7 @@ class Parser:
 
         return parsed_list_replaced
 
-    def replace_arg_pipes(parsed_list):
+    def replace_arg_pipes(self, parsed_list):
 
         parsed_list_replaced = []
         arg_replacements = ["$" + str(i) for i in range(100)]
@@ -181,6 +181,18 @@ class Parser:
             parsed_list_replaced.append(' '.join(command_split))
 
         return parsed_list_replaced
+
+    def replace_arg_expanded_pipe(self, parsed_pipe_list):
+        parsed_list_replaced = []
+
+        for parsed_list in parsed_pipe_list:
+            parsed_list_replaced.append(self.replace_args(parsed_list))
+
+        return parsed_list_replaced
+
+        
+
+
 
 
 """
