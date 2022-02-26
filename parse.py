@@ -63,6 +63,9 @@ class Parser:
                         parts = list(bashlex.split(parsed_sublist[-1]))
                     except Exception as inst:
                         parsed_sublist.pop(-1)
+                
+                if parsed_sublist.split()[0] == "alias":
+                    parsed_sublist.pop(-1)
         
         return parsed_list
 
@@ -81,6 +84,10 @@ class Parser:
                         list(bashlex.split(parsed_list[-1]))
                     except:
                         parsed_list.pop(-1)
+
+                    if parsed_list[-1] == "alias":
+                        parsed_list.pop(-1)
+                
         
         return parsed_list
 
@@ -90,7 +97,7 @@ class Parser:
         
         parsed_subsets = []
 
-        for i in range(0, len(parsed_list), subset_size):
+        for i in range(0, len(parsed_list)):
             parsed_subsets.append(parsed_list[i:i+subset_size])
 
         filter_empty = lambda x: (x is not None)
@@ -140,12 +147,14 @@ class Parser:
         parsed_list_replaced = []
         arg_replacements = ["$" + str(i) for i in range(100)]
 
+        exclude_chars = set(['|', '<', '>'])
+
         for command in range(len(parsed_list)):
             command_split = parsed_list[command].split()
             arg_counter = 0
 
             for i in range(1, len(command_split)):
-                if not command_split[i].startswith("-") and command_split[i] != '|':
+                if not command_split[i].startswith("-") and command_split[i] not in exclude_chars:
                     command_split[i] = arg_replacements[arg_counter]
                     arg_counter += 1
             
@@ -203,4 +212,19 @@ get rid of '&' in output with pipes
 match within top 5 -> get prediction returns 5 commands
 
 change pipetemp to $arg
+"""
+
+"""
+print out when not matching
+be able to look up graph -> for pipes -> and trace through not matching
+ignore alias commands but process aliases
+create example of things working and not working
+
+for pipes want to know fraction of time did not have prediction
+find and example null predictions
+
+exhaustive algorithm for all combinations 
+graph statistics with distributions of counts with command chains
+
+colearning, predicting one person's commands, using one person to predict another person
 """
