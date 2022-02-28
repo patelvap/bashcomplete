@@ -56,6 +56,9 @@ class Parser:
                     parsed_sublist = []
                 
                 if re.match(re_command_filter, lines[line]) is not None:
+                    if lines[line[2:-1]] == "alias":
+                        pass
+
                     parsed_sublist.append(lines[line][2:-1])
 
                     # check if valid command
@@ -64,9 +67,6 @@ class Parser:
                     except Exception as inst:
                         parsed_sublist.pop(-1)
                 
-                if parsed_sublist.split()[0] == "alias":
-                    parsed_sublist.pop(-1)
-        
         return parsed_list
 
     def parse_commands(self, files_list):
@@ -80,14 +80,14 @@ class Parser:
                 if re.match(re_command_filter, lines[line]) is not None:
                     parsed_list.append(lines[line][2:-1])
 
-                    try:
-                        list(bashlex.split(parsed_list[-1]))
-                    except:
+                    if parsed_list[-1].startswith("alias"):
                         parsed_list.pop(-1)
+                        continue
 
-                    if parsed_list[-1] == "alias":
+                    try:
+                        bashlex.parse(parsed_list[-1])
+                    except Exception as inst:
                         parsed_list.pop(-1)
-                
         
         return parsed_list
 
@@ -217,7 +217,7 @@ change pipetemp to $arg
 """
 print out when not matching
 be able to look up graph -> for pipes -> and trace through not matching
-ignore alias commands but process aliases
+
 create example of things working and not working
 
 for pipes want to know fraction of time did not have prediction

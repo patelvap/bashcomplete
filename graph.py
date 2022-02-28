@@ -49,7 +49,7 @@ class Node:
 
             #set ratio to 1 incase no match; intent of fuzzy ratio is to match with args
             if fuzzy_score == 0:
-                fuzzy_score = 1
+                fuzzy_score = 2
 
             cur_score = fuzzy_score * potential_command[1]
 
@@ -62,5 +62,5 @@ class Node:
             
 
         #print("returning: ", return_command)
-        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)#[0:10]
+        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)#[:15]
         #return return_command
