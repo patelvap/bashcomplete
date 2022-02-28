@@ -62,5 +62,5 @@ class Node:
             
 
         #print("returning: ", return_command)
-        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)#[:15]
+        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)[:15]
         #return return_command

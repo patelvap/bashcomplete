@@ -215,6 +215,8 @@ change pipetemp to $arg
 """
 
 """
+2/21
+
 print out when not matching
 be able to look up graph -> for pipes -> and trace through not matching
 
@@ -227,4 +229,26 @@ exhaustive algorithm for all combinations
 graph statistics with distributions of counts with command chains
 
 colearning, predicting one person's commands, using one person to predict another person
+"""
+
+"""
+2/28
+
+subsets of size 2..n
+shuffle subsets -> save test and train sets
+
+which commands repeated and not repeated
+
+pprint out graph, training, and test set somehow to see where fails are coming from 
+look for repetitions 
+    - make sure graph consistent with train and test set
+    - explainable AI
+
+want to know what didn't work but also what worked
+    - save logs to file
+
+fraction of time did not predict
+when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+
+
 """
