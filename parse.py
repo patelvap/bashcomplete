@@ -247,6 +247,8 @@ look for repetitions
 want to know what didn't work but also what worked
     - save logs to file
 
+fix pipe codes
+
 fraction of time did not predict
 when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 
