@@ -1,6 +1,7 @@
 import bashlex
 import os
 import re
+import itertools
 import copy
 from tqdm import tqdm
 
@@ -103,6 +104,18 @@ class Parser:
         filter_empty = lambda x: (x is not None)
         parsed_subsets = list(filter(filter_empty, parsed_subsets))
         
+        return parsed_subsets
+
+    """
+    All combinations of subsets from 2..n.
+    Takes forever and when last checked 50gb of ram
+    """
+    def parse_commands_into_subsets_all_combinations(self, parsed_list, subset_size):
+        parsed_subsets = []
+        for i in range(2, subset_size + 1):
+            for comb in itertools.combinations(self.parse_commands_into_subsets(parsed_list, i), i):
+                parsed_subsets.append(comb)
+
         return parsed_subsets
 
     
