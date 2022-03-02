@@ -140,18 +140,23 @@ class Parser:
 
         return parsed_pipe_list
 
-    def replace_args(self, parsed_list):
+    def replace_args(self, parsed_list, pipes=False):
         filter_escaped = lambda x: (x and x.isprintable())
         parsed_list = list(filter(filter_escaped, parsed_list))
 
         parsed_list_replaced = []
         arg_replacements = ["$" + str(i) for i in range(100)]
+        arg_counter = 0
 
         exclude_chars = set(['|', '<', '>'])
 
         for command in range(len(parsed_list)):
+            if parsed_list[command].endswith("&"):
+                parsed_list[command] = parsed_list[command][:-1]
+
             command_split = parsed_list[command].split()
-            arg_counter = 0
+            if not pipes:
+                arg_counter = 0
 
             for i in range(1, len(command_split)):
                 if not command_split[i].startswith("-") and command_split[i] not in exclude_chars:
@@ -168,6 +173,9 @@ class Parser:
         arg_replacements = ["$" + str(i) for i in range(100)]
 
         for command in range(len(parsed_list)):
+            if parsed_list[command].endswith("&"):
+                parsed_list[command] = parsed_list[command][:-1]
+
             command_split = parsed_list[command].split()
 
             arg_counter = 0
@@ -195,13 +203,9 @@ class Parser:
         parsed_list_replaced = []
 
         for parsed_list in parsed_pipe_list:
-            parsed_list_replaced.append(self.replace_args(parsed_list))
+            parsed_list_replaced.append(self.replace_args(parsed_list, pipes=True))
 
         return parsed_list_replaced
-
-        
-
-
 
 
 """
@@ -239,18 +243,16 @@ shuffle subsets -> save test and train sets
 
 which commands repeated and not repeated
 
-pprint out graph, training, and test set somehow to see where fails are coming from 
+DONE: pprint out graph, training, and test set somehow to see where fails are coming from 
 look for repetitions 
     - make sure graph consistent with train and test set
     - explainable AI
 
 want to know what didn't work but also what worked
-    - save logs to file
+    - DONE: save logs to file
 
-fix pipe codes
+DONE: (i think) fix pipe codes
 
-fraction of time did not predict
+DONE: fraction of time did not predict
 when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Sensitivity_and_specificity
-
-
 """
