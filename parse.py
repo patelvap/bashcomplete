@@ -251,8 +251,8 @@ colearning, predicting one person's commands, using one person to predict anothe
 """
 2/28
 
-subsets of size 2..n
-shuffle subsets -> save test and train sets
+Too Computationally Expensive: subsets of size 2..n
+DONE: shuffle subsets -> save test and train sets
 
 which commands repeated and not repeated
 
