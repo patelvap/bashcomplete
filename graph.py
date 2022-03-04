@@ -25,7 +25,7 @@ class Node:
     # fuzzy match with all of the command dicts in child nodes
     # weighing with frequency and ratio (multiplied)
     # cut off the program
-    def get_prediction(self, previous_command) -> str:
+    def get_prediction(self, previous_command, num_to_return = 5) -> str:
         
         child_nodes = list(self.children.values())
         child_nodes.sort(key = lambda node: node.frequency)
@@ -61,4 +61,4 @@ class Node:
                 highest_score = cur_score
             
 
-        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)[:15]
+        return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)[:num_to_return]

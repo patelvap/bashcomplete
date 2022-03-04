@@ -251,7 +251,7 @@ colearning, predicting one person's commands, using one person to predict anothe
 """
 2/28
 
-Too Computationally Expensive: subsets of size 2..n
+Too Computationally Expensive/Intractable: subsets of size 2..n
 DONE: shuffle subsets -> save test and train sets
 
 which commands repeated and not repeated
@@ -268,4 +268,28 @@ DONE: (i think) fix pipe codes
 
 DONE: fraction of time did not predict
 when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+"""
+
+"""
+3/3
+
+first 5 first 4 first 3 first 2 then increment position
+
+if sequence only comes once then remove it
+
+reduce size by certain amount 
+
+maybe remove sequences that happen only once
+
+see if things succeeded in same session
+
+how far command sequence occurs in same user and other users 
+    - map reduce command subsets by user and compare 
+
+DONE: check how often correct solution is in top 5 and top 15
+    - example of something matching not in top 5 but in top 15
+
+DONE: print out first ~100 correct predictions to see how generous predictions are
+
+figure out what got repeated each time to see what's correct or not
 """
