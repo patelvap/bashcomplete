@@ -57,14 +57,14 @@ class Parser:
                     parsed_sublist = []
                 
                 if re.match(re_command_filter, lines[line]) is not None:
-                    if lines[line[2:-1]] == "alias":
-                        pass
+                    if lines[line].startswith("alias"):
+                        continue
 
                     parsed_sublist.append(lines[line][2:-1])
 
                     # check if valid command
                     try:
-                        parts = list(bashlex.split(parsed_sublist[-1]))
+                        bashlex.parse(parsed_sublist[-1])
                     except Exception as inst:
                         parsed_sublist.pop(-1)
                 
@@ -85,6 +85,9 @@ class Parser:
                         parsed_list.pop(-1)
                         continue
 
+                    if parsed_list[-1].endswith("&"):
+                        parsed_list[-1] = parsed_list[-1][:-1]
+
                     try:
                         bashlex.parse(parsed_list[-1])
                     except Exception as inst:
@@ -99,22 +102,20 @@ class Parser:
         parsed_subsets = []
 
         for i in range(0, len(parsed_list)):
-            parsed_subsets.append(parsed_list[i:i+subset_size])
+            if i + subset_size < len(parsed_list):
+                parsed_subsets.append(parsed_list[i:i+subset_size])
 
         filter_empty = lambda x: (x is not None)
         parsed_subsets = list(filter(filter_empty, parsed_subsets))
         
         return parsed_subsets
 
-    """
-    All combinations of subsets from 2..n.
-    Takes forever and when last checked 50gb of ram
-    """
-    def parse_commands_into_subsets_all_combinations(self, parsed_list, subset_size):
+    def parse_commands_into_subsets_sliding_window(self, parsed_list, subset_size):
         parsed_subsets = []
-        for i in range(2, subset_size + 1):
-            for comb in itertools.combinations(self.parse_commands_into_subsets(parsed_list, i), i):
-                parsed_subsets.append(comb)
+
+        for session in parsed_list:
+            for i in range(2, subset_size + 1):
+                parsed_subsets.append(self.parse_commands_into_subsets(session, i))
 
         return parsed_subsets
 
@@ -164,9 +165,6 @@ class Parser:
         exclude_chars = set(['|', '<', '>'])
 
         for command in range(len(parsed_list)):
-            if parsed_list[command].endswith("&"):
-                parsed_list[command] = parsed_list[command][:-1]
-
             command_split = parsed_list[command].split()
             if not pipes:
                 arg_counter = 0
@@ -177,6 +175,15 @@ class Parser:
                     arg_counter += 1
             
             parsed_list_replaced.append(' '.join(command_split))
+
+        return parsed_list_replaced
+
+    def replace_args_nested(self, parsed_list):
+        parsed_list_replaced = []
+
+        for session in parsed_list:
+            for command in session:
+                parsed_list_replaced.append(self.replace_args(command))
 
         return parsed_list_replaced
 
@@ -273,7 +280,7 @@ when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Se
 """
 3/3
 
-first 5 first 4 first 3 first 2 then increment position
+DONE: first 5 first 4 first 3 first 2 then increment position
 
 if sequence only comes once then remove it
 
