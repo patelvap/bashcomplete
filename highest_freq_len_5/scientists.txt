@@ -1,0 +1,253 @@
+scientist-40:
+	 ('lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip'): 51
+, ('ps $0', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip'): 9
+, ('lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'f', 'lpq -Pip'): 8
+
+scientist-47:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 10
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 7
+, ('lisp', 'lisp', 'lisp', 'lisp', 'lisp'): 6
+
+scientist-49:
+	 ('ps -ghx', 'ps -ghx', 'ps -ghx', 'ps -ghx', 'ps -ghx'): 31
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 23
+, ('lpq', 'lpq', 'lpq', 'lpq', 'lpq'): 23
+
+scientist-22:
+	 ('mail $0', 'mail $0', 'mail $0', 'mail $0', 'mail $0'): 6
+, ('mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1'): 3
+
+scientist-25:
+	 ('mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1'): 17
+, ('Null $0', 'Null $0', 'Null $0', 'Null $0', 'Null $0'): 15
+, ('awk -f $0 $1', 'awk -f $0 $1', 'awk -f $0 $1', 'awk -f $0 $1', 'awk -f $0 $1'): 13
+
+scientist-13:
+	 ('pix $0', 'emacs', 'pix $0', 'emacs', 'pix $0'): 47
+, ('emacs', 'pix $0', 'emacs', 'pix $0', 'emacs'): 39
+, ('look $0', 'look $0', 'look $0', 'look $0', 'look $0'): 36
+
+scientist-14:
+	 ('cd $0', 'readnews', 'readnews', 'cd $0', 'rlogin $0 -8'): 7
+, ('ls $0', 'ls $0', 'ls $0', 'ls $0', 'ls $0'): 4
+, ('lprm -Palw1 $0', 'lpq -Palw1', 'lpr -Palw1 -h $0', 'lpq -Palw1', 'lpq -Palw1'): 3
+
+scientist-48:
+	 ('fred $0', 'ptroff -me -Palw2 $0', 'fred $0', 'ptroff -me -Palw2 $0', 'fred $0'): 27
+, ('ptroff -me -Palw2 $0', 'fred $0', 'ptroff -me -Palw2 $0', 'fred $0', 'ptroff -me -Palw2 $0'): 26
+, ('ptroff -me -Palw2 $0', 'fred $0', 'fred $0', 'ptroff -me -Palw2 $0', 'fred $0'): 6
+
+scientist-46:
+	 ('test_pause', 'test_pause', 'test_pause', 'test_pause', 'test_pause'): 15
+, ('ls $0', 'ls $0', 'ls $0', 'ls $0', 'ls $0'): 10
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 8
+
+scientist-41:
+	 ('mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1'): 7
+, ('cat $0', 'cat $0', 'cat $0', 'cat $0', 'cat $0'): 6
+, ('r.out', 'rm $0', 'pc $0 -o $1', 'r.out', 'rm $0'): 4
+
+scientist-15:
+	 ('tip $0', 'tip $0', 'tip $0', 'tip $0', 'tip $0'): 53
+, ('dobis', 'ps $0', 'kill -9 $0 $1', 'dobis', 'ps $0'): 9
+, ('dobis', 'dobis', 'dobis', 'dobis', 'dobis'): 7
+
+scientist-12:
+	 ('cd $0', 'l', 'l $0', 'l $0', 'cd $0'): 3
+, ('hi', 'sv', 'vt $0', 'whatnews $0', 'sun'): 3
+, ('fg', 'p $0', 'sun', 's', 'ruptime'): 2
+
+scientist-24:
+	 ('pdpdb $0', 'pdpdb $0', 'pdpdb $0', 'pdpdb $0', 'pdpdb $0'): 15
+, ('pdpdb $0', 'pdpdb $0', 'pdpdb $0', 'e $0', 'pdpas -l $0'): 5
+, ('pdpdb $0', 'pdpdb $0', 'pdpdb $0', 'pdpdb $0', 'e $0'): 5
+
+scientist-23:
+	 ('grep $0 $1', 'grep $0 $1', 'grep $0 $1', 'grep $0 $1', 'grep $0 $1'): 22
+, ('lex $0', 'lex $0', 'lex $0', 'lex $0', 'lex $0'): 16
+, ('a.out', 'yacc $0', 'cc $0 -ly', 'a.out', 'yacc $0'): 13
+
+scientist-39:
+	 ('fg $0', 'fg $0', 'fg $0', 'fg $0', 'fg $0'): 13
+, ('testrand', 'fg', 'cc -o $0 $1', 'testrand', 'fg'): 12
+, ('cc -o $0 $1', 'testrand', 'fg', 'cc -o $0 $1', 'testrand'): 12
+
+scientist-30:
+	 ('dpic $0 | $1', 'fg', 'dpic $0 | $1', 'fg', 'dpic $0 | $1'): 38
+, ('fg', 'dpic $0 | $1', 'fg', 'dpic $0 | $1', 'fg'): 37
+, ('lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip'): 17
+
+scientist-37:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 43
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 43
+, ('pix $0', 'e', 'pix $0', 'e', 'pix $0'): 35
+
+scientist-7:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 2
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 2
+
+scientist-52:
+	 ('life', 'dbx $0', 'life', 'dbx $0', 'life'): 51
+, ('dbx $0', 'life', 'dbx $0', 'life', 'dbx $0'): 34
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 21
+
+scientist-9:
+	 ('lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip', 'lpq -Pip'): 49
+, ('tseq', 'e', 'tseq', 'e', 'tseq'): 34
+, ('ls', 'cat $0', 'ls', 'cat $0', 'ls'): 25
+
+scientist-36:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 49
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 36
+, ('grep $0 $1 $2', 'grep $0 $1 $2', 'grep $0 $1 $2', 'grep $0 $1 $2', 'grep $0 $1 $2'): 33
+
+scientist-31:
+	 ('mail', 'rm $0', 'clear', 'mail', 'clear'): 2
+
+scientist-38:
+	 ('pi $0', 'pi $0', 'pi $0', 'pi $0', 'pi $0'): 36
+, ('cc $0', 'cc $0', 'cc $0', 'cc $0', 'cc $0'): 30
+, ('cd $0', 'cd $0', 'cd $0', 'cd $0', 'cd $0'): 28
+
+scientist-8:
+	 ('spell $0', 'fred', 'spell $0', 'fred', 'spell $0'): 2
+, ('fred', 'spell $0', 'fred', 'spell $0', 'itroff -ms $0'): 2
+, ('look $0', 'look $0', 'look $0', 'more $0', 'look $0'): 2
+
+scientist-1:
+	 ('rlogin $0', 'rlogin $0', 'rlogin $0', 'rlogin $0', 'rlogin $0'): 6
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 5
+, ('warp.path', 'fg', 'warp.path', 'fg', 'warp.path'): 5
+
+scientist-6:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 7
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 7
+, ('itroff -me $0 $1', 'ls', 'e $0', 'itroff -me $0 $1', 'ls'): 2
+
+scientist-26:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 11
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 9
+, ('fg', 'cc $0', 'a.out', 'fg', 'cc $0'): 6
+
+scientist-19:
+	 ('ipq', 'ipq', 'ipq', 'ipq', 'ipq'): 43
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 32
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 18
+
+scientist-21:
+	 ('cd $0', 'cd $0', 'ls', 'cd $0', 'ls'): 14
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 12
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 12
+
+scientist-17:
+	 ('pix $0', 'emacs', 'pix $0', 'emacs', 'pix $0'): 6
+, ('emacs', 'pix $0', 'emacs', 'pix $0', 'emacs'): 5
+, ('pix -l $0 > $1', 'emacs $0', 'emacs $0', 'pix -l $0 > $1', 'emacs $0'): 4
+
+scientist-28:
+	 ('rasm $0', 'shell46 $0', 'e', 'rasm $0', 'shell46 $0'): 6
+, ('shell46 $0', 'e', 'rasm $0', 'shell46 $0', 'e'): 6
+, ('e', 'rasm $0', 'shell46 $0', 'e', 'rasm $0'): 6
+
+scientist-10:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 17
+, ('cd $0', 'ls', 'cd $0', 'ls', 'more $0'): 15
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 13
+
+scientist-44:
+	 ('fred $0', 'fred $0', 'fred $0', 'fred $0', 'fred $0'): 17
+, ('itroff $0 | $1 $2', 'itroff $0 | $1 $2', 'itroff $0 | $1 $2', 'itroff $0 | $1 $2', 'itroff $0 | $1 $2'): 13
+, ('cd $0', 'cd $0', 'cd $0', 'cd $0', 'cd $0'): 7
+
+scientist-43:
+	 ('tsim2', 'tsim2', 'tsim2', 'tsim2', 'tsim2'): 10
+, ('pi $0', 'fred', 'pi $0', 'fred', 'pi $0'): 9
+, ('pi $0', 'obj < $0', 'fred', 'pi $0', 'obj < $0'): 8
+
+scientist-11:
+	 
+scientist-16:
+	 ('cat > $0', 'cat > $0', 'cat > $0', 'cat > $0', 'cat > $0'): 16
+, ('cd $0', 'ls', 'cat > $0', 'cat > $0', 'cat > $0'): 2
+, ('ls', 'cat > $0', 'cat > $0', 'cat > $0', 'cat > $0'): 2
+
+scientist-29:
+	 ('average', 'average', 'average', 'average', 'average'): 400
+, ('average', 'average', 'average', 'average', 'basic'): 31
+, ('average', 'average', 'average', 'basic', 'average'): 29
+
+scientist-20:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 10
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 9
+, ('error_count $0', 'fg', 'error_count $0', 'fg', 'error_count $0'): 5
+
+scientist-27:
+	 ('cd', 'cd $0', 'fg', 'lpr -Pplsin $0', 'lpq'): 15
+, ('page $0', 'cd', 'cd $0', 'fg', 'lpr -Pplsin $0'): 11
+, ('cd $0', 'page $0', 'cd', 'cd $0', 'fg'): 10
+
+scientist-18:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 27
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 23
+, ('rm $0', 'hol', 'e', 'rm $0', 'hol'): 13
+
+scientist-42:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 29
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 23
+, ('cd $0', 'cd $0', 'ls', 'cd $0', 'ls'): 22
+
+scientist-45:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cp $0 $1'): 2
+, ('cd $0', 'cd $0', 'ls', 'cd $0', 'ls'): 2
+, ('cd $0', 'cd $0', 'ls', 'emacs $0', 'ls'): 2
+
+scientist-3:
+	 ('latex $0', 'e', 'latex $0', 'e', 'latex $0'): 10
+, ('e', 'latex $0', 'e', 'latex $0', 'e'): 10
+, ('cd', 'ls', 'cd $0', 'ls', 'e $0'): 3
+
+scientist-4:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 40
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 36
+, ('jobs', 'fg $0', 'jobs', 'fg $0', 'jobs'): 23
+
+scientist-51:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 11
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 6
+, ('cd', 'cd $0', 'ls', 'cd $0', 'ls'): 5
+
+scientist-34:
+	 ('e $0', 'e $0', 'e $0', 'e $0', 'e $0'): 54
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 18
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 17
+
+scientist-33:
+	 ('getim -a -f $0', 'getim -a -f $0', 'getim -a -f $0', 'getim -a -f $0', 'getim -a -f $0'): 33
+, ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 11
+, ('getim -a -f $0', 'getim -a -f $0', 'getim -a -f $0', 'getim -a -f $0', 'subim $0 < $1'): 2
+
+scientist-50:
+	 ('Null $0', 'Null $0', 'Null $0', 'Null $0', 'Null $0'): 48
+, ('cat $0', 'cat $0', 'cat $0', 'cat $0', 'cat $0'): 10
+, ('cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1'): 4
+
+scientist-5:
+	 ('cd $0', 'ls', 'e', 'apq', 'apr $0'): 2
+, ('cd $0', 'cd $0', 'e', 'apq', 'apr $0'): 2
+, ('e $0', 'll $0', 'dl $0', 'clear $0 $1', 'e $0'): 2
+
+scientist-2:
+	 ('e', 'rasm $0', 'shell', 'e', 'rasm $0'): 25
+, ('shell', 'e', 'rasm $0', 'shell', 'e'): 24
+, ('rasm $0', 'shell', 'e', 'rasm $0', 'shell'): 24
+
+scientist-32:
+	 ('mail', 'mail', 'mail', 'mail', 'mail'): 4
+, ('mail', 'mail $0', 'mail', 'mail', 'mail'): 2
+, ('mail', 'cd $0', 'ls', 'cd $0', 'ls'): 2
+
+scientist-35:
+	 ('e $0', 'e $0', 'e $0', 'e $0', 'e $0'): 16
+, ('cd $0', 'ls', 'cd $0', 'ls', 'more $0'): 4
+, ('ls', 'cd $0', 'ls', 'more $0', 'ls'): 4
+

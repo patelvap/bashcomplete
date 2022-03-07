@@ -1,0 +1,275 @@
+novice-32:
+	 ('ls', 'umacs $0', 'ls', 'umacs $0', 'ls'): 5
+, ('umacs $0', 'ls', 'umacs $0', 'ls', 'umacs $0'): 4
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 4
+
+novice-35:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 138
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 131
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 24
+
+novice-50:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 22
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 16
+, ('Null $0', 'Null $0', 'Null $0', 'Null $0', 'Null $0'): 7
+
+novice-34:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 43
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 41
+, ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 31
+
+novice-33:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 212
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 210
+, ('pdp60 $0', 'pdp60 $0', 'pdp60 $0', 'pdp60 $0', 'pdp60 $0'): 48
+
+novice-51:
+	 ('ls', 'fred $0', 'ls', 'rm $0', 'rm $0'): 5
+, ('fred $0', 'ls', 'rm $0', 'fred $0', 'ls'): 5
+, ('ls', 'fred $0', 'ls', 'fred $0', 'ls'): 4
+
+novice-3:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 62
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 51
+, ('umacs $0', 'pix -l $0', 'umacs $0', 'pix -l $0', 'umacs $0'): 30
+
+novice-4:
+	 ('pix $0', 'emacs', 'pix $0', 'emacs', 'pix $0'): 101
+, ('emacs', 'pix $0', 'emacs', 'pix $0', 'emacs'): 86
+, ('obj', 'obj', 'obj', 'obj', 'obj'): 27
+
+.emacs_204:
+	 
+novice-5:
+	 ('man $0', 'man $0', 'man $0', 'man $0', 'man $0'): 27
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 5
+, ('umacs $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 3
+
+novice-2:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 27
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 24
+, ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 23
+
+novice-42:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 115
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 115
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 18
+
+novice-45:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 32
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 31
+, ('umacs $0', 'pix -l $0', 'umacs $0', 'pix -l $0', 'umacs $0'): 10
+
+novice-20:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 12
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 11
+, ('pix $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 10
+
+novice-27:
+	 ('pix $0', 'u $0', 'pix $0', 'u $0', 'pix $0'): 62
+, ('u $0', 'pix $0', 'u $0', 'pix $0', 'u $0'): 60
+, ('u $0', 'pi -l $0', 'u $0', 'pi -l $0', 'u $0'): 34
+
+novice-18:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 171
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 147
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 37
+
+novice-11:
+	 ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 7
+
+novice-16:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 11
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 9
+, ('more $0', 'more $0', 'more $0', 'more $0', 'more $0'): 7
+
+novice-29:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 104
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 93
+, ('pix $0', 'pix $0', 'pix $0', 'pix $0', 'pix $0'): 48
+
+novice-44:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 220
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 217
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 29
+
+novice-43:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 86
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 79
+, ('umacs $0', 'pix $0', 'umacs $0', 'umacs $0', 'pix $0'): 23
+
+novice-17:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 56
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 55
+, ('pix $0', 'pix $0', 'pix $0', 'pix $0', 'pix $0'): 36
+
+novice-28:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 95
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 92
+, ('umacs $0', 'pix $0', 'cat $0', 'cat $0', 'umacs $0'): 17
+
+novice-10:
+	 ('u $0', 'p $0', 'u $0', 'p $0', 'u $0'): 116
+, ('p $0', 'u $0', 'p $0', 'u $0', 'p $0'): 111
+, ('p $0', 'u $0', 'p $0', 'u $0', 'u $0'): 16
+
+novice-26:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 98
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 98
+, ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 30
+
+novice-19:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 283
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 273
+, ('umacs $0', 'pix $0', 'pix $0', 'umacs $0', 'pix $0'): 42
+
+novice-21:
+	 ('pix $0', 'pix $0', 'pix $0', 'pix $0', 'pix $0'): 29
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 24
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 24
+
+novice-54:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 20
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 17
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 13
+
+novice-53:
+	 ('pix $0', 'emacs', 'pix $0', 'emacs', 'pix $0'): 54
+, ('emacs', 'pix $0', 'emacs', 'pix $0', 'emacs'): 52
+, ('emacs $0', 'emacs $0', 'emacs $0', 'emacs $0', 'emacs $0'): 12
+
+novice-38:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 37
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 31
+, ('umacs $0', 'script', 'more $0', 'umacs $0', 'script'): 7
+
+novice-36:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 216
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 212
+, ('pix $0', 'umacs $0', 'pix $0', 'pix $0', 'umacs $0'): 41
+
+novice-31:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 117
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 103
+, ('umacs $0', 'umacs $0', 'pix $0', 'umacs $0', 'umacs $0'): 97
+
+novice-52:
+	 ('pix $0', 'fred', 'pix $0', 'fred', 'pix $0'): 23
+, ('fred', 'pix $0', 'fred', 'pix $0', 'fred'): 16
+, ('pix $0', 'pix $0', 'pix $0', 'pix $0', 'pix $0'): 8
+
+novice-55:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 219
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 209
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 37
+
+novice-30:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 43
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 35
+, ('umacs $0', 'pix -l $0', 'umacs $0', 'pix -l $0', 'umacs $0'): 22
+
+novice-37:
+	 ('pix $0', 'emacs $0', 'pix $0', 'emacs $0', 'pix $0'): 54
+, ('emacs $0', 'pix $0', 'emacs $0', 'pix $0', 'emacs $0'): 49
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 36
+
+novice-39:
+	 ('pix $0', 'fred', 'pix $0', 'fred', 'pix $0'): 35
+, ('fred', 'pix $0', 'fred', 'pix $0', 'fred'): 30
+, ('fred', 'pi $0', 'fred', 'pi $0', 'fred'): 10
+
+novice-7:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 105
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 103
+, ('umacs $0', 'pix $0', 'pix $0', 'umacs $0', 'pix $0'): 12
+
+novice-9:
+	 ('obj', 'obj', 'obj', 'obj', 'obj'): 25
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 23
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 22
+
+novice-8:
+	 ('umacs $0', 'pi -l $0', 'umacs $0', 'pi -l $0', 'umacs $0'): 83
+, ('pi -l $0', 'umacs $0', 'pi -l $0', 'umacs $0', 'pi -l $0'): 78
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 72
+
+novice-1:
+	 ('x', 'fg', 'x', 'fg', 'x'): 106
+, ('fg', 'x', 'fg', 'x', 'fg'): 95
+, ('x', 'x', 'fg', 'x', 'fg'): 18
+
+novice-6:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 62
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 58
+, ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 17
+
+novice-24:
+	 ('pix $0', 'e', 'pix $0', 'e', 'pix $0'): 36
+, ('e', 'pix $0', 'e', 'pix $0', 'e'): 28
+, ('pix $0', 'emacs', 'pix $0', 'emacs', 'pix $0'): 13
+
+novice-23:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 172
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 133
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'pix $0'): 34
+
+novice-15:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 119
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 110
+, ('umacs $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 18
+
+novice-12:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 101
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 93
+, ('more $0', 'umacs $0', 'script -o $0', 'more $0', 'umacs $0'): 22
+
+novice-46:
+	 ('pix $0', 'emacs $0', 'pix $0', 'emacs $0', 'pix $0'): 35
+, ('emacs $0', 'pix $0', 'emacs $0', 'pix $0', 'emacs $0'): 30
+, ('pix $0', 'pix $0', 'pix $0', 'pix $0', 'pix $0'): 12
+
+novice-41:
+	 ('u $0', 'pix $0', 'u $0', 'pix $0', 'u $0'): 186
+, ('pix $0', 'u $0', 'pix $0', 'u $0', 'pix $0'): 169
+, ('u $0', 'pix -l $0', 'u $0', 'pix -l $0', 'u $0'): 34
+
+novice-48:
+	 ('pix $0', 'pix $0', 'pix $0', 'pix $0', 'pix $0'): 20
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 9
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 8
+
+novice-13:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 78
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 69
+, ('umacs $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 7
+
+novice-14:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 137
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 134
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 22
+
+novice-22:
+	 ('u', 'p', 'u', 'p', 'u'): 38
+, ('p', 'u', 'p', 'u', 'p'): 34
+, ('x', 'c', 'p', 'x', 'c'): 13
+
+novice-25:
+	 ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 40
+, ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 39
+, ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 37
+
+novice-49:
+	 ('pix $0', 'umacs $0', 'pix $0', 'umacs $0', 'pix $0'): 109
+, ('umacs $0', 'pix $0', 'umacs $0', 'pix $0', 'umacs $0'): 97
+, ('pix $0', 'umacs $0', 'pix $0', 'pix $0', 'umacs $0'): 28
+
+novice-40:
+	 ('u $0', 'p $0', 'u $0', 'p $0', 'u $0'): 135
+, ('p $0', 'u $0', 'p $0', 'u $0', 'p $0'): 128
+, ('u $0', 'p $0', 'c $0', 'u $0', 'p $0'): 20
+
+novice-47:
+	 ('px', 'px', 'px', 'px', 'px'): 62
+, ('fred $0', 'pi $0', 'px', 'fred $0', 'pi $0'): 36
+, ('pi $0', 'px', 'fred $0', 'pi $0', 'px'): 34
+

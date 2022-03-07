@@ -1,0 +1,179 @@
+experienced-20:
+	 ('ada -M $0 $1', 'fg', 'ada -M $0 $1', 'fg', 'ada -M $0 $1'): 59
+, ('cd $0', 'examples_vax', 'cd $0', 'fg', 'cd $0'): 57
+, ('fg', 'ada -M $0 $1', 'fg', 'ada -M $0 $1', 'fg'): 57
+
+experienced-27:
+	 ('lpr $0', 'lpr $0', 'lpr $0', 'lpr $0', 'lpr $0'): 65
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 13
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 10
+
+experienced-18:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 15
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 13
+, ('fred', 'ada -M $0 $1 -o $2', 'fred', 'ada -M $0 $1 -o $2', 'fred'): 12
+
+experienced-11:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 25
+, ('cd $0', 'examples_vax', 'cd $0', 'e', 'make'): 17
+, ('examples_vax', 'cd $0', 'e', 'make', 'cd $0'): 17
+
+experienced-16:
+	 ('make', 'make', 'make', 'make', 'make'): 48
+, ('examples_vax', 'examples_vax', 'examples_vax', 'examples_vax', 'examples_vax'): 22
+, ('emacs', 'make', 'cd $0', 'examples_vax', 'cd $0'): 11
+
+experienced-29:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 31
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 29
+, ('a.out', 'a.out', 'a.out', 'a.out', 'a.out'): 20
+
+experienced-17:
+	 ('go', 'go', 'go', 'go', 'go'): 21
+, ('make', 'make', 'make', 'make', 'make'): 20
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 16
+
+experienced-28:
+	 ('e $0', 'e $0', 'e $0', 'e $0', 'e $0'): 30
+, ('lisp', 'lisp', 'lisp', 'lisp', 'lisp'): 12
+, ('p $0', 'p $0', 'p $0', 'p $0', 'p $0'): 11
+
+experienced-10:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 5
+, ('graph', 'graph', 'graph', 'graph', 'graph'): 4
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 4
+
+experienced-26:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 21
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 21
+, ('emacs', 'ada $0', 'emacs', 'ada $0', 'emacs'): 14
+
+experienced-19:
+	 ('spitbol $0', 'spitbol $0', 'spitbol $0', 'spitbol $0', 'spitbol $0'): 12
+, ('a.out', 'a.out', 'a.out', 'a.out', 'a.out'): 11
+, ('run', 'run', 'run', 'run', 'run'): 7
+
+experienced-21:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 40
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 32
+, ('cd $0', 'ls', 'cd $0', 'ls', 'more $0'): 12
+
+experienced-5:
+	 ('jobs', 'jobs', 'jobs', 'jobs', 'jobs'): 152
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 15
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 15
+
+experienced-32:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 10
+, ('fg', 'lisp', 'fg', 'lisp', 'fg'): 9
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 8
+
+experienced-35:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 25
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 17
+, ('cat $0', 'cat $0', 'a.out', 'cat $0', 'cat $0'): 10
+
+experienced-2:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 3
+, ('more $0', 'more $0', 'more $0', 'more $0', 'more $0'): 3
+, ('pi $0', 'emacs', 'pi $0', 'emacs', 'pi $0'): 3
+
+experienced-3:
+	 ('more $0', 'more $0', 'more $0', 'more $0', 'more $0'): 11
+, ('echo > $0', 'echo > $0', 'echo > $0', 'echo > $0', 'echo > $0'): 8
+, ('e', 'spitbol $0', 'e', 'spitbol $0', 'e'): 5
+
+experienced-34:
+	 ('examples_vax', 'fg', 'examples_vax', 'fg', 'examples_vax'): 32
+, ('fg', 'examples_vax', 'fg', 'examples_vax', 'fg'): 29
+, ('umacs $0', 'pix $0', 'cat $0', 'umacs $0', 'pix $0'): 7
+
+experienced-33:
+	 ('e', 'ada -M $0', 'e', 'ada -M $0', 'e'): 10
+, ('ada -M $0', 'e', 'ada -M $0', 'e', 'ada -M $0'): 10
+, ('his', 'nroff $0 | $1 | $2', 'e', 'nroff $0 | $1 | $2', 'nroff $0 | $1 | $2'): 4
+
+experienced-4:
+	 ('e', 'make', 'e', 'make', 'e'): 44
+, ('make', 'e', 'make', 'e', 'make'): 43
+, ('e', 'make', 'e', 'make', 'cd $0'): 25
+
+experienced-24:
+	 ('fg', 'r', 'fg', 'r', 'fg'): 10
+, ('fg', 'e', 'fg', 'e', 'fg'): 8
+, ('r', 'fg', 'r', 'fg', 'r'): 8
+
+experienced-23:
+	 ('e', 'make', '-', 'examples_vax', 'cd $0'): 36
+, ('cd $0', 'e', 'make', '-', 'examples_vax'): 35
+, ('make', '-', 'examples_vax', 'cd $0', 'e'): 32
+
+experienced-15:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 17
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 13
+, ('cd $0', 'ls', 'cd $0', 'cd $0', 'ls'): 9
+
+experienced-12:
+	 ('ada -M $0', 'e', 'ada -M $0', 'e', 'ada -M $0'): 8
+, ('e', 'ada -M $0', 'e', 'ada -M $0', 'e'): 8
+, ('cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1'): 8
+
+experienced-13:
+	 ('emacs', 'ada $0', 'emacs', 'ada $0', 'emacs'): 10
+, ('ada $0', 'emacs', 'ada $0', 'emacs', 'ada $0'): 10
+, ('del $0', 'fg', 'part', 'fg', 'del $0'): 9
+
+experienced-14:
+	 ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 7
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 6
+, ('cd $0', 'ls', 'cd $0', 'cd $0', 'ls'): 4
+
+experienced-22:
+	 ('fg', 'spitbol $0', 'fg', 'spitbol $0', 'fg'): 36
+, ('spitbol $0', 'fg', 'spitbol $0', 'fg', 'spitbol $0'): 35
+, ('fg', 'ada $0', 'fg', 'ada $0', 'fg'): 20
+
+experienced-25:
+	 ('cat $0', 'cat $0', 'cat $0', 'cat $0', 'cat $0'): 70
+, ('fifo', 'fg', 'fifo', 'fg', 'fifo'): 23
+, ('fg', 'fifo', 'fg', 'fifo', 'fg'): 23
+
+experienced-8:
+	 ('fred $0', 'fred $0', 'fred $0', 'fred $0', 'fred $0'): 28
+, ('make', 'make', 'make', 'make', 'make'): 18
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 13
+
+experienced-1:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 33
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 30
+, ('fg', 'ada -M $0 -el | $1', 'fg', 'ada -M $0 -el | $1', 'fg'): 29
+
+experienced-36:
+	 ('j', 'j', 'j', 'j', 'j'): 22
+, ('fg', 'a5 < $0', 'fg', 'a5 < $0', 'fg'): 7
+, ('cd $0', '..', '..', 'cd $0', 'cd $0'): 6
+
+experienced-31:
+	 ('cd $0', 'bpq', 'rwho', 'bpq', 'bpr $0'): 2
+, ('pdp60 $0', 'pdp60 $0', 'pdp60 $0', 'pdp60 $0', 'pdp60 $0'): 2
+
+experienced-6:
+	 ('ls $0', 'ls $0', 'ls $0', 'ls $0', 'ls $0'): 15
+, ('fr', 'ccn $0', 'audit', 'fr', 'ccn $0'): 4
+, ('ccn $0', 'audit', 'fr', 'ccn $0', 'audit'): 4
+
+experienced-7:
+	 ('man $0', 'man $0', 'man $0', 'man $0', 'man $0'): 17
+, ('y', 'y', 'y', 'y', 'y'): 10
+, ('fg', 'manunix', 'fg', 'manunix', 'fg'): 10
+
+experienced-30:
+	 ('hab_run', 'hab_run', 'hab_run', 'hab_run', 'hab_run'): 13
+, ('cd $0', 'hab_run', 'cd $0', 'emacs', 'cd $0'): 12
+, ('cd $0', 'emacs', 'cd $0', 'hab_run', 'cd $0'): 10
+
+experienced-9:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 10
+, ('graph', 'graph', 'graph', 'graph', 'graph'): 8
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 6
+

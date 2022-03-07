@@ -129,24 +129,37 @@ class Parser:
         parsed_pipe_list = []
         parsed_pipe_sublist = []
         # change from foo b/c foo is used a lot
-        output_redirection = " > pipetemp"
-        input_redirection = " < pipetemp"
+        output_redirection = " > input_pipetemp"
+        input_redirection = " < output_pipetemp"
+        substr = '>'
         
         for command in parsed_list:
             split_command = command.split('|')
             
             for i in range(len(split_command)):
-                if i % 2 == 0:
+                if i == 0: 
                     parsed_pipe_sublist.append(split_command[i].strip() + output_redirection)
+                elif i + 1 == len(split_command):
+                    parsed_pipe_sublist.append(split_command[i].strip() + input_redirection)
                 else:
-                    substr = '>'
-
                     if substr in split_command[i]:
                         idx = split_command[i].index(substr)
-                        split_command[i] = split_command[i][:idx] + input_redirection + split_command[i][idx:]
+                        split_command[i] = split_command[i][:idx] + input_redirection + split_command[i][idx:] + output_redirection
                         parsed_pipe_sublist.append(split_command[i].strip())
                     else:
-                        parsed_pipe_sublist.append((split_command[i].strip() + input_redirection).strip())
+                        parsed_pipe_sublist.append((split_command[i].strip() + input_redirection + output_redirection).strip())
+
+                # if i % 2 == 0:
+                #     parsed_pipe_sublist.append(split_command[i].strip() + output_redirection)
+                # else:
+                
+
+                #     if substr in split_command[i]:
+                #         idx = split_command[i].index(substr)
+                #         split_command[i] = split_command[i][:idx] + input_redirection + split_command[i][idx:]
+                #         parsed_pipe_sublist.append(split_command[i].strip())
+                #     else:
+                #         parsed_pipe_sublist.append((split_command[i].strip() + input_redirection).strip())
 
             parsed_pipe_list.append(copy.deepcopy(parsed_pipe_sublist))
             parsed_pipe_sublist = []
@@ -282,15 +295,15 @@ when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Se
 
 DONE: first 5 first 4 first 3 first 2 then increment position
 
-if sequence only comes once then remove it
+Sort of Done: if sequence only comes once then remove it
 
-reduce size by certain amount -> accuracy tanks
+DONE: reduce size by certain amount
 
-maybe remove sequences that happen only once
+DONE: most common by session -> looks meh
+    maybe remove sequences that happen only once
+    see if things succeeded in same session
 
-see if things succeeded in same session
-
-how far command sequence occurs in same user and other users 
+DONE (have files): how far command sequence occurs in same user and other users 
     - map reduce command subsets by user and compare 
 
 DONE: check how often correct solution is in top 5 and top 15

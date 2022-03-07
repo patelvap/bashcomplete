@@ -1,0 +1,117 @@
+non-3:
+	 ('latex $0', 'ps $0', 'kill -9 $0', 'emacs $0', 'latex $0'): 15
+, ('emacs $0', 'latex $0', 'ps $0', 'kill -9 $0', 'emacs $0'): 11
+, ('ps $0', 'kill -9 $0', 'emacs $0', 'latex $0', 'ps $0'): 10
+
+non-4:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 51
+, ('ls', 'cd', 'ls', 'cd $0', 'ls'): 35
+, ('cd $0', 'ls', 'cd $0', 'ls', 'e $0'): 30
+
+non-5:
+	 ('rm $0', 'ls', 'emacs $0', 'ls', 'emacs $0'): 2
+, ('ls', 'emacs $0', 'ls', 'emacs $0', 'emacs $0'): 2
+, ('emacs $0', 'nroff $0 $1 | $2 $3', 'emacs $0', 'nroff $0 $1 | $2 $3', 'emacs $0'): 2
+
+non-2:
+	 ('emacs $0', 'spell $0', 'emacs $0', 'spell $0', 'emacs $0'): 3
+, ('emacs $0', 'ls', 'emacs $0', 'nroff $0 $1 | $2', 'emacs $0'): 2
+, ('ls', 'emacs $0', 'nroff $0 $1 | $2', 'emacs $0', 'emacs $0'): 2
+
+non-18:
+	 ('emacs $0', 'emacs $0', 'emacs $0', 'emacs $0', 'emacs $0'): 23
+, ('emacs $0', 'ls', 'emacs $0', 'ls', 'emacs $0'): 9
+, ('ls', 'emacs $0', 'ls', 'emacs $0', 'ls'): 7
+
+non-20:
+	 ('fortune -o', 'fortune -o', 'fortune -o', 'fortune -o', 'fortune -o'): 58
+, ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 29
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 18
+
+non-16:
+	 ('emacs', 'refer -p $0 -s -S $1 $2 | $3 | $4 -ms | $5 > $6 $7', 'more $0', 'emacs', 'refer -p $0 -s -S $1 $2 | $3 | $4 -ms | $5 > $6 $7'): 25
+, ('refer -p $0 -s -S $1 $2 | $3 | $4 -ms | $5 > $6 $7', 'more $0', 'emacs', 'refer -p $0 -s -S $1 $2 | $3 | $4 -ms | $5 > $6 $7', 'more $0'): 24
+, ('more $0', 'emacs', 'refer -p $0 -s -S $1 $2 | $3 | $4 -ms | $5 > $6 $7', 'more $0', 'emacs'): 23
+
+non-11:
+	 ('ed $0', 'ed $0', 'ed $0', 'ed $0', 'ed $0'): 52
+, ('cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1'): 28
+, ('ls', 'cd $0', 'ls', 'ed $0', 'ls'): 4
+
+non-10:
+	 ('ls', 'cd $0', 'ls', 'cd $0', 'ls'): 5
+, ('cd $0', 'ls', 'cd $0', 'ls', 'cd $0'): 3
+, ('cd $0', 'pwd', 'mkdir $0', 'cd $0', 'tar $0 > $1'): 2
+
+non-17:
+	 ('emacs $0', 'emacs $0', 'emacs $0', 'emacs $0', 'emacs $0'): 33
+, ('emacs $0', 'ls', 'emacs $0', 'ls', 'emacs $0'): 12
+, ('ls', 'emacs $0', 'ls', 'emacs $0', 'ls'): 10
+
+non-21:
+	 ('emacs', 'nroff $0 $1 | $2', 'emacs', 'nroff $0 $1 | $2', 'emacs'): 4
+, ('nroff $0 $1 | $2', 'emacs', 'nroff $0 $1 | $2', 'emacs', 'nroff $0 $1 | $2'): 3
+
+non-19:
+	 
+non-9:
+	 ('emacs $0', 'ptroff -me -Palw2 $0', 'emacs $0', 'ptroff -me -Palw2 $0', 'emacs $0'): 10
+, ('ptroff -me -Palw2 $0', 'emacs $0', 'ptroff -me -Palw2 $0', 'emacs $0', 'ptroff -me -Palw2 $0'): 8
+, ('enscript -Palw2 -B $0', 'emacs $0', 'ptroff -me -Palw2 $0', 'emacs $0', 'ptroff -me -Palw2 $0'): 2
+
+non-7:
+	 ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 43
+, ('ls', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 7
+, ('e $0', 'lpq -Palw2', 'ptroff $0', 'lpq -Palw2', 'e'): 5
+
+non-1:
+	 ('trek', 'trek', 'trek', 'trek', 'trek'): 25
+, ('mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1'): 22
+, ('cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1'): 21
+
+non-6:
+	 ('cd $0', 'cribbage', 'cd', 'ls', 'emacs $0'): 2
+
+non-8:
+	 ('cd $0', 'ls', 'ls $0', 'cd $0', 'ls'): 2
+
+non-23:
+	 ('ls', 'ee $0', 'ls', 'ee $0', 'ls'): 21
+, ('ee $0', 'ls', 'ee $0', 'ls', 'ee $0'): 20
+, ('lpr -Pci $0', 'lpr -Pci $0', 'lpr -Pci $0', 'lpr -Pci $0', 'lpr -Pci $0'): 20
+
+non-24:
+	 ('emacs $0', 'emacs $0', 'emacs $0', 'emacs $0', 'emacs $0'): 16
+, ('mv $0 $1', 'ls', 'mv $0 $1', 'mv $0 $1', 'mv $0 $1'): 4
+, ('emacs $0', 'emacs $0', 'emacs $0', 'nroff $0 $1 | $2 -Pci $3', 'emacs $0'): 3
+
+non-12:
+	 ('emacs $0', 'nroff $0 $1 | $2', 'emacs $0', 'nroff $0 $1 | $2', 'emacs $0'): 2
+, ('nroff $0 $1 | $2', 'emacs $0', 'nroff $0 $1 | $2', 'emacs $0', 'nroff $0 $1 | $2'): 2
+, ('nroff $0 $1 | $2 $3', 'hpq', 'emacs $0', 'nroff $0 $1 | $2 $3', 'emacs $0'): 2
+
+non-15:
+	 ('emacs $0', 'nroff $0 $1 | $2', 'emacs $0', 'nroff $0 $1 | $2', 'emacs $0'): 13
+, ('emacs $0', 'spell $0', 'emacs $0', 'spell $0', 'emacs $0'): 11
+, ('emacs $0', 'emacs $0', 'nroff $0 $1 | $2', 'emacs $0', 'nroff $0 $1 | $2'): 11
+
+non-14:
+	 ('dbi $0 $1', 'emacs $0', 'dbi $0 $1', 'emacs $0', 'dbi $0 $1'): 15
+, ('emacs $0', 'dbi $0 $1', 'emacs $0', 'dbi $0 $1', 'emacs $0'): 14
+, ('emacs $0', 'dbi $0 $1', 'emacs $0', 'dbi $0 $1', 'dbi $0 $1'): 3
+
+non-13:
+	 ('emacs $0', 'emacs $0', 'emacs $0', 'emacs $0', 'emacs $0'): 64
+, ('cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1', 'cp $0 $1'): 18
+, ('ls', 'emacs $0', 'emacs $0', 'emacs $0', 'emacs $0'): 6
+
+non-25:
+	 ('rm $0', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 21
+, ('ls', 'rm $0', 'rm $0', 'rm $0', 'rm $0'): 3
+, ('mail', 'mail $0', 'who', 'mail $0', 'who'): 2
+
+non-22:
+	 ('cd $0', 'ls', 'cp $0 $1', 'emacs $0', 'nroff $0 $1 | $2'): 13
+, ('ps', 'ps', 'ps', 'ps', 'ps'): 13
+, ('nroff $0 $1 | $2', 'emacs', 'history', 'nroff $0 $1 | $2', 'emacs'): 12
+
