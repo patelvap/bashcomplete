@@ -114,7 +114,7 @@ class Parser:
         parsed_subsets = []
 
         for session in parsed_list:
-            for i in range(2, subset_size + 1):
+            for i in range(3, subset_size + 1):
                 parsed_subsets.append(self.parse_commands_into_subsets(session, i))
 
         return parsed_subsets
@@ -284,7 +284,7 @@ DONE: first 5 first 4 first 3 first 2 then increment position
 
 if sequence only comes once then remove it
 
-reduce size by certain amount 
+reduce size by certain amount -> accuracy tanks
 
 maybe remove sequences that happen only once
 
