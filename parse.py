@@ -172,8 +172,10 @@ class Parser:
         parsed_list = list(filter(filter_escaped, parsed_list))
 
         parsed_list_replaced = []
+
         arg_replacements = ["$" + str(i) for i in range(100)]
         arg_counter = 0
+        arg_dict = {}
 
         exclude_chars = set(['|', '<', '>'])
 
@@ -184,10 +186,19 @@ class Parser:
 
             for i in range(1, len(command_split)):
                 if not command_split[i].startswith("-") and command_split[i] not in exclude_chars:
-                    command_split[i] = arg_replacements[arg_counter]
-                    arg_counter += 1
+                    command_split_by_extension = command_split[i].split(".")
+
+                    if arg_dict.get(command_split_by_extension[0]) is None:
+                        arg_dict[command_split_by_extension[0]] = arg_replacements[arg_counter]
+                        command_split_by_extension[0] = arg_replacements[arg_counter]
+                        arg_counter += 1
+                    else:
+                        command_split_by_extension[0] = arg_dict[command_split_by_extension[0]]
+                    
+                    command_split[i] = ''.join(command_split_by_extension)
             
             parsed_list_replaced.append(' '.join(command_split))
+
 
         return parsed_list_replaced
 
@@ -205,6 +216,8 @@ class Parser:
         parsed_list_replaced = []
         arg_replacements = ["$" + str(i) for i in range(100)]
 
+        arg_dict = {}
+
         for command in range(len(parsed_list)):
             if parsed_list[command].endswith("&"):
                 parsed_list[command] = parsed_list[command][:-1]
@@ -219,11 +232,17 @@ class Parser:
 
                 elif not command_split[i].startswith("-") and not command_split[i-1] == '|' and not command_split[i] == '&':
                     #replace only file name, not file extension
-                    command_split_by_extension = command_split[i].split(".")
-                    command_split_by_extension[0] = arg_replacements[arg_counter]
-                    command_split[i] = ''.join(command_split_by_extension)
 
-                    arg_counter += 1
+                    command_split_by_extension = command_split[i].split(".")
+
+                    if arg_dict.get(command_split_by_extension[0]) is None:
+                        command_split_by_extension[0] = arg_replacements[arg_counter]
+                        arg_dict[command_split_by_extension[0]] = arg_replacements[arg_counter]
+                        arg_counter += 1
+                    else:
+                        command_split_by_extension[0] = arg_dict[command_split_by_extension[0]]
+                    
+                    command_split[i] = ''.join(command_split_by_extension)
 
                 if command_split[i-1] == '|':
                     arg_counter = 0
@@ -240,32 +259,59 @@ class Parser:
 
         return parsed_list_replaced
 
+"""
+3/7
+
+DONE:
+If same file name appears multiple places -> give same $arg
+    - map arg to $arg in dict  
+
+Use all command chains from command 1..n and use all those chains to predict
+    - Like VisComplete where you can predict entire command chain from first command
+    - Think of programmer that doesn't want to type too much and uses predictions mainly
+
+Print out graph of one node e.g. `cd` to save to see graph
+
+Print out tree traversed when giving prediction and frequencies -> maybe return top n frequencies
+    - ['cd $0' -> freq, 'cd $0' -> freq, 'examples_vax -> freq....]
+    - idea how often things repeat to understand user behavior
+
+Figure out how to deal with repetitions
+
+Leave one out/Colearning method
+    - Using 29/30 people's commands to predict 30/30 person's command
+
+Probably won't do unless time -> results + ppt first
+    - Refactor accuracy into .py file and do colearning on different .ipynb
+
+992 Paper:
+    - Focus paper on this
+    - Get stable results out and create PowerPoint with new results and updated algorithm
+    - Write down algorithm
+"""
 
 """
-look for $1s and $2s that span commands
+3/3
 
-get accuracy with fuzzy match with 90% + 
-get rid of '&' in output with pipes
-match within top 5 -> get prediction returns 5 commands
+DONE: first 5 first 4 first 3 first 2 then increment position
 
-change pipetemp to $arg
-"""
+Sort of Done: if sequence only comes once then remove it
 
-"""
-2/21
+DONE: reduce size by certain amount
 
-print out when not matching
-be able to look up graph -> for pipes -> and trace through not matching
+DONE: most common by session -> looks meh
+    maybe remove sequences that happen only once
+    see if things succeeded in same session
 
-create example of things working and not working
+DONE (have files): how far command sequence occurs in same user and other users 
+    - map reduce command subsets by user and compare 
 
-for pipes want to know fraction of time did not have prediction
-find and example null predictions
+DONE: check how often correct solution is in top 5 and top 15
+    - example of something matching not in top 5 but in top 15
 
-exhaustive algorithm for all combinations 
-graph statistics with distributions of counts with command chains
+DONE: print out first ~100 correct predictions to see how generous predictions are
 
-colearning, predicting one person's commands, using one person to predict another person
+figure out what got repeated each time to see what's correct or not
 """
 
 """
@@ -291,25 +337,28 @@ when did have a prediction, what accuracy was - https://en.wikipedia.org/wiki/Se
 """
 
 """
-3/3
+2/21
 
-DONE: first 5 first 4 first 3 first 2 then increment position
+print out when not matching
+be able to look up graph -> for pipes -> and trace through not matching
 
-Sort of Done: if sequence only comes once then remove it
+create example of things working and not working
 
-DONE: reduce size by certain amount
+for pipes want to know fraction of time did not have prediction
+find and example null predictions
 
-DONE: most common by session -> looks meh
-    maybe remove sequences that happen only once
-    see if things succeeded in same session
+exhaustive algorithm for all combinations 
+graph statistics with distributions of counts with command chains
 
-DONE (have files): how far command sequence occurs in same user and other users 
-    - map reduce command subsets by user and compare 
+colearning, predicting one person's commands, using one person to predict another person
+"""
 
-DONE: check how often correct solution is in top 5 and top 15
-    - example of something matching not in top 5 but in top 15
+"""
+look for $1s and $2s that span commands
 
-DONE: print out first ~100 correct predictions to see how generous predictions are
+get accuracy with fuzzy match with 90% + 
+get rid of '&' in output with pipes
+match within top 5 -> get prediction returns 5 commands
 
-figure out what got repeated each time to see what's correct or not
+change pipetemp to $arg
 """
