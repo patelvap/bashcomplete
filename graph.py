@@ -49,7 +49,7 @@ class Node:
 
             #set ratio to 1 incase no match; intent of fuzzy ratio is to match with args
             if fuzzy_score == 0:
-                fuzzy_score = 2
+                fuzzy_score = 1
 
             cur_score = fuzzy_score * potential_command[1]
 

@@ -149,18 +149,6 @@ class Parser:
                     else:
                         parsed_pipe_sublist.append((split_command[i].strip() + input_redirection + output_redirection).strip())
 
-                # if i % 2 == 0:
-                #     parsed_pipe_sublist.append(split_command[i].strip() + output_redirection)
-                # else:
-                
-
-                #     if substr in split_command[i]:
-                #         idx = split_command[i].index(substr)
-                #         split_command[i] = split_command[i][:idx] + input_redirection + split_command[i][idx:]
-                #         parsed_pipe_sublist.append(split_command[i].strip())
-                #     else:
-                #         parsed_pipe_sublist.append((split_command[i].strip() + input_redirection).strip())
-
             parsed_pipe_list.append(copy.deepcopy(parsed_pipe_sublist))
             parsed_pipe_sublist = []
 
@@ -195,7 +183,7 @@ class Parser:
                     else:
                         command_split_by_extension[0] = arg_dict[command_split_by_extension[0]]
                     
-                    command_split[i] = ''.join(command_split_by_extension)
+                    command_split[i] = '.'.join(command_split_by_extension)
             
             parsed_list_replaced.append(' '.join(command_split))
 
@@ -259,6 +247,29 @@ class Parser:
 
         return parsed_list_replaced
 
+
+"""
+3/21
+
+Predict x+1 for 1..n rather than full command, so predict next command, not just fifth.
+
+Debug why high results, not just for colearning. Play around with fuzzy match score.
+
+Print out graph of one node e.g. `cd` to save to see graph
+
+Print out tree traversed when giving prediction and frequencies -> maybe return top n frequencies
+    - ['cd $0' -> freq, 'cd $0' -> freq, 'examples_vax -> freq....]
+    - idea how often things repeat to understand user behavior
+
+Leave one out/Colearning method
+    - Using 29/30 people's commands to predict 30/30 person's command
+
+992 Paper:
+    - Focus paper on this
+    - Get stable results out and create PowerPoint with new results and updated algorithm
+    - Write down algorithm
+"""
+
 """
 3/7
 
@@ -266,6 +277,7 @@ DONE:
 If same file name appears multiple places -> give same $arg
     - map arg to $arg in dict  
 
+Don't do anymore - time constraint
 Use all command chains from command 1..n and use all those chains to predict
     - Like VisComplete where you can predict entire command chain from first command
     - Think of programmer that doesn't want to type too much and uses predictions mainly
