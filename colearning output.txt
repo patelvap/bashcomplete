@@ -7,6 +7,7 @@ Scientist session:
  Incorrect Proportion: 42.88% |
  None Proportion: 0.65% |
  First Prediction: 35.97%
+
 Experienced session:
  Correct Proportion: 42.01% |
  Correct in 15 not 5: 53.63% |
@@ -14,6 +15,7 @@ Experienced session:
  Incorrect Proportion: 46.03% |
  None Proportion: 11.96% |
  First Prediction: 27.21%
+
 Non programmer session:
  Correct Proportion: 52.99% |
  Correct in 15 not 5: 65.25% |
@@ -21,6 +23,7 @@ Non programmer session:
  Incorrect Proportion: 46.22% |
  None Proportion: 0.79% |
  First Prediction: 28.23%
+ 
 Novice session:
  Correct Proportion: 55.93% |
  Correct in 15 not 5: 63.46% |
