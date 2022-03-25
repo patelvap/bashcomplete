@@ -247,6 +247,32 @@ class Parser:
 
         return parsed_list_replaced
 
+"""
+3/24
+
+adjust fuzzy threshold (lower weight) / play around with frequencies
+
+5th command after 4th should be 90% accurate -> Not possible, path in graph doesn't exist
+    look at examples of successes and failures
+    incorrect proportion very high, so maybe correct 
+        next command not frequent enough
+
+show successes and failures to describe low accuracy
+
+Do this first
+if chain of x or more commands the same then delete it 
+    or subsequence repeated
+
+need examples of non repeated command examples in paper
+
+print out frequencies when traversing down graph, look at average frequency 
+    going down graph
+
+look at why 2 from 1 is ~80% correct in 15 not 5 but ~67 in 5
+
+get data on printing top 3 results
+    intuitively doing sequence once, predicting is hard since infrequent
+"""
 
 """
 3/21

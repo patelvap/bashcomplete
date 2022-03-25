@@ -51,7 +51,8 @@ class Node:
             if fuzzy_score == 0:
                 fuzzy_score = 1
 
-            cur_score = fuzzy_score * potential_command[1]
+            cur_score = int((.5 * fuzzy_score) * potential_command[1])
+            # cur_score = potential_command[1]
 
             potential_commands_scored[potential_command[0]] = cur_score
 
@@ -59,6 +60,5 @@ class Node:
             if (cur_score > highest_score):
                 return_command = potential_command[0]
                 highest_score = cur_score
-            
 
         return sorted(potential_commands_scored.items(), key=lambda item : item[1], reverse=True)[:num_to_return]
