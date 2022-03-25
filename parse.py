@@ -114,8 +114,14 @@ class Parser:
         parsed_subsets = []
 
         for session in parsed_list:
-            for i in range(3, subset_size + 1):
-                parsed_subsets.append(self.parse_commands_into_subsets(session, i))
+            for i in range(2, subset_size + 1):
+                subset = self.parse_commands_into_subsets(session, i)
+
+                # remove subsets where command is all the same for subsets len 3 and up
+                if i > 3 and all(cmd == subset[0] for cmd in subset):
+                    continue
+
+                parsed_subsets.append(subset)
 
         return parsed_subsets
 
