@@ -256,8 +256,10 @@ class Parser:
 """
 3/24
 
+eh
 adjust fuzzy threshold (lower weight) / play around with frequencies
 
+not possible
 5th command after 4th should be 90% accurate -> Not possible, path in graph doesn't exist
     look at examples of successes and failures
     incorrect proportion very high, so maybe correct 
@@ -265,17 +267,24 @@ adjust fuzzy threshold (lower weight) / play around with frequencies
 
 show successes and failures to describe low accuracy
 
+done
 Do this first
 if chain of x or more commands the same then delete it 
     or subsequence repeated
 
+just have to look for it
 need examples of non repeated command examples in paper
 
+done
 print out frequencies when traversing down graph, look at average frequency 
     going down graph
 
+done
+mean freq on success and failure
+
 look at why 2 from 1 is ~80% correct in 15 not 5 but ~67 in 5
 
+done
 get data on printing top 3 results
     intuitively doing sequence once, predicting is hard since infrequent
 """
