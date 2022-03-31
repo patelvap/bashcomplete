@@ -117,10 +117,6 @@ class Parser:
             for i in range(2, subset_size + 1):
                 subset = self.parse_commands_into_subsets(session, i)
 
-                # remove subsets where command is all the same for subsets len 3 and up
-                if i > 3 and all(cmd == subset[0] for cmd in subset):
-                    continue
-
                 parsed_subsets.append(subset)
 
         return parsed_subsets
@@ -252,6 +248,33 @@ class Parser:
             parsed_list_replaced.append(self.replace_args(parsed_list, pipes=True))
 
         return parsed_list_replaced
+
+"""
+3/28
+
+e.g. finding ls;ls;ls but also cd;ls;cd;ls
+    find repeated subsequences and figure out a way to mark them; get data on repeated subsequences
+    need to do some sort of scanning from parse_commands_by_session
+
+normalize success and fail frequencies on number of commands in dataset
+    divide frequencies by number of commands
+    save distributions of fail and success frequencies to graph them -> histogram
+
+if repeated subsequence in command e.g. cd; ls; cd; ls
+    ignore subsequence in constructing graph and just predict off of one subsequence
+    or increase count of upper nodes of subsequence (i.e. first commands)
+    
+    if same command in succession then just increment parent
+    if repeated subsequence increment parents
+
+    cd; ls; cd; ls; make -> cd; ls; make + adjust frequencies
+    cd; ls; cd; make -> cd; ls; cd; make
+    ls; cd; ls; cd; make -> ls; cd; make
+
+    ls; ls; ls -> ls: freq 3
+
+recollect old results with 5 command sequence 
+"""
 
 """
 3/24
