@@ -1,31 +1,43 @@
 Science pipes metrics:
- Correct Proportion: 83.86% |
- Correct in 15 not 5: 88.68% |
- Has Prediction and is Correct: 87.34% |
- Incorrect Proportion: 12.16% |
- None Proportion: 3.98% |
- First Prediction: 66.67% 
-
+ Correct Proportion: 84.50% |
+ Correct in 5 not 3: 87.34% |
+ Correct in 15 not 5: 92.36% |
+ Has Prediction and is Correct: 84.50% |
+ Incorrect Proportion: 14.95% |
+ None Proportion: 3.58% |
+ First Prediction: 66.95% |
+ Average Success Freq: 0.05 |
+ Average Fail Freq: 0.06 
+                                       
 Experienced pipes metrics:
- Correct Proportion: 91.32% |
- Correct in 15 not 5: 94.06% |
- Has Prediction and is Correct: 93.02% |
- Incorrect Proportion: 6.85% |
+ Correct Proportion: 86.98% |
+ Correct in 5 not 3: 93.02% |
+ Correct in 15 not 5: 95.81% |
+ Has Prediction and is Correct: 86.98% |
+ Incorrect Proportion: 12.79% |
  None Proportion: 1.83% |
- First Prediction: 74.43% 
-
+ First Prediction: 74.43% |
+ Average Success Freq: 0.15 |
+ Average Fail Freq: 0.14 
+                                                   
 Non programmers pipes metrics:
- Correct Proportion: 92.83% |
- Correct in 15 not 5: 95.93% |
- Has Prediction and is Correct: 93.37% |
- Incorrect Proportion: 6.59% |
- None Proportion: 0.58% |
- First Prediction: 76.74% 
-
+ Correct Proportion: 92.01% |
+ Correct in 5 not 3: 93.37% |
+ Correct in 15 not 5: 96.49% |
+ Has Prediction and is Correct: 92.01% |
+ Incorrect Proportion: 7.99% |
+ None Proportion: 0.00% |
+ First Prediction: 77.19% |
+ Average Success Freq: 0.24 |
+ Average Fail Freq: 0.15 
+                                      
 Novice pipes metrics:
- Correct Proportion: 88.64% |
- Correct in 15 not 5: 90.91% |
- Has Prediction and is Correct: 92.86% |
- Incorrect Proportion: 6.82% |
+ Correct Proportion: 90.48% |
+ Correct in 5 not 3: 92.86% |
+ Correct in 15 not 5: 95.24% |
+ Has Prediction and is Correct: 90.48% |
+ Incorrect Proportion: 9.09% |
  None Proportion: 4.55% |
- First Prediction: 52.27% 
+ First Prediction: 52.27% |
+ Average Success Freq: 2.82 |
+ Average Fail Freq: 1.77 
