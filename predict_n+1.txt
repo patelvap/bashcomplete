@@ -231,3 +231,14 @@ Novice session:
  First Prediction: 58.59% |
  Average Success Freq: 0.24 |
  Average Fail Freq: 0.33 
+
+All commands combined:
+ Correct Proportion: 75.43% |
+ Correct in 5 not 3: 79.99% |
+ Correct in 15 not 5: 87.50% |
+ Has Prediction and is Correct: 75.43% |
+ Incorrect Proportion: 24.46% |
+ None Proportion: 0.43% |
+ First Prediction: 59.16% |
+ Average Success Freq: 0.04 |
+ Average Fail Freq: 0.05
