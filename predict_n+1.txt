@@ -44,6 +44,17 @@ Novice session:
  Average Success Freq: 0.32 |
  Average Fail Freq: 0.43 
 
+All commands:
+ Correct Proportion: 64.79% |
+ Correct in 5 not 3: 70.59% |
+ Correct in 15 not 5: 83.04% |
+ Has Prediction and is Correct: 64.79% |
+ Incorrect Proportion: 35.21% |
+ None Proportion: 0.00% |
+ First Prediction: 45.76% |
+ Average Success Freq: 0.06 |
+ Average Fail Freq: 0.08 
+
 
 Accuracy predicting command 3 from commands 1 through 2:
                                                       
@@ -90,6 +101,17 @@ Novice session:
  First Prediction: 62.96% |
  Average Success Freq: 0.34 |
  Average Fail Freq: 0.45 
+
+All commands:
+ Correct Proportion: 77.39% |
+ Correct in 5 not 3: 83.20% |
+ Correct in 15 not 5: 91.93% |
+ Has Prediction and is Correct: 77.39% |
+ Incorrect Proportion: 22.61% |
+ None Proportion: 0.00% |
+ First Prediction: 59.48% |
+ Average Success Freq: 0.07 |
+ Average Fail Freq: 0.09 
 
 
 Accuracy predicting command 4 from commands 1 through 3:
@@ -138,6 +160,17 @@ Novice session:
  Average Success Freq: 0.34 |
  Average Fail Freq: 0.45 
 
+All commands:
+ Correct Proportion: 84.46% |
+ Correct in 5 not 3: 88.65% |
+ Correct in 15 not 5: 94.07% |
+ Has Prediction and is Correct: 84.46% |
+ Incorrect Proportion: 15.53% |
+ None Proportion: 0.03% |
+ First Prediction: 67.71% |
+ Average Success Freq: 0.07 |
+ Average Fail Freq: 0.09 
+
 
 Accuracy predicting command 5 from commands 1 through 4:
                                                         
@@ -184,6 +217,17 @@ Novice session:
  First Prediction: 54.41% |
  Average Success Freq: 0.34 |
  Average Fail Freq: 0.44 
+
+All commands:
+ Correct Proportion: 75.07% |
+ Correct in 5 not 3: 77.90% |
+ Correct in 15 not 5: 80.97% |
+ Has Prediction and is Correct: 75.07% |
+ Incorrect Proportion: 24.48% |
+ None Proportion: 1.81% |
+ First Prediction: 62.41% |
+ Average Success Freq: 0.07 |
+ Average Fail Freq: 0.09 
 
 
 Accuracy predicting command N from commands 1 through N-1:
