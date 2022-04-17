@@ -157,6 +157,11 @@ class Parser:
 
         return parsed_pipe_list
 
+    """
+    Ideally should be able to avoid relative paths ("../"),  sub programs
+    like `status` in `git status`, as well as programs after pipes if not done
+    already.
+    """
     def replace_args(self, parsed_list, pipes=False):
         filter_escaped = lambda x: (x and x.isprintable())
         parsed_list = list(filter(filter_escaped, parsed_list))
