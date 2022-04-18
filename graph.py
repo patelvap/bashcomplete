@@ -25,6 +25,7 @@ class Node:
     # fuzzy match with all of the command dicts in child nodes
     # weighing with frequency and ratio (multiplied)
     # cut off the program
+    # Use N-1th command to fuzzy match
     def get_prediction(self, previous_command, num_to_return = 5) -> str:
         
         child_nodes = list(self.children.values())
@@ -34,7 +35,11 @@ class Node:
         for i in range(len(child_nodes)): 
             command_dicts.update(child_nodes[i].commands)
 
-        potential_commands = sorted(command_dicts.items(), key=lambda item : item[1], reverse=True)
+        # no need to sort this here since already sorting at end
+        # comment this out later before commit
+        # potential_commands = sorted(command_dicts.items(), key=lambda item : item[1], reverse=True)
+        potential_commands = command_dicts.items()
+
         
         #fuzzy match now with command parameter
         #print(potential_commands)
