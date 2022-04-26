@@ -24,6 +24,7 @@ class Node:
     def get_prediction(self, previous_command, num_to_return = 5) -> str:
         
         child_nodes = list(self.children.values())
+        # don't need this sort
         child_nodes.sort(key = lambda node: node.frequency)
         # get all child_nodes commands into one dict to sort
         command_dicts = {}

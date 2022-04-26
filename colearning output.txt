@@ -4,7 +4,6 @@ Scientist session:
  Correct Proportion: 35.14% |
  Correct in 5 not 3: 40.94% |
  Correct in 15 not 5: 53.86% |
- Has Prediction and is Correct: 35.14% |
  Incorrect Proportion: 64.45% |
  None Proportion: 0.62% |
  First Prediction: 20.50% |
@@ -15,7 +14,6 @@ Experienced session:
  Correct Proportion: 28.65% |
  Correct in 5 not 3: 32.78% |
  Correct in 15 not 5: 43.98% |
- Has Prediction and is Correct: 28.65% |
  Incorrect Proportion: 62.79% |
  None Proportion: 12.00% |
  First Prediction: 14.16% |
@@ -26,7 +24,6 @@ Non programmer session:
  Correct Proportion: 22.79% |
  Correct in 5 not 3: 33.61% |
  Correct in 15 not 5: 51.57% |
- Has Prediction and is Correct: 22.79% |
  Incorrect Proportion: 76.62% |
  None Proportion: 0.76% |
  First Prediction: 15.62% |
@@ -37,7 +34,6 @@ Novice session:
  Correct Proportion: 40.66% |
  Correct in 5 not 3: 42.68% |
  Correct in 15 not 5: 44.14% |
- Has Prediction and is Correct: 40.66% |
  Incorrect Proportion: 57.72% |
  None Proportion: 2.74% |
  First Prediction: 6.33% |
@@ -48,7 +44,6 @@ All sessions:
  Correct Proportion: 31.04% |
  Correct in 5 not 3: 36.74% |
  Correct in 15 not 5: 47.47% |
- Has Prediction and is Correct: 31.04% |
  Incorrect Proportion: 65.08% |
  None Proportion: 5.63% |
  First Prediction: 13.90% |
@@ -62,7 +57,6 @@ Scientist session:
  Correct Proportion: 33.89% |
  Correct in 5 not 3: 40.11% |
  Correct in 15 not 5: 49.05% |
- Has Prediction and is Correct: 33.89% |
  Incorrect Proportion: 62.91% |
  None Proportion: 4.84% |
  First Prediction: 21.11% |
@@ -73,7 +67,6 @@ Experienced session:
  Correct Proportion: 29.04% |
  Correct in 5 not 3: 34.75% |
  Correct in 15 not 5: 42.06% |
- Has Prediction and is Correct: 29.04% |
  Incorrect Proportion: 48.55% |
  None Proportion: 31.58% |
  First Prediction: 13.17% |
@@ -84,7 +77,6 @@ Non programmer session:
  Correct Proportion: 25.75% |
  Correct in 5 not 3: 31.31% |
  Correct in 15 not 5: 44.46% |
- Has Prediction and is Correct: 25.75% |
  Incorrect Proportion: 69.41% |
  None Proportion: 6.52% |
  First Prediction: 12.22% |
@@ -95,7 +87,6 @@ Novice session:
  Correct Proportion: 32.58% |
  Correct in 5 not 3: 35.07% |
  Correct in 15 not 5: 41.51% |
- Has Prediction and is Correct: 32.58% |
  Incorrect Proportion: 54.00% |
  None Proportion: 19.90% |
  First Prediction: 13.73% |
@@ -106,7 +97,6 @@ All sessions:
  Correct Proportion: 30.04% |
  Correct in 5 not 3: 34.87% |
  Correct in 15 not 5: 43.87% |
- Has Prediction and is Correct: 30.04% |
  Incorrect Proportion: 56.50% |
  None Proportion: 19.23% |
  First Prediction: 14.36% |
@@ -120,7 +110,6 @@ Scientist session:
  Correct Proportion: 29.74% |
  Correct in 5 not 3: 36.14% |
  Correct in 15 not 5: 43.64% |
- Has Prediction and is Correct: 29.74% |
  Incorrect Proportion: 56.12% |
  None Proportion: 20.12% |
  First Prediction: 15.88% |
@@ -131,7 +120,6 @@ Experienced session:
  Correct Proportion: 31.31% |
  Correct in 5 not 3: 35.25% |
  Correct in 15 not 5: 40.29% |
- Has Prediction and is Correct: 31.31% |
  Incorrect Proportion: 29.87% |
  None Proportion: 56.52% |
  First Prediction: 8.23% |
@@ -142,7 +130,6 @@ Non programmer session:
  Correct Proportion: 25.66% |
  Correct in 5 not 3: 30.39% |
  Correct in 15 not 5: 40.18% |
- Has Prediction and is Correct: 25.66% |
  Incorrect Proportion: 57.64% |
  None Proportion: 22.47% |
  First Prediction: 9.62% |
@@ -153,7 +140,6 @@ Novice session:
  Correct Proportion: 25.27% |
  Correct in 5 not 3: 44.75% |
  Correct in 15 not 5: 47.16% |
- Has Prediction and is Correct: 25.27% |
  Incorrect Proportion: 33.17% |
  None Proportion: 55.61% |
  First Prediction: 8.69% |
@@ -164,7 +150,6 @@ All sessions:
  Correct Proportion: 28.26% |
  Correct in 5 not 3: 35.52% |
  Correct in 15 not 5: 42.19% |
- Has Prediction and is Correct: 28.26% |
  Incorrect Proportion: 40.75% |
  None Proportion: 43.19% |
  First Prediction: 9.76% |
@@ -178,7 +163,6 @@ Scientist session:
  Correct Proportion: 25.65% |
  Correct in 5 not 3: 32.30% |
  Correct in 15 not 5: 37.77% |
- Has Prediction and is Correct: 25.65% |
  Incorrect Proportion: 43.78% |
  None Proportion: 41.12% |
  First Prediction: 9.51% |
@@ -189,7 +173,6 @@ Experienced session:
  Correct Proportion: 30.93% |
  Correct in 5 not 3: 32.20% |
  Correct in 15 not 5: 36.02% |
- Has Prediction and is Correct: 30.93% |
  Incorrect Proportion: 17.52% |
  None Proportion: 74.64% |
  First Prediction: 5.96% |
@@ -200,7 +183,6 @@ Non programmer session:
  Correct Proportion: 26.52% |
  Correct in 5 not 3: 30.82% |
  Correct in 15 not 5: 34.23% |
- Has Prediction and is Correct: 26.52% |
  Incorrect Proportion: 42.58% |
  None Proportion: 42.06% |
  First Prediction: 7.48% |
@@ -211,7 +193,6 @@ Novice session:
  Correct Proportion: 16.73% |
  Correct in 5 not 3: 16.73% |
  Correct in 15 not 5: 19.77% |
- Has Prediction and is Correct: 16.73% |
  Incorrect Proportion: 21.77% |
  None Proportion: 73.86% |
  First Prediction: 3.88% |
@@ -222,7 +203,6 @@ All sessions:
  Correct Proportion: 25.90% |
  Correct in 5 not 3: 29.35% |
  Correct in 15 not 5: 33.37% |
- Has Prediction and is Correct: 25.90% |
  Incorrect Proportion: 27.94% |
  None Proportion: 62.29% |
  First Prediction: 6.36% |
@@ -236,7 +216,6 @@ Scientist session:
  Correct Proportion: 31.32% |
  Correct in 5 not 3: 37.54% |
  Correct in 15 not 5: 46.82% |
- Has Prediction and is Correct: 31.32% |
  Incorrect Proportion: 58.13% |
  None Proportion: 15.36% |
  First Prediction: 16.79% |
@@ -247,7 +226,6 @@ Experienced session:
  Correct Proportion: 29.35% |
  Correct in 5 not 3: 33.58% |
  Correct in 15 not 5: 41.66% |
- Has Prediction and is Correct: 29.35% |
  Incorrect Proportion: 40.41% |
  None Proportion: 42.81% |
  First Prediction: 10.70% |
@@ -258,7 +236,6 @@ Non programmer session:
  Correct Proportion: 25.09% |
  Correct in 5 not 3: 31.85% |
  Correct in 15 not 5: 44.85% |
- Has Prediction and is Correct: 25.09% |
  Incorrect Proportion: 62.80% |
  None Proportion: 16.16% |
  First Prediction: 11.82% |
@@ -269,7 +246,6 @@ Novice session:
  Correct Proportion: 32.98% |
  Correct in 5 not 3: 37.85% |
  Correct in 15 not 5: 46.96% |
- Has Prediction and is Correct: 32.98% |
  Incorrect Proportion: 42.44% |
  None Proportion: 36.67% |
  First Prediction: 8.16% |
@@ -280,7 +256,6 @@ All sessions:
  Correct Proportion: 29.37% |
  Correct in 5 not 3: 34.75% |
  Correct in 15 not 5: 44.64% |
- Has Prediction and is Correct: 29.37% |
  Incorrect Proportion: 48.69% |
  None Proportion: 31.06% |
  First Prediction: 11.38% |

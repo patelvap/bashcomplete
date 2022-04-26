@@ -2,7 +2,6 @@ Science pipes metrics:
  Correct Proportion: 40.17% |
  Correct in 5 not 3: 41.47% |
  Correct in 15 not 5: 51.62% |
- Has Prediction and is Correct: 40.17% |
  Incorrect Proportion: 58.32% |
  None Proportion: 2.53% |
  First Prediction: 30.74% |
@@ -13,7 +12,6 @@ Experienced pipes metrics:
  Correct Proportion: 23.26% |
  Correct in 5 not 3: 26.05% |
  Correct in 15 not 5: 53.49% |
- Has Prediction and is Correct: 23.26% |
  Incorrect Proportion: 75.34% |
  None Proportion: 1.83% |
  First Prediction: 18.26% |
@@ -24,7 +22,6 @@ Non programmers pipes metrics:
  Correct Proportion: 24.17% |
  Correct in 5 not 3: 25.54% |
  Correct in 15 not 5: 80.70% |
- Has Prediction and is Correct: 24.17% |
  Incorrect Proportion: 75.83% |
  None Proportion: 0.00% |
  First Prediction: 21.25% |
@@ -35,7 +32,6 @@ Novice pipes metrics:
  Correct Proportion: 25.58% |
  Correct in 5 not 3: 25.58% |
  Correct in 15 not 5: 25.58% |
- Has Prediction and is Correct: 25.58% |
  Incorrect Proportion: 72.73% |
  None Proportion: 2.27% |
  First Prediction: 0.00% |

@@ -1,0 +1,263 @@
+Accuracy predicting command 2 from commands 1 through 1:
+                                                    
+Scientist session:
+ Correct Proportion: 33.64% |
+ Correct in 5 not 3: 41.20% |
+ Correct in 15 not 5: 58.49% |
+ Incorrect Proportion: 66.14% |
+ None Proportion: 0.33% |
+ First Prediction: 19.48% |
+ Average Success Freq: 0.20 |
+ Average Fail Freq: 0.18
+                                                    
+Experienced session:
+ Correct Proportion: 37.54% |
+ Correct in 5 not 3: 46.13% |
+ Correct in 15 not 5: 62.18% |
+ Incorrect Proportion: 62.26% |
+ None Proportion: 0.33% |
+ First Prediction: 20.34% |
+ Average Success Freq: 0.35 |
+ Average Fail Freq: 0.32
+                                                    
+Non programmer session:
+ Correct Proportion: 41.00% |
+ Correct in 5 not 3: 47.60% |
+ Correct in 15 not 5: 63.93% |
+ Incorrect Proportion: 58.85% |
+ None Proportion: 0.26% |
+ First Prediction: 22.43% |
+ Average Success Freq: 1.12 |
+ Average Fail Freq: 1.04
+                                                    
+Novice session:
+ Correct Proportion: 59.63% |
+ Correct in 5 not 3: 67.78% |
+ Correct in 15 not 5: 79.82% |
+ Incorrect Proportion: 40.23% |
+ None Proportion: 0.36% |
+ First Prediction: 39.91% |
+ Average Success Freq: 0.40 |
+ Average Fail Freq: 0.35
+                                                    
+All commands:
+ Correct Proportion: 42.76% |
+ Correct in 5 not 3: 50.79% |
+ Correct in 15 not 5: 66.19% |
+ Incorrect Proportion: 57.15% |
+ None Proportion: 0.15% |
+ First Prediction: 25.33% |
+ Average Success Freq: 1.05 |
+ Average Fail Freq: 0.90
+
+
+Accuracy predicting command 3 from commands 1 through 2:
+                                                     
+Scientist session:
+ Correct Proportion: 46.93% |
+ Correct in 5 not 3: 54.08% |
+ Correct in 15 not 5: 68.66% |
+ Incorrect Proportion: 52.04% |
+ None Proportion: 1.94% |
+ First Prediction: 29.30% |
+ Average Success Freq: 0.26 |
+ Average Fail Freq: 0.23
+                                                     
+Experienced session:
+ Correct Proportion: 51.46% |
+ Correct in 5 not 3: 59.03% |
+ Correct in 15 not 5: 71.65% |
+ Incorrect Proportion: 47.34% |
+ None Proportion: 2.46% |
+ First Prediction: 31.18% |
+ Average Success Freq: 0.43 |
+ Average Fail Freq: 0.38
+                                                    
+Non programmer session:
+ Correct Proportion: 50.49% |
+ Correct in 5 not 3: 59.10% |
+ Correct in 15 not 5: 72.74% |
+ Incorrect Proportion: 48.98% |
+ None Proportion: 1.06% |
+ First Prediction: 30.70% |
+ Average Success Freq: 1.35 |
+ Average Fail Freq: 1.20
+                                                     
+Novice session:
+ Correct Proportion: 69.00% |
+ Correct in 5 not 3: 75.55% |
+ Correct in 15 not 5: 85.70% |
+ Incorrect Proportion: 30.57% |
+ None Proportion: 1.37% |
+ First Prediction: 47.04% |
+ Average Success Freq: 0.45 |
+ Average Fail Freq: 0.38
+                                                     
+All commands:
+ Correct Proportion: 58.81% |
+ Correct in 5 not 3: 67.27% |
+ Correct in 15 not 5: 81.19% |
+ Incorrect Proportion: 40.93% |
+ None Proportion: 0.63% |
+ First Prediction: 38.92% |
+ Average Success Freq: 1.14 |
+ Average Fail Freq: 0.98
+
+
+Accuracy predicting command 4 from commands 1 through 3:
+                                                      
+Scientist session:
+ Correct Proportion: 52.17% |
+ Correct in 5 not 3: 57.08% |
+ Correct in 15 not 5: 64.73% |
+ Incorrect Proportion: 42.30% |
+ None Proportion: 11.55% |
+ First Prediction: 34.00% |
+ Average Success Freq: 0.28 |
+ Average Fail Freq: 0.24
+                                                      
+Experienced session:
+ Correct Proportion: 54.22% |
+ Correct in 5 not 3: 59.90% |
+ Correct in 15 not 5: 66.99% |
+ Incorrect Proportion: 40.77% |
+ None Proportion: 10.94% |
+ First Prediction: 33.95% |
+ Average Success Freq: 0.46 |
+ Average Fail Freq: 0.40
+                                       
+Non programmer session:
+ Correct Proportion: 54.69% |
+ Correct in 5 not 3: 61.14% |
+ Correct in 15 not 5: 71.99% |
+ Incorrect Proportion: 42.16% |
+ None Proportion: 6.96% |
+ First Prediction: 31.51% |
+ Average Success Freq: 1.44 |
+ Average Fail Freq: 1.26
+                                                      
+Novice session:
+ Correct Proportion: 69.75% |
+ Correct in 5 not 3: 75.10% |
+ Correct in 15 not 5: 83.04% |
+ Incorrect Proportion: 28.61% |
+ None Proportion: 5.44% |
+ First Prediction: 33.84% |
+ Average Success Freq: 0.46 |
+ Average Fail Freq: 0.40
+                                       
+All commands:
+ Correct Proportion: 72.28% |
+ Correct in 5 not 3: 79.54% |
+ Correct in 15 not 5: 87.46% |
+ Incorrect Proportion: 27.01% |
+ None Proportion: 2.57% |
+ First Prediction: 50.80% |
+ Average Success Freq: 1.17 |
+ Average Fail Freq: 1.01
+
+
+Accuracy predicting command 5 from commands 1 through 4:
+                                        
+Scientist session:
+ Correct Proportion: 47.11% |
+ Correct in 5 not 3: 50.44% |
+ Correct in 15 not 5: 52.82% |
+ Incorrect Proportion: 35.73% |
+ None Proportion: 32.46% |
+ First Prediction: 25.98% |
+ Average Success Freq: 0.28 |
+ Average Fail Freq: 0.25
+                                        
+Experienced session:
+ Correct Proportion: 51.53% |
+ Correct in 5 not 3: 54.34% |
+ Correct in 15 not 5: 56.38% |
+ Incorrect Proportion: 33.57% |
+ None Proportion: 30.74% |
+ First Prediction: 29.77% |
+ Average Success Freq: 0.47 |
+ Average Fail Freq: 0.41
+                                       
+Non programmer session:
+ Correct Proportion: 48.53% |
+ Correct in 5 not 3: 54.04% |
+ Correct in 15 not 5: 58.46% |
+ Incorrect Proportion: 40.00% |
+ None Proportion: 22.29% |
+ First Prediction: 28.29% |
+ Average Success Freq: 1.47 |
+ Average Fail Freq: 1.28
+                                        
+Novice session:
+ Correct Proportion: 66.21% |
+ Correct in 5 not 3: 68.53% |
+ Correct in 15 not 5: 71.07% |
+ Incorrect Proportion: 28.47% |
+ None Proportion: 15.75% |
+ First Prediction: 43.86% |
+ Average Success Freq: 0.47 |
+ Average Fail Freq: 0.40
+                                       
+All commands:
+ Correct Proportion: 84.82% |
+ Correct in 5 not 3: 86.99% |
+ Correct in 15 not 5: 89.16% |
+ Incorrect Proportion: 14.06% |
+ None Proportion: 7.37% |
+ First Prediction: 66.52% |
+ Average Success Freq: 1.18 |
+ Average Fail Freq: 1.02
+
+
+Accuracy predicting command N from commands 1 through N-1:
+                                                     
+Scientist session:
+ Correct Proportion: 43.73% |
+ Correct in 5 not 3: 49.59% |
+ Correct in 15 not 5: 61.20% |
+ Incorrect Proportion: 50.10% |
+ None Proportion: 10.95% |
+ First Prediction: 26.18% |
+ Average Success Freq: 0.29 |
+ Average Fail Freq: 0.26
+                                                     
+Experienced session:
+ Correct Proportion: 47.99% |
+ Correct in 5 not 3: 54.70% |
+ Correct in 15 not 5: 64.64% |
+ Incorrect Proportion: 46.53% |
+ None Proportion: 10.53% |
+ First Prediction: 28.36% |
+ Average Success Freq: 0.50 |
+ Average Fail Freq: 0.45
+                                                     
+Non programmer session:
+ Correct Proportion: 48.32% |
+ Correct in 5 not 3: 55.38% |
+ Correct in 15 not 5: 66.83% |
+ Incorrect Proportion: 48.18% |
+ None Proportion: 6.77% |
+ First Prediction: 28.18% |
+ Average Success Freq: 1.56 |
+ Average Fail Freq: 1.42
+                                                     
+Novice session:
+ Correct Proportion: 65.33% |
+ Correct in 5 not 3: 70.84% |
+ Correct in 15 not 5: 79.60% |
+ Incorrect Proportion: 32.80% |
+ None Proportion: 5.38% |
+ First Prediction: 40.31% |
+ Average Success Freq: 0.52 |
+ Average Fail Freq: 0.46
+                                                     
+All commands:
+ Correct Proportion: 64.18% |
+ Correct in 5 not 3: 70.69% |
+ Correct in 15 not 5: 81.72% |
+ Incorrect Proportion: 34.83% |
+ None Proportion: 2.76% |
+ First Prediction: 45.61% |
+ Average Success Freq: 1.34 |
+ Average Fail Freq: 1.18
