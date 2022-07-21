@@ -40,6 +40,9 @@ class Parser:
         self.non_programmers_commands = self.parse_commands(self.non_programmers_files)
         self.novice_commands = self.parse_commands(self.novice_files)
 
+    """
+    Sessions are defined by start and end times in trace data
+    """
     def parse_commands_per_session(self, files_list):
         parsed_list = []
 
@@ -70,6 +73,9 @@ class Parser:
                 
         return parsed_list
 
+    """
+    parse commands as if they were one session
+    """
     def parse_commands(self, files_list):
         parsed_list = []
 
@@ -95,6 +101,9 @@ class Parser:
         
         return parsed_list
 
+    """
+    Parses commands into subsets of length specified
+    """
     def parse_commands_into_subsets(self, parsed_list, subset_size):
         filter_escaped = lambda x: (x and x.isprintable())
         parsed_list = list(filter(filter_escaped, parsed_list))
@@ -110,6 +119,9 @@ class Parser:
         
         return parsed_subsets
 
+    """
+    Parses commands into subsets of 2..length specified
+    """
     def parse_commands_into_subsets_sliding_window(self, parsed_list, subset_size):
         parsed_subsets = []
 
